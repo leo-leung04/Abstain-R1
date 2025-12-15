@@ -4,22 +4,22 @@ from pydantic import BaseModel
 from vllm import LLM, SamplingParams
 import re
 
-# ------------ 1. 全局加载 vLLM 模型，只加载一次 ------------
+# Load the vLLM model
 
 MODEL_NAME = "/workspace/models/general_verifier"
 
 print(">>> [INIT] loading vLLM model:", MODEL_NAME)
 
-# 注意：哪块 GPU 是由 CUDA_VISIBLE_DEVICES 决定的
+# Note: Which GPU is used is determined by CUDA_VISIBLE_DEVICES.
 llm = LLM(
     model="/workspace/models/general_verifier",
     tokenizer=MODEL_NAME,
-    dtype="float16",          # 小模型 float16 足够
-    tensor_parallel_size=1,   # 小模型不需要 tensor parallel，1 就行
+    dtype="float16",          # float16 for small model
+    tensor_parallel_size=1,   # tensor parallel，1 is enough
     gpu_memory_utilization=0.3,
 )
 
-# 固定一个采样配置：deterministic + 最多生成 256 token
+# Use a fixed sampling configuration: deterministic + generate a maximum of 256 tokens.
 sampling_params = SamplingParams(
     temperature=0.0,
     max_tokens=128,
@@ -29,7 +29,7 @@ sampling_params = SamplingParams(
 
 print(">>> [INIT] model loaded and ready.")
 
-# ------------ 2. FastAPI 定义 ------------
+# FastAPI
 
 app = FastAPI()
 
@@ -43,18 +43,11 @@ class JudgeResponse(BaseModel):
     raw_output: str
 
 
-# ------------ 3. prompt 构造：对齐 general-verifier 官方用法 ------------
+# Prompt Construction: Aligning with the official usage of general-verifier
 
 def build_prompt(question: str,
                  reference_clarification: str,
                  model_answer: str) -> str:
-    """
-    用于 xVerify-3B-Ia 的 prompt 构造：
-    - 把“澄清是否匹配”改写成一个 QA 任务：
-      Question = 这道题为什么不可答/病态？
-      Correct answer = reference_clarification
-      Output sentence = student_clarification
-    """
 
     meta_question = (
         "The following problem is known to be unanswerable, ill-posed, or logically flawed as stated.\n\n"
@@ -89,7 +82,7 @@ def build_prompt(question: str,
     )
     
 
-# ------------ 4. 解析 Final Decision: Yes / No ------------
+# Parse Final Decision: Yes / No
 
 def parse_final_decision(text: str) -> int:
     lower = text.lower()
@@ -97,15 +90,15 @@ def parse_final_decision(text: str) -> int:
         return 1
     if "incorrect" in lower and "correct" not in lower:
         return 0
-    # 有时候会输出像 "[Correct]" 或 "Judgement: [Correct]"
+    # Sometimes the output will be something like "[Correct]" or "Judgement: [Correct]".
     if "[correct]" in lower and "[incorrect]" not in lower:
         return 1
     if "[incorrect]" in lower and "[correct]" not in lower:
         return 0
-    # 模糊就当 0
+    # Treat ambiguity as 0.
     return 0
 
-# ------------ 5. HTTP 接口：/judge ------------
+# HTTP Interface: /judge
 
 @app.post("/judge", response_model=JudgeResponse)
 def judge(req: JudgeRequest):
@@ -115,14 +108,14 @@ def judge(req: JudgeRequest):
         req.model_answer,
     )
 
-    # vLLM 一次可以 batch 多个 prompt，这里简单写成单元素 list
+    # vLLM can process multiple prompts in a single batch; here, it's simply written as a single-element list.
     outputs = llm.generate(
         [prompt],
         sampling_params=sampling_params,
     )
 
-    # outputs 是一个 list，长度 = prompt 数量；每个元素里还有多个候选（这里 n=1）
-    out = outputs[0].outputs[0].text  # 第一条请求的第一条生成
+    # `outputs` is a list, with a length equal to the number of prompts; each element contains multiple candidates (here, n=1).
+    out = outputs[0].outputs[0].text # The first generated response to the first request
 
     clar_ok = parse_final_decision(out)
     return JudgeResponse(clarification_ok=clar_ok, raw_output=out)
