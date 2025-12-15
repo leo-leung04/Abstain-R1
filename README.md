@@ -17,10 +17,26 @@ cd Abstain-R1
 # Setup environment
 source setup.sh
 
-# Install verl
+conda create -n verl python=3.10 -y
+conda activate verl
+
+pip install vllm==0.8.2
+pip install tensordict==0.6.2
+pip install torch==2.6.0 torchaudio==2.6.0 torchvision==0.21.0
+pip install ray==2.44.0
+
+# flash-attn
+# Download from https://github.com/Dao-AILab/flash-attention/releases/tag/v2.6.3
+# ./flash_attn-2.6.3+cu123torch2.4cxx11abiFALSE-cp310-cp310-linux_x86_64.whl
+pip install ./flash_attn-2.6.3+cu123torch2.4cxx11abiFALSE-cp310-cp310-linux_x86_64.whl
+
+# verl
+rm -rf verl  # Before removing the verl directory, save the a copy of __init__.py and sum_reward.py under verl/verl/utils/reward_score
+git clone https://github.com/volcengine/verl.git verl
 cd verl
+git checkout v0.5.0
 pip install -e .
-cd ..
+# Move __init__.py and sum_reward.py back to verl/verl/utils/reward_score
 ```
 
 ## 📂 Project Structure
