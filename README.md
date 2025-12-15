@@ -31,7 +31,7 @@ pip install ray==2.44.0
 pip install ./flash_attn-2.6.3+cu123torch2.4cxx11abiFALSE-cp310-cp310-linux_x86_64.whl
 
 # verl
-rm -rf verl  # Before removing the verl directory, save the a copy of __init__.py and sum_reward.py under verl/verl/utils/reward_score
+rm -rf verl  # Before removing the verl directory, save a copy of __init__.py and sum_reward.py under verl/verl/utils/reward_score
 git clone https://github.com/volcengine/verl.git verl
 cd verl
 git checkout v0.5.0
