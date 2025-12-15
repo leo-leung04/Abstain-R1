@@ -1,0 +1,807 @@
+{
+  "known_unknown_questions": {
+    "answerable": [
+      {
+        "question": "The 337th Flight Test Squadron (337 FLTS) was most recently part of the 46th Test Wing and based at McClellan Air Force Base, a former United States Air Force base located in the North Highlands area of Sacramento County, in which US state?",
+        "reference_answers": [
+          "California"
+        ],
+        "should_abstain": false,
+        "metadata_json": "{\"KUQ_source\": \"hotpotqa\", \"KUQ_category\": null}"
+      },
+      {
+        "question": "Who is the former professional tennis player from Italy, Chris Evert or Mara Santangelo?",
+        "reference_answers": [
+          "Mara Santangelo"
+        ],
+        "should_abstain": false,
+        "metadata_json": "{\"KUQ_source\": \"hotpotqa\", \"KUQ_category\": null}"
+      },
+      {
+        "question": "What is the best known song of the artist who originally recorded the song \"A Thousand Times a Day\"?",
+        "reference_answers": [
+          "He Stopped Loving Her Today"
+        ],
+        "should_abstain": false,
+        "metadata_json": "{\"KUQ_source\": \"hotpotqa\", \"KUQ_category\": null}"
+      },
+      {
+        "question": "What is the busiest Amtrak route that does not stop at either Lortorn Station?",
+        "reference_answers": [
+          "The Northeast Regional"
+        ],
+        "should_abstain": false,
+        "metadata_json": "{\"KUQ_source\": \"hotpotqa\", \"KUQ_category\": null}"
+      },
+      {
+        "question": "What Republican previously served in the Minnesota House of Representatives and was elected in 2008 to the U.S. House of Representatives?",
+        "reference_answers": [
+          "Erik Paulsen"
+        ],
+        "should_abstain": false,
+        "metadata_json": "{\"KUQ_source\": \"hotpotqa\", \"KUQ_category\": null}"
+      },
+      {
+        "question": "What generic medication is a non-selective betablocker used to treat congestive heart failure?  ",
+        "reference_answers": [
+          "Carvedilol"
+        ],
+        "should_abstain": false,
+        "metadata_json": "{\"KUQ_source\": \"hotpotqa\", \"KUQ_category\": null}"
+      },
+      {
+        "question": "What award winning game designer and New York Times best selling author, designed \"En Garde!\"?",
+        "reference_answers": [
+          "Frank Chadwick"
+        ],
+        "should_abstain": false,
+        "metadata_json": "{\"KUQ_source\": \"hotpotqa\", \"KUQ_category\": null}"
+      },
+      {
+        "question": "What college that was chartered in 1829 did Chester C. Dillian coach at for one year from 1929-1930?",
+        "reference_answers": [
+          "Georgetown College"
+        ],
+        "should_abstain": false,
+        "metadata_json": "{\"KUQ_source\": \"hotpotqa\", \"KUQ_category\": null}"
+      },
+      {
+        "question": "What is the name of the sequel to the novel written by an Indian novelist and poet who has also written \"Mappings\" and \"Beastly Tales\"?",
+        "reference_answers": [
+          "A Suitable Girl"
+        ],
+        "should_abstain": false,
+        "metadata_json": "{\"KUQ_source\": \"hotpotqa\", \"KUQ_category\": null}"
+      },
+      {
+        "question": "Who did Luis Gianneo teach, who became considered a chief exponent of Argentine folk music?",
+        "reference_answers": [
+          "Ariel Ramírez"
+        ],
+        "should_abstain": false,
+        "metadata_json": "{\"KUQ_source\": \"hotpotqa\", \"KUQ_category\": null}"
+      },
+      {
+        "question": "Which Hall of Fame point guard was first selected for an NBA All-Star Game in 1994, alongside Shawn Kemp?",
+        "reference_answers": [
+          "Gary Payton"
+        ],
+        "should_abstain": false,
+        "metadata_json": "{\"KUQ_source\": \"hotpotqa\", \"KUQ_category\": null}"
+      },
+      {
+        "question": "Taxi Payant began airing on September 3, 2009 on V,, it airs in Québec instead of which titled American version of the series game show,  that aired new episodes on the Discovery Channel from 2005 to 2012?",
+        "reference_answers": [
+          "Cash Cab"
+        ],
+        "should_abstain": false,
+        "metadata_json": "{\"KUQ_source\": \"hotpotqa\", \"KUQ_category\": null}"
+      },
+      {
+        "question": "Who now owns the resort that reflects Mandalay Resort Group's former name?",
+        "reference_answers": [
+          "MGM Resorts International"
+        ],
+        "should_abstain": false,
+        "metadata_json": "{\"KUQ_source\": \"hotpotqa\", \"KUQ_category\": null}"
+      },
+      {
+        "question": "Who hosts UFC unleashed alongside an American actress, writer, and television personality?",
+        "reference_answers": [
+          "Kenny Florian"
+        ],
+        "should_abstain": false,
+        "metadata_json": "{\"KUQ_source\": \"hotpotqa\", \"KUQ_category\": null}"
+      },
+      {
+        "question": "ValuJet Flight 592 was operated by the company headquartered in what Georgia location?",
+        "reference_answers": [
+          "Clayton County"
+        ],
+        "should_abstain": false,
+        "metadata_json": "{\"KUQ_source\": \"hotpotqa\", \"KUQ_category\": null}"
+      },
+      {
+        "question": "The Cincinnati Reds record holder for most stolen bases by a rookie in a season is a native of which city ?",
+        "reference_answers": [
+          "Taylorsville"
+        ],
+        "should_abstain": false,
+        "metadata_json": "{\"KUQ_source\": \"hotpotqa\", \"KUQ_category\": null}"
+      },
+      {
+        "question": "When did the Basketball Tournament which  Kansas played its final in  1996–97 incept ",
+        "reference_answers": [
+          "1997"
+        ],
+        "should_abstain": false,
+        "metadata_json": "{\"KUQ_source\": \"hotpotqa\", \"KUQ_category\": null}"
+      },
+      {
+        "question": "In what town with a population less than 600 could one have found the attraction, World's Largest Farm Tractor, in 1998?",
+        "reference_answers": [
+          "Big Sandy, Montana"
+        ],
+        "should_abstain": false,
+        "metadata_json": "{\"KUQ_source\": \"hotpotqa\", \"KUQ_category\": null}"
+      },
+      {
+        "question": "Which political ideology was the premise of The National Action Party?",
+        "reference_answers": [
+          "Nationalism"
+        ],
+        "should_abstain": false,
+        "metadata_json": "{\"KUQ_source\": \"hotpotqa\", \"KUQ_category\": null}"
+      },
+      {
+        "question": "When was the Polish politician and former Vice-Minister of Foreign Affairs of Poland, who was a Doctor of Law, and who candidated from a right-wing populist, national-conservative, and Christian democratic political party in Poland, elected to the Sejm?",
+        "reference_answers": [
+          "September 25, 2005"
+        ],
+        "should_abstain": false,
+        "metadata_json": "{\"KUQ_source\": \"hotpotqa\", \"KUQ_category\": null}"
+      },
+      {
+        "question": "What organization did the author of \"Physics for Future Presidents\" found in 2010?",
+        "reference_answers": [
+          "Berkeley Earth"
+        ],
+        "should_abstain": false,
+        "metadata_json": "{\"KUQ_source\": \"hotpotqa\", \"KUQ_category\": null}"
+      },
+      {
+        "question": "Letters from a Porcupine was a documentary about a rock band formed where?",
+        "reference_answers": [
+          "Los Angeles, California"
+        ],
+        "should_abstain": false,
+        "metadata_json": "{\"KUQ_source\": \"hotpotqa\", \"KUQ_category\": null}"
+      },
+      {
+        "question": "What raid project will include five new underground stations under St Kilda Road?",
+        "reference_answers": [
+          "Melbourne Metro Rail Project"
+        ],
+        "should_abstain": false,
+        "metadata_json": "{\"KUQ_source\": \"hotpotqa\", \"KUQ_category\": null}"
+      },
+      {
+        "question": "Which planet in the \"Star Wars\" universe is home to the Wookies and was featured in the Star Wars Holiday Special of 1978?",
+        "reference_answers": [
+          "Kashyyyk"
+        ],
+        "should_abstain": false,
+        "metadata_json": "{\"KUQ_source\": \"hotpotqa\", \"KUQ_category\": null}"
+      },
+      {
+        "question": "808 peaked at number eight on what?",
+        "reference_answers": [
+          "Billboard\" Hot 100"
+        ],
+        "should_abstain": false,
+        "metadata_json": "{\"KUQ_source\": \"hotpotqa\", \"KUQ_category\": null}"
+      },
+      {
+        "question": "Which simian like creature from American folklore was featured in television series In Search of Aliens?",
+        "reference_answers": [
+          "Bigfoot"
+        ],
+        "should_abstain": false,
+        "metadata_json": "{\"KUQ_source\": \"hotpotqa\", \"KUQ_category\": null}"
+      },
+      {
+        "question": "Finding Dory features the voice of an actress from \"It's Always Sunny in Philadelphia\" who plays what character on that show?",
+        "reference_answers": [
+          "Deandra \"Sweet Dee\" Reynolds"
+        ],
+        "should_abstain": false,
+        "metadata_json": "{\"KUQ_source\": \"hotpotqa\", \"KUQ_category\": null}"
+      },
+      {
+        "question": "Michael Helliet Management represents the British heavyweight title holder who held the title how many times between 2000 and 2010?",
+        "reference_answers": [
+          "twice"
+        ],
+        "should_abstain": false,
+        "metadata_json": "{\"KUQ_source\": \"hotpotqa\", \"KUQ_category\": null}"
+      },
+      {
+        "question": "What was one of the popularizers of the slogan \"the customer is always right\" also known as?",
+        "reference_answers": [
+          "the 'Earl of Oxford Street'"
+        ],
+        "should_abstain": false,
+        "metadata_json": "{\"KUQ_source\": \"hotpotqa\", \"KUQ_category\": null}"
+      },
+      {
+        "question": "The Aeolian Singers are based in the English county bordered by which county on its north?",
+        "reference_answers": [
+          "Bedfordshire"
+        ],
+        "should_abstain": false,
+        "metadata_json": "{\"KUQ_source\": \"hotpotqa\", \"KUQ_category\": null}"
+      },
+      {
+        "question": "Which love story set in the world of wedding planning was written by Habib Faisal?",
+        "reference_answers": [
+          "Band Baaja Baaraat"
+        ],
+        "should_abstain": false,
+        "metadata_json": "{\"KUQ_source\": \"hotpotqa\", \"KUQ_category\": null}"
+      },
+      {
+        "question": "The Jackson 5, a popular American family music group formed in 1964 but in which year did the younger band member Michael Jackson pursue a solo career while still part of the group?",
+        "reference_answers": [
+          "1971"
+        ],
+        "should_abstain": false,
+        "metadata_json": "{\"KUQ_source\": \"hotpotqa\", \"KUQ_category\": null}"
+      },
+      {
+        "question": "Are Jeffrey Archer and Thomas Wolfe both novelists?",
+        "reference_answers": [
+          "yes"
+        ],
+        "should_abstain": false,
+        "metadata_json": "{\"KUQ_source\": \"hotpotqa\", \"KUQ_category\": null}"
+      },
+      {
+        "question": "Which Indian film actor and producer also appeared in the 2010 Tamil romance film Chikku Bhukku?",
+        "reference_answers": [
+          "Arya"
+        ],
+        "should_abstain": false,
+        "metadata_json": "{\"KUQ_source\": \"hotpotqa\", \"KUQ_category\": null}"
+      },
+      {
+        "question": "Which group features more members who play an instrument, Moonbabies or Massive Attack?",
+        "reference_answers": [
+          "Moonbabies"
+        ],
+        "should_abstain": false,
+        "metadata_json": "{\"KUQ_source\": \"hotpotqa\", \"KUQ_category\": null}"
+      },
+      {
+        "question": "Who was born first Virginia Ruano Pascual or Jelena Janković?",
+        "reference_answers": [
+          "Virginia Ruano Pascual"
+        ],
+        "should_abstain": false,
+        "metadata_json": "{\"KUQ_source\": \"hotpotqa\", \"KUQ_category\": null}"
+      },
+      {
+        "question": "Which was introduced first, Acura CL or Acura TL?",
+        "reference_answers": [
+          "Acura TL"
+        ],
+        "should_abstain": false,
+        "metadata_json": "{\"KUQ_source\": \"hotpotqa\", \"KUQ_category\": null}"
+      },
+      {
+        "question": "What is the name of the business which is partially funded by the government and has a locations in Yemassee, South Carolina?",
+        "reference_answers": [
+          "Amtrak"
+        ],
+        "should_abstain": false,
+        "metadata_json": "{\"KUQ_source\": \"hotpotqa\", \"KUQ_category\": null}"
+      },
+      {
+        "question": "When was the writer of \"In This Life\" born?",
+        "reference_answers": [
+          "May 24, 1947"
+        ],
+        "should_abstain": false,
+        "metadata_json": "{\"KUQ_source\": \"hotpotqa\", \"KUQ_category\": null}"
+      },
+      {
+        "question": "What is the nationality of the 2003 FIBA Under-19 World Championship MVP ?",
+        "reference_answers": [
+          "Australian"
+        ],
+        "should_abstain": false,
+        "metadata_json": "{\"KUQ_source\": \"hotpotqa\", \"KUQ_category\": null}"
+      },
+      {
+        "question": "What is the name of the actress that has, since 2006, used a different name and has appeared in Ride Along 2?",
+        "reference_answers": [
+          "Olivia Munn"
+        ],
+        "should_abstain": false,
+        "metadata_json": "{\"KUQ_source\": \"hotpotqa\", \"KUQ_category\": null}"
+      },
+      {
+        "question": "What was the 2010 Census population of the town located south of the Merrill Shell Bank Light?",
+        "reference_answers": [
+          "4,613"
+        ],
+        "should_abstain": false,
+        "metadata_json": "{\"KUQ_source\": \"hotpotqa\", \"KUQ_category\": null}"
+      },
+      {
+        "question": "Make Me... is a song for the album that was released on what record imprint?",
+        "reference_answers": [
+          "RCA Records"
+        ],
+        "should_abstain": false,
+        "metadata_json": "{\"KUQ_source\": \"hotpotqa\", \"KUQ_category\": null}"
+      },
+      {
+        "question": "\"What U Workin' With?\" was recorded for a movie created by who?",
+        "reference_answers": [
+          "Thomas Dam"
+        ],
+        "should_abstain": false,
+        "metadata_json": "{\"KUQ_source\": \"hotpotqa\", \"KUQ_category\": null}"
+      },
+      {
+        "question": "Who renounced his American citizenship and wrote a play with a cat named \"Carbucketty\"?",
+        "reference_answers": [
+          "T. S. Eliot"
+        ],
+        "should_abstain": false,
+        "metadata_json": "{\"KUQ_source\": \"hotpotqa\", \"KUQ_category\": null}"
+      },
+      {
+        "question": "Games for Windows – Live or GFWL (trademarked as Games for Windows – LIVE) was an online gaming service used by \"Games for Windows\"–branded PC titles that enables Windows PCs to connect to Microsoft's Live service, some games allow for cross-platform play, such as which first-person shooter video game, developed by FASA Studio for Xbox 360 and Windows Vista?",
+        "reference_answers": [
+          "Shadowrun"
+        ],
+        "should_abstain": false,
+        "metadata_json": "{\"KUQ_source\": \"hotpotqa\", \"KUQ_category\": null}"
+      },
+      {
+        "question": "Between Pelléas et Mélisande and Riders to the Sea, which one has more acts?",
+        "reference_answers": [
+          "Pelléas et Mélisande"
+        ],
+        "should_abstain": false,
+        "metadata_json": "{\"KUQ_source\": \"hotpotqa\", \"KUQ_category\": null}"
+      },
+      {
+        "question": "Who directed the film that the original hardtail of Orange Mountain Bikes was named after?",
+        "reference_answers": [
+          "Stanley Kubrick"
+        ],
+        "should_abstain": false,
+        "metadata_json": "{\"KUQ_source\": \"hotpotqa\", \"KUQ_category\": null}"
+      },
+      {
+        "question": "Which film was created first, The Plow That Broke the Plains or Hollywood Chinese?",
+        "reference_answers": [
+          "The Plow That Broke the Plains"
+        ],
+        "should_abstain": false,
+        "metadata_json": "{\"KUQ_source\": \"hotpotqa\", \"KUQ_category\": null}"
+      },
+      {
+        "question": "Both the San Francisco Giants and the San Francisco 49ers played in what famous stadium?",
+        "reference_answers": [
+          "Candlestick Park"
+        ],
+        "should_abstain": false,
+        "metadata_json": "{\"KUQ_source\": \"hotpotqa\", \"KUQ_category\": null}"
+      },
+      {
+        "question": "Which car features BMW xDrive and is a compact luxury crossover SUV?",
+        "reference_answers": [
+          "BMW X1"
+        ],
+        "should_abstain": false,
+        "metadata_json": "{\"KUQ_source\": \"hotpotqa\", \"KUQ_category\": null}"
+      },
+      {
+        "question": "The American fashion designer for Bjork's Greatest Hits Tour is the director of what fashion house?",
+        "reference_answers": [
+          "Moschino"
+        ],
+        "should_abstain": false,
+        "metadata_json": "{\"KUQ_source\": \"hotpotqa\", \"KUQ_category\": null}"
+      },
+      {
+        "question": "The Luna Jacal or Luna's Jacal was the residence of Gilberto Luna, a Mexican pioneer farmer in the area of Texas that would become which U.S. national park located in Western Texas, bordering Mexico?",
+        "reference_answers": [
+          "Big Bend National Park"
+        ],
+        "should_abstain": false,
+        "metadata_json": "{\"KUQ_source\": \"hotpotqa\", \"KUQ_category\": null}"
+      },
+      {
+        "question": "In what country are Doñana National Park and Atlantic Islands of Galicia National Park located?",
+        "reference_answers": [
+          "Spain"
+        ],
+        "should_abstain": false,
+        "metadata_json": "{\"KUQ_source\": \"hotpotqa\", \"KUQ_category\": null}"
+      },
+      {
+        "question": "Where was the coach featured in \"Without Limits\" a coach in real life?",
+        "reference_answers": [
+          "University of Oregon"
+        ],
+        "should_abstain": false,
+        "metadata_json": "{\"KUQ_source\": \"hotpotqa\", \"KUQ_category\": null}"
+      },
+      {
+        "question": "What type of art started as a flip book in early times but has been used to make films such as \"Life is Cool\" in 2008?",
+        "reference_answers": [
+          "Korean animation"
+        ],
+        "should_abstain": false,
+        "metadata_json": "{\"KUQ_source\": \"hotpotqa\", \"KUQ_category\": null}"
+      },
+      {
+        "question": "When was the Polish professional boxer over which Joe Smith Jr. rose to prominence in 2016 by scoring an upset knockout victory born? ",
+        "reference_answers": [
+          "4 November 1987"
+        ],
+        "should_abstain": false,
+        "metadata_json": "{\"KUQ_source\": \"hotpotqa\", \"KUQ_category\": null}"
+      },
+      {
+        "question": "When was the school that  Raoul Alexander Mulder is based in founded?",
+        "reference_answers": [
+          "1853"
+        ],
+        "should_abstain": false,
+        "metadata_json": "{\"KUQ_source\": \"hotpotqa\", \"KUQ_category\": null}"
+      },
+      {
+        "question": " Julie Ganapathi is a 2003 Indian film adaptation of a 1987 psychological horror thriller novel nomiated for World Fantasy Award for Best Novel in what year?",
+        "reference_answers": [
+          "1988"
+        ],
+        "should_abstain": false,
+        "metadata_json": "{\"KUQ_source\": \"hotpotqa\", \"KUQ_category\": null}"
+      },
+      {
+        "question": "Who is the the actor who stars in the 2005 film Slingshot that also is a member of the band Ringside?",
+        "reference_answers": [
+          "Balthazar Getty"
+        ],
+        "should_abstain": false,
+        "metadata_json": "{\"KUQ_source\": \"hotpotqa\", \"KUQ_category\": null}"
+      },
+      {
+        "question": "Nardole is a fictional character created by Steven Moffat and portrayed by Matt Lucas in the long-running British science fiction television series \"Doctor Who\", a companion of the Twelfth Doctor, the current incarnation of the alien time traveller known as The Doctor, portrayed by who, which Scottish actor, writer and director, best known for playing the twelfth incarnation of the Doctor in \"Doctor Who\"?",
+        "reference_answers": [
+          "Peter Capaldi"
+        ],
+        "should_abstain": false,
+        "metadata_json": "{\"KUQ_source\": \"hotpotqa\", \"KUQ_category\": null}"
+      },
+      {
+        "question": "Gummo is the soundtrack album to the film of the same name, and contains songs that were recorded specifically for the film, or were featured in the film, the soundtrack is most notably an abridged version of Burzum, a music project that began in what year, by the Norwegian musician and writer Varg Vikernes?",
+        "reference_answers": [
+          "1991"
+        ],
+        "should_abstain": false,
+        "metadata_json": "{\"KUQ_source\": \"hotpotqa\", \"KUQ_category\": null}"
+      },
+      {
+        "question": "The bridge spanning the River Truyere near Ruynes-en-Margeride was built by a graduate of which university?",
+        "reference_answers": [
+          "École Centrale Paris"
+        ],
+        "should_abstain": false,
+        "metadata_json": "{\"KUQ_source\": \"hotpotqa\", \"KUQ_category\": null}"
+      },
+      {
+        "question": "The organization that Carlos Guillermo Suarez Mason was in charge of was disbanded in what year?",
+        "reference_answers": [
+          "2000"
+        ],
+        "should_abstain": false,
+        "metadata_json": "{\"KUQ_source\": \"hotpotqa\", \"KUQ_category\": null}"
+      },
+      {
+        "question": "What author of Isaac Asimov's Robot City : Cyborg was inspired by Hugo award winner Isaac Asimov's Robot nad Foundation novels?",
+        "reference_answers": [
+          "William F. Wu."
+        ],
+        "should_abstain": false,
+        "metadata_json": "{\"KUQ_source\": \"hotpotqa\", \"KUQ_category\": null}"
+      },
+      {
+        "question": "Which dog breed, Cirneco dell'Etna or Flat-Coated Retriever, is primarily built for endurance over harsh terrain?",
+        "reference_answers": [
+          "Cirneco dell'Etna"
+        ],
+        "should_abstain": false,
+        "metadata_json": "{\"KUQ_source\": \"hotpotqa\", \"KUQ_category\": null}"
+      },
+      {
+        "question": "Which athletic stadium, built on the same site as the former FA Cup Final venue, also hosted the World Cup?",
+        "reference_answers": [
+          "Crystal Palace National Sports Centre"
+        ],
+        "should_abstain": false,
+        "metadata_json": "{\"KUQ_source\": \"hotpotqa\", \"KUQ_category\": null}"
+      },
+      {
+        "question": "Where is the headquarters of the production company directed by James May ?",
+        "reference_answers": [
+          "Power Road , Chiswick, London"
+        ],
+        "should_abstain": false,
+        "metadata_json": "{\"KUQ_source\": \"hotpotqa\", \"KUQ_category\": null}"
+      },
+      {
+        "question": "Jerrald King \"Jerry\" Goldsmith, was an American composer and conductor most known for his work in film and television scoring, and composed scores for such noteworthy films as which 1992 neo-noir erotic thriller film directed by Paul Verhoeven and written by Joe Eszterhas, and starring Michael Douglas and Sharon Stone?",
+        "reference_answers": [
+          "Basic Instinct"
+        ],
+        "should_abstain": false,
+        "metadata_json": "{\"KUQ_source\": \"hotpotqa\", \"KUQ_category\": null}"
+      },
+      {
+        "question": "The Airport Transit System (ATS) is an automated people mover system at Chicago O'Hare International Airport that was built by Mécanique Aviation Traction and began its operation when?",
+        "reference_answers": [
+          "May 6, 1993"
+        ],
+        "should_abstain": false,
+        "metadata_json": "{\"KUQ_source\": \"hotpotqa\", \"KUQ_category\": null}"
+      },
+      {
+        "question": "Who was the head coach of the team that lost Super Bowl XIX?",
+        "reference_answers": [
+          "Don Shula"
+        ],
+        "should_abstain": false,
+        "metadata_json": "{\"KUQ_source\": \"hotpotqa\", \"KUQ_category\": null}"
+      },
+      {
+        "question": "Nijam, is a 2003 Telugu crime film produced & directed by Teja on Chitram Movies banner, the music was composed by R. P. Patnaik, a South Indian music composer with about how many films to his credits, in three south Indian languages (Telugu, Tamil and Kannada)?",
+        "reference_answers": [
+          "60"
+        ],
+        "should_abstain": false,
+        "metadata_json": "{\"KUQ_source\": \"hotpotqa\", \"KUQ_category\": null}"
+      },
+      {
+        "question": "On which reality TV Show did Maroon 5's lead singer appear as a judge?",
+        "reference_answers": [
+          "The Voice"
+        ],
+        "should_abstain": false,
+        "metadata_json": "{\"KUQ_source\": \"hotpotqa\", \"KUQ_category\": null}"
+      },
+      {
+        "question": "Lavant and Lienz are both located where?",
+        "reference_answers": [
+          "East Tyrol"
+        ],
+        "should_abstain": false,
+        "metadata_json": "{\"KUQ_source\": \"hotpotqa\", \"KUQ_category\": null}"
+      },
+      {
+        "question": "Sugartown was the name of at least three Cherokee towns, the third Sugartown was located on Sugar Creek, a tributary of the Toccoa River, near the present-day city of which city in Georgia?",
+        "reference_answers": [
+          "Blue Ridge"
+        ],
+        "should_abstain": false,
+        "metadata_json": "{\"KUQ_source\": \"hotpotqa\", \"KUQ_category\": null}"
+      },
+      {
+        "question": "When was a Major League Baseball player nicknamed \"Pudge\" voted into the Baseball Hall of Fame?",
+        "reference_answers": [
+          "January 18, 2017"
+        ],
+        "should_abstain": false,
+        "metadata_json": "{\"KUQ_source\": \"hotpotqa\", \"KUQ_category\": null}"
+      },
+      {
+        "question": "What was the name of the first novel written by the author of \"No Longer at Ease\"?",
+        "reference_answers": [
+          "Things Fall Apart"
+        ],
+        "should_abstain": false,
+        "metadata_json": "{\"KUQ_source\": \"hotpotqa\", \"KUQ_category\": null}"
+      },
+      {
+        "question": "Steven Levert \"Steve\" Clarkson (born October 31, 1961) is an American football coach, Clarkson has tutored Matthew Montgomery Barkley, an American football quarterback who is currently a free agent, born on which date?",
+        "reference_answers": [
+          "September 8, 1990"
+        ],
+        "should_abstain": false,
+        "metadata_json": "{\"KUQ_source\": \"hotpotqa\", \"KUQ_category\": null}"
+      },
+      {
+        "question": "The song \"Fade Away\" by Bruce Springsteen is featured in an album produced by whom? ",
+        "reference_answers": [
+          "Jon Landau, Springsteen and bandmate Steven Van Zandt"
+        ],
+        "should_abstain": false,
+        "metadata_json": "{\"KUQ_source\": \"hotpotqa\", \"KUQ_category\": null}"
+      },
+      {
+        "question": "2017 FIFA Confederations Cup Group B included this national soccer team, a member of the Asian Football Confederation, which is nicknamed what?",
+        "reference_answers": [
+          "the Socceroos"
+        ],
+        "should_abstain": false,
+        "metadata_json": "{\"KUQ_source\": \"hotpotqa\", \"KUQ_category\": null}"
+      },
+      {
+        "question": "Who wrote the screenplay for the 2003 original movie in which 2005 Indian film 'Khamoshh... Khauff Ki Raat' was based?",
+        "reference_answers": [
+          "Michael Cooney"
+        ],
+        "should_abstain": false,
+        "metadata_json": "{\"KUQ_source\": \"hotpotqa\", \"KUQ_category\": null}"
+      },
+      {
+        "question": "Disco was a remix album that includes the track released on Mar 24, 1996 on what record label?",
+        "reference_answers": [
+          "Parlophone Records"
+        ],
+        "should_abstain": false,
+        "metadata_json": "{\"KUQ_source\": \"hotpotqa\", \"KUQ_category\": null}"
+      },
+      {
+        "question": "What is the ratio of the building material that is named for the Latin word \"crushed\" and sand used to stabilize buildings?",
+        "reference_answers": [
+          "1:5"
+        ],
+        "should_abstain": false,
+        "metadata_json": "{\"KUQ_source\": \"hotpotqa\", \"KUQ_category\": null}"
+      },
+      {
+        "question": "Kula Shaker and AFI are both what?",
+        "reference_answers": [
+          "rock band"
+        ],
+        "should_abstain": false,
+        "metadata_json": "{\"KUQ_source\": \"hotpotqa\", \"KUQ_category\": null}"
+      },
+      {
+        "question": "Who has played in more bands, Nell Sigland or Ezra Koenig?",
+        "reference_answers": [
+          "Nell Sigland"
+        ],
+        "should_abstain": false,
+        "metadata_json": "{\"KUQ_source\": \"hotpotqa\", \"KUQ_category\": null}"
+      },
+      {
+        "question": "how is Research Machines 380Z and Amstrad PCW connected?",
+        "reference_answers": [
+          "computer"
+        ],
+        "should_abstain": false,
+        "metadata_json": "{\"KUQ_source\": \"hotpotqa\", \"KUQ_category\": null}"
+      },
+      {
+        "question": "The lecture \"There's Plenty of Room at the Bottom\" was done by a physicist that died in what year?",
+        "reference_answers": [
+          "1988"
+        ],
+        "should_abstain": false,
+        "metadata_json": "{\"KUQ_source\": \"hotpotqa\", \"KUQ_category\": null}"
+      },
+      {
+        "question": "The viola organista is a musical instrument designed by Leonardo da Vinci, was an Italian Renaissance polymath whose areas of interest included invention, painting, sculpting, architecture, science, music, mathematics, engineering, literature, anatomy, geology, astronomy, botany, writing, history, and cartography, he died in which year?",
+        "reference_answers": [
+          "1519"
+        ],
+        "should_abstain": false,
+        "metadata_json": "{\"KUQ_source\": \"hotpotqa\", \"KUQ_category\": null}"
+      },
+      {
+        "question": "\"Hot Hot Hot!!!\" is a single from a studio album by what kind of rock back?",
+        "reference_answers": [
+          "alternative"
+        ],
+        "should_abstain": false,
+        "metadata_json": "{\"KUQ_source\": \"hotpotqa\", \"KUQ_category\": null}"
+      },
+      {
+        "question": "Mikkey Ekko's first-charting material was released on which of Rihanna's albums?",
+        "reference_answers": [
+          "Unapologetic"
+        ],
+        "should_abstain": false,
+        "metadata_json": "{\"KUQ_source\": \"hotpotqa\", \"KUQ_category\": null}"
+      },
+      {
+        "question": "Were Dani Filth and Daryl Hall memebers of the same band?",
+        "reference_answers": [
+          "no"
+        ],
+        "should_abstain": false,
+        "metadata_json": "{\"KUQ_source\": \"hotpotqa\", \"KUQ_category\": null}"
+      },
+      {
+        "question": "The 1977 Tennessee Volunteers were led by which former football player as coach?",
+        "reference_answers": [
+          "John Terrill Majors"
+        ],
+        "should_abstain": false,
+        "metadata_json": "{\"KUQ_source\": \"hotpotqa\", \"KUQ_category\": null}"
+      },
+      {
+        "question": "Where was a Belgian variety of hop cultivated, it is used for a type of beer brewed in the Pajottenland region of Belgium southwest of Brussels and in Brussels itself at the Cantillon Brewery?",
+        "reference_answers": [
+          "Flemish Aalst-Asse"
+        ],
+        "should_abstain": false,
+        "metadata_json": "{\"KUQ_source\": \"hotpotqa\", \"KUQ_category\": null}"
+      },
+      {
+        "question": "What movie did \"the king of cool\" play in with Bud Ekins as his stunt double?",
+        "reference_answers": [
+          "\"The Great Escape\""
+        ],
+        "should_abstain": false,
+        "metadata_json": "{\"KUQ_source\": \"hotpotqa\", \"KUQ_category\": null}"
+      },
+      {
+        "question": "What song did Alice Cucini and Charles-Camille Saint-Saens work on together?",
+        "reference_answers": [
+          "Samson et Dalila"
+        ],
+        "should_abstain": false,
+        "metadata_json": "{\"KUQ_source\": \"hotpotqa\", \"KUQ_category\": null}"
+      },
+      {
+        "question": "Out of the members of the Supremes who sang \"A Breathtaking Guy,\" who remained in the group the longest?",
+        "reference_answers": [
+          "Mary Wilson"
+        ],
+        "should_abstain": false,
+        "metadata_json": "{\"KUQ_source\": \"hotpotqa\", \"KUQ_category\": null}"
+      },
+      {
+        "question": "Which other name is the crime The Black Mafia is accused of that involves a form of illegal gambling?",
+        "reference_answers": [
+          "the numbers racket"
+        ],
+        "should_abstain": false,
+        "metadata_json": "{\"KUQ_source\": \"hotpotqa\", \"KUQ_category\": null}"
+      },
+      {
+        "question": "What movie special effect is defined by an object is moved in small increments between individually photographed frames, creating the illusion of movement when the series of frames is played and is featured at Special Effects Stage attraction at Universal Studios Hollywood?",
+        "reference_answers": [
+          "Stop motion"
+        ],
+        "should_abstain": false,
+        "metadata_json": "{\"KUQ_source\": \"hotpotqa\", \"KUQ_category\": null}"
+      },
+      {
+        "question": "What is the birthdate of this Danish former professional boxer who held the IBO heavyweight title and who worked with Mogens Palle?",
+        "reference_answers": [
+          "1 April 1965"
+        ],
+        "should_abstain": false,
+        "metadata_json": "{\"KUQ_source\": \"hotpotqa\", \"KUQ_category\": null}"
+      },
+      {
+        "question": "Who is an American actress, singer, and an artists that  uses their voices or bodies, often in relation to other objects, to convey artistic expression? ",
+        "reference_answers": [
+          "Leslie Carrara-Rudolph"
+        ],
+        "should_abstain": false,
+        "metadata_json": "{\"KUQ_source\": \"hotpotqa\", \"KUQ_category\": null}"
+      }
+    ],
+    "unanswerable": []
+  }
+}

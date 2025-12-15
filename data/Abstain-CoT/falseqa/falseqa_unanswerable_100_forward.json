@@ -1,0 +1,1007 @@
+{
+  "falseqa": {
+    "answerable": [],
+    "unanswerable": [
+      {
+        "question": "Why carbon dioxide is composed of oxygen?",
+        "reference_answers": [
+          "Carbon dioxide is composed of two oxygen atoms and one carbon atom.",
+          "A molecule of carbon dioxide consists of one carbon atom and two oxygen atoms. It is a very different gas from oxygen.",
+          "No, there isn't oxygen in carbon dioxide."
+        ],
+        "should_abstain": true,
+        "metadata_json": "{}"
+      },
+      {
+        "question": "If my brother's amniotic fluid breaks before term, what will happen?",
+        "reference_answers": [
+          "A man cannot get pregnant.",
+          "Your brother is male, and the male does not become pregnant.",
+          "Man is not able to get pregnant, so your brother is not able to have amniotic fluid."
+        ],
+        "should_abstain": true,
+        "metadata_json": "{}"
+      },
+      {
+        "question": "Does China rank the second in the world since China has become the world's hegemon?",
+        "reference_answers": [
+          "A hegemon is a leading or major power. The United States has long been a hegemon in world politics. China has not become the world's hegemon.",
+          "After China becomes the world hegemon, it should rank first in the world.",
+          "China has not beome the world's hegemon, The United States is the world's hegemon."
+        ],
+        "should_abstain": true,
+        "metadata_json": "{}"
+      },
+      {
+        "question": "What does the black vulture of accipitridae eat?",
+        "reference_answers": [
+          "Balck vulture belongs to Coragyps.",
+          "Black vulture belongs to cathartidae",
+          "The black vulture belongs to the cathartidae although it looks like accipitridae."
+        ],
+        "should_abstain": true,
+        "metadata_json": "{}"
+      },
+      {
+        "question": "Are young bugs drinking milk after their birth of fetus?",
+        "reference_answers": [
+          "Only mammals have milk.",
+          "Bugs eat plants and other bugs, but don't drink milk.",
+          "That is not true, young bugs are hatched in the eggs of worms."
+        ],
+        "should_abstain": true,
+        "metadata_json": "{}"
+      },
+      {
+        "question": "Would the black widow living in the ocean inject a neuro toxin to catch their food?",
+        "reference_answers": [
+          "Black widow is a kind of spider lives in land.",
+          "Black widows live in trees",
+          "The black widow lives in the dry deserts or high mountains except in the ocean."
+        ],
+        "should_abstain": true,
+        "metadata_json": "{}"
+      },
+      {
+        "question": "What would the equines become when they eat the black walnut harmless to them?",
+        "reference_answers": [
+          "Black walnuts are harmful to equines.",
+          "Black walnut chips can cause toxicity when exposed to the skin or mouth of horses and can cause poisoning.",
+          "Black walnut is extremely toxic to equines when ingested, even in minute quantities."
+        ],
+        "should_abstain": true,
+        "metadata_json": "{}"
+      },
+      {
+        "question": "What's the shape of blackbuck's wings?",
+        "reference_answers": [
+          "blackbuck is a type of sheep",
+          "Blackbuck is a species of antelope that lives in India and has no wings.",
+          "The blackbuck has no wing."
+        ],
+        "should_abstain": true,
+        "metadata_json": "{}"
+      },
+      {
+        "question": "If I want to visit Beijing in spring, should I go in September or October?",
+        "reference_answers": [
+          "Spring is between March and May.",
+          "September and October are autumn.",
+          "None of the above. The seasons are defined as spring are March, April, and May."
+        ],
+        "should_abstain": true,
+        "metadata_json": "{}"
+      },
+      {
+        "question": "Which season the icon tree is in blossom?",
+        "reference_answers": [
+          "icon trees are not real trees, they don't bloom",
+          "There is no icon tree",
+          "The icon tree in blossom is impossible."
+        ],
+        "should_abstain": true,
+        "metadata_json": "{}"
+      },
+      {
+        "question": "If i want to get alcohol from cow, how long will it takes?",
+        "reference_answers": [
+          "Cow doesn't not contain any alcohol, we usually get milk from cow.",
+          "You can't get alcohol from cow. Alcohol are usually made from wheet or fruits.",
+          "No, alcohol is just a kind of drink, it is made when yeast ferments the sugars in grains, fruits and vegetables. Not animals."
+        ],
+        "should_abstain": true,
+        "metadata_json": "{}"
+      },
+      {
+        "question": "Who invented the light? Libai or Wu Zetian?",
+        "reference_answers": [
+          "Neither Libai or WuZeTian invented the light, Thomas Edison invented light.",
+          "Humphry Davy, an English chemist, invented the first electric light in 1802.",
+          "None of the above. Lights was invented by Thomas Alva Edison."
+        ],
+        "should_abstain": true,
+        "metadata_json": "{}"
+      },
+      {
+        "question": "Is massage very common since we could even see it during the ice age?",
+        "reference_answers": [
+          "Massage is not common during the ice age. Because humans have to hunt.",
+          "Massage was invented by human society, and there were no humans in the Ice Age.",
+          "Massage did not exist during the Ice Age."
+        ],
+        "should_abstain": true,
+        "metadata_json": "{}"
+      },
+      {
+        "question": "Why larval fish living in the deep water can not swim well with their own power?",
+        "reference_answers": [
+          "Larval fishes can swim well.",
+          "Larval fish live in shallow seas",
+          "Larval fish live in shallow water."
+        ],
+        "should_abstain": true,
+        "metadata_json": "{}"
+      },
+      {
+        "question": "List two fields the laser used by Confucius.",
+        "reference_answers": [
+          "Laser hasn't been invented yet when Confucius is alive.",
+          "The laser was first successfully manufactured in 1960. Confucius died in 479 B.C.",
+          "Laser has not been used at the time of Confucius."
+        ],
+        "should_abstain": true,
+        "metadata_json": "{}"
+      },
+      {
+        "question": "If I want to count the number of my long hair by hand in one hour, where should I start?",
+        "reference_answers": [
+          "Hairs are too many to count",
+          "There are so many human hairs that one cannot count them all in an hour",
+          "You may not able to do it in one hour unless you only have few hair."
+        ],
+        "should_abstain": true,
+        "metadata_json": "{}"
+      },
+      {
+        "question": "How to open the door in the latch?",
+        "reference_answers": [
+          "It is the latch in the door not the door in the latch.",
+          "The door should have a latch, not the other way around",
+          "The door is not in the latch. The latch is on the door."
+        ],
+        "should_abstain": true,
+        "metadata_json": "{}"
+      },
+      {
+        "question": "What could the Upper Cave Men produce with lathes?",
+        "reference_answers": [
+          "Upper Cave Men live in caves and don't operate lathes",
+          "The uphill cavemen lived before the invention of lathes",
+          "The lathes have not existed in the period of Upper Cave Men."
+        ],
+        "should_abstain": true,
+        "metadata_json": "{}"
+      },
+      {
+        "question": "Why people never get fat in the Tang Dynasty?",
+        "reference_answers": [
+          "People in the Tang Dynasty may grow fat.",
+          "There were a lot of fat women in the Tang Dynasty. They thought fat was beautiful.",
+          "No, that's not true. In the Tang Dynasty fat is considered as beauty."
+        ],
+        "should_abstain": true,
+        "metadata_json": "{}"
+      },
+      {
+        "question": "When should I go if I want to see the fog on Jupiter?",
+        "reference_answers": [
+          "Humans can't go to Jupiter.",
+          "Currently humans cannot go to Jupiter.",
+          "There's no fog on Jupiter, only the earth has an atmosphere."
+        ],
+        "should_abstain": true,
+        "metadata_json": "{}"
+      },
+      {
+        "question": "What would Upper Cave Men become if they violated the law at their time?",
+        "reference_answers": [
+          "There were no laws in the time of the cavemen.",
+          "At that time, cave people did not have the concept of law.",
+          "Law did not existed at that time."
+        ],
+        "should_abstain": true,
+        "metadata_json": "{}"
+      },
+      {
+        "question": "Are rainbow trout the same as shark which lives in fresh water ?",
+        "reference_answers": [
+          "Sharks live in the ocean.",
+          "Sharks live in seawater",
+          "No, shark only lives in the sea."
+        ],
+        "should_abstain": true,
+        "metadata_json": "{}"
+      },
+      {
+        "question": "If I want to travel to galaxies, which bus should I take?",
+        "reference_answers": [
+          "buses are not for cross planet travels",
+          "We should travel by spaceship or rocket",
+          "You are not able to travel to galaxies by bus. Travel between galaxies is far beyond humanity's present capabilities,"
+        ],
+        "should_abstain": true,
+        "metadata_json": "{}"
+      },
+      {
+        "question": "How a lawyer judge the perpetrators in the court?",
+        "reference_answers": [
+          "lawyers defend for their clients, not judge",
+          "It is the judge's job to sentence criminals",
+          "Lawyer does not judge perpetrators."
+        ],
+        "should_abstain": true,
+        "metadata_json": "{}"
+      },
+      {
+        "question": "How does a tenant rent the house to the owner?",
+        "reference_answers": [
+          "The owner rents the house to the tenant.",
+          "Tenant can't rent the house to its owner. This is illegal.",
+          "The owner rents the house to tenant."
+        ],
+        "should_abstain": true,
+        "metadata_json": "{}"
+      },
+      {
+        "question": "Is the leather shoes made from the tree durable?",
+        "reference_answers": [
+          "Leather shoes are made by leather not tree.",
+          "Leather shoes are made of all kinds of skins, not trees",
+          "The materials of leather shoes is got from animal skin."
+        ],
+        "should_abstain": true,
+        "metadata_json": "{}"
+      },
+      {
+        "question": "Which country is Donald Trump a minister of, the US or the UK?",
+        "reference_answers": [
+          "Donald Trump is the president not minister.",
+          "Trump is the president of the United States, not the secretary",
+          "Donald Trump has never been a minister, he is the president of USA."
+        ],
+        "should_abstain": true,
+        "metadata_json": "{}"
+      },
+      {
+        "question": "Why does mini bar bigger than a normal bar",
+        "reference_answers": [
+          "Normal bar bigger than a mini  bar.",
+          "The mini bar is generally relatively small, it is usually smaller than the average bar.",
+          "Mini bar is smaller than a normal bar"
+        ],
+        "should_abstain": true,
+        "metadata_json": "{}"
+      },
+      {
+        "question": "List two parts of the lemmings in the Antarctic.",
+        "reference_answers": [
+          "The lemmings live in the Arctic.",
+          "Kangaroos live in Australia and other Oceania.",
+          "Lemmings live in the Arctic."
+        ],
+        "should_abstain": true,
+        "metadata_json": "{}"
+      },
+      {
+        "question": "What's the length of the air?",
+        "reference_answers": [
+          "Air is a fluid and has no concept of length.",
+          "Air has no physical quantity as length.",
+          "The air can not be measured."
+        ],
+        "should_abstain": true,
+        "metadata_json": "{}"
+      },
+      {
+        "question": "How many lens do glasses monkeys produce have?",
+        "reference_answers": [
+          "Monkeys don't produce glasses, only humans do.",
+          "Monkey cannot produce glasses because it has no intelligence.",
+          "Monkeys can not produce glasses."
+        ],
+        "should_abstain": true,
+        "metadata_json": "{}"
+      },
+      {
+        "question": "Do the leopards with wings fly faster than birds?",
+        "reference_answers": [
+          "leopards has no wings, birds do",
+          "Leopards are felines and have no wings.",
+          "Leopards do not have wings."
+        ],
+        "should_abstain": true,
+        "metadata_json": "{}"
+      },
+      {
+        "question": "if I have some leaves, how can I get crystal from them?",
+        "reference_answers": [
+          "Crystal is a kind of stone not plant.",
+          "Crystals are in mineral caves, not in leaves",
+          "No way, leaves won't become crystal anyway"
+        ],
+        "should_abstain": true,
+        "metadata_json": "{}"
+      },
+      {
+        "question": "How many kinds of memory chips do we have in our brains?",
+        "reference_answers": [
+          "There are no chips in the human brain.",
+          "Our brains use neurons to store memories, not memory chips, and there are no memory chips in the brain.",
+          "Memory chips are used for computers rather than humans."
+        ],
+        "should_abstain": true,
+        "metadata_json": "{}"
+      },
+      {
+        "question": "Are people more likely to believe the honest people who always tell lies?",
+        "reference_answers": [
+          "Honest people never tell lies.",
+          "People will not believe a liar, and a liar is not an honest person.",
+          "People who always tell lies are not honest."
+        ],
+        "should_abstain": true,
+        "metadata_json": "{}"
+      },
+      {
+        "question": "Why do these migrant workers never leave their home?",
+        "reference_answers": [
+          "Migrant workers usually live in another country",
+          "There are many migrant workers leaving home for cities to work",
+          "The reason why they were called migrant workers is that they leave home for job."
+        ],
+        "should_abstain": true,
+        "metadata_json": "{}"
+      },
+      {
+        "question": "Is the third leg of a person longer than his/her finger?",
+        "reference_answers": [
+          "Humans have only two legs.",
+          "Man has only two legs.",
+          "A person only has two legs."
+        ],
+        "should_abstain": true,
+        "metadata_json": "{}"
+      },
+      {
+        "question": "Is mercury usually more healthy than juice to drink?",
+        "reference_answers": [
+          "Drinking mercury is fatal and dangerous, so mercury is not drinkable.",
+          "Mercury is a metallic element that is harmful to humans.",
+          "The mercury is inedible."
+        ],
+        "should_abstain": true,
+        "metadata_json": "{}"
+      },
+      {
+        "question": "How can atm keep healthy?",
+        "reference_answers": [
+          "ATM is a kind of machine, only creatures can keep healthy.",
+          "ATM is a tool for people to get money, it has no concept of health.",
+          "Atm is a device to deposit and withdraw money, it doesn't need to keep healthy."
+        ],
+        "should_abstain": true,
+        "metadata_json": "{}"
+      },
+      {
+        "question": "How can we tell the cells' gender?",
+        "reference_answers": [
+          "Cell has no gender, only animals have gender.",
+          "Cell is the basic unit of human body's basic structure and physiological function, without gender.",
+          "Cells have no gender."
+        ],
+        "should_abstain": true,
+        "metadata_json": "{}"
+      },
+      {
+        "question": "Why does toy eat food?",
+        "reference_answers": [
+          "Only animals eat food.",
+          "The toy is not a living thing, so it can't eat.",
+          "Toy doesn't have the ability to eat food."
+        ],
+        "should_abstain": true,
+        "metadata_json": "{}"
+      },
+      {
+        "question": "If I want to send a message to the Pluto, what should I do?",
+        "reference_answers": [
+          "Pluto is a planet, you can only send messages to people.",
+          "Currently, human technology cannot send a message to Pluto.",
+          "You are not able to send messages to the Pluto, there is currently no space signal receiving station on Pluto."
+        ],
+        "should_abstain": true,
+        "metadata_json": "{}"
+      },
+      {
+        "question": "Name a few metal, in addition to wood.",
+        "reference_answers": [
+          "Wood is not metal.",
+          "Wood is not metal.",
+          "Wood is not metal."
+        ],
+        "should_abstain": true,
+        "metadata_json": "{}"
+      },
+      {
+        "question": "Why fishes like to chase mice?",
+        "reference_answers": [
+          "Mice live on land, fish live on sea, fish can't chase mice.",
+          "Fishes can't chase mice. Mice don't live in the water.",
+          "Fishes can't chase mice. They don't have the ability to do so."
+        ],
+        "should_abstain": true,
+        "metadata_json": "{}"
+      },
+      {
+        "question": "How tadpoles brush their teeth?",
+        "reference_answers": [
+          "Tadpoles do not have teeth.",
+          "Tadpoles are animals, not humans, and they don't brush their teeth.",
+          "Tadpoles don't have teeth."
+        ],
+        "should_abstain": true,
+        "metadata_json": "{}"
+      },
+      {
+        "question": "How can we seek for help from Batman when we're in danger?",
+        "reference_answers": [
+          "Batman is a fictional character",
+          "Batman is a fictional character who should ask the police for help",
+          "We can't, because Batman doesn't exist in real life."
+        ],
+        "should_abstain": true,
+        "metadata_json": "{}"
+      },
+      {
+        "question": "How we fish in the bathroom?",
+        "reference_answers": [
+          "Fish lives in the river and sea.",
+          "We can go fishing at the beach. The bathroom is too small for fishing",
+          "There is no fish in the bathroom."
+        ],
+        "should_abstain": true,
+        "metadata_json": "{}"
+      },
+      {
+        "question": "How many metres does this apple weigh?",
+        "reference_answers": [
+          "Meter is a unit of length. It cannot measure this apple weight.",
+          "Meters are units of length not units of weight.",
+          "A metre is a metric unit of length, instead of weight."
+        ],
+        "should_abstain": true,
+        "metadata_json": "{}"
+      },
+      {
+        "question": "Why do deserts have higher soil moisture than grasslands?",
+        "reference_answers": [
+          "deserts are extremely dry",
+          "A desert is a very dry place with lower soil moisture than grasslands",
+          "Not true, deserts are drier than forests."
+        ],
+        "should_abstain": true,
+        "metadata_json": "{}"
+      },
+      {
+        "question": "Will the bones hurt when octopus gets into the crevice of the rock?",
+        "reference_answers": [
+          "Octopuses don't have bones.",
+          "An octopus is a mollusk and has no bones.",
+          "Octopuses are mollusks and have no bones"
+        ],
+        "should_abstain": true,
+        "metadata_json": "{}"
+      },
+      {
+        "question": "In which year did Qin Emperor  die of milk allergy",
+        "reference_answers": [
+          "Qin Emperor didn't die from milk allergy",
+          "The first Emperor of Qin is still a mystery",
+          "Qin Emperor was not die for milk allergy"
+        ],
+        "should_abstain": true,
+        "metadata_json": "{}"
+      },
+      {
+        "question": "Since which year did China encourage people to believe in Christianity",
+        "reference_answers": [
+          "China never encouraged people to believe in Christianity",
+          "Religion is never encouraged in China",
+          "China never encourage people believe ibn christian"
+        ],
+        "should_abstain": true,
+        "metadata_json": "{}"
+      },
+      {
+        "question": "What color is the blood of leaves?",
+        "reference_answers": [
+          "Leaves are not used as blood for tissue.",
+          "A leaf is a plant. Plants have no blood. Animals have blood.",
+          "Leaves don't have blood."
+        ],
+        "should_abstain": true,
+        "metadata_json": "{}"
+      },
+      {
+        "question": "Which milk product do you prefer, ice cream or pizza?",
+        "reference_answers": [
+          "pizza is not a milk product",
+          "Pizza is not milk product",
+          "Pizza is not a kind of milk product."
+        ],
+        "should_abstain": true,
+        "metadata_json": "{}"
+      },
+      {
+        "question": "Do you often use the circuit to water flowers?",
+        "reference_answers": [
+          "Circut can't spray water.",
+          "General water watering flowers, circuit can not water flowers",
+          "We can't water flowers with circuit.."
+        ],
+        "should_abstain": true,
+        "metadata_json": "{}"
+      },
+      {
+        "question": "If I were an Italian citizen, how long would I have to live in the United States to have a chance to be president of the United States?",
+        "reference_answers": [
+          "Only US citizens can become a president in the election",
+          "To be president of the United States is to be born in the United States",
+          "An Italian citizen cannot be president of the United States, he will not be elected."
+        ],
+        "should_abstain": true,
+        "metadata_json": "{}"
+      },
+      {
+        "question": "Which Chinese classic do you like best, Faustus or Hamlet?",
+        "reference_answers": [
+          "They are European classics, not Chinese ones.",
+          "Faust is German, Hamlet is English, not Chinese.",
+          "These are not Chinese classics."
+        ],
+        "should_abstain": true,
+        "metadata_json": "{}"
+      },
+      {
+        "question": "How many clashes of the metal tube do you need to help you fall asleep faster?",
+        "reference_answers": [
+          "Better sleep expects less clashes of the metal tube.",
+          "Clashes of the metal tube create noise that can keep you awake",
+          "The clash cannot help me fall asleep faster."
+        ],
+        "should_abstain": true,
+        "metadata_json": "{}"
+      },
+      {
+        "question": "why can boats fly in the sky?",
+        "reference_answers": [
+          "Boats don't fly in the sky, they float on the water.",
+          "Boat is used to travel on water. It cannot fly in the sky.",
+          "Boats can't fly."
+        ],
+        "should_abstain": true,
+        "metadata_json": "{}"
+      },
+      {
+        "question": "How many tails does your classmate have?",
+        "reference_answers": [
+          "People don't have tails, while my classmate is a person.",
+          "Your classmates are generally human, without tails.",
+          "My classmate has no tail."
+        ],
+        "should_abstain": true,
+        "metadata_json": "{}"
+      },
+      {
+        "question": "What to do to stop bleeding when the cap get injured?",
+        "reference_answers": [
+          "Only living things have blood tissue.",
+          "The cap is a man-made inanimate object that can't be hurt",
+          "Cap doesn't bleed and can't get injured."
+        ],
+        "should_abstain": true,
+        "metadata_json": "{}"
+      },
+      {
+        "question": "Why do you invite the cleaner to give scientific lectures?",
+        "reference_answers": [
+          "Professors are usually invited to give science lectures and cleaners are invited to do the cleaning.",
+          "Cleaners are generally not scientists or teachers, and they can't give scientific lectures.",
+          "We don't invite cleaners to give scientific lectures."
+        ],
+        "should_abstain": true,
+        "metadata_json": "{}"
+      },
+      {
+        "question": "Why eating avocados benefits for rabbits?",
+        "reference_answers": [
+          "Rabbits don't eat avocados, they can only eat vegetables.",
+          "Rabbits don't eat avocados. Eating avocados is good for human.",
+          "Avocados are toxic to rabbits. Rabbits have very fragile stomachs and can't eat almost any tropical fruit."
+        ],
+        "should_abstain": true,
+        "metadata_json": "{}"
+      },
+      {
+        "question": "Why pigs need a pillow when sleeping?",
+        "reference_answers": [
+          "Only people sleep with a pillow.",
+          "Pigs sleep in pens, not with pillows.",
+          "Pigs don't sleep with a pillow."
+        ],
+        "should_abstain": true,
+        "metadata_json": "{}"
+      },
+      {
+        "question": "why we wake up late by setting a alarm clock with a right time",
+        "reference_answers": [
+          "We wake up on time with an alarm clock with a right time.",
+          "We set the alarm clock in order to be timely.",
+          "If we set the alarm clock in a right time we won't wake up late"
+        ],
+        "should_abstain": true,
+        "metadata_json": "{}"
+      },
+      {
+        "question": "What kind of elements do elephants need to grow from seeds?",
+        "reference_answers": [
+          "Elephants are viviparous animals. They don't grow from seeds.",
+          "Elephants are mammals and are viviparous.",
+          "Elephants can't grow from seeds."
+        ],
+        "should_abstain": true,
+        "metadata_json": "{}"
+      },
+      {
+        "question": "How many jobs were created by software company in the 16th century?",
+        "reference_answers": [
+          "There isn't any software company in the 16th century.",
+          "There are no sofrware company in the 16th century.",
+          "Zero. There were no software company in the 16th century."
+        ],
+        "should_abstain": true,
+        "metadata_json": "{}"
+      },
+      {
+        "question": "Which animal do you prefer, cloves or watermelon?",
+        "reference_answers": [
+          "Cloves and watermelon are fruits, not animals",
+          "Cloves and watermelons are two kinds of plants",
+          "Both of these are plants, not animals."
+        ],
+        "should_abstain": true,
+        "metadata_json": "{}"
+      },
+      {
+        "question": "If we want to collect soil from the sun now, what should we prepare?",
+        "reference_answers": [
+          "Soil only appears on earth.",
+          "The sun is mostly hydrogen and helium, so there's no soil.",
+          "We can't collect soil from the sun now."
+        ],
+        "should_abstain": true,
+        "metadata_json": "{}"
+      },
+      {
+        "question": "How many wings does a people have?",
+        "reference_answers": [
+          "Humans have no wings, and humans live in the ground.",
+          "Man is not a bird. He has no wings",
+          "Zero, people have no wings."
+        ],
+        "should_abstain": true,
+        "metadata_json": "{}"
+      },
+      {
+        "question": "Why soft cheeses are lower in fat than hard ones?",
+        "reference_answers": [
+          "Soft cheeses are higher in fat in fact.",
+          "Soft cheese has a higher fat content than hard cheese.",
+          "No, soft cheeses are higher in fat than hard ones."
+        ],
+        "should_abstain": true,
+        "metadata_json": "{}"
+      },
+      {
+        "question": "Why soft coral can grow in the desert?",
+        "reference_answers": [
+          "Corals grow in the sea",
+          "Soft corals live in the sea. There is no environment for soft corals in the desert",
+          "No, soft coral can 't grow in the desert."
+        ],
+        "should_abstain": true,
+        "metadata_json": "{}"
+      },
+      {
+        "question": "Why do football coaches have more flexible wings than others?",
+        "reference_answers": [
+          "football coaches are human, they don't have wings",
+          "Football coaches are human, and humans have no wings.",
+          "Football coaches don't have wings, birds have wings."
+        ],
+        "should_abstain": true,
+        "metadata_json": "{}"
+      },
+      {
+        "question": "what will happen if the First Emperor of Qin walk in a gay club?",
+        "reference_answers": [
+          "There are no gay clubs in the Qin dynasty",
+          "Gay clubs did not exist in the time of Qin Shihuang",
+          "there was no gay club in Qin dynasty"
+        ],
+        "should_abstain": true,
+        "metadata_json": "{}"
+      },
+      {
+        "question": "In what season can polar bears be seen on the Atlantic coast?",
+        "reference_answers": [
+          "Polar bears live in the North Pole not in Atlantic coast",
+          "Polar bears live only in the Arctic",
+          "There are no polar bears on the Atlantic coast, they live in North Pole."
+        ],
+        "should_abstain": true,
+        "metadata_json": "{}"
+      },
+      {
+        "question": "How many clouts do you use to fasten nails to your fingers?",
+        "reference_answers": [
+          "Nails are naturally fasten to our fingers, even without clouts.",
+          "We do not use clouts to fasten nails to our fingers.",
+          "We can't use clouts to fasten our nails, our nails can not be fastened."
+        ],
+        "should_abstain": true,
+        "metadata_json": "{}"
+      },
+      {
+        "question": "Why is there soil erosion in the sea?",
+        "reference_answers": [
+          "Soil erosion doesn't happen in the sea, it happens on land.",
+          "There is no soil erosion in the sea.",
+          "Soil erosion can't happened in the sea."
+        ],
+        "should_abstain": true,
+        "metadata_json": "{}"
+      },
+      {
+        "question": "How many legs does a cobra use to move forward?",
+        "reference_answers": [
+          "Cobras do not have legs.",
+          "A cobra is a kind of snake. Snakes move by twisting their bodies. They don't need legs.",
+          "A cobra has no legs."
+        ],
+        "should_abstain": true,
+        "metadata_json": "{}"
+      },
+      {
+        "question": "Does the solar activity in the Earth affect the Earth's magnetic field?",
+        "reference_answers": [
+          "There is no solar activities on Earth",
+          "The sun and the earth are two planets. The sun is not on the earth",
+          "No, there is no solar activity in the Earth."
+        ],
+        "should_abstain": true,
+        "metadata_json": "{}"
+      },
+      {
+        "question": "If we want to make a solenoid without coils, what should we prepare?",
+        "reference_answers": [
+          "Coils is the necessary part of solenoid.",
+          "A solenoid is defined as having one or more coils",
+          "No way, there is must be one or more coils in a solenoid."
+        ],
+        "should_abstain": true,
+        "metadata_json": "{}"
+      },
+      {
+        "question": "In which year Black Obama die for black death",
+        "reference_answers": [
+          "Black obama is still alive.",
+          "Black Obama is still alive.",
+          "Black Obama haven't die"
+        ],
+        "should_abstain": true,
+        "metadata_json": "{}"
+      },
+      {
+        "question": "List one kind of spider that has wings.",
+        "reference_answers": [
+          "Spiders don't have wings.",
+          "A spider is an insect without wings.",
+          "No spiders have wings."
+        ],
+        "should_abstain": true,
+        "metadata_json": "{}"
+      },
+      {
+        "question": "If people want to cure their black knot, what should they do?",
+        "reference_answers": [
+          "Black knot exist on fruits, not humans",
+          "black knot is a pathogenic bacterium that infects only plants",
+          "No way, only plants will get black knot."
+        ],
+        "should_abstain": true,
+        "metadata_json": "{}"
+      },
+      {
+        "question": "If we want to create our own blog in the 18th century, what should we do?",
+        "reference_answers": [
+          "there were no computers in the 18th century, neither blogs",
+          "Blogging didn't exist in the 18th century",
+          "No way, there was no computer or blog in the 18th century."
+        ],
+        "should_abstain": true,
+        "metadata_json": "{}"
+      },
+      {
+        "question": "Which kind of wood can we use to make a bottle of wine?",
+        "reference_answers": [
+          "We use food to make wine.",
+          "Wine is made from grain or fruit.",
+          "No, we can't make wine out of wood."
+        ],
+        "should_abstain": true,
+        "metadata_json": "{}"
+      },
+      {
+        "question": "List a kind of spathiphyllum that grows in the South Pole.",
+        "reference_answers": [
+          "Spathiphyllum grows in Asia and America.",
+          "spathiphyllum generally grows in Asia and the Americas",
+          "No, spathiphyllum can't grow in the South Pole."
+        ],
+        "should_abstain": true,
+        "metadata_json": "{}"
+      },
+      {
+        "question": "Does the species of aquatic organisms on the Sun are less than that in the Earth?",
+        "reference_answers": [
+          "The sun is too hot for living things to survive.",
+          "Nothing can live near the sun, so there is no water life on the sun",
+          "No, there is no aquatic organisms on the Sun because there is no water."
+        ],
+        "should_abstain": true,
+        "metadata_json": "{}"
+      },
+      {
+        "question": "Why eating drums is beneficial to our health?",
+        "reference_answers": [
+          "Drum shells are made from birch, beech, maple, and oak, among other types of wood and materials. Eating drums is not good for health.",
+          "Drums are not food, they are an instrument.",
+          "The drum cannot be eaten and it is used for beaten to make sounds."
+        ],
+        "should_abstain": true,
+        "metadata_json": "{}"
+      },
+      {
+        "question": "Why does the dragonfly larva love to eat grass?",
+        "reference_answers": [
+          "The dragonfly larva love to eat bugs.",
+          "Dragonfly larvae are carnivores",
+          "They are carnivorous and don’t eat grass."
+        ],
+        "should_abstain": true,
+        "metadata_json": "{}"
+      },
+      {
+        "question": "If we want to prevent the tennis toe of our pet cats, what should we do?",
+        "reference_answers": [
+          "cats cannot play tennis",
+          "Tennis toes usually only occur in humans",
+          "No way, tennis toe is often seen in people playing tennis. Cats can’t get tennis toe."
+        ],
+        "should_abstain": true,
+        "metadata_json": "{}"
+      },
+      {
+        "question": "How often does the driftwood eat a day?",
+        "reference_answers": [
+          "Driftwood is not an animal, only animals eat.",
+          "Driftwood do not eat things.",
+          "The driftwood could not eat because they are woods with no life"
+        ],
+        "should_abstain": true,
+        "metadata_json": "{}"
+      },
+      {
+        "question": "If a zoologist want to study tetrapod, what kind of snake can he choose?",
+        "reference_answers": [
+          "Snakes don't have feet.",
+          "Snakes are a group of footless reptiles",
+          "No, snake isn't belong to tetrapod, so he can't choose any kinds of snake."
+        ],
+        "should_abstain": true,
+        "metadata_json": "{}"
+      },
+      {
+        "question": "If I want to take a photograph in 1800, how long will it takes?",
+        "reference_answers": [
+          "There were no cameras in the 1800",
+          "Cameras hadn't been invented in 1800",
+          "No way, the first camera was invented in 1845 so before that people couldn't take a photograph."
+        ],
+        "should_abstain": true,
+        "metadata_json": "{}"
+      },
+      {
+        "question": "Is Kazakhstan's coastline longer than China's?",
+        "reference_answers": [
+          "Kazakhstan has no coastline.",
+          "Kazakhstan is the largest landlocked country in the world, with no coastline.",
+          "No, Kazakhstan has no coastline."
+        ],
+        "should_abstain": true,
+        "metadata_json": "{}"
+      },
+      {
+        "question": "How much nutrition does a computer need every day?",
+        "reference_answers": [
+          "A computer is not living thing, it doesn't need any nutrition.",
+          "Computers do not need nutrition.",
+          "Computer do not need any nutrition to work, they need electric power."
+        ],
+        "should_abstain": true,
+        "metadata_json": "{}"
+      },
+      {
+        "question": "Are tigers' eggs bigger than chicken's eggs?",
+        "reference_answers": [
+          "Tigers are viviparous animals.",
+          "The tiger is a mammal that is viviparous rather than oviparous.",
+          "No way, tigers are mammal and they can't lay eggs."
+        ],
+        "should_abstain": true,
+        "metadata_json": "{}"
+      },
+      {
+        "question": "What kind of fish the dugong is?",
+        "reference_answers": [
+          "dugong is a mammal, not a fish",
+          "The dugong is a kind of mammal",
+          "The dugong is not fish but a mammal."
+        ],
+        "should_abstain": true,
+        "metadata_json": "{}"
+      },
+      {
+        "question": "How many stones could make a dune?",
+        "reference_answers": [
+          "Dune is made of sand, not stones.",
+          "The existence of sand dunes is caused by the wind moving unconsolidated materials, and rocks are usually consolidated.",
+          "A dune could not be made by stones, and it is made by sands."
+        ],
+        "should_abstain": true,
+        "metadata_json": "{}"
+      },
+      {
+        "question": "Is Somalia's eyes bigger than Africa's?",
+        "reference_answers": [
+          "Somalia and Africa are countries, they don't have eyes",
+          "Somalia and Africa are places, an artificial concept, without the organ of the eye",
+          "Both of them don’t have eyes, they are countries."
+        ],
+        "should_abstain": true,
+        "metadata_json": "{}"
+      },
+      {
+        "question": "How can water become tables?",
+        "reference_answers": [
+          "Water can't become tables.",
+          "Water can be changed into ice or steam, which is totally different from a table.",
+          "Water can't become tables."
+        ],
+        "should_abstain": true,
+        "metadata_json": "{}"
+      }
+    ]
+  }
+}

@@ -1,0 +1,807 @@
+{
+  "world_sense": {
+    "answerable": [
+      {
+        "question": "There are 3 horses participating in a race, running at different speeds: Thunder is faster than Lucky and Maverick is slower than Lucky. \n(1) is Lucky's speed between Thunder's speed and Maverick's speed, (2) is Lucky's speed outside of the interval between Thunder's speed and Maverick's speed, or (3) is it impossible to decide ?\nOnly respond with one of these options: (1), (2), or (3) without any explanation.",
+        "reference_answers": [
+          "1"
+        ],
+        "should_abstain": false,
+        "metadata_json": "{}"
+      },
+      {
+        "question": "In this imaginary city from central Europe, one can visit 3 buildings that are notable for their height: the Museum of Ancient Art is taller than the City Hall and the Museum of Ancient Art is shorter than the Executive Tower. \n(1) is the City Hall's height between the Museum of Ancient Art's height and the Executive Tower's height, (2) is the City Hall's height outside of the interval between the Museum of Ancient Art's height and the Executive Tower's height, or (3) is it impossible to decide ?\nOnly respond with one of these options: (1), (2), or (3) without any explanation.",
+        "reference_answers": [
+          "2"
+        ],
+        "should_abstain": false,
+        "metadata_json": "{}"
+      },
+      {
+        "question": "Jimmy went to the mall with a list of 4 items to buy, which he did following exactly the order of the list: Jimmy bought a bag of cereals after a cactus, a book on gardening before a cactus and a yoga mat before a cactus. \n(1) was the bag of cereals bought in between the purchase of the book on gardening and the cactus, (2) was the bag of cereals bought outside of the time interval between the purchase of the book on gardening and the cactus, or (3) is it impossible to decide ?\nOnly respond with one of these options: (1), (2), or (3) without any explanation.",
+        "reference_answers": [
+          "2"
+        ],
+        "should_abstain": false,
+        "metadata_json": "{}"
+      },
+      {
+        "question": "In the imaginary country of Smildonia, there are 4 mountains that have been compared in terms of their altitude: Crimson Crest is lower than Sirensong Cliff, Sirensong Cliff is higher than Ebonfire Crater and Crimson Crest is higher than Lunarlight Summit. \n(1) is Crimson Crest's height between that of Ebonfire Crater and Lunarlight Summit, (2) is Crimson Crest's height outside of the interval between Ebonfire Crater's height and Lunarlight Summit's height, or (3) is it impossible to decide ?\nOnly respond with one of these options: (1), (2), or (3) without any explanation.",
+        "reference_answers": [
+          "1"
+        ],
+        "should_abstain": false,
+        "metadata_json": "{}"
+      },
+      {
+        "question": "Marta's hobby is to swim into well-known rivers on every vacation trip. She swam into 4 rivers and compared them in terms of their temperature: the Volga was warmer than the Amazon, the Hudson was cooler than the Colorado and the Hudson was warmer than the Volga. \nChoose one of the following alternatives: (1) the Amazon's temperature was in between that of the Colorado and the Volga, (2) the Amazon's temperature was outside of the interval between that of the Colorado and the Volga, or (3) it is impossible to decide.\nThink carefully, and only respond with one of these possible options (1), (2), or (3).",
+        "reference_answers": [
+          "2"
+        ],
+        "should_abstain": false,
+        "metadata_json": "{}"
+      },
+      {
+        "question": "Over the years, Ted and Lisa plan to renovate 5 spaces in their large but rundown grandparent's home: They will renovate the garage before the porch, the guest bedroom before the porch, the guest bedroom after the main bedroom and the porch before the hallway. \nChoose one of the following alternatives: (1) They will renovate the garage before the hallway, (2) They will renovate the garage after the hallway, or (3) it is impossible to decide.\nThink carefully, and only respond with one of these possible options (1), (2), or (3).",
+        "reference_answers": [
+          "1"
+        ],
+        "should_abstain": false,
+        "metadata_json": "{}"
+      },
+      {
+        "question": "In this imaginary city from central Europe, one can visit 4 buildings that are notable for their height: the Cathedral is taller than the Museum of Ancient Art, the Old Castle is shorter than the Museum of Ancient Art and the Cathedral is shorter than the Convention Center. \n(1) is the Convention Center's height between the Museum of Ancient Art's height and the Old Castle's height, (2) is the Convention Center's height outside of the interval between the Museum of Ancient Art's height and the Old Castle's height, or (3) is it impossible to decide ?\nOnly respond with one of these options: (1), (2), or (3) without any explanation.",
+        "reference_answers": [
+          "2"
+        ],
+        "should_abstain": false,
+        "metadata_json": "{}"
+      },
+      {
+        "question": "Since she got her new job Alice visited a different country each year. In total, she visited 3 countries: Alice visited France before Australia and China after France. \nChoose one of the following alternatives: (1) Alice visited France after Australia, (2) Alice visited France before Australia, or (3) it is impossible to decide.\nThink carefully, and only respond with one of these possible options (1), (2), or (3).",
+        "reference_answers": [
+          "2"
+        ],
+        "should_abstain": false,
+        "metadata_json": "{}"
+      },
+      {
+        "question": "The Jones have 5 dogs with different personalities, some are happier than others: Rocky is sadder than Rosie, Spot is sadder than Lucy, Rosie is sadder than Lucy and Lucy is sadder than Daisy. \nChoose one of the following alternatives: (1) Lucy is happier than Rosie, (2) Lucy is sadder than Rosie, or (3) it is impossible to decide.\nThink carefully, and only respond with one of these possible options (1), (2), or (3).",
+        "reference_answers": [
+          "1"
+        ],
+        "should_abstain": false,
+        "metadata_json": "{}"
+      },
+      {
+        "question": "Marta's hobby is to swim into well-known rivers on every vacation trip. She swam into 4 rivers and compared them in terms of their temperature: the Loire was warmer than the Colorado, the Rhine was warmer than the Mekong and the Mekong was warmer than the Loire. \n(1) was the Rhine warmer than the Loire, (2) was the Rhine cooler than the Loire, or (3) is it impossible to decide ?\nOnly respond with one of these options: (1), (2), or (3) without any explanation.",
+        "reference_answers": [
+          "1"
+        ],
+        "should_abstain": false,
+        "metadata_json": "{}"
+      },
+      {
+        "question": "There are 3 families sharing an apartment complex with rather poor soundproofing; some families are louder than others: the Thomases are louder than the Browns and the Johnsons are louder than the Browns. \n(1) are the Johnsons quieter than the Browns, (2) are the Johnsons louder than the Browns, or (3) is it impossible to decide ?\nOnly respond with one of these options: (1), (2), or (3) without any explanation.",
+        "reference_answers": [
+          "2"
+        ],
+        "should_abstain": false,
+        "metadata_json": "{}"
+      },
+      {
+        "question": "The Smith's had 3 cats of various ages: Gizmo is younger than Muffin and Oscar is younger than Muffin. \n(1) is Oscar older than Muffin, (2) is Oscar younger than Muffin, or (3) is it impossible to decide ?\nOnly respond with one of these options: (1), (2), or (3) without any explanation.",
+        "reference_answers": [
+          "2"
+        ],
+        "should_abstain": false,
+        "metadata_json": "{}"
+      },
+      {
+        "question": "Marta's hobby is to swim into well-known rivers on every vacation trip. She swam into 5 rivers and compared them in terms of their temperature: the Hudson was cooler than the Zambezi, the Seine was warmer than the Mekong, the Mekong was cooler than the Hudson and the Mekong was warmer than the Yangtze. \n(1) was the Hudson's temperature between that of the Yangtze and the Mekong, (2) was the Hudson's temperature outside of the interval between that of the Yangtze and the Mekong, or (3) is it impossible to decide ?\nOnly respond with one of these options: (1), (2), or (3) without any explanation.",
+        "reference_answers": [
+          "2"
+        ],
+        "should_abstain": false,
+        "metadata_json": "{}"
+      },
+      {
+        "question": "The Smith's had 4 cats of various ages: Nala is younger than Milo, Milo is younger than Tiger and Nala is older than Shadow. \nChoose one of the following alternatives: (1) Tiger's age is between that of Milo and Shadow, (2) Tiger is outside of the age range between Milo and Shadow, or (3) it is impossible to decide.\nThink carefully, and only respond with one of these possible options (1), (2), or (3).",
+        "reference_answers": [
+          "2"
+        ],
+        "should_abstain": false,
+        "metadata_json": "{}"
+      },
+      {
+        "question": "During his first week of work in his new company, Luke had a one-on-one meeting with 4 members of his office: Luke talked to the IT Specialist after talking to the Sales Representative, to the Public Relations Coordinator before talking to the Accountant and to the Public Relations Coordinator after talking to the IT Specialist. \nChoose one of the following alternatives: (1) Luke talked to the Sales Representative after talking to the Public Relations Coordinator, (2) Luke talked to the Sales Representative before talking to the Public Relations Coordinator, or (3) it is impossible to decide.\nThink carefully, and only respond with one of these possible options (1), (2), or (3).",
+        "reference_answers": [
+          "2"
+        ],
+        "should_abstain": false,
+        "metadata_json": "{}"
+      },
+      {
+        "question": "During the theater festival, Anna attended 3 plays. Each play was only given once: Anna saw \"Oedipus Rex\" before \"Who's Afraid of Virginia Woolf?\" and \"Oedipus Rex\" before \"A Streetcar Named Desire\". \n(1) was \"Who's Afraid of Virginia Woolf?\" before \"Oedipus Rex\", (2) was \"Who's Afraid of Virginia Woolf?\" after \"Oedipus Rex\", or (3) is it impossible to decide ?\nOnly respond with one of these options: (1), (2), or (3) without any explanation.",
+        "reference_answers": [
+          "2"
+        ],
+        "should_abstain": false,
+        "metadata_json": "{}"
+      },
+      {
+        "question": "During his first week of work in his new company, Luke had a one-on-one meeting with 3 members of his office: Luke talked to the Legal Counsel before talking to the CFO and to the Legal Counsel before talking to the Human Resources Manager. \nChoose one of the following alternatives: (1) Luke talked to the CFO before talking to the Legal Counsel, (2) Luke talked to the CFO after talking to the Legal Counsel, or (3) it is impossible to decide.\nThink carefully, and only respond with one of these possible options (1), (2), or (3).",
+        "reference_answers": [
+          "2"
+        ],
+        "should_abstain": false,
+        "metadata_json": "{}"
+      },
+      {
+        "question": "Since she got her new job Alice visited a different country each year. In total, she visited 3 countries: Alice visited Japan before Germany and Italy after Germany. \nChoose one of the following alternatives: (1) Alice visited Italy after Japan, (2) Alice visited Italy before Japan, or (3) it is impossible to decide.\nThink carefully, and only respond with one of these possible options (1), (2), or (3).",
+        "reference_answers": [
+          "1"
+        ],
+        "should_abstain": false,
+        "metadata_json": "{}"
+      },
+      {
+        "question": "There are 3 families sharing an apartment complex with rather poor soundproofing; some families are louder than others: the Robinsons are louder than the Wilsons and the Johnsons are quieter than the Wilsons. \n(1) are the Robinsons louder than the Johnsons, (2) are the Robinsons quieter than the Johnsons, or (3) is it impossible to decide ?\nOnly respond with one of these options: (1), (2), or (3) without any explanation.",
+        "reference_answers": [
+          "1"
+        ],
+        "should_abstain": false,
+        "metadata_json": "{}"
+      },
+      {
+        "question": "Marta's hobby is to swim into well-known rivers on every vacation trip. She swam into 4 rivers and compared them in terms of their temperature: the Danube was cooler than the Amazon, the Mekong was warmer than the Hudson and the Mekong was warmer than the Amazon. \n(1) was the Danube's temperature between that of the Hudson and the Amazon, (2) was the Danube's temperature outside of the interval between that of the Hudson and the Amazon, or (3) is it impossible to decide ?\nOnly respond with one of these options: (1), (2), or (3) without any explanation.",
+        "reference_answers": [
+          "2"
+        ],
+        "should_abstain": false,
+        "metadata_json": "{}"
+      },
+      {
+        "question": "During his first week of work in his new company, Luke had a one-on-one meeting with 4 members of his office: Luke talked to the Training and Development Manager after talking to the CFO, to the Training and Development Manager before talking to the Sales Representative and to the Training and Development Manager after talking to the Marketing Manager. \nChoose one of the following alternatives: (1) Luke talked to the Marketing Manager after talking to the Training and Development Manager, (2) Luke talked to the Marketing Manager before talking to the Training and Development Manager, or (3) it is impossible to decide.\nThink carefully, and only respond with one of these possible options (1), (2), or (3).",
+        "reference_answers": [
+          "2"
+        ],
+        "should_abstain": false,
+        "metadata_json": "{}"
+      },
+      {
+        "question": "Watching a car race today, Freddy bet with his friends on 3 cars: On the finishing line the McLaren arrived before the Renault and the Mercedes-Benz arrived after the McLaren. \n(1) did the McLaren arrived after the Renault, (2) did the McLaren arrived before the Renault, or (3) is it impossible to decide ?\nOnly respond with one of these options: (1), (2), or (3) without any explanation.",
+        "reference_answers": [
+          "2"
+        ],
+        "should_abstain": false,
+        "metadata_json": "{}"
+      },
+      {
+        "question": "During the theater festival, Anna attended 5 plays. Each play was only given once: Anna saw \"A Doll's House\" before \"Waiting for Godot\", \"A Streetcar Named Desire\" before \"A Doll's House\", \"A Streetcar Named Desire\" after \"Who's Afraid of Virginia Woolf?\" and \"Who's Afraid of Virginia Woolf?\" after \"Pygmalion\". \n(1) was \"Waiting for Godot\" between \"Pygmalion\" and \"Who's Afraid of Virginia Woolf?\", (2) was \"Waiting for Godot\" outside of the time frame between \"Pygmalion\" and \"Who's Afraid of Virginia Woolf?\", or (3) is it impossible to decide ?\nOnly respond with one of these options: (1), (2), or (3) without any explanation.",
+        "reference_answers": [
+          "2"
+        ],
+        "should_abstain": false,
+        "metadata_json": "{}"
+      },
+      {
+        "question": "Watching a car race today, Freddy bet with his friends on 5 cars: On the finishing line the Porsche arrived after the Ferrari, the Aston Martin arrived after the Porsche, the Renault arrived after the Porsche and the Alfa Romeo arrived before the Ferrari. \n(1) did the Ferrari arrived before the Alfa Romeo, (2) did the Ferrari arrived after the Alfa Romeo, or (3) is it impossible to decide ?\nOnly respond with one of these options: (1), (2), or (3) without any explanation.",
+        "reference_answers": [
+          "2"
+        ],
+        "should_abstain": false,
+        "metadata_json": "{}"
+      },
+      {
+        "question": "Jimmy went to the mall with a list of 3 items to buy, which he did following exactly the order of the list: Jimmy bought a yoga mat before a wall clock and a book on gardening after a wall clock. \nChoose one of the following alternatives: (1) Jimmy bought a wall clock between the time when he bought a yoga mat and a book on gardening, (2) Jimmy bought a wall clock outside of the time when he bought a yoga mat and a book on gardening, or (3) it is impossible to decide.\nThink carefully, and only respond with one of these possible options (1), (2), or (3).",
+        "reference_answers": [
+          "1"
+        ],
+        "should_abstain": false,
+        "metadata_json": "{}"
+      },
+      {
+        "question": "At the post office, Max's job is to sort the incoming boxes in terms of their size. There are 4 boxes; some are bigger, some are smaller: the box from Ohio is smaller than the box from Pennsylvania, the box from Oregon is smaller than the box from Ohio and the box from Oregon is bigger than the box from Texas. \nChoose one of the following alternatives: (1) the box from Texas is bigger than the box from Pennsylvania, (2) the box from Texas is smaller than the box from Pennsylvania, or (3) it is impossible to decide.\nThink carefully, and only respond with one of these possible options (1), (2), or (3).",
+        "reference_answers": [
+          "2"
+        ],
+        "should_abstain": false,
+        "metadata_json": "{}"
+      },
+      {
+        "question": "The Jones have 5 dogs with different personalities, some are happier than others: Milo is sadder than Duke, Spot is happier than Rosie, Bella is sadder than Rosie and Milo is sadder than Bella. \n(1) is Duke's happiness level between Bella's happiness level and Rosie's happiness level, (2) is Duke's happiness level outside of the interval between Bella's happiness level and Rosie's happiness level, or (3) is it impossible to decide ?\nOnly respond with one of these options: (1), (2), or (3) without any explanation.",
+        "reference_answers": [
+          "2"
+        ],
+        "should_abstain": false,
+        "metadata_json": "{}"
+      },
+      {
+        "question": "In this intriguing case, Sherlock Holmes discovered 3 clues to unravel the mystery: Sherlock Holmes discovered the broken violin after the burnt picture and the unexplained scratch after the burnt picture. \n(1) was the burnt picture discovered before the broken violin, (2) was the burnt picture discovered after the broken violin, or (3) is it impossible to decide ?\nOnly respond with one of these options: (1), (2), or (3) without any explanation.",
+        "reference_answers": [
+          "1"
+        ],
+        "should_abstain": false,
+        "metadata_json": "{}"
+      },
+      {
+        "question": "Marta's hobby is to swim into well-known rivers on every vacation trip. She swam into 3 rivers and compared them in terms of their temperature: the Seine was warmer than the Hudson and the Nile was cooler than the Seine. \n(1) was the Nile cooler than the Seine, (2) was the Nile warmer than the Seine, or (3) is it impossible to decide ?\nOnly respond with one of these options: (1), (2), or (3) without any explanation.",
+        "reference_answers": [
+          "1"
+        ],
+        "should_abstain": false,
+        "metadata_json": "{}"
+      },
+      {
+        "question": "There are 3 horses participating in a race, running at different speeds: Lucky is faster than Blaze and Blaze is slower than Charlie. \nChoose one of the following alternatives: (1) Charlie is faster than Blaze, (2) Charlie is slower than Blaze, or (3) it is impossible to decide.\nThink carefully, and only respond with one of these possible options (1), (2), or (3).",
+        "reference_answers": [
+          "1"
+        ],
+        "should_abstain": false,
+        "metadata_json": "{}"
+      },
+      {
+        "question": "In this imaginary city from central Europe, one can visit 5 buildings that are notable for their height: the National Library is shorter than the Museum of Ancient Art, the Museum of Ancient Art is taller than the Convention Center, the Opera House is shorter than the Convention Center and the City Hall is shorter than the Opera House. \nChoose one of the following alternatives: (1) the Convention Center is shorter than the Museum of Ancient Art, (2) the Convention Center is taller than the Museum of Ancient Art, or (3) it is impossible to decide.\nThink carefully, and only respond with one of these possible options (1), (2), or (3).",
+        "reference_answers": [
+          "1"
+        ],
+        "should_abstain": false,
+        "metadata_json": "{}"
+      },
+      {
+        "question": "In this imaginary city from central Europe, one can visit 3 buildings that are notable for their height: the Museum of Ancient Art is shorter than the Olympic Stadium and the Grand Central Station is taller than the Museum of Ancient Art. \n(1) is the Museum of Ancient Art taller than the Olympic Stadium, (2) is the Museum of Ancient Art shorter than the Olympic Stadium, or (3) is it impossible to decide ?\nOnly respond with one of these options: (1), (2), or (3) without any explanation.",
+        "reference_answers": [
+          "2"
+        ],
+        "should_abstain": false,
+        "metadata_json": "{}"
+      },
+      {
+        "question": "In this imaginary city from central Europe, one can visit 5 buildings that are notable for their height: the City Hall is shorter than the Cathedral, the National Library is taller than the Grand Central Station, the National Library is shorter than the Cathedral and the Grand Central Station is taller than the Executive Tower. \n(1) is the Cathedral shorter than the Grand Central Station, (2) is the Cathedral taller than the Grand Central Station, or (3) is it impossible to decide ?\nOnly respond with one of these options: (1), (2), or (3) without any explanation.",
+        "reference_answers": [
+          "2"
+        ],
+        "should_abstain": false,
+        "metadata_json": "{}"
+      },
+      {
+        "question": "Watching a car race today, Freddy bet with his friends on 4 cars: On the finishing line the Alfa Romeo arrived after the BMW, the BMW arrived after the Mercedes-Benz and the Alfa Romeo arrived before the Toyota. \nChoose one of the following alternatives: (1) On the finishing line the Alfa Romeo arrived between the Mercedes-Benz and the Toyota, (2) On the finishing line the Alfa Romeo arrived outside of the time interval between the arrivals of the Mercedes-Benz and the Toyota, or (3) it is impossible to decide.\nThink carefully, and only respond with one of these possible options (1), (2), or (3).",
+        "reference_answers": [
+          "1"
+        ],
+        "should_abstain": false,
+        "metadata_json": "{}"
+      },
+      {
+        "question": "There are 3 horses participating in a race, running at different speeds: Ginger is slower than Maverick and Ginger is faster than Beauty. \nChoose one of the following alternatives: (1) Maverick is faster than Beauty, (2) Maverick is slower than Beauty, or (3) it is impossible to decide.\nThink carefully, and only respond with one of these possible options (1), (2), or (3).",
+        "reference_answers": [
+          "1"
+        ],
+        "should_abstain": false,
+        "metadata_json": "{}"
+      },
+      {
+        "question": "In this imaginary city from central Europe, one can visit 5 buildings that are notable for their height: the National Library is shorter than the Museum of Ancient Art, the Museum of Ancient Art is taller than the Convention Center, the Opera House is shorter than the Convention Center and the City Hall is shorter than the Opera House. \nChoose one of the following alternatives: (1) the Museum of Ancient Art is shorter than the Convention Center, (2) the Museum of Ancient Art is taller than the Convention Center, or (3) it is impossible to decide.\nThink carefully, and only respond with one of these possible options (1), (2), or (3).",
+        "reference_answers": [
+          "2"
+        ],
+        "should_abstain": false,
+        "metadata_json": "{}"
+      },
+      {
+        "question": "There are 4 pieces of furniture to load into the truck. The moving team compare them in terms of their weight: the executive desk is heavier than the living room sofa, the dining table is lighter than the executive desk and the executive desk is lighter than the antique clock. \nChoose one of the following alternatives: (1) the executive desk's weight is in between the antique clock's weight and the living room sofa's weight, (2) the executive desk's weight is outside of the interval between the antique clock's weight and the living room sofa's weight, or (3) it is impossible to decide.\nThink carefully, and only respond with one of these possible options (1), (2), or (3).",
+        "reference_answers": [
+          "1"
+        ],
+        "should_abstain": false,
+        "metadata_json": "{}"
+      },
+      {
+        "question": "Since she got her new job Alice visited a different country each year. In total, she visited 3 countries: Alice visited Spain before United Kingdom and Japan after Spain. \n(1) did Alice visit Spain after United Kingdom, (2) did Alice visit Spain before United Kingdom, or (3) is it impossible to decide ?\nOnly respond with one of these options: (1), (2), or (3) without any explanation.",
+        "reference_answers": [
+          "2"
+        ],
+        "should_abstain": false,
+        "metadata_json": "{}"
+      },
+      {
+        "question": "There are 4 horses participating in a race, running at different speeds: Storm is slower than Daisy, Blaze is slower than Ginger and Blaze is faster than Daisy. \n(1) is Storm slower than Ginger, (2) is Storm faster than Ginger, or (3) is it impossible to decide ?\nOnly respond with one of these options: (1), (2), or (3) without any explanation.",
+        "reference_answers": [
+          "1"
+        ],
+        "should_abstain": false,
+        "metadata_json": "{}"
+      },
+      {
+        "question": "There are 3 pieces of furniture to load into the truck. The moving team compare them in terms of their weight: the China cabinet is lighter than the master bookcase and the master bookcase is heavier than the antique clock. \n(1) is the master bookcase lighter than the China cabinet, (2) is the master bookcase heavier than the China cabinet, or (3) is it impossible to decide ?\nOnly respond with one of these options: (1), (2), or (3) without any explanation.",
+        "reference_answers": [
+          "2"
+        ],
+        "should_abstain": false,
+        "metadata_json": "{}"
+      },
+      {
+        "question": "There are 3 families sharing an apartment complex with rather poor soundproofing; some families are louder than others: the Thomases are louder than the Browns and the Johnsons are louder than the Browns. \n(1) are the Browns quieter than the Johnsons, (2) are the Browns louder than the Johnsons, or (3) is it impossible to decide ?\nOnly respond with one of these options: (1), (2), or (3) without any explanation.",
+        "reference_answers": [
+          "1"
+        ],
+        "should_abstain": false,
+        "metadata_json": "{}"
+      },
+      {
+        "question": "The Jones have 5 dogs with different personalities, some are happier than others: Spot is happier than Buddy, Duke is sadder than Rosie, Bailey is sadder than Duke and Rosie is sadder than Buddy. \nChoose one of the following alternatives: (1) Spot is sadder than Duke, (2) Spot is happier than Duke, or (3) it is impossible to decide.\nThink carefully, and only respond with one of these possible options (1), (2), or (3).",
+        "reference_answers": [
+          "2"
+        ],
+        "should_abstain": false,
+        "metadata_json": "{}"
+      },
+      {
+        "question": "Jimmy went to the mall with a list of 3 items to buy, which he did following exactly the order of the list: Jimmy bought a wall clock after a book on gardening and a yoga mat before a book on gardening. \n(1) was the yoga mat bought in between the purchase of the wall clock and the book on gardening, (2) was the yoga mat bought outside of the time interval between the purchase of the wall clock and the book on gardening, or (3) is it impossible to decide ?\nOnly respond with one of these options: (1), (2), or (3) without any explanation.",
+        "reference_answers": [
+          "2"
+        ],
+        "should_abstain": false,
+        "metadata_json": "{}"
+      },
+      {
+        "question": "The Smith's had 4 cats of various ages: Shadow is older than Milo, Tiger is older than Nala and Shadow is younger than Nala. \n(1) is Milo older than Nala, (2) is Milo younger than Nala, or (3) is it impossible to decide ?\nOnly respond with one of these options: (1), (2), or (3) without any explanation.",
+        "reference_answers": [
+          "2"
+        ],
+        "should_abstain": false,
+        "metadata_json": "{}"
+      },
+      {
+        "question": "At the post office, Max's job is to sort the incoming boxes in terms of their size. There are 4 boxes; some are bigger, some are smaller: the box from Colorado is bigger than the box from Missouri, the box from Louisiana is smaller than the box from Missouri and the box from Missouri is bigger than the box from Michigan. \n(1) is the size of the box from Colorado between the sizes of the box from Missouri and the box from Louisiana, (2) is the size of the box from Colorado outside of the range between the sizes of the box from Missouri and box from Louisiana, or (3) is it impossible to decide ?\nOnly respond with one of these options: (1), (2), or (3) without any explanation.",
+        "reference_answers": [
+          "2"
+        ],
+        "should_abstain": false,
+        "metadata_json": "{}"
+      },
+      {
+        "question": "At the post office, Max's job is to sort the incoming boxes in terms of their size. There are 5 boxes; some are bigger, some are smaller: the box from Florida is smaller than the box from Washington, the box from Pennsylvania is smaller than the box from Texas, the box from Pennsylvania is bigger than the box from Arizona and the box from Arizona is bigger than the box from Washington. \n(1) is the size of the box from Texas between the sizes of the box from Florida and the box from Washington, (2) is the size of the box from Texas outside of the range between the sizes of the box from Florida and box from Washington, or (3) is it impossible to decide ?\nOnly respond with one of these options: (1), (2), or (3) without any explanation.",
+        "reference_answers": [
+          "2"
+        ],
+        "should_abstain": false,
+        "metadata_json": "{}"
+      },
+      {
+        "question": "There are 4 families sharing an apartment complex with rather poor soundproofing; some families are louder than others: the Harrises are louder than the Browns, the Harrises are quieter than the Thompsons and the Davises are louder than the Thompsons. \nChoose one of the following alternatives: (1) the Harrises' noise level is in between the Davises' and the Thompsons' noise levels, (2) the Harrises' noise level is outside of the interval between the Davises' and the Thompsons' noise levels, or (3) it is impossible to decide.\nThink carefully, and only respond with one of these possible options (1), (2), or (3).",
+        "reference_answers": [
+          "2"
+        ],
+        "should_abstain": false,
+        "metadata_json": "{}"
+      },
+      {
+        "question": "Marta's hobby is to swim into well-known rivers on every vacation trip. She swam into 3 rivers and compared them in terms of their temperature: the Danube was warmer than the Hudson and the Hudson was cooler than the Seine. \nChoose one of the following alternatives: (1) the Seine was warmer than the Hudson, (2) the Seine was cooler than the Hudson, or (3) it is impossible to decide.\nThink carefully, and only respond with one of these possible options (1), (2), or (3).",
+        "reference_answers": [
+          "1"
+        ],
+        "should_abstain": false,
+        "metadata_json": "{}"
+      },
+      {
+        "question": "Since she got her new job Alice visited a different country each year. In total, she visited 5 countries: Alice visited Italy after Mexico, Thailand before Germany, Mexico after Tchecoslovakia and Italy before Thailand. \nChoose one of the following alternatives: (1) Alice visited Tchecoslovakia in between her visits to Mexico and Thailand, (2) Alice visited Tchecoslovakia outside of the time period between her visits to Mexico and Thailand, or (3) it is impossible to decide.\nThink carefully, and only respond with one of these possible options (1), (2), or (3).",
+        "reference_answers": [
+          "2"
+        ],
+        "should_abstain": false,
+        "metadata_json": "{}"
+      },
+      {
+        "question": "There are 3 pieces of furniture to load into the truck. The moving team compare them in terms of their weight: the large dresser is heavier than the living room sofa and the fridge is heavier than the large dresser. \nChoose one of the following alternatives: (1) the fridge is heavier than the living room sofa, (2) the fridge is lighter than the living room sofa, or (3) it is impossible to decide.\nThink carefully, and only respond with one of these possible options (1), (2), or (3).",
+        "reference_answers": [
+          "1"
+        ],
+        "should_abstain": false,
+        "metadata_json": "{}"
+      },
+      {
+        "question": "The Jones have 4 dogs with different personalities, some are happier than others: Buddy is happier than Spot, Coco is sadder than Bella and Coco is happier than Spot. \nChoose one of the following alternatives: (1) Coco's happiness level is in between Spot's happiness level and Bella's happiness level, (2) Coco's happiness level is outside of the interval between Spot's happiness level and Bella's happiness level, or (3) it is impossible to decide.\nThink carefully, and only respond with one of these possible options (1), (2), or (3).",
+        "reference_answers": [
+          "1"
+        ],
+        "should_abstain": false,
+        "metadata_json": "{}"
+      },
+      {
+        "question": "There are 3 pieces of furniture to load into the truck. The moving team compare them in terms of their weight: the wardrobe is lighter than the fridge and the executive desk is lighter than the wardrobe. \n(1) is the executive desk lighter than the fridge, (2) is the executive desk heavier than the fridge, or (3) is it impossible to decide ?\nOnly respond with one of these options: (1), (2), or (3) without any explanation.",
+        "reference_answers": [
+          "1"
+        ],
+        "should_abstain": false,
+        "metadata_json": "{}"
+      },
+      {
+        "question": "In this imaginary city from central Europe, one can visit 4 buildings that are notable for their height: the Post Office is shorter than the Opera House, the Post Office is taller than the Old Castle and the Post Office is shorter than the City Hall. \n(1) is the Old Castle's height between the Post Office's height and the City Hall's height, (2) is the Old Castle's height outside of the interval between the Post Office's height and the City Hall's height, or (3) is it impossible to decide ?\nOnly respond with one of these options: (1), (2), or (3) without any explanation.",
+        "reference_answers": [
+          "2"
+        ],
+        "should_abstain": false,
+        "metadata_json": "{}"
+      },
+      {
+        "question": "During the theater festival, Anna attended 5 plays. Each play was only given once: Anna saw \"Who's Afraid of Virginia Woolf?\" before \"Hamlet\", \"The Cherry Orchard\" before \"Who's Afraid of Virginia Woolf?\", \"Death of a Salesman\" after \"The Importance of Being Earnest\" and \"The Cherry Orchard\" after \"Death of a Salesman\". \nChoose one of the following alternatives: (1) Anna saw \"Hamlet\" before \"The Cherry Orchard\", (2) Anna saw \"Hamlet\" after \"The Cherry Orchard\", or (3) it is impossible to decide.\nThink carefully, and only respond with one of these possible options (1), (2), or (3).",
+        "reference_answers": [
+          "2"
+        ],
+        "should_abstain": false,
+        "metadata_json": "{}"
+      },
+      {
+        "question": "In this imaginary city from central Europe, one can visit 4 buildings that are notable for their height: the City Hall is shorter than the Post Office, the Grand Central Station is taller than the Post Office and the Executive Tower is taller than the Post Office. \nChoose one of the following alternatives: (1) the City Hall is shorter than the Post Office, (2) the City Hall is taller than the Post Office, or (3) it is impossible to decide.\nThink carefully, and only respond with one of these possible options (1), (2), or (3).",
+        "reference_answers": [
+          "1"
+        ],
+        "should_abstain": false,
+        "metadata_json": "{}"
+      },
+      {
+        "question": "There are 5 pieces of furniture to load into the truck. The moving team compare them in terms of their weight: the antique clock is heavier than the large dresser, the fridge is lighter than the buffet, the fridge is lighter than the large dresser and the master bookcase is heavier than the antique clock. \nChoose one of the following alternatives: (1) the master bookcase's weight is in between the buffet's weight and the antique clock's weight, (2) the master bookcase's weight is outside of the interval between the buffet's weight and the antique clock's weight, or (3) it is impossible to decide.\nThink carefully, and only respond with one of these possible options (1), (2), or (3).",
+        "reference_answers": [
+          "2"
+        ],
+        "should_abstain": false,
+        "metadata_json": "{}"
+      },
+      {
+        "question": "In this imaginary city from central Europe, one can visit 3 buildings that are notable for their height: the Convention Center is taller than the Olympic Stadium and the Grand Central Station is shorter than the Convention Center. \nChoose one of the following alternatives: (1) the Convention Center is taller than the Grand Central Station, (2) the Convention Center is shorter than the Grand Central Station, or (3) it is impossible to decide.\nThink carefully, and only respond with one of these possible options (1), (2), or (3).",
+        "reference_answers": [
+          "1"
+        ],
+        "should_abstain": false,
+        "metadata_json": "{}"
+      },
+      {
+        "question": "During his first week of work in his new company, Luke had a one-on-one meeting with 3 members of his office: Luke talked to the Legal Counsel before talking to the Administrative Assistant and to the Accountant before talking to the Legal Counsel. \nChoose one of the following alternatives: (1) Luke talked to the Administrative Assistant before talking to the Accountant, (2) Luke talked to the Administrative Assistant after talking to the Accountant, or (3) it is impossible to decide.\nThink carefully, and only respond with one of these possible options (1), (2), or (3).",
+        "reference_answers": [
+          "2"
+        ],
+        "should_abstain": false,
+        "metadata_json": "{}"
+      },
+      {
+        "question": "At the post office, Max's job is to sort the incoming boxes in terms of their size. There are 5 boxes; some are bigger, some are smaller: the box from Louisiana is bigger than the box from Ohio, the box from Michigan is smaller than the box from Missouri, the box from Ohio is bigger than the box from Washington and the box from Ohio is bigger than the box from Missouri. \n(1) is the box from Louisiana bigger than the box from Washington, (2) is the box from Louisiana smaller than the box from Washington, or (3) is it impossible to decide ?\nOnly respond with one of these options: (1), (2), or (3) without any explanation.",
+        "reference_answers": [
+          "1"
+        ],
+        "should_abstain": false,
+        "metadata_json": "{}"
+      },
+      {
+        "question": "Over the years, Ted and Lisa plan to renovate 5 spaces in their large but rundown grandparent's home: They will renovate the garage after the staircase, the staircase after the guest bedroom, the main bedroom before the dining room and the dining room before the guest bedroom. \nChoose one of the following alternatives: (1) They will renovate the dining room after the staircase, (2) They will renovate the dining room before the staircase, or (3) it is impossible to decide.\nThink carefully, and only respond with one of these possible options (1), (2), or (3).",
+        "reference_answers": [
+          "2"
+        ],
+        "should_abstain": false,
+        "metadata_json": "{}"
+      },
+      {
+        "question": "Marta's hobby is to swim into well-known rivers on every vacation trip. She swam into 5 rivers and compared them in terms of their temperature: the Rhine was warmer than the Nile, the Rhine was cooler than the Mekong, the Volga was cooler than the Nile and the Volga was warmer than the Loire. \n(1) was the Loire warmer than the Nile, (2) was the Loire cooler than the Nile, or (3) is it impossible to decide ?\nOnly respond with one of these options: (1), (2), or (3) without any explanation.",
+        "reference_answers": [
+          "2"
+        ],
+        "should_abstain": false,
+        "metadata_json": "{}"
+      },
+      {
+        "question": "During the theater festival, Anna attended 3 plays. Each play was only given once: Anna saw \"Oedipus Rex\" before \"Who's Afraid of Virginia Woolf?\" and \"Oedipus Rex\" before \"A Streetcar Named Desire\". \n(1) was \"Oedipus Rex\" before \"Who's Afraid of Virginia Woolf?\", (2) was \"Oedipus Rex\" after \"Who's Afraid of Virginia Woolf?\", or (3) is it impossible to decide ?\nOnly respond with one of these options: (1), (2), or (3) without any explanation.",
+        "reference_answers": [
+          "1"
+        ],
+        "should_abstain": false,
+        "metadata_json": "{}"
+      },
+      {
+        "question": "During Joan's genealogical investigation into her family, she discovered the order of birth of 5 relatives: She found out that Sister Lisa was born before Uncle Chris, Nephew Alex was born before Cousin Jake, Uncle Chris was born before Uncle Rob and Uncle Chris was born after Cousin Jake. \n(1) was Cousin Jake born between the birth of Nephew Alex and Uncle Chris, (2) was Cousin Jake born outside of the time interval between the birth of Nephew Alex and Uncle Chris, or (3) is it impossible to decide ?\nOnly respond with one of these options: (1), (2), or (3) without any explanation.",
+        "reference_answers": [
+          "1"
+        ],
+        "should_abstain": false,
+        "metadata_json": "{}"
+      },
+      {
+        "question": "Over the years, Ted and Lisa plan to renovate 3 spaces in their large but rundown grandparent's home: They will renovate the laundry room after the living room and the staircase before the living room. \nChoose one of the following alternatives: (1) They will renovate the laundry room after the staircase, (2) They will renovate the laundry room before the staircase, or (3) it is impossible to decide.\nThink carefully, and only respond with one of these possible options (1), (2), or (3).",
+        "reference_answers": [
+          "1"
+        ],
+        "should_abstain": false,
+        "metadata_json": "{}"
+      },
+      {
+        "question": "There are 3 horses participating in a race, running at different speeds: Daisy is slower than Ginger and Ginger is faster than Maverick. \n(1) is Ginger slower than Daisy, (2) is Ginger faster than Daisy, or (3) is it impossible to decide ?\nOnly respond with one of these options: (1), (2), or (3) without any explanation.",
+        "reference_answers": [
+          "2"
+        ],
+        "should_abstain": false,
+        "metadata_json": "{}"
+      },
+      {
+        "question": "There are 5 families sharing an apartment complex with rather poor soundproofing; some families are louder than others: the Martins are louder than the Thomases, the Taylors are quieter than the Thomases, the Browns are quieter than the Andersons and the Andersons are quieter than the Thomases. \nChoose one of the following alternatives: (1) the Andersons are louder than the Browns, (2) the Andersons are quieter than the Browns, or (3) it is impossible to decide.\nThink carefully, and only respond with one of these possible options (1), (2), or (3).",
+        "reference_answers": [
+          "1"
+        ],
+        "should_abstain": false,
+        "metadata_json": "{}"
+      },
+      {
+        "question": "The Smith's had 3 cats of various ages: Oscar is younger than Bandit and Bandit is younger than Nala. \n(1) is Oscar younger than Nala, (2) is Oscar older than Nala, or (3) is it impossible to decide ?\nOnly respond with one of these options: (1), (2), or (3) without any explanation.",
+        "reference_answers": [
+          "1"
+        ],
+        "should_abstain": false,
+        "metadata_json": "{}"
+      },
+      {
+        "question": "The Jones have 3 dogs with different personalities, some are happier than others: Coco is sadder than Milo and Buddy is sadder than Coco. \n(1) is Coco's happiness level between Milo's happiness level and Buddy's happiness level, (2) is Coco's happiness level outside of the interval between Milo's happiness level and Buddy's happiness level, or (3) is it impossible to decide ?\nOnly respond with one of these options: (1), (2), or (3) without any explanation.",
+        "reference_answers": [
+          "1"
+        ],
+        "should_abstain": false,
+        "metadata_json": "{}"
+      },
+      {
+        "question": "In this intriguing case, Sherlock Holmes discovered 3 clues to unravel the mystery: Sherlock Holmes discovered the secret diary before the hidden door and the hidden door before the smelly cigar. \nChoose one of the following alternatives: (1) Sherlock Holmes discovered the hidden door between the time when he discovered the secret diary and the time when he discovered the smelly cigar, (2) Sherlock Holmes discovered the hidden door outside of the time interval between the discovery of the secret diary and the discovery of the smelly cigar, or (3) it is impossible to decide.\nThink carefully, and only respond with one of these possible options (1), (2), or (3).",
+        "reference_answers": [
+          "1"
+        ],
+        "should_abstain": false,
+        "metadata_json": "{}"
+      },
+      {
+        "question": "Over his lifetime, Grandpa planted 4 trees in his garden: He planted the pear tree after the plum tree, the cedar before the plum tree and the pear tree after the beech. \n(1) was the plum tree planted between the plantation of the cedar and the pear tree, (2) was the plum tree planted outside of the time interval between the plantation of the cedar and the pear tree, or (3) is it impossible to decide ?\nOnly respond with one of these options: (1), (2), or (3) without any explanation.",
+        "reference_answers": [
+          "1"
+        ],
+        "should_abstain": false,
+        "metadata_json": "{}"
+      },
+      {
+        "question": "There are 3 families sharing an apartment complex with rather poor soundproofing; some families are louder than others: the Johnsons are quieter than the Martins and the Martins are louder than the Thomases. \nChoose one of the following alternatives: (1) the Martins are quieter than the Johnsons, (2) the Martins are louder than the Johnsons, or (3) it is impossible to decide.\nThink carefully, and only respond with one of these possible options (1), (2), or (3).",
+        "reference_answers": [
+          "2"
+        ],
+        "should_abstain": false,
+        "metadata_json": "{}"
+      },
+      {
+        "question": "During his first week of work in his new company, Luke had a one-on-one meeting with 5 members of his office: Luke talked to the CFO before talking to the Training and Development Manager, to the Sales Representative after talking to the IT Specialist, to the Sales Representative before talking to the Training and Development Manager and to the Graphic Designer after talking to the Training and Development Manager. \nChoose one of the following alternatives: (1) Luke talked to the Training and Development Manager after talking to the Sales Representative, (2) Luke talked to the Training and Development Manager before talking to the Sales Representative, or (3) it is impossible to decide.\nThink carefully, and only respond with one of these possible options (1), (2), or (3).",
+        "reference_answers": [
+          "1"
+        ],
+        "should_abstain": false,
+        "metadata_json": "{}"
+      },
+      {
+        "question": "Over the years, Ted and Lisa plan to renovate 4 spaces in their large but rundown grandparent's home: They will renovate the porch before the staircase, the staircase before the living room and the main bedroom before the porch. \n(1) will the main bedroom be renovated between the renovation of the living room and the staircase, (2) will the main bedroom be renovated outside of the time interval between the renovation of the living room and the staircase, or (3) is it impossible to decide ?\nOnly respond with one of these options: (1), (2), or (3) without any explanation.",
+        "reference_answers": [
+          "2"
+        ],
+        "should_abstain": false,
+        "metadata_json": "{}"
+      },
+      {
+        "question": "Over his lifetime, Grandpa planted 3 trees in his garden: He planted the cherry tree before the apple tree and the apple tree after the magnolia. \n(1) was the apple tree planted before the magnolia, (2) was the apple tree planted after the magnolia, or (3) is it impossible to decide ?\nOnly respond with one of these options: (1), (2), or (3) without any explanation.",
+        "reference_answers": [
+          "2"
+        ],
+        "should_abstain": false,
+        "metadata_json": "{}"
+      },
+      {
+        "question": "There are 3 pieces of furniture to load into the truck. The moving team compare them in terms of their weight: the wardrobe is heavier than the buffet and the buffet is lighter than the executive desk. \nChoose one of the following alternatives: (1) the buffet is heavier than the wardrobe, (2) the buffet is lighter than the wardrobe, or (3) it is impossible to decide.\nThink carefully, and only respond with one of these possible options (1), (2), or (3).",
+        "reference_answers": [
+          "2"
+        ],
+        "should_abstain": false,
+        "metadata_json": "{}"
+      },
+      {
+        "question": "Marta's hobby is to swim into well-known rivers on every vacation trip. She swam into 3 rivers and compared them in terms of their temperature: the Volga was warmer than the Mekong and the Seine was cooler than the Mekong. \n(1) was the Mekong's temperature between that of the Seine and the Volga, (2) was the Mekong's temperature outside of the interval between that of the Seine and the Volga, or (3) is it impossible to decide ?\nOnly respond with one of these options: (1), (2), or (3) without any explanation.",
+        "reference_answers": [
+          "1"
+        ],
+        "should_abstain": false,
+        "metadata_json": "{}"
+      },
+      {
+        "question": "Over his lifetime, Grandpa planted 3 trees in his garden: He planted the cherry tree before the pear tree and the cherry tree after the magnolia. \nChoose one of the following alternatives: (1) He planted the pear tree after the magnolia, (2) He planted the pear tree before the magnolia, or (3) it is impossible to decide.\nThink carefully, and only respond with one of these possible options (1), (2), or (3).",
+        "reference_answers": [
+          "1"
+        ],
+        "should_abstain": false,
+        "metadata_json": "{}"
+      },
+      {
+        "question": "There are 4 pieces of furniture to load into the truck. The moving team compare them in terms of their weight: the buffet is heavier than the China cabinet, the antique clock is lighter than the China cabinet and the large dresser is lighter than the antique clock. \nChoose one of the following alternatives: (1) the China cabinet's weight is in between the large dresser's weight and the buffet's weight, (2) the China cabinet's weight is outside of the interval between the large dresser's weight and the buffet's weight, or (3) it is impossible to decide.\nThink carefully, and only respond with one of these possible options (1), (2), or (3).",
+        "reference_answers": [
+          "1"
+        ],
+        "should_abstain": false,
+        "metadata_json": "{}"
+      },
+      {
+        "question": "During the theater festival, Anna attended 5 plays. Each play was only given once: Anna saw \"Death of a Salesman\" after \"A Streetcar Named Desire\", \"Antigone\" after \"A Doll's House\", \"Death of a Salesman\" after \"Antigone\" and \"Pygmalion\" after \"Death of a Salesman\". \nChoose one of the following alternatives: (1) Anna saw \"Death of a Salesman\" in between \"A Doll's House\" and \"Pygmalion\", (2) Anna saw \"Death of a Salesman\" outside of the time frame between \"A Doll's House\" and \"Pygmalion\", or (3) it is impossible to decide.\nThink carefully, and only respond with one of these possible options (1), (2), or (3).",
+        "reference_answers": [
+          "1"
+        ],
+        "should_abstain": false,
+        "metadata_json": "{}"
+      },
+      {
+        "question": "The Jones have 4 dogs with different personalities, some are happier than others: Rocky is happier than Buddy, Rocky is sadder than Lucy and Bella is happier than Lucy. \n(1) is Rocky's happiness level between Bella's happiness level and Lucy's happiness level, (2) is Rocky's happiness level outside of the interval between Bella's happiness level and Lucy's happiness level, or (3) is it impossible to decide ?\nOnly respond with one of these options: (1), (2), or (3) without any explanation.",
+        "reference_answers": [
+          "2"
+        ],
+        "should_abstain": false,
+        "metadata_json": "{}"
+      },
+      {
+        "question": "Jimmy went to the mall with a list of 4 items to buy, which he did following exactly the order of the list: Jimmy bought a scented candle after a cactus, a yellow T-shirt after a scented candle and a yellow T-shirt before a bag of cereals. \n(1) was the cactus bought after the bag of cereals, (2) was the cactus bought before the bag of cereals, or (3) is it impossible to decide ?\nOnly respond with one of these options: (1), (2), or (3) without any explanation.",
+        "reference_answers": [
+          "2"
+        ],
+        "should_abstain": false,
+        "metadata_json": "{}"
+      },
+      {
+        "question": "Since she got her new job Alice visited a different country each year. In total, she visited 3 countries: Alice visited Spain before United Kingdom and Japan after Spain. \n(1) did Alice visit United Kingdom after Spain, (2) did Alice visit United Kingdom before Spain, or (3) is it impossible to decide ?\nOnly respond with one of these options: (1), (2), or (3) without any explanation.",
+        "reference_answers": [
+          "1"
+        ],
+        "should_abstain": false,
+        "metadata_json": "{}"
+      },
+      {
+        "question": "There are 5 families sharing an apartment complex with rather poor soundproofing; some families are louder than others: the Thomases are louder than the Andersons, the Wilsons are quieter than the Smiths, the Wilsons are louder than the Thomases and the Smiths are quieter than the Browns. \n(1) are the Smiths quieter than the Andersons, (2) are the Smiths louder than the Andersons, or (3) is it impossible to decide ?\nOnly respond with one of these options: (1), (2), or (3) without any explanation.",
+        "reference_answers": [
+          "2"
+        ],
+        "should_abstain": false,
+        "metadata_json": "{}"
+      },
+      {
+        "question": "In the imaginary country of Smildonia, there are 5 mountains that have been compared in terms of their altitude: Crystalquill Range is lower than Crimson Crest, Sirensong Cliff is higher than Dragon's Breath Ridge, Eclipselock Spire is higher than Sirensong Cliff and Crystalquill Range is higher than Eclipselock Spire. \nChoose one of the following alternatives: (1) Dragon's Breath Ridge is higher than Crystalquill Range, (2) Dragon's Breath Ridge is lower than Crystalquill Range, or (3) it is impossible to decide.\nThink carefully, and only respond with one of these possible options (1), (2), or (3).",
+        "reference_answers": [
+          "2"
+        ],
+        "should_abstain": false,
+        "metadata_json": "{}"
+      },
+      {
+        "question": "The Jones have 3 dogs with different personalities, some are happier than others: Coco is sadder than Milo and Buddy is sadder than Coco. \n(1) is Milo's happiness level between Coco's happiness level and Buddy's happiness level, (2) is Milo's happiness level outside of the interval between Coco's happiness level and Buddy's happiness level, or (3) is it impossible to decide ?\nOnly respond with one of these options: (1), (2), or (3) without any explanation.",
+        "reference_answers": [
+          "2"
+        ],
+        "should_abstain": false,
+        "metadata_json": "{}"
+      },
+      {
+        "question": "Over the years, Ted and Lisa plan to renovate 4 spaces in their large but rundown grandparent's home: They will renovate the guest bedroom after the kitchen, the guest bedroom before the bathroom and the staircase before the bathroom. \n(1) will the guest bedroom be renovated between the renovation of the bathroom and the kitchen, (2) will the guest bedroom be renovated outside of the time interval between the renovation of the bathroom and the kitchen, or (3) is it impossible to decide ?\nOnly respond with one of these options: (1), (2), or (3) without any explanation.",
+        "reference_answers": [
+          "1"
+        ],
+        "should_abstain": false,
+        "metadata_json": "{}"
+      },
+      {
+        "question": "At the post office, Max's job is to sort the incoming boxes in terms of their size. There are 4 boxes; some are bigger, some are smaller: the box from Ohio is smaller than the box from Pennsylvania, the box from Oregon is smaller than the box from Ohio and the box from Oregon is bigger than the box from Texas. \nChoose one of the following alternatives: (1) the box from Pennsylvania is bigger than the box from Texas, (2) the box from Pennsylvania is smaller than the box from Texas, or (3) it is impossible to decide.\nThink carefully, and only respond with one of these possible options (1), (2), or (3).",
+        "reference_answers": [
+          "1"
+        ],
+        "should_abstain": false,
+        "metadata_json": "{}"
+      },
+      {
+        "question": "Over his lifetime, Grandpa planted 3 trees in his garden: He planted the oak before the pear tree and the cedar before the pear tree. \nChoose one of the following alternatives: (1) He planted the cedar before the pear tree, (2) He planted the cedar after the pear tree, or (3) it is impossible to decide.\nThink carefully, and only respond with one of these possible options (1), (2), or (3).",
+        "reference_answers": [
+          "1"
+        ],
+        "should_abstain": false,
+        "metadata_json": "{}"
+      },
+      {
+        "question": "During the theater festival, Anna attended 5 plays. Each play was only given once: Anna saw \"Antigone\" after \"Oedipus Rex\", \"Antigone\" before \"Cat on a Hot Tin Roof\", \"Pygmalion\" after \"Antigone\" and \"Oedipus Rex\" after \"A Streetcar Named Desire\". \n(1) was \"Antigone\" before \"Cat on a Hot Tin Roof\", (2) was \"Antigone\" after \"Cat on a Hot Tin Roof\", or (3) is it impossible to decide ?\nOnly respond with one of these options: (1), (2), or (3) without any explanation.",
+        "reference_answers": [
+          "1"
+        ],
+        "should_abstain": false,
+        "metadata_json": "{}"
+      },
+      {
+        "question": "In this intriguing case, Sherlock Holmes discovered 3 clues to unravel the mystery: Sherlock Holmes discovered the broken violin after the burnt picture and the unexplained scratch after the burnt picture. \n(1) was the broken violin discovered before the burnt picture, (2) was the broken violin discovered after the burnt picture, or (3) is it impossible to decide ?\nOnly respond with one of these options: (1), (2), or (3) without any explanation.",
+        "reference_answers": [
+          "2"
+        ],
+        "should_abstain": false,
+        "metadata_json": "{}"
+      },
+      {
+        "question": "Since she got her new job Alice visited a different country each year. In total, she visited 3 countries: Alice visited United Kingdom before Australia and Japan before United Kingdom. \n(1) did Alice visit United Kingdom between her visits to Japan and Australia, (2) did Alice visit United Kingdom outside of the time period between her visits to Japan and Australia, or (3) is it impossible to decide ?\nOnly respond with one of these options: (1), (2), or (3) without any explanation.",
+        "reference_answers": [
+          "1"
+        ],
+        "should_abstain": false,
+        "metadata_json": "{}"
+      },
+      {
+        "question": "Marta's hobby is to swim into well-known rivers on every vacation trip. She swam into 5 rivers and compared them in terms of their temperature: the Rhine was warmer than the Nile, the Rhine was cooler than the Mekong, the Volga was cooler than the Nile and the Volga was warmer than the Loire. \n(1) was the Nile warmer than the Loire, (2) was the Nile cooler than the Loire, or (3) is it impossible to decide ?\nOnly respond with one of these options: (1), (2), or (3) without any explanation.",
+        "reference_answers": [
+          "1"
+        ],
+        "should_abstain": false,
+        "metadata_json": "{}"
+      },
+      {
+        "question": "There are 3 pieces of furniture to load into the truck. The moving team compare them in terms of their weight: the wardrobe is heavier than the buffet and the buffet is lighter than the executive desk. \nChoose one of the following alternatives: (1) the wardrobe is heavier than the buffet, (2) the wardrobe is lighter than the buffet, or (3) it is impossible to decide.\nThink carefully, and only respond with one of these possible options (1), (2), or (3).",
+        "reference_answers": [
+          "1"
+        ],
+        "should_abstain": false,
+        "metadata_json": "{}"
+      },
+      {
+        "question": "The Smith's had 4 cats of various ages: Gizmo is older than Simba, Simba is younger than Tiger and Ruby is older than Tiger. \nChoose one of the following alternatives: (1) Ruby's age is between that of Gizmo and Tiger, (2) Ruby is outside of the age range between Gizmo and Tiger, or (3) it is impossible to decide.\nThink carefully, and only respond with one of these possible options (1), (2), or (3).",
+        "reference_answers": [
+          "2"
+        ],
+        "should_abstain": false,
+        "metadata_json": "{}"
+      },
+      {
+        "question": "In this intriguing case, Sherlock Holmes discovered 3 clues to unravel the mystery: Sherlock Holmes discovered the secret diary before the hidden door and the hidden door before the smelly cigar. \nChoose one of the following alternatives: (1) Sherlock Holmes discovered the secret diary between the time when he discovered the hidden door and the time when he discovered the smelly cigar, (2) Sherlock Holmes discovered the secret diary outside of the time interval between the discovery of the hidden door and the discovery of the smelly cigar, or (3) it is impossible to decide.\nThink carefully, and only respond with one of these possible options (1), (2), or (3).",
+        "reference_answers": [
+          "2"
+        ],
+        "should_abstain": false,
+        "metadata_json": "{}"
+      },
+      {
+        "question": "There are 4 families sharing an apartment complex with rather poor soundproofing; some families are louder than others: the Thomases are quieter than the Robinsons, the Andersons are quieter than the Robinsons and the Robinsons are quieter than the Smiths. \nChoose one of the following alternatives: (1) the Thomases' noise level is in between the Smiths' and the Robinsons' noise levels, (2) the Thomases' noise level is outside of the interval between the Smiths' and the Robinsons' noise levels, or (3) it is impossible to decide.\nThink carefully, and only respond with one of these possible options (1), (2), or (3).",
+        "reference_answers": [
+          "2"
+        ],
+        "should_abstain": false,
+        "metadata_json": "{}"
+      },
+      {
+        "question": "In this intriguing case, Sherlock Holmes discovered 5 clues to unravel the mystery: Sherlock Holmes discovered the burnt picture before the blood-stained knife, the heavy footprint after the broken violin, the broken violin before the cryptic message and the blood-stained knife before the broken violin. \nChoose one of the following alternatives: (1) Sherlock Holmes discovered the blood-stained knife between the time when he discovered the broken violin and the time when he discovered the cryptic message, (2) Sherlock Holmes discovered the blood-stained knife outside of the time interval between the discovery of the broken violin and the discovery of the cryptic message, or (3) it is impossible to decide.\nThink carefully, and only respond with one of these possible options (1), (2), or (3).",
+        "reference_answers": [
+          "2"
+        ],
+        "should_abstain": false,
+        "metadata_json": "{}"
+      },
+      {
+        "question": "Since she got her new job Alice visited a different country each year. In total, she visited 4 countries: Alice visited Greece before Mexico, Spain after Greece and Australia before Greece. \n(1) did Alice visit Australia between her visits to Greece and Spain, (2) did Alice visit Australia outside of the time period between her visits to Greece and Spain, or (3) is it impossible to decide ?\nOnly respond with one of these options: (1), (2), or (3) without any explanation.",
+        "reference_answers": [
+          "2"
+        ],
+        "should_abstain": false,
+        "metadata_json": "{}"
+      },
+      {
+        "question": "During Joan's genealogical investigation into her family, she discovered the order of birth of 3 relatives: She found out that Aunt Annie was born before Uncle Chris and Aunt Annie was born before Niece Sarah. \n(1) was Aunt Annie born before Niece Sarah, (2) was Aunt Annie born after Niece Sarah, or (3) is it impossible to decide ?\nOnly respond with one of these options: (1), (2), or (3) without any explanation.",
+        "reference_answers": [
+          "1"
+        ],
+        "should_abstain": false,
+        "metadata_json": "{}"
+      },
+      {
+        "question": "In this intriguing case, Sherlock Holmes discovered 3 clues to unravel the mystery: Sherlock Holmes discovered the unexplained scratch after the torn piece of fabric and the broken violin before the unexplained scratch. \nChoose one of the following alternatives: (1) Sherlock Holmes discovered the broken violin before the unexplained scratch, (2) Sherlock Holmes discovered the broken violin after the unexplained scratch, or (3) it is impossible to decide.\nThink carefully, and only respond with one of these possible options (1), (2), or (3).",
+        "reference_answers": [
+          "1"
+        ],
+        "should_abstain": false,
+        "metadata_json": "{}"
+      }
+    ],
+    "unanswerable": []
+  }
+}

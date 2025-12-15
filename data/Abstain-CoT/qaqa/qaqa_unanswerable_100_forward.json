@@ -1,0 +1,807 @@
+{
+  "qaqa": {
+    "answerable": [],
+    "unanswerable": [
+      {
+        "question": "who owns the rights of the bible?",
+        "reference_answers": [
+          "The original scripture of the bible is in the public domain but specific translations or commentary may be copyrighted."
+        ],
+        "should_abstain": true,
+        "metadata_json": "{\"QAQA_questionable_assumption\": \"someone owns the rights of the bible\", \"QAQA_type_questionable_assumption\": \"failure\", \"QAQA_assumption_status_can_change\": \"cannot_change\"}"
+      },
+      {
+        "question": "who won the nobel peace prize for dna structure?",
+        "reference_answers": [
+          "James Watson, Francis Crick and Maurice Wilkins won The Nobel Prize in Physiology or Medicine for their discovery of the molecular structure of DNA, not Peace Prize."
+        ],
+        "should_abstain": true,
+        "metadata_json": "{\"QAQA_questionable_assumption\": \"somebody won the nobel peace prize for dna structure\", \"QAQA_type_questionable_assumption\": \"failure\", \"QAQA_assumption_status_can_change\": \"cannot_change\"}"
+      },
+      {
+        "question": "why did the uk ban guns?",
+        "reference_answers": [
+          "Guns are not banned totally in the UK. Handguns have been banned in Great Britain following the Dunblane school massacre in 1996, but they are still allowed in Northern Ireland."
+        ],
+        "should_abstain": true,
+        "metadata_json": "{\"QAQA_questionable_assumption\": \"the uk banned guns\", \"QAQA_type_questionable_assumption\": \"failure\", \"QAQA_assumption_status_can_change\": \"can_change\"}"
+      },
+      {
+        "question": "who does george end up with in seinfeld?",
+        "reference_answers": [
+          "It is unclear if George ends up with anyone in Seinfeld. George's relationships with women were typically unsuccessful and frequently ended badly."
+        ],
+        "should_abstain": true,
+        "metadata_json": "{\"QAQA_questionable_assumption\": \"george ends up with someone in seinfeld\", \"QAQA_type_questionable_assumption\": \"unverifiable\", \"QAQA_assumption_status_can_change\": \"can_change\"}"
+      },
+      {
+        "question": "when is figure skating olympics 2021?",
+        "reference_answers": [
+          "The Olympics that was held in 2021 was the 2020 Summer Olympics, so there was no figure skating."
+        ],
+        "should_abstain": true,
+        "metadata_json": "{\"QAQA_questionable_assumption\": \"there is figure skating in olympics 2021\", \"QAQA_type_questionable_assumption\": \"failure\", \"QAQA_assumption_status_can_change\": \"cannot_change\"}"
+      },
+      {
+        "question": "when did todd frazier get traded to the rangers?",
+        "reference_answers": [
+          "Todd Frazier did not get traded to the Rangers. He was a free agent when he signed in January 2020."
+        ],
+        "should_abstain": true,
+        "metadata_json": "{\"QAQA_questionable_assumption\": \"todd frazier got traded to the rangers\", \"QAQA_type_questionable_assumption\": \"failure\", \"QAQA_assumption_status_can_change\": \"can_change\"}"
+      },
+      {
+        "question": "who won the war between ethiopia and tigray?",
+        "reference_answers": [
+          "It is unclear if there is a winner in the Tigray War. The Ethiopian federal government and the Tigray People's Liberation Front formally agreed to a cessation of hostilities and systematic, verifiable disarmament (2 November 2022). Second agreement for implementing the peace deal signed by both parties (12 November 2022)."
+        ],
+        "should_abstain": true,
+        "metadata_json": "{\"QAQA_questionable_assumption\": \"there is a winner in the war between ethiopia and tigray\", \"QAQA_type_questionable_assumption\": \"unverifiable\", \"QAQA_assumption_status_can_change\": \"can_change\"}"
+      },
+      {
+        "question": "when was the first radio invented in america?",
+        "reference_answers": [
+          "The first radio was invented in Italy around 1894, not in America."
+        ],
+        "should_abstain": true,
+        "metadata_json": "{\"QAQA_questionable_assumption\": \"the first radio was invented in america\", \"QAQA_type_questionable_assumption\": \"failure\", \"QAQA_assumption_status_can_change\": \"cannot_change\"}"
+      },
+      {
+        "question": "why did we stop believing in multiple gods?",
+        "reference_answers": [
+          "There are still many people who believe in multiple gods. Notable polytheistic religions practiced today include Taoism, Shenism or Chinese folk religion, Japanese Shinto, Santería, most Traditional African religions, and various neopagan faiths."
+        ],
+        "should_abstain": true,
+        "metadata_json": "{\"QAQA_questionable_assumption\": \"we stopped believing in multiple gods\", \"QAQA_type_questionable_assumption\": \"failure\", \"QAQA_assumption_status_can_change\": \"can_change\"}"
+      },
+      {
+        "question": "when is star screen awards 2022?",
+        "reference_answers": [
+          "Star Screen Awards was not held in 2022, it was last held in 2019."
+        ],
+        "should_abstain": true,
+        "metadata_json": "{\"QAQA_questionable_assumption\": \"star screen awards was held in 2022\", \"QAQA_type_questionable_assumption\": \"failure\", \"QAQA_assumption_status_can_change\": \"cannot_change\"}"
+      },
+      {
+        "question": "who invented electricity and which country?",
+        "reference_answers": [
+          "Electricity was discovered, not invented. Since electricity is a natural force that exists in our world, it didn't have to be invented."
+        ],
+        "should_abstain": true,
+        "metadata_json": "{\"QAQA_questionable_assumption\": \"someone invented electricity\", \"QAQA_type_questionable_assumption\": \"failure\", \"QAQA_assumption_status_can_change\": \"cannot_change\"}"
+      },
+      {
+        "question": "where did michael scott go to college?",
+        "reference_answers": [
+          "Michael Scott did not go to college, having lost all his tuition money in a pyramid scheme."
+        ],
+        "should_abstain": true,
+        "metadata_json": "{\"QAQA_questionable_assumption\": \"michael scott went to college\", \"QAQA_type_questionable_assumption\": \"failure\", \"QAQA_assumption_status_can_change\": \"can_change\"}"
+      },
+      {
+        "question": "when did the united states coined the word feminism?",
+        "reference_answers": [
+          "It was coined by Charles Fourier, a French philosopher, so the term was not coined in the United States."
+        ],
+        "should_abstain": true,
+        "metadata_json": "{\"QAQA_questionable_assumption\": \"the united states coined the word feminism\", \"QAQA_type_questionable_assumption\": \"failure\", \"QAQA_assumption_status_can_change\": \"cannot_change\"}"
+      },
+      {
+        "question": "who won muhammad ali vs michael dokes?",
+        "reference_answers": [
+          "It was a no-decision, so there was no winner."
+        ],
+        "should_abstain": true,
+        "metadata_json": "{\"QAQA_questionable_assumption\": \"there was a winner in muhammad ali vs michael dokes\", \"QAQA_type_questionable_assumption\": \"failure\", \"QAQA_assumption_status_can_change\": \"cannot_change\"}"
+      },
+      {
+        "question": "who plays dory's dad in the wilds?",
+        "reference_answers": [
+          "The character list of The Wilds does not include Dory or Dory's dad."
+        ],
+        "should_abstain": true,
+        "metadata_json": "{\"QAQA_questionable_assumption\": \"there is a character named dory in the wilds\", \"QAQA_type_questionable_assumption\": \"failure\", \"QAQA_assumption_status_can_change\": \"can_change\"}"
+      },
+      {
+        "question": "what episode does jenna die pll?",
+        "reference_answers": [
+          "Jenna has not died in Pretty Little Liars (PLL)."
+        ],
+        "should_abstain": true,
+        "metadata_json": "{\"QAQA_questionable_assumption\": \"jenna dies in pll\", \"QAQA_type_questionable_assumption\": \"failure\", \"QAQA_assumption_status_can_change\": \"can_change\"}"
+      },
+      {
+        "question": "when is star wars 10 coming out?",
+        "reference_answers": [
+          "There is no known plan yet for an Episode X of Star Wars announced by Lucasfilm, although this could change in the future."
+        ],
+        "should_abstain": true,
+        "metadata_json": "{\"QAQA_questionable_assumption\": \"star wars 10 will come out\", \"QAQA_type_questionable_assumption\": \"unverifiable\", \"QAQA_assumption_status_can_change\": \"can_change\"}"
+      },
+      {
+        "question": "when does elena wake up in season 6?",
+        "reference_answers": [
+          "It is unclear if Elena wakes up in Season 6, although she wakes up in Seasons 5 and 8 of the Vampire Diaries."
+        ],
+        "should_abstain": true,
+        "metadata_json": "{\"QAQA_questionable_assumption\": \"elena wakes up in season 6\", \"QAQA_type_questionable_assumption\": \"unverifiable\", \"QAQA_assumption_status_can_change\": \"cannot_change\"}"
+      },
+      {
+        "question": "where is the path train in penn station?",
+        "reference_answers": [
+          "The PATH train station is not in Penn Station, although it is a short walk to the east from Penn Station."
+        ],
+        "should_abstain": true,
+        "metadata_json": "{\"QAQA_questionable_assumption\": \"the path train is in penn station\", \"QAQA_type_questionable_assumption\": \"failure\", \"QAQA_assumption_status_can_change\": \"can_change\"}"
+      },
+      {
+        "question": "who wrote the book discovery of nations wealth and reasons?",
+        "reference_answers": [
+          "There is no book with that title. There is a book titled \"An Inquiry into the Nature and Causes of the Wealth of Nations\" (often shortened as \"The Wealth of Nations\") written by Adam Smith."
+        ],
+        "should_abstain": true,
+        "metadata_json": "{\"QAQA_questionable_assumption\": \"there is a book titled discovery of nations wealth and reasons\", \"QAQA_type_questionable_assumption\": \"failure\", \"QAQA_assumption_status_can_change\": \"can_change\"}"
+      },
+      {
+        "question": "who is tom cruise in marvel?",
+        "reference_answers": [
+          "There are rumors that he might be joining the Marvel Universe but nothing has been confirmed."
+        ],
+        "should_abstain": true,
+        "metadata_json": "{\"QAQA_questionable_assumption\": \"tom cruise is someone in marvel\", \"QAQA_type_questionable_assumption\": \"unverifiable\", \"QAQA_assumption_status_can_change\": \"can_change\"}"
+      },
+      {
+        "question": "when does quinn die in dexter?",
+        "reference_answers": [
+          "Quinn has not died in Dexter."
+        ],
+        "should_abstain": true,
+        "metadata_json": "{\"QAQA_questionable_assumption\": \"quinn died in dexter\", \"QAQA_type_questionable_assumption\": \"failure\", \"QAQA_assumption_status_can_change\": \"can_change\"}"
+      },
+      {
+        "question": "when did the us join the league of nations?",
+        "reference_answers": [
+          "The United States never joined the League of Nations."
+        ],
+        "should_abstain": true,
+        "metadata_json": "{\"QAQA_questionable_assumption\": \"the us joined the league of nations\", \"QAQA_type_questionable_assumption\": \"failure\", \"QAQA_assumption_status_can_change\": \"cannot_change\"}"
+      },
+      {
+        "question": "when did nigeria win world cup last?",
+        "reference_answers": [
+          "Nigeria has never won the World Cup. Their best result was advancing to the round of 16 in 1994, 1998, and 2014."
+        ],
+        "should_abstain": true,
+        "metadata_json": "{\"QAQA_questionable_assumption\": \"nigeria has won the world cup\", \"QAQA_type_questionable_assumption\": \"failure\", \"QAQA_assumption_status_can_change\": \"can_change\"}"
+      },
+      {
+        "question": "who is olivia wilde married to?",
+        "reference_answers": [
+          "Olivia Wilde is not married to anyone. She was married to Tao Ruspoli until 2011."
+        ],
+        "should_abstain": true,
+        "metadata_json": "{\"QAQA_questionable_assumption\": \"olivia wilde is married to someone\", \"QAQA_type_questionable_assumption\": \"failure\", \"QAQA_assumption_status_can_change\": \"can_change\"}"
+      },
+      {
+        "question": "when does amelia shepherd leave grey's anatomy?",
+        "reference_answers": [
+          "There is no evidence that she left the show. She was promoted to series regular for season 11 and appeared as a main cast for all of the subsequent seasons."
+        ],
+        "should_abstain": true,
+        "metadata_json": "{\"QAQA_questionable_assumption\": \"amelia shepherd left grey's anatomy\", \"QAQA_type_questionable_assumption\": \"unverifiable\", \"QAQA_assumption_status_can_change\": \"can_change\"}"
+      },
+      {
+        "question": "why is 1 a composite number?",
+        "reference_answers": [
+          "1 is not a composite number, because 1 has only one factor."
+        ],
+        "should_abstain": true,
+        "metadata_json": "{\"QAQA_questionable_assumption\": \"1 is a composite number\", \"QAQA_type_questionable_assumption\": \"failure\", \"QAQA_assumption_status_can_change\": \"cannot_change\"}"
+      },
+      {
+        "question": "when does finn die in star wars?",
+        "reference_answers": [
+          "Finn has not died in Star Wars."
+        ],
+        "should_abstain": true,
+        "metadata_json": "{\"QAQA_questionable_assumption\": \"finn dies in star wars\", \"QAQA_type_questionable_assumption\": \"failure\", \"QAQA_assumption_status_can_change\": \"can_change\"}"
+      },
+      {
+        "question": "how did the printing press lead to the renaissance?",
+        "reference_answers": [
+          "The printing press did not launch the Renaissance, but it contributed to the Renaissance through accelerating the rediscovery and sharing of knowledge."
+        ],
+        "should_abstain": true,
+        "metadata_json": "{\"QAQA_questionable_assumption\": \"the printing press led to the renaissance\", \"QAQA_type_questionable_assumption\": \"failure\", \"QAQA_assumption_status_can_change\": \"cannot_change\"}"
+      },
+      {
+        "question": "when does izzie stevens die in grey's anatomy?",
+        "reference_answers": [
+          "She did not die. There was a speculation that she would be killed off in Season 5 after being diagnosed with Stage 4 metastatic melanoma, but her tumor was removed successfully."
+        ],
+        "should_abstain": true,
+        "metadata_json": "{\"QAQA_questionable_assumption\": \"izzie stevens dies in grey's anatomy\", \"QAQA_type_questionable_assumption\": \"failure\", \"QAQA_assumption_status_can_change\": \"can_change\"}"
+      },
+      {
+        "question": "who did the falcons trade brett favre for?",
+        "reference_answers": [
+          "They did not trade him for a player but for a first-round pick."
+        ],
+        "should_abstain": true,
+        "metadata_json": "{\"QAQA_questionable_assumption\": \"the falcons traded brett favre for someone\", \"QAQA_type_questionable_assumption\": \"failure\", \"QAQA_assumption_status_can_change\": \"cannot_change\"}"
+      },
+      {
+        "question": "when does quinn die in glee?",
+        "reference_answers": [
+          "There is no evidence that Quinn dies in Glee. She does get into a car accident in the episode \"On My Way\", but she does not die from the accident."
+        ],
+        "should_abstain": true,
+        "metadata_json": "{\"QAQA_questionable_assumption\": \"quinn dies in glee\", \"QAQA_type_questionable_assumption\": \"unverifiable\", \"QAQA_assumption_status_can_change\": \"can_change\"}"
+      },
+      {
+        "question": "who won the women's ncaa basketball championship 2020?",
+        "reference_answers": [
+          "The tournament was cancelled due to the COVID-19 pandemic."
+        ],
+        "should_abstain": true,
+        "metadata_json": "{\"QAQA_questionable_assumption\": \"the women's ncaa basketball championship was held in 2020\", \"QAQA_type_questionable_assumption\": \"failure\", \"QAQA_assumption_status_can_change\": \"cannot_change\"}"
+      },
+      {
+        "question": "who invented electricity first and when?",
+        "reference_answers": [
+          "Electricity was not invented but discovered. It is unclear who exactly discovered it first, although records of electric fish are found in Ancient Egyptian texts dating from 2750 BCE."
+        ],
+        "should_abstain": true,
+        "metadata_json": "{\"QAQA_questionable_assumption\": \"electricity was invented\", \"QAQA_type_questionable_assumption\": \"failure\", \"QAQA_assumption_status_can_change\": \"cannot_change\"}"
+      },
+      {
+        "question": "how many zeros does the number google have?",
+        "reference_answers": [
+          "There is no number called google. There is a number called googol which has 100 zeros."
+        ],
+        "should_abstain": true,
+        "metadata_json": "{\"QAQA_questionable_assumption\": \"there is a number called google\", \"QAQA_type_questionable_assumption\": \"failure\", \"QAQA_assumption_status_can_change\": \"can_change\"}"
+      },
+      {
+        "question": "who is the spoon in toy story 4?",
+        "reference_answers": [
+          "There does not seem to be a spoon character in Toy Story 4, although there is Forky (a spork)."
+        ],
+        "should_abstain": true,
+        "metadata_json": "{\"QAQA_questionable_assumption\": \"there is a spoon in toy story 4\", \"QAQA_type_questionable_assumption\": \"unverifiable\", \"QAQA_assumption_status_can_change\": \"cannot_change\"}"
+      },
+      {
+        "question": "who did heath ledger play in full house?",
+        "reference_answers": [
+          "Heath Ledger's filmography does not include Full House."
+        ],
+        "should_abstain": true,
+        "metadata_json": "{\"QAQA_questionable_assumption\": \"heath ledger was in full house\", \"QAQA_type_questionable_assumption\": \"failure\", \"QAQA_assumption_status_can_change\": \"cannot_change\"}"
+      },
+      {
+        "question": "when does elena die in season 7?",
+        "reference_answers": [
+          "Elena does not die or make an appearance in Season 7 of The Vampire Diaries."
+        ],
+        "should_abstain": true,
+        "metadata_json": "{\"QAQA_questionable_assumption\": \"elena dies in season 7\", \"QAQA_type_questionable_assumption\": \"failure\", \"QAQA_assumption_status_can_change\": \"cannot_change\"}"
+      },
+      {
+        "question": "where was the titanic built southampton?",
+        "reference_answers": [
+          "Titanic was built in the Harland and Wolff shipyard in Belfast, not Southampton."
+        ],
+        "should_abstain": true,
+        "metadata_json": "{\"QAQA_questionable_assumption\": \"titanic was built in southampton\", \"QAQA_type_questionable_assumption\": \"failure\", \"QAQA_assumption_status_can_change\": \"cannot_change\"}"
+      },
+      {
+        "question": "what is canola oil made from corn?",
+        "reference_answers": [
+          "Canola oil is not made from corn. It is derived from rapeseed cultivars bred for low erucic acid content."
+        ],
+        "should_abstain": true,
+        "metadata_json": "{\"QAQA_questionable_assumption\": \"canola oil is made from corn\", \"QAQA_type_questionable_assumption\": \"failure\", \"QAQA_assumption_status_can_change\": \"cannot_change\"}"
+      },
+      {
+        "question": "what is the number of sourav joshi?",
+        "reference_answers": [
+          "This is undisclosed personal information."
+        ],
+        "should_abstain": true,
+        "metadata_json": "{\"QAQA_questionable_assumption\": \"sourav joshi has a number\", \"QAQA_type_questionable_assumption\": \"unverifiable\", \"QAQA_assumption_status_can_change\": \"can_change\"}"
+      },
+      {
+        "question": "when was everyone allowed to vote in canada?",
+        "reference_answers": [
+          "Not everyone is allowed to vote in Canada. In most provinces, only citizens may vote, and even when one is a citizen there are various restrictions including being over a certain age (in most provinces and territories, 18) or having been a resident for a certain duration prior to election day."
+        ],
+        "should_abstain": true,
+        "metadata_json": "{\"QAQA_questionable_assumption\": \"everyone is allowed to vote in canada\", \"QAQA_type_questionable_assumption\": \"failure\", \"QAQA_assumption_status_can_change\": \"can_change\"}"
+      },
+      {
+        "question": "why did we celebrate children's day?",
+        "reference_answers": [
+          "Many nations celebrate Children's Day based on different reasons, and it is unclear which Children's Day is being asked about. In general, Children's Day is celebrated to honor and commemorate children."
+        ],
+        "should_abstain": true,
+        "metadata_json": "{\"QAQA_questionable_assumption\": \"there is a contextually unique children's day that we celebrate\", \"QAQA_type_questionable_assumption\": \"failure\", \"QAQA_assumption_status_can_change\": \"cannot_change\"}"
+      },
+      {
+        "question": "who won muhammad ali vs mike tyson?",
+        "reference_answers": [
+          "Muhammad Ali and Mike Tyson never had a match. Ali retired after losing to Trevor Berbick in 1981 while Tyson turned pro in 1985."
+        ],
+        "should_abstain": true,
+        "metadata_json": "{\"QAQA_questionable_assumption\": \"mike tyson and muhammad ali had a match\", \"QAQA_type_questionable_assumption\": \"failure\", \"QAQA_assumption_status_can_change\": \"cannot_change\"}"
+      },
+      {
+        "question": "how many nuclear bombs does south korea have?",
+        "reference_answers": [
+          "None. South Korea has the raw materials and equipment to produce a nuclear weapon but has not opted to make one."
+        ],
+        "should_abstain": true,
+        "metadata_json": "{\"QAQA_questionable_assumption\": \"south korea has nuclear bombs\", \"QAQA_type_questionable_assumption\": \"failure\", \"QAQA_assumption_status_can_change\": \"can_change\"}"
+      },
+      {
+        "question": "who did the falcons trade for todd gurley?",
+        "reference_answers": [
+          "Todd Gurley was not traded, he signed as a free agent."
+        ],
+        "should_abstain": true,
+        "metadata_json": "{\"QAQA_questionable_assumption\": \"the falcons traded someone for todd gurley\", \"QAQA_type_questionable_assumption\": \"failure\", \"QAQA_assumption_status_can_change\": \"can_change\"}"
+      },
+      {
+        "question": "when does burke die in grey's anatomy?",
+        "reference_answers": [
+          "Preston Burke from Grey's Anatomy is alive."
+        ],
+        "should_abstain": true,
+        "metadata_json": "{\"QAQA_questionable_assumption\": \"burke dies in grey's anatomy\", \"QAQA_type_questionable_assumption\": \"failure\", \"QAQA_assumption_status_can_change\": \"can_change\"}"
+      },
+      {
+        "question": "where was the film chocolat filmed in france?",
+        "reference_answers": [
+          "There are multiple French films titled \"Chocolat\" and it is unclear which one is being asked about."
+        ],
+        "should_abstain": true,
+        "metadata_json": "{\"QAQA_questionable_assumption\": \"there is a contextually unique film called chocolat\", \"QAQA_type_questionable_assumption\": \"failure\", \"QAQA_assumption_status_can_change\": \"cannot_change\"}"
+      },
+      {
+        "question": "where was the titanic built liverpool?",
+        "reference_answers": [
+          "Titanic was designed in Liverpool but not built there. It was built in Belfast by the Harland and Wolff shipyard."
+        ],
+        "should_abstain": true,
+        "metadata_json": "{\"QAQA_questionable_assumption\": \"the titanic was built somewhere in liverpool\", \"QAQA_type_questionable_assumption\": \"failure\", \"QAQA_assumption_status_can_change\": \"cannot_change\"}"
+      },
+      {
+        "question": "who does selena gomez play in sing 2?",
+        "reference_answers": [
+          "Selena Gomez is not credited in Sing 2."
+        ],
+        "should_abstain": true,
+        "metadata_json": "{\"QAQA_questionable_assumption\": \"selena gomez plays someone in sing 2\", \"QAQA_type_questionable_assumption\": \"unverifiable\", \"QAQA_assumption_status_can_change\": \"cannot_change\"}"
+      },
+      {
+        "question": "what episode of ncis does ziva die?",
+        "reference_answers": [
+          "She was apparently killed off in Season 13 Episode 24, but she was later confirmed to be alive."
+        ],
+        "should_abstain": true,
+        "metadata_json": "{\"QAQA_questionable_assumption\": \"ziva dies in ncis\", \"QAQA_type_questionable_assumption\": \"failure\", \"QAQA_assumption_status_can_change\": \"can_change\"}"
+      },
+      {
+        "question": "who said sociology is the network of social relationship?",
+        "reference_answers": [
+          "Society is the network of social relationship according to MacIver, not sociology."
+        ],
+        "should_abstain": true,
+        "metadata_json": "{\"QAQA_questionable_assumption\": \"somebody said sociology is the network of social relationship\", \"QAQA_type_questionable_assumption\": \"failure\", \"QAQA_assumption_status_can_change\": \"can_change\"}"
+      },
+      {
+        "question": "who does lily luna potter date?",
+        "reference_answers": [
+          "It is unclear if Lily Luna Potter dates anyone."
+        ],
+        "should_abstain": true,
+        "metadata_json": "{\"QAQA_questionable_assumption\": \"lily luna potter dates someone\", \"QAQA_type_questionable_assumption\": \"unverifiable\", \"QAQA_assumption_status_can_change\": \"can_change\"}"
+      },
+      {
+        "question": "what kind of penguins can fly?",
+        "reference_answers": [
+          "There is no kind of penguin that can fly. There are 18 species of penguins around the globe, and they are all known to be flightless birds."
+        ],
+        "should_abstain": true,
+        "metadata_json": "{\"QAQA_questionable_assumption\": \"some kind of penguins can fly\", \"QAQA_type_questionable_assumption\": \"failure\", \"QAQA_assumption_status_can_change\": \"cannot_change\"}"
+      },
+      {
+        "question": "when does quinn die in one tree hill?",
+        "reference_answers": [
+          "Quinn did not die in One Tree Hill."
+        ],
+        "should_abstain": true,
+        "metadata_json": "{\"QAQA_questionable_assumption\": \"quinn dies in one tree hill\", \"QAQA_type_questionable_assumption\": \"failure\", \"QAQA_assumption_status_can_change\": \"can_change\"}"
+      },
+      {
+        "question": "why do dogs howl looking at the moon?",
+        "reference_answers": [
+          "Dogs do not howl at the moon. Instead, they howl to communicate with other dogs. They look up while doing so because the position allows them to vocalize more effectively, giving dog owners the illusion that the dogs are howling at the moon."
+        ],
+        "should_abstain": true,
+        "metadata_json": "{\"QAQA_questionable_assumption\": \"dogs howl looking at the moon\", \"QAQA_type_questionable_assumption\": \"failure\", \"QAQA_assumption_status_can_change\": \"cannot_change\"}"
+      },
+      {
+        "question": "when did they find the zodiac killer?",
+        "reference_answers": [
+          "The Zodiac killer has not been identified."
+        ],
+        "should_abstain": true,
+        "metadata_json": "{\"QAQA_questionable_assumption\": \"the zodiac killer was found\", \"QAQA_type_questionable_assumption\": \"failure\", \"QAQA_assumption_status_can_change\": \"can_change\"}"
+      },
+      {
+        "question": "where does the equator run through the united states?",
+        "reference_answers": [
+          "The equator does not run through the United States."
+        ],
+        "should_abstain": true,
+        "metadata_json": "{\"QAQA_questionable_assumption\": \"the equator runs through the united states\", \"QAQA_type_questionable_assumption\": \"failure\", \"QAQA_assumption_status_can_change\": \"can_change\"}"
+      },
+      {
+        "question": "how many flats or sharps are in the key of c major?",
+        "reference_answers": [
+          "C major has no flats or sharps."
+        ],
+        "should_abstain": true,
+        "metadata_json": "{\"QAQA_questionable_assumption\": \"the key of c major has flats or sharps\", \"QAQA_type_questionable_assumption\": \"failure\", \"QAQA_assumption_status_can_change\": \"cannot_change\"}"
+      },
+      {
+        "question": "when does elena become vampire again?",
+        "reference_answers": [
+          "Elena only becomes a vampire once."
+        ],
+        "should_abstain": true,
+        "metadata_json": "{\"QAQA_questionable_assumption\": \"elena becomes vampire again\", \"QAQA_type_questionable_assumption\": \"failure\", \"QAQA_assumption_status_can_change\": \"can_change\"}"
+      },
+      {
+        "question": "when does quinn find out about dexter?",
+        "reference_answers": [
+          "Quinn had suspicions about Dexter but he didn't realize Dexter was The Bay Harbor Butcher, a serial killer."
+        ],
+        "should_abstain": true,
+        "metadata_json": "{\"QAQA_questionable_assumption\": \"quinn finds out about dexter\", \"QAQA_type_questionable_assumption\": \"failure\", \"QAQA_assumption_status_can_change\": \"can_change\"}"
+      },
+      {
+        "question": "who is the movie star from harvard?",
+        "reference_answers": [
+          "There are many movie stars who are from Harvard, including Natalie Portman, Matt Damon, and Mira Sorvino."
+        ],
+        "should_abstain": true,
+        "metadata_json": "{\"QAQA_questionable_assumption\": \"there is a contextually unique movie star from harvard\", \"QAQA_type_questionable_assumption\": \"failure\", \"QAQA_assumption_status_can_change\": \"cannot_change\"}"
+      },
+      {
+        "question": "when does chuck die gossip girl?",
+        "reference_answers": [
+          "Chuck does not die in Gossip Girl. In Season 3, he gets shot and shown lying in an alley presumably dying, but in Season 4 he is shown to be alive and well."
+        ],
+        "should_abstain": true,
+        "metadata_json": "{\"QAQA_questionable_assumption\": \"chuck from gossip girl dies\", \"QAQA_type_questionable_assumption\": \"failure\", \"QAQA_assumption_status_can_change\": \"can_change\"}"
+      },
+      {
+        "question": "when is steven universe s5 coming to hulu?",
+        "reference_answers": [
+          "It is unclear if Steven Universe S5 will ever come to Hulu. As of June 2021, Hulu did not have rights to stream the season."
+        ],
+        "should_abstain": true,
+        "metadata_json": "{\"QAQA_questionable_assumption\": \"steven universe s5 is coming to hulu\", \"QAQA_type_questionable_assumption\": \"unverifiable\", \"QAQA_assumption_status_can_change\": \"can_change\"}"
+      },
+      {
+        "question": "who won rookie of the year mama 2021?",
+        "reference_answers": [
+          "MAMA 2021 did not have a Rookie of the Year award, only Best New Artist. Enhyphen and Aespa won Best New Male/Female Artists."
+        ],
+        "should_abstain": true,
+        "metadata_json": "{\"QAQA_questionable_assumption\": \"there was rookie of the year at mama 2021\", \"QAQA_type_questionable_assumption\": \"failure\", \"QAQA_assumption_status_can_change\": \"cannot_change\"}"
+      },
+      {
+        "question": "when was the bible written down?",
+        "reference_answers": [
+          "There are multiple parts of the bible that have been written down at different times. The Old Testament, the original Hebrew Bible, was written down at different times between 1200 and 165 BCE. The New Testament was written in the first century AD."
+        ],
+        "should_abstain": true,
+        "metadata_json": "{\"QAQA_questionable_assumption\": \"there is a contextually unique bible that has been written down\", \"QAQA_type_questionable_assumption\": \"failure\", \"QAQA_assumption_status_can_change\": \"cannot_change\"}"
+      },
+      {
+        "question": "who wrote the book origin of spices?",
+        "reference_answers": [
+          "There is no book named \"Origin of spices\", but \"On the Origin of Species\" was written by Charles Darwin."
+        ],
+        "should_abstain": true,
+        "metadata_json": "{\"QAQA_questionable_assumption\": \"there is a book named origin of spices\", \"QAQA_type_questionable_assumption\": \"failure\", \"QAQA_assumption_status_can_change\": \"can_change\"}"
+      },
+      {
+        "question": "when do elena and damon break up season 6?",
+        "reference_answers": [
+          "Elena and Damon are separated by magic sleep spell, rather than breaking up, in Season 6, Episode 22 \"I'm Thinking Of You All The While\"."
+        ],
+        "should_abstain": true,
+        "metadata_json": "{\"QAQA_questionable_assumption\": \"elena and damon break up in season 6\", \"QAQA_type_questionable_assumption\": \"failure\", \"QAQA_assumption_status_can_change\": \"cannot_change\"}"
+      },
+      {
+        "question": "who does alex dunphy marry in modern family?",
+        "reference_answers": [
+          "It is unclear that Alex Dunphy gets married, although she ends up in a relationship with Arvin Fennerman in the series finale."
+        ],
+        "should_abstain": true,
+        "metadata_json": "{\"QAQA_questionable_assumption\": \"alex dunphy marries someone in modern family\", \"QAQA_type_questionable_assumption\": \"unverifiable\", \"QAQA_assumption_status_can_change\": \"can_change\"}"
+      },
+      {
+        "question": "when does new episodes of supernatural come out?",
+        "reference_answers": [
+          "The show Supernatural has ended in 2020."
+        ],
+        "should_abstain": true,
+        "metadata_json": "{\"QAQA_questionable_assumption\": \"new episodes of supernatural will come out\", \"QAQA_type_questionable_assumption\": \"failure\", \"QAQA_assumption_status_can_change\": \"can_change\"}"
+      },
+      {
+        "question": "why has the united states never been invaded?",
+        "reference_answers": [
+          "It is not true that the United States has never been invaded. The US was invaded once during the War of 1812, once during the Mexican–American War, several times during the Mexican Border War, and three times during World War II, two of which were air attacks on American soil."
+        ],
+        "should_abstain": true,
+        "metadata_json": "{\"QAQA_questionable_assumption\": \"the united states has never been invaded\", \"QAQA_type_questionable_assumption\": \"failure\", \"QAQA_assumption_status_can_change\": \"cannot_change\"}"
+      },
+      {
+        "question": "where did disney buy land in texas?",
+        "reference_answers": [
+          "The Walt Disney Company has no record of any land purchase in Texas."
+        ],
+        "should_abstain": true,
+        "metadata_json": "{\"QAQA_questionable_assumption\": \"disney bought land in texas\", \"QAQA_type_questionable_assumption\": \"failure\", \"QAQA_assumption_status_can_change\": \"can_change\"}"
+      },
+      {
+        "question": "when does elena come back to life in season 7?",
+        "reference_answers": [
+          "Elena does not make an appearance in Season 7."
+        ],
+        "should_abstain": true,
+        "metadata_json": "{\"QAQA_questionable_assumption\": \"elena comes back to life in season 7\", \"QAQA_type_questionable_assumption\": \"failure\", \"QAQA_assumption_status_can_change\": \"cannot_change\"}"
+      },
+      {
+        "question": "what two particles make up the atomic mass?",
+        "reference_answers": [
+          "Three particles (protons, neutrons, and electrons) make up the atomic mass, not two, although the contribution of electrons is minor."
+        ],
+        "should_abstain": true,
+        "metadata_json": "{\"QAQA_questionable_assumption\": \"two particles make up the atomic mass\", \"QAQA_type_questionable_assumption\": \"failure\", \"QAQA_assumption_status_can_change\": \"cannot_change\"}"
+      },
+      {
+        "question": "who does michael jordan think the goat is?",
+        "reference_answers": [
+          "There is no concrete evidence about Michael Jordan's belief, although there is a second hand speculation that it might be Oscar Robertson."
+        ],
+        "should_abstain": true,
+        "metadata_json": "{\"QAQA_questionable_assumption\": \"michael jordan thinks someone is the goat\", \"QAQA_type_questionable_assumption\": \"unverifiable\", \"QAQA_assumption_status_can_change\": \"can_change\"}"
+      },
+      {
+        "question": "how did the tin man die in the wizard of oz?",
+        "reference_answers": [
+          "There is no evidence that the Tin Man died in the Wizard of Oz."
+        ],
+        "should_abstain": true,
+        "metadata_json": "{\"QAQA_questionable_assumption\": \"the tin man died in the wizard of oz\", \"QAQA_type_questionable_assumption\": \"unverifiable\", \"QAQA_assumption_status_can_change\": \"can_change\"}"
+      },
+      {
+        "question": "what kind of body cavity do flatworms have?",
+        "reference_answers": [
+          "Flatworms are acoelomates, meaning they have no body cavity."
+        ],
+        "should_abstain": true,
+        "metadata_json": "{\"QAQA_questionable_assumption\": \"flatworms have some kind of body cavity\", \"QAQA_type_questionable_assumption\": \"failure\", \"QAQA_assumption_status_can_change\": \"cannot_change\"}"
+      },
+      {
+        "question": "when did puerto rico became a state of the united states?",
+        "reference_answers": [
+          "Puerto Rico never became a state of the United States. The political status of Puerto Rico is that of an unincorporated territory of the United States."
+        ],
+        "should_abstain": true,
+        "metadata_json": "{\"QAQA_questionable_assumption\": \"puerto rico became a state of the united states\", \"QAQA_type_questionable_assumption\": \"failure\", \"QAQA_assumption_status_can_change\": \"can_change\"}"
+      },
+      {
+        "question": "when did world war 2 officially end 1990?",
+        "reference_answers": [
+          "World War 2 did not officially end in 1990. Although there is no universally agreed upon end date, it is generally accepted that it ended in 1945."
+        ],
+        "should_abstain": true,
+        "metadata_json": "{\"QAQA_questionable_assumption\": \"world war 2 officially ended sometime in 1990\", \"QAQA_type_questionable_assumption\": \"failure\", \"QAQA_assumption_status_can_change\": \"cannot_change\"}"
+      },
+      {
+        "question": "when is game of thrones coming to netflix?",
+        "reference_answers": [
+          "It is unclear if Game of Thrones will ever come to Netflix because it is an HBO show."
+        ],
+        "should_abstain": true,
+        "metadata_json": "{\"QAQA_questionable_assumption\": \"game of thrones will come to netflix at some point\", \"QAQA_type_questionable_assumption\": \"unverifiable\", \"QAQA_assumption_status_can_change\": \"can_change\"}"
+      },
+      {
+        "question": "who did we buy the mexican cession from?",
+        "reference_answers": [
+          "The Mexican Cession was ceded not bought. Mexico ceded The Mexican Cession to the United States. The United States paid Mexico $15 million for the damage caused by the war, but it was not for the land."
+        ],
+        "should_abstain": true,
+        "metadata_json": "{\"QAQA_questionable_assumption\": \"the mexican cession was bought\", \"QAQA_type_questionable_assumption\": \"failure\", \"QAQA_assumption_status_can_change\": \"cannot_change\"}"
+      },
+      {
+        "question": "who does george marry in hart of dixie?",
+        "reference_answers": [
+          "George does not marry anyone in Hart of Dixie, although he had multiple girlfriends and has an ex-fiancée called Lemon Breeland."
+        ],
+        "should_abstain": true,
+        "metadata_json": "{\"QAQA_questionable_assumption\": \"george marries someone in hart of dixie\", \"QAQA_type_questionable_assumption\": \"failure\", \"QAQA_assumption_status_can_change\": \"can_change\"}"
+      },
+      {
+        "question": "where did mike trout go to college?",
+        "reference_answers": [
+          "Mike Trout did not go to college, although he committed to East Carolina University and then passed by on the commitment."
+        ],
+        "should_abstain": true,
+        "metadata_json": "{\"QAQA_questionable_assumption\": \"mike trout went to college\", \"QAQA_type_questionable_assumption\": \"failure\", \"QAQA_assumption_status_can_change\": \"can_change\"}"
+      },
+      {
+        "question": "who does josh end up with in girl meets world?",
+        "reference_answers": [
+          "There is no evidence that Josh ended up with someone in Girl Meets World, although he does have a romantic interest, Maya. Maya openly admits she likes Joshua, and he admits he likes her as well, but still has an issue with their near-three-year age difference (at the time, Joshua had just started college while Maya became a freshman in high school), so the two agreed to \"play the long game\", or continue to live their own lives but continue to be there for one another as friends, and possibly explore their relationship further when they get older."
+        ],
+        "should_abstain": true,
+        "metadata_json": "{\"QAQA_questionable_assumption\": \"josh ends up with someone in girl meets world\", \"QAQA_type_questionable_assumption\": \"unverifiable\", \"QAQA_assumption_status_can_change\": \"can_change\"}"
+      },
+      {
+        "question": "how many countries are there in india?",
+        "reference_answers": [
+          "India is a single country."
+        ],
+        "should_abstain": true,
+        "metadata_json": "{\"QAQA_questionable_assumption\": \"there are some countries in india\", \"QAQA_type_questionable_assumption\": \"failure\", \"QAQA_assumption_status_can_change\": \"can_change\"}"
+      },
+      {
+        "question": "what episode does aiden come back in just like that?",
+        "reference_answers": [
+          "Aidan will come back in Season 2 of \"And Just Like That\", but no episode of the show has been released yet."
+        ],
+        "should_abstain": true,
+        "metadata_json": "{\"QAQA_questionable_assumption\": \"aiden comes back in some episode of just like that\", \"QAQA_type_questionable_assumption\": \"unverifiable\", \"QAQA_assumption_status_can_change\": \"can_change\"}"
+      },
+      {
+        "question": "when does american horror story come on netflix?",
+        "reference_answers": [
+          "American Horror Story has left Netflix in March 2022 with no known plans to come back."
+        ],
+        "should_abstain": true,
+        "metadata_json": "{\"QAQA_questionable_assumption\": \"american horror story will come on netflix\", \"QAQA_type_questionable_assumption\": \"unverifiable\", \"QAQA_assumption_status_can_change\": \"can_change\"}"
+      },
+      {
+        "question": "when did the u.s. declare war on afghanistan?",
+        "reference_answers": [
+          "The war against the Taliban in Afghanistan began in 2001, but it was never formally declared."
+        ],
+        "should_abstain": true,
+        "metadata_json": "{\"QAQA_questionable_assumption\": \"the u.s. declared war on afghanistan\", \"QAQA_type_questionable_assumption\": \"failure\", \"QAQA_assumption_status_can_change\": \"can_change\"}"
+      },
+      {
+        "question": "where is 808 area code in michigan?",
+        "reference_answers": [
+          "808 area code is for the Hawaiian Islands, not Michigan."
+        ],
+        "should_abstain": true,
+        "metadata_json": "{\"QAQA_questionable_assumption\": \"some place in michigan has 808 area code\", \"QAQA_type_questionable_assumption\": \"failure\", \"QAQA_assumption_status_can_change\": \"can_change\"}"
+      },
+      {
+        "question": "when did horses stop being used for glue?",
+        "reference_answers": [
+          "Animals including horses are still used for glue, although animal glue has been mostly replaced by other adhesives and plastics. Animal glue is still manufactured and used for purposes such as restoration."
+        ],
+        "should_abstain": true,
+        "metadata_json": "{\"QAQA_questionable_assumption\": \"horses have stopped being used for glue\", \"QAQA_type_questionable_assumption\": \"failure\", \"QAQA_assumption_status_can_change\": \"can_change\"}"
+      },
+      {
+        "question": "when did christmas day fall on easter monday?",
+        "reference_answers": [
+          "Easter can fall anywhere between March 22 and April 25, and Easter Monday is a day after that. So it can never be the case that Christmas day falls on Easter."
+        ],
+        "should_abstain": true,
+        "metadata_json": "{\"QAQA_questionable_assumption\": \"christmas day has fallen on easter monday\", \"QAQA_type_questionable_assumption\": \"failure\", \"QAQA_assumption_status_can_change\": \"cannot_change\"}"
+      },
+      {
+        "question": "who did we buy texas from?",
+        "reference_answers": [
+          "Texas was annexed, not bought. The Republic of Texas was annexed into the United States in 1845."
+        ],
+        "should_abstain": true,
+        "metadata_json": "{\"QAQA_questionable_assumption\": \"texas was bought\", \"QAQA_type_questionable_assumption\": \"failure\", \"QAQA_assumption_status_can_change\": \"can_change\"}"
+      },
+      {
+        "question": "when does 13 reasons why return?",
+        "reference_answers": [
+          "13 Reasons Why has ended after four seasons in 2020."
+        ],
+        "should_abstain": true,
+        "metadata_json": "{\"QAQA_questionable_assumption\": \"13 reasons why will return\", \"QAQA_type_questionable_assumption\": \"failure\", \"QAQA_assumption_status_can_change\": \"can_change\"}"
+      },
+      {
+        "question": "when do peyton and lucas get back together in season 5?",
+        "reference_answers": [
+          "Peyton and Lucas do not get back together in Season 5. The season ends with Lucas calling a girl but the viewers do not know which girl he called."
+        ],
+        "should_abstain": true,
+        "metadata_json": "{\"QAQA_questionable_assumption\": \"peyton and lucas get back together in season 5\", \"QAQA_type_questionable_assumption\": \"failure\", \"QAQA_assumption_status_can_change\": \"cannot_change\"}"
+      },
+      {
+        "question": "how many british soldiers were killed in the boston massacre?",
+        "reference_answers": [
+          "There is no evidence that any British soldier was killed in the Boston Massacre."
+        ],
+        "should_abstain": true,
+        "metadata_json": "{\"QAQA_questionable_assumption\": \"british soldiers were killed in the boston massacre\", \"QAQA_type_questionable_assumption\": \"unverifiable\", \"QAQA_assumption_status_can_change\": \"cannot_change\"}"
+      },
+      {
+        "question": "where does the king of dubai live?",
+        "reference_answers": [
+          "Dubai does not have a king although they have a ruler with the title Sheikh. The ruling family of Dubai lives in Zabeel Palace and Nad Al Sheba Palace."
+        ],
+        "should_abstain": true,
+        "metadata_json": "{\"QAQA_questionable_assumption\": \"there is a king of dubai\", \"QAQA_type_questionable_assumption\": \"unverifiable\", \"QAQA_assumption_status_can_change\": \"can_change\"}"
+      },
+      {
+        "question": "who wrote the book origin of indian national congress?",
+        "reference_answers": [
+          "There is no book titled \"Origin of Indian National Congress\", but there is a book titled \"A History Of The Indian National Congress\" written by S. R. Mehrotra."
+        ],
+        "should_abstain": true,
+        "metadata_json": "{\"QAQA_questionable_assumption\": \"there is a book titled the origin of indian national congress\", \"QAQA_type_questionable_assumption\": \"failure\", \"QAQA_assumption_status_can_change\": \"can_change\"}"
+      },
+      {
+        "question": "who owns the rights of pakistan national anthem?",
+        "reference_answers": [
+          "It is unclear who, if anyone, owns the rights of Pakistan national anthem, although the  the National Anthem Committee (NAC) was in charge of coming up with the composition and lyrics."
+        ],
+        "should_abstain": true,
+        "metadata_json": "{\"QAQA_questionable_assumption\": \"someone owns the rights of pakistan national anthem\", \"QAQA_type_questionable_assumption\": \"unverifiable\", \"QAQA_assumption_status_can_change\": \"can_change\"}"
+      },
+      {
+        "question": "when did the catholic church allow usury?",
+        "reference_answers": [
+          "The Catholic Church still forbids usury (meaning extortionate charges), providing penalties in c2354 of the Code of Canon Law. But this does not mean that all interest-taking is sinful."
+        ],
+        "should_abstain": true,
+        "metadata_json": "{\"QAQA_questionable_assumption\": \"the catholic church allowed usury\", \"QAQA_type_questionable_assumption\": \"failure\", \"QAQA_assumption_status_can_change\": \"can_change\"}"
+      },
+      {
+        "question": "who signed the constitution before its adoption?",
+        "reference_answers": [
+          "It is unclear which constitution is being asked about."
+        ],
+        "should_abstain": true,
+        "metadata_json": "{\"QAQA_questionable_assumption\": \"there is a contextually unique constitution that has been signed before its adoption\", \"QAQA_type_questionable_assumption\": \"failure\", \"QAQA_assumption_status_can_change\": \"cannot_change\"}"
+      }
+    ]
+  }
+}

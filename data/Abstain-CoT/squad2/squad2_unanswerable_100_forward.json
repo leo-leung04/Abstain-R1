@@ -1,0 +1,607 @@
+{
+  "squad2": {
+    "answerable": [],
+    "unanswerable": [
+      {
+        "question": "Respond to the question using only information given in the context.\nContext: The Normans (Norman: Nourmands; French: Normands; Latin: Normanni) were the people who in the 10th and 11th centuries gave their name to Normandy, a region in France. They were descended from Norse (\"Norman\" comes from \"Norseman\") raiders and pirates from Denmark, Iceland and Norway who, under their leader Rollo, agreed to swear fealty to King Charles III of West Francia. Through generations of assimilation and mixing with the native Frankish and Roman-Gaulish populations, their descendants would gradually merge with the Carolingian-based cultures of West Francia. The distinct cultural and ethnic identity of the Normans emerged initially in the first half of the 10th century, and it continued to evolve over the succeeding centuries.\nQuestion: Who did King Charles III swear fealty to?",
+        "reference_answers": null,
+        "should_abstain": true,
+        "metadata_json": "{\"SQuAD2.0_id\": \"5ad39d53604f3c001a3fe8d3\"}"
+      },
+      {
+        "question": "Respond to the question using only information given in the context.\nContext: The Normans (Norman: Nourmands; French: Normands; Latin: Normanni) were the people who in the 10th and 11th centuries gave their name to Normandy, a region in France. They were descended from Norse (\"Norman\" comes from \"Norseman\") raiders and pirates from Denmark, Iceland and Norway who, under their leader Rollo, agreed to swear fealty to King Charles III of West Francia. Through generations of assimilation and mixing with the native Frankish and Roman-Gaulish populations, their descendants would gradually merge with the Carolingian-based cultures of West Francia. The distinct cultural and ethnic identity of the Normans emerged initially in the first half of the 10th century, and it continued to evolve over the succeeding centuries.\nQuestion: When did the Frankish identity emerge?",
+        "reference_answers": null,
+        "should_abstain": true,
+        "metadata_json": "{\"SQuAD2.0_id\": \"5ad39d53604f3c001a3fe8d4\"}"
+      },
+      {
+        "question": "Respond to the question using only information given in the context.\nContext: The English name \"Normans\" comes from the French words Normans/Normanz, plural of Normant, modern French normand, which is itself borrowed from Old Low Franconian Nortmann \"Northman\" or directly from Old Norse Norðmaðr, Latinized variously as Nortmannus, Normannus, or Nordmannus (recorded in Medieval Latin, 9th century) to mean \"Norseman, Viking\".\nQuestion: What name comes from the English words Normans/Normanz?",
+        "reference_answers": null,
+        "should_abstain": true,
+        "metadata_json": "{\"SQuAD2.0_id\": \"5ad3ab70604f3c001a3feb89\"}"
+      },
+      {
+        "question": "Respond to the question using only information given in the context.\nContext: In the course of the 10th century, the initially destructive incursions of Norse war bands into the rivers of France evolved into more permanent encampments that included local women and personal property. The Duchy of Normandy, which began in 911 as a fiefdom, was established by the treaty of Saint-Clair-sur-Epte between King Charles III of West Francia and the famed Viking ruler Rollo, and was situated in the former Frankish kingdom of Neustria. The treaty offered Rollo and his men the French lands between the river Epte and the Atlantic coast in exchange for their protection against further Viking incursions. The area corresponded to the northern part of present-day Upper Normandy down to the river Seine, but the Duchy would eventually extend west beyond the Seine. The territory was roughly equivalent to the old province of Rouen, and reproduced the Roman administrative structure of Gallia Lugdunensis II (part of the former Gallia Lugdunensis).\nQuestion: Who established a treaty with King Charles the third of France?",
+        "reference_answers": null,
+        "should_abstain": true,
+        "metadata_json": "{\"SQuAD2.0_id\": \"5ad3ad61604f3c001a3fec0f\"}"
+      },
+      {
+        "question": "Respond to the question using only information given in the context.\nContext: The descendants of Rollo's Vikings and their Frankish wives would replace the Norse religion and Old Norse language with Catholicism (Christianity) and the Gallo-Romance language of the local people, blending their maternal Frankish heritage with Old Norse traditions and customs to synthesize a unique \"Norman\" culture in the north of France. The Norman language was forged by the adoption of the indigenous langue d'oïl branch of Romance by a Norse-speaking ruling class, and it developed into the regional language that survives today.\nQuestion: What was replace with the Norse religion?",
+        "reference_answers": null,
+        "should_abstain": true,
+        "metadata_json": "{\"SQuAD2.0_id\": \"5ad3af11604f3c001a3fec63\"}"
+      },
+      {
+        "question": "Respond to the question using only information given in the context.\nContext: The descendants of Rollo's Vikings and their Frankish wives would replace the Norse religion and Old Norse language with Catholicism (Christianity) and the Gallo-Romance language of the local people, blending their maternal Frankish heritage with Old Norse traditions and customs to synthesize a unique \"Norman\" culture in the north of France. The Norman language was forged by the adoption of the indigenous langue d'oïl branch of Romance by a Norse-speaking ruling class, and it developed into the regional language that survives today.\nQuestion: What did maternal Old Norse traditions merge with?",
+        "reference_answers": null,
+        "should_abstain": true,
+        "metadata_json": "{\"SQuAD2.0_id\": \"5ad3af11604f3c001a3fec64\"}"
+      },
+      {
+        "question": "Respond to the question using only information given in the context.\nContext: The descendants of Rollo's Vikings and their Frankish wives would replace the Norse religion and Old Norse language with Catholicism (Christianity) and the Gallo-Romance language of the local people, blending their maternal Frankish heritage with Old Norse traditions and customs to synthesize a unique \"Norman\" culture in the north of France. The Norman language was forged by the adoption of the indigenous langue d'oïl branch of Romance by a Norse-speaking ruling class, and it developed into the regional language that survives today.\nQuestion: What language replaced the Gallo-Romance language?",
+        "reference_answers": null,
+        "should_abstain": true,
+        "metadata_json": "{\"SQuAD2.0_id\": \"5ad3af11604f3c001a3fec65\"}"
+      },
+      {
+        "question": "Respond to the question using only information given in the context.\nContext: Robert Guiscard, an other Norman adventurer previously elevated to the dignity of count of Apulia as the result of his military successes, ultimately drove the Byzantines out of southern Italy. Having obtained the consent of pope Gregory VII and acting as his vassal, Robert continued his campaign conquering the Balkan peninsula as a foothold for western feudal lords and the Catholic Church. After allying himself with Croatia and the Catholic cities of Dalmatia, in 1081 he led an army of 30,000 men in 300 ships landing on the southern shores of Albania, capturing Valona, Kanina, Jericho (Orikumi), and reaching Butrint after numerous pillages. They joined the fleet that had previously conquered Corfu and attacked Dyrrachium from land and sea, devastating everything along the way. Under these harsh circumstances, the locals accepted the call of emperor Alexius I Comnenus to join forces with the Byzantines against the Normans. The Albanian forces could not take part in the ensuing battle because it had started before their arrival. Immediately before the battle, the Venetian fleet had secured a victory in the coast surrounding the city. Forced to retreat, Alexius ceded the command to a high Albanian official named Comiscortes in the service of Byzantium. The city's garrison resisted until February 1082, when Dyrrachium was betrayed to the Normans by the Venetian and Amalfitan merchants who had settled there. The Normans were now free to penetrate into the hinterland; they took Ioannina and some minor cities in southwestern Macedonia and Thessaly before appearing at the gates of Thessalonica. Dissension among the high ranks coerced the Normans to retreat to Italy. They lost Dyrrachium, Valona, and Butrint in 1085, after the death of Robert.\nQuestion: How many men did Roberts army face?",
+        "reference_answers": null,
+        "should_abstain": true,
+        "metadata_json": "{\"SQuAD2.0_id\": \"5ad3ed26604f3c001a3ff79c\"}"
+      },
+      {
+        "question": "Respond to the question using only information given in the context.\nContext: A few years after the First Crusade, in 1107, the Normans under the command of Bohemond, Robert's son, landed in Valona and besieged Dyrrachium using the most sophisticated military equipment of the time, but to no avail. Meanwhile, they occupied Petrela, the citadel of Mili at the banks of the river Deabolis, Gllavenica (Ballsh), Kanina and Jericho. This time, the Albanians sided with the Normans, dissatisfied by the heavy taxes the Byzantines had imposed upon them. With their help, the Normans secured the Arbanon passes and opened their way to Dibra. The lack of supplies, disease and Byzantine resistance forced Bohemond to retreat from his campaign and sign a peace treaty with the Byzantines in the city of Deabolis.\nQuestion: Who did the Normans besiege in the 11th century?",
+        "reference_answers": null,
+        "should_abstain": true,
+        "metadata_json": "{\"SQuAD2.0_id\": \"5ad3ee2d604f3c001a3ff7e1\"}"
+      },
+      {
+        "question": "Respond to the question using only information given in the context.\nContext: A few years after the First Crusade, in 1107, the Normans under the command of Bohemond, Robert's son, landed in Valona and besieged Dyrrachium using the most sophisticated military equipment of the time, but to no avail. Meanwhile, they occupied Petrela, the citadel of Mili at the banks of the river Deabolis, Gllavenica (Ballsh), Kanina and Jericho. This time, the Albanians sided with the Normans, dissatisfied by the heavy taxes the Byzantines had imposed upon them. With their help, the Normans secured the Arbanon passes and opened their way to Dibra. The lack of supplies, disease and Byzantine resistance forced Bohemond to retreat from his campaign and sign a peace treaty with the Byzantines in the city of Deabolis.\nQuestion: Who did Robert lead agains Dyrrachium in 1107?",
+        "reference_answers": null,
+        "should_abstain": true,
+        "metadata_json": "{\"SQuAD2.0_id\": \"5ad3ee2d604f3c001a3ff7e2\"}"
+      },
+      {
+        "question": "Respond to the question using only information given in the context.\nContext: The further decline of Byzantine state-of-affairs paved the road to a third attack in 1185, when a large Norman army invaded Dyrrachium, owing to the betrayal of high Byzantine officials. Some time later, Dyrrachium—one of the most important naval bases of the Adriatic—fell again to Byzantine hands.\nQuestion: Who betrayed the Normans?",
+        "reference_answers": null,
+        "should_abstain": true,
+        "metadata_json": "{\"SQuAD2.0_id\": \"5ad3f028604f3c001a3ff824\"}"
+      },
+      {
+        "question": "Respond to the question using only information given in the context.\nContext: The further decline of Byzantine state-of-affairs paved the road to a third attack in 1185, when a large Norman army invaded Dyrrachium, owing to the betrayal of high Byzantine officials. Some time later, Dyrrachium—one of the most important naval bases of the Adriatic—fell again to Byzantine hands.\nQuestion: What naval base fell to the Normans?",
+        "reference_answers": null,
+        "should_abstain": true,
+        "metadata_json": "{\"SQuAD2.0_id\": \"5ad3f028604f3c001a3ff825\"}"
+      },
+      {
+        "question": "Respond to the question using only information given in the context.\nContext: In 1066, Duke William II of Normandy conquered England killing King Harold II at the Battle of Hastings. The invading Normans and their descendants replaced the Anglo-Saxons as the ruling class of England. The nobility of England were part of a single Normans culture and many had lands on both sides of the channel. Early Norman kings of England, as Dukes of Normandy, owed homage to the King of France for their land on the continent. They considered England to be their most important holding (it brought with it the title of King—an important status symbol).\nQuestion: Who considered their land on the continent their most important holding?",
+        "reference_answers": null,
+        "should_abstain": true,
+        "metadata_json": "{\"SQuAD2.0_id\": \"5ad3f4b1604f3c001a3ff954\"}"
+      },
+      {
+        "question": "Respond to the question using only information given in the context.\nContext: The Normans had a profound effect on Irish culture and history after their invasion at Bannow Bay in 1169. Initially the Normans maintained a distinct culture and ethnicity. Yet, with time, they came to be subsumed into Irish culture to the point that it has been said that they became \"more Irish than the Irish themselves.\" The Normans settled mostly in an area in the east of Ireland, later known as the Pale, and also built many fine castles and settlements, including Trim Castle and Dublin Castle. Both cultures intermixed, borrowing from each other's language, culture and outlook. Norman descendants today can be recognised by their surnames. Names such as French, (De) Roche, Devereux, D'Arcy, Treacy and Lacy are particularly common in the southeast of Ireland, especially in the southern part of County Wexford where the first Norman settlements were established. Other Norman names such as Furlong predominate there. Another common Norman-Irish name was Morell (Murrell) derived from the French Norman name Morel. Other names beginning with Fitz (from the Norman for son) indicate Norman ancestry. These included Fitzgerald, FitzGibbons (Gibbons) dynasty, Fitzmaurice. Other families bearing such surnames as Barry (de Barra) and De Búrca (Burke) are also of Norman extraction.\nQuestion: What castles were built by the Irish?",
+        "reference_answers": null,
+        "should_abstain": true,
+        "metadata_json": "{\"SQuAD2.0_id\": \"5ad3f6f5604f3c001a3ffa0b\"}"
+      },
+      {
+        "question": "Respond to the question using only information given in the context.\nContext: One of the claimants of the English throne opposing William the Conqueror, Edgar Atheling, eventually fled to Scotland. King Malcolm III of Scotland married Edgar's sister Margaret, and came into opposition to William who had already disputed Scotland's southern borders. William invaded Scotland in 1072, riding as far as Abernethy where he met up with his fleet of ships. Malcolm submitted, paid homage to William and surrendered his son Duncan as a hostage, beginning a series of arguments as to whether the Scottish Crown owed allegiance to the King of England.\nQuestion: Who invaded Scotland in the 10th century?",
+        "reference_answers": null,
+        "should_abstain": true,
+        "metadata_json": "{\"SQuAD2.0_id\": \"5ad3f7ac604f3c001a3ffa3c\"}"
+      },
+      {
+        "question": "Respond to the question using only information given in the context.\nContext: Subsequent to the Conquest, however, the Marches came completely under the dominance of William's most trusted Norman barons, including Bernard de Neufmarché, Roger of Montgomery in Shropshire and Hugh Lupus in Cheshire. These Normans began a long period of slow conquest during which almost all of Wales was at some point subject to Norman interference. Norman words, such as baron (barwn), first entered Welsh at that time.\nQuestion: What came under Williams dominace before the conquest?",
+        "reference_answers": null,
+        "should_abstain": true,
+        "metadata_json": "{\"SQuAD2.0_id\": \"5ad3fb6e604f3c001a3ffb5f\"}"
+      },
+      {
+        "question": "Respond to the question using only information given in the context.\nContext: Subsequent to the Conquest, however, the Marches came completely under the dominance of William's most trusted Norman barons, including Bernard de Neufmarché, Roger of Montgomery in Shropshire and Hugh Lupus in Cheshire. These Normans began a long period of slow conquest during which almost all of Wales was at some point subject to Norman interference. Norman words, such as baron (barwn), first entered Welsh at that time.\nQuestion: What Welsh lords did William conquer?",
+        "reference_answers": null,
+        "should_abstain": true,
+        "metadata_json": "{\"SQuAD2.0_id\": \"5ad3fb6e604f3c001a3ffb60\"}"
+      },
+      {
+        "question": "Respond to the question using only information given in the context.\nContext: The legendary religious zeal of the Normans was exercised in religious wars long before the First Crusade carved out a Norman principality in Antioch. They were major foreign participants in the Reconquista in Iberia. In 1018, Roger de Tosny travelled to the Iberian Peninsula to carve out a state for himself from Moorish lands, but failed. In 1064, during the War of Barbastro, William of Montreuil led the papal army and took a huge booty.\nQuestion: What did the Normans take part in in the 10th century?",
+        "reference_answers": null,
+        "should_abstain": true,
+        "metadata_json": "{\"SQuAD2.0_id\": \"5ad3fc41604f3c001a3ffb90\"}"
+      },
+      {
+        "question": "Respond to the question using only information given in the context.\nContext: The legendary religious zeal of the Normans was exercised in religious wars long before the First Crusade carved out a Norman principality in Antioch. They were major foreign participants in the Reconquista in Iberia. In 1018, Roger de Tosny travelled to the Iberian Peninsula to carve out a state for himself from Moorish lands, but failed. In 1064, during the War of Barbastro, William of Montreuil led the papal army and took a huge booty.\nQuestion: Who carved out a state for himself from Moorish lands?",
+        "reference_answers": null,
+        "should_abstain": true,
+        "metadata_json": "{\"SQuAD2.0_id\": \"5ad3fc41604f3c001a3ffb91\"}"
+      },
+      {
+        "question": "Respond to the question using only information given in the context.\nContext: In 1096, Crusaders passing by the siege of Amalfi were joined by Bohemond of Taranto and his nephew Tancred with an army of Italo-Normans. Bohemond was the de facto leader of the Crusade during its passage through Asia Minor. After the successful Siege of Antioch in 1097, Bohemond began carving out an independent principality around that city. Tancred was instrumental in the conquest of Jerusalem and he worked for the expansion of the Crusader kingdom in Transjordan and the region of Galilee.[citation needed]\nQuestion: When did Tancred lay siege to Antioch?",
+        "reference_answers": null,
+        "should_abstain": true,
+        "metadata_json": "{\"SQuAD2.0_id\": \"5ad4017a604f3c001a3ffd1f\"}"
+      },
+      {
+        "question": "Respond to the question using only information given in the context.\nContext: The conquest of Cyprus by the Anglo-Norman forces of the Third Crusade opened a new chapter in the history of the island, which would be under Western European domination for the following 380 years. Although not part of a planned operation, the conquest had much more permanent results than initially expected.\nQuestion: Who defeated Anglo-Norman forces during the third Crusade?",
+        "reference_answers": null,
+        "should_abstain": true,
+        "metadata_json": "{\"SQuAD2.0_id\": \"5ad401f2604f3c001a3ffd41\"}"
+      },
+      {
+        "question": "Respond to the question using only information given in the context.\nContext: In April 1191 Richard the Lion-hearted left Messina with a large fleet in order to reach Acre. But a storm dispersed the fleet. After some searching, it was discovered that the boat carrying his sister and his fiancée Berengaria was anchored on the south coast of Cyprus, together with the wrecks of several other ships, including the treasure ship. Survivors of the wrecks had been taken prisoner by the island's despot Isaac Komnenos. On 1 May 1191, Richard's fleet arrived in the port of Limassol on Cyprus. He ordered Isaac to release the prisoners and the treasure. Isaac refused, so Richard landed his troops and took Limassol.\nQuestion: What year did Richards fleet avoid a storm?",
+        "reference_answers": null,
+        "should_abstain": true,
+        "metadata_json": "{\"SQuAD2.0_id\": \"5ad40280604f3c001a3ffd58\"}"
+      },
+      {
+        "question": "Respond to the question using only information given in the context.\nContext: In April 1191 Richard the Lion-hearted left Messina with a large fleet in order to reach Acre. But a storm dispersed the fleet. After some searching, it was discovered that the boat carrying his sister and his fiancée Berengaria was anchored on the south coast of Cyprus, together with the wrecks of several other ships, including the treasure ship. Survivors of the wrecks had been taken prisoner by the island's despot Isaac Komnenos. On 1 May 1191, Richard's fleet arrived in the port of Limassol on Cyprus. He ordered Isaac to release the prisoners and the treasure. Isaac refused, so Richard landed his troops and took Limassol.\nQuestion: Who ruled Cyprus in the 11th century?",
+        "reference_answers": null,
+        "should_abstain": true,
+        "metadata_json": "{\"SQuAD2.0_id\": \"5ad40280604f3c001a3ffd59\"}"
+      },
+      {
+        "question": "Respond to the question using only information given in the context.\nContext: Various princes of the Holy Land arrived in Limassol at the same time, in particular Guy de Lusignan. All declared their support for Richard provided that he support Guy against his rival Conrad of Montferrat. The local barons abandoned Isaac, who considered making peace with Richard, joining him on the crusade, and offering his daughter in marriage to the person named by Richard. But Isaac changed his mind and tried to escape. Richard then proceeded to conquer the whole island, his troops being led by Guy de Lusignan. Isaac surrendered and was confined with silver chains, because Richard had promised that he would not place him in irons. By 1 June, Richard had conquered the whole island. His exploit was well publicized and contributed to his reputation; he also derived significant financial gains from the conquest of the island. Richard left for Acre on 5 June, with his allies. Before his departure, he named two of his Norman generals, Richard de Camville and Robert de Thornham, as governors of Cyprus.\nQuestion: Who's chains were made out of copper?",
+        "reference_answers": null,
+        "should_abstain": true,
+        "metadata_json": "{\"SQuAD2.0_id\": \"5ad404a6604f3c001a3ffde1\"}"
+      },
+      {
+        "question": "Respond to the question using only information given in the context.\nContext: Various princes of the Holy Land arrived in Limassol at the same time, in particular Guy de Lusignan. All declared their support for Richard provided that he support Guy against his rival Conrad of Montferrat. The local barons abandoned Isaac, who considered making peace with Richard, joining him on the crusade, and offering his daughter in marriage to the person named by Richard. But Isaac changed his mind and tried to escape. Richard then proceeded to conquer the whole island, his troops being led by Guy de Lusignan. Isaac surrendered and was confined with silver chains, because Richard had promised that he would not place him in irons. By 1 June, Richard had conquered the whole island. His exploit was well publicized and contributed to his reputation; he also derived significant financial gains from the conquest of the island. Richard left for Acre on 5 June, with his allies. Before his departure, he named two of his Norman generals, Richard de Camville and Robert de Thornham, as governors of Cyprus.\nQuestion: Who led Issacs troops to Cyprus?",
+        "reference_answers": null,
+        "should_abstain": true,
+        "metadata_json": "{\"SQuAD2.0_id\": \"5ad404a6604f3c001a3ffde2\"}"
+      },
+      {
+        "question": "Respond to the question using only information given in the context.\nContext: Between 1402 and 1405, the expedition led by the Norman noble Jean de Bethencourt and the Poitevine Gadifer de la Salle conquered the Canarian islands of Lanzarote, Fuerteventura and El Hierro off the Atlantic coast of Africa. Their troops were gathered in Normandy, Gascony and were later reinforced by Castilian colonists.\nQuestion: Who conquered the Canary Island in the 14th century?",
+        "reference_answers": null,
+        "should_abstain": true,
+        "metadata_json": "{\"SQuAD2.0_id\": \"5ad40419604f3c001a3ffdb7\"}"
+      },
+      {
+        "question": "Respond to the question using only information given in the context.\nContext: Between 1402 and 1405, the expedition led by the Norman noble Jean de Bethencourt and the Poitevine Gadifer de la Salle conquered the Canarian islands of Lanzarote, Fuerteventura and El Hierro off the Atlantic coast of Africa. Their troops were gathered in Normandy, Gascony and were later reinforced by Castilian colonists.\nQuestion: What Islands are of the coast of Asia?",
+        "reference_answers": null,
+        "should_abstain": true,
+        "metadata_json": "{\"SQuAD2.0_id\": \"5ad40419604f3c001a3ffdb8\"}"
+      },
+      {
+        "question": "Respond to the question using only information given in the context.\nContext: Bethencourt took the title of King of the Canary Islands, as vassal to Henry III of Castile. In 1418, Jean's nephew Maciot de Bethencourt sold the rights to the islands to Enrique Pérez de Guzmán, 2nd Count de Niebla.\nQuestion: Who sold the rights to the island in the 14th century?",
+        "reference_answers": null,
+        "should_abstain": true,
+        "metadata_json": "{\"SQuAD2.0_id\": \"5ad403c1604f3c001a3ffd98\"}"
+      },
+      {
+        "question": "Respond to the question using only information given in the context.\nContext: The customary law of Normandy was developed between the 10th and 13th centuries and survives today through the legal systems of Jersey and Guernsey in the Channel Islands. Norman customary law was transcribed in two customaries in Latin by two judges for use by them and their colleagues: These are the Très ancien coutumier (Very ancient customary), authored between 1200 and 1245; and the Grand coutumier de Normandie (Great customary of Normandy, originally Summa de legibus Normanniae in curia laïcali), authored between 1235 and 1245.\nQuestion: What Norman law wasdeveloped between 1000 and 1300?",
+        "reference_answers": null,
+        "should_abstain": true,
+        "metadata_json": "{\"SQuAD2.0_id\": \"5ad40358604f3c001a3ffd7d\"}"
+      },
+      {
+        "question": "Respond to the question using only information given in the context.\nContext: The customary law of Normandy was developed between the 10th and 13th centuries and survives today through the legal systems of Jersey and Guernsey in the Channel Islands. Norman customary law was transcribed in two customaries in Latin by two judges for use by them and their colleagues: These are the Très ancien coutumier (Very ancient customary), authored between 1200 and 1245; and the Grand coutumier de Normandie (Great customary of Normandy, originally Summa de legibus Normanniae in curia laïcali), authored between 1235 and 1245.\nQuestion: What was authored in the 12th century?",
+        "reference_answers": null,
+        "should_abstain": true,
+        "metadata_json": "{\"SQuAD2.0_id\": \"5ad40358604f3c001a3ffd7f\"}"
+      },
+      {
+        "question": "Respond to the question using only information given in the context.\nContext: In England, the period of Norman architecture immediately succeeds that of the Anglo-Saxon and precedes the Early Gothic. In southern Italy, the Normans incorporated elements of Islamic, Lombard, and Byzantine building techniques into their own, initiating a unique style known as Norman-Arab architecture within the Kingdom of Sicily.\nQuestion: What precedes the period of Anglo-Saxon architecture?",
+        "reference_answers": null,
+        "should_abstain": true,
+        "metadata_json": "{\"SQuAD2.0_id\": \"5ad400b0604f3c001a3ffcdf\"}"
+      },
+      {
+        "question": "Respond to the question using only information given in the context.\nContext: In England, the period of Norman architecture immediately succeeds that of the Anglo-Saxon and precedes the Early Gothic. In southern Italy, the Normans incorporated elements of Islamic, Lombard, and Byzantine building techniques into their own, initiating a unique style known as Norman-Arab architecture within the Kingdom of Sicily.\nQuestion: Who incorperated Islamic, LOmbard, and Byzantine building techniques in England?",
+        "reference_answers": null,
+        "should_abstain": true,
+        "metadata_json": "{\"SQuAD2.0_id\": \"5ad400b0604f3c001a3ffce1\"}"
+      },
+      {
+        "question": "Respond to the question using only information given in the context.\nContext: The French Wars of Religion in the 16th century and French Revolution in the 18th successively destroyed much of what existed in the way of the architectural and artistic remnant of this Norman creativity. The former, with their violence, caused the wanton destruction of many Norman edifices; the latter, with its assault on religion, caused the purposeful destruction of religious objects of any type, and its destabilisation of society resulted in rampant pillaging.\nQuestion: What revolution was fought in the 1899's?",
+        "reference_answers": null,
+        "should_abstain": true,
+        "metadata_json": "{\"SQuAD2.0_id\": \"5ad3ff1b604f3c001a3ffc74\"}"
+      },
+      {
+        "question": "Respond to the question using only information given in the context.\nContext: Computational complexity theory is a branch of the theory of computation in theoretical computer science that focuses on classifying computational problems according to their inherent difficulty, and relating those classes to each other. A computational problem is understood to be a task that is in principle amenable to being solved by a computer, which is equivalent to stating that the problem may be solved by mechanical application of mathematical steps, such as an algorithm.\nQuestion: What is understood to be a task that is in principle not amendable to being solved by a computer?",
+        "reference_answers": null,
+        "should_abstain": true,
+        "metadata_json": "{\"SQuAD2.0_id\": \"5ad5316b5b96ef001a10ab74\"}"
+      },
+      {
+        "question": "Respond to the question using only information given in the context.\nContext: Computational complexity theory is a branch of the theory of computation in theoretical computer science that focuses on classifying computational problems according to their inherent difficulty, and relating those classes to each other. A computational problem is understood to be a task that is in principle amenable to being solved by a computer, which is equivalent to stating that the problem may be solved by mechanical application of mathematical steps, such as an algorithm.\nQuestion: What is a manual application of mathematical steps?",
+        "reference_answers": null,
+        "should_abstain": true,
+        "metadata_json": "{\"SQuAD2.0_id\": \"5ad5316b5b96ef001a10ab76\"}"
+      },
+      {
+        "question": "Respond to the question using only information given in the context.\nContext: A problem is regarded as inherently difficult if its solution requires significant resources, whatever the algorithm used. The theory formalizes this intuition, by introducing mathematical models of computation to study these problems and quantifying the amount of resources needed to solve them, such as time and storage. Other complexity measures are also used, such as the amount of communication (used in communication complexity), the number of gates in a circuit (used in circuit complexity) and the number of processors (used in parallel computing). One of the roles of computational complexity theory is to determine the practical limits on what computers can and cannot do.\nQuestion: What unit is measured to determine circuit simplicity?",
+        "reference_answers": null,
+        "should_abstain": true,
+        "metadata_json": "{\"SQuAD2.0_id\": \"5ad532575b96ef001a10ab7f\"}"
+      },
+      {
+        "question": "Respond to the question using only information given in the context.\nContext: Closely related fields in theoretical computer science are analysis of algorithms and computability theory. A key distinction between analysis of algorithms and computational complexity theory is that the former is devoted to analyzing the amount of resources needed by a particular algorithm to solve a problem, whereas the latter asks a more general question about all possible algorithms that could be used to solve the same problem. More precisely, it tries to classify problems that can or cannot be solved with appropriately restricted resources. In turn, imposing restrictions on the available resources is what distinguishes computational complexity from computability theory: the latter theory asks what kind of problems can, in principle, be solved algorithmically.\nQuestion: What is not the key distinction between analysis of algorithms and computational complexity theory?",
+        "reference_answers": null,
+        "should_abstain": true,
+        "metadata_json": "{\"SQuAD2.0_id\": \"5ad5344b5b96ef001a10ab87\"}"
+      },
+      {
+        "question": "Respond to the question using only information given in the context.\nContext: A computational problem can be viewed as an infinite collection of instances together with a solution for every instance. The input string for a computational problem is referred to as a problem instance, and should not be confused with the problem itself. In computational complexity theory, a problem refers to the abstract question to be solved. In contrast, an instance of this problem is a rather concrete utterance, which can serve as the input for a decision problem. For example, consider the problem of primality testing. The instance is a number (e.g. 15) and the solution is \"yes\" if the number is prime and \"no\" otherwise (in this case \"no\"). Stated another way, the instance is a particular input to the problem, and the solution is the output corresponding to the given input.\nQuestion: What is the name given to the input string of a computational solution?",
+        "reference_answers": null,
+        "should_abstain": true,
+        "metadata_json": "{\"SQuAD2.0_id\": \"5ad5364c5b96ef001a10ab91\"}"
+      },
+      {
+        "question": "Respond to the question using only information given in the context.\nContext: A computational problem can be viewed as an infinite collection of instances together with a solution for every instance. The input string for a computational problem is referred to as a problem instance, and should not be confused with the problem itself. In computational complexity theory, a problem refers to the abstract question to be solved. In contrast, an instance of this problem is a rather concrete utterance, which can serve as the input for a decision problem. For example, consider the problem of primality testing. The instance is a number (e.g. 15) and the solution is \"yes\" if the number is prime and \"no\" otherwise (in this case \"no\"). Stated another way, the instance is a particular input to the problem, and the solution is the output corresponding to the given input.\nQuestion: What term refers to the concrete question to be solved?",
+        "reference_answers": null,
+        "should_abstain": true,
+        "metadata_json": "{\"SQuAD2.0_id\": \"5ad5364c5b96ef001a10ab92\"}"
+      },
+      {
+        "question": "Respond to the question using only information given in the context.\nContext: To further highlight the difference between a problem and an instance, consider the following instance of the decision version of the traveling salesman problem: Is there a route of at most 2000 kilometres passing through all of Germany's 15 largest cities? The quantitative answer to this particular problem instance is of little use for solving other instances of the problem, such as asking for a round trip through all sites in Milan whose total length is at most 10 km. For this reason, complexity theory addresses computational problems and not particular problem instances.\nQuestion: How many miles does the traveling salesman problem seek to classify a route between the 15 smallest cities in Germany?",
+        "reference_answers": null,
+        "should_abstain": true,
+        "metadata_json": "{\"SQuAD2.0_id\": \"5ad537a15b96ef001a10ab9a\"}"
+      },
+      {
+        "question": "Respond to the question using only information given in the context.\nContext: To further highlight the difference between a problem and an instance, consider the following instance of the decision version of the traveling salesman problem: Is there a route of at most 2000 kilometres passing through all of Germany's 15 largest cities? The quantitative answer to this particular problem instance is of little use for solving other instances of the problem, such as asking for a round trip through all sites in Milan whose total length is at most 10 km. For this reason, complexity theory addresses computational problems and not particular problem instances.\nQuestion: What is the qualitative answer to this particular problem instance?",
+        "reference_answers": null,
+        "should_abstain": true,
+        "metadata_json": "{\"SQuAD2.0_id\": \"5ad537a15b96ef001a10ab9b\"}"
+      },
+      {
+        "question": "Respond to the question using only information given in the context.\nContext: When considering computational problems, a problem instance is a string over an alphabet. Usually, the alphabet is taken to be the binary alphabet (i.e., the set {0,1}), and thus the strings are bitstrings. As in a real-world computer, mathematical objects other than bitstrings must be suitably encoded. For example, integers can be represented in binary notation, and graphs can be encoded directly via their adjacency matrices, or by encoding their adjacency lists in binary.\nQuestion: What is another term for the the string of a problem question?",
+        "reference_answers": null,
+        "should_abstain": true,
+        "metadata_json": "{\"SQuAD2.0_id\": \"5ad5391e5b96ef001a10aba4\"}"
+      },
+      {
+        "question": "Respond to the question using only information given in the context.\nContext: Decision problems are one of the central objects of study in computational complexity theory. A decision problem is a special type of computational problem whose answer is either yes or no, or alternately either 1 or 0. A decision problem can be viewed as a formal language, where the members of the language are instances whose output is yes, and the non-members are those instances whose output is no. The objective is to decide, with the aid of an algorithm, whether a given input string is a member of the formal language under consideration. If the algorithm deciding this problem returns the answer yes, the algorithm is said to accept the input string, otherwise it is said to reject the input.\nQuestion: What is a typical type of computational problem whose answer is either yer or no?",
+        "reference_answers": null,
+        "should_abstain": true,
+        "metadata_json": "{\"SQuAD2.0_id\": \"5ad53b9d5b96ef001a10abc9\"}"
+      },
+      {
+        "question": "Respond to the question using only information given in the context.\nContext: It is tempting to think that the notion of function problems is much richer than the notion of decision problems. However, this is not really the case, since function problems can be recast as decision problems. For example, the multiplication of two integers can be expressed as the set of triples (a, b, c) such that the relation a × b = c holds. Deciding whether a given triple is a member of this set corresponds to solving the problem of multiplying two numbers.\nQuestion: What can not be restated as decision problems?",
+        "reference_answers": null,
+        "should_abstain": true,
+        "metadata_json": "{\"SQuAD2.0_id\": \"5ad53f815b96ef001a10abe4\"}"
+      },
+      {
+        "question": "Respond to the question using only information given in the context.\nContext: If the input size is n, the time taken can be expressed as a function of n. Since the time taken on different inputs of the same size can be different, the worst-case time complexity T(n) is defined to be the maximum time taken over all inputs of size n. If T(n) is a polynomial in n, then the algorithm is said to be a polynomial time algorithm. Cobham's thesis says that a problem can be solved with a feasible amount of resources if it admits a polynomial time algorithm.\nQuestion: What is the term given to the corresponding algorithm assuming that T represents a mononominal in T(n)?",
+        "reference_answers": null,
+        "should_abstain": true,
+        "metadata_json": "{\"SQuAD2.0_id\": \"5ad542db5b96ef001a10abf8\"}"
+      },
+      {
+        "question": "Respond to the question using only information given in the context.\nContext: A Turing machine is a mathematical model of a general computing machine. It is a theoretical device that manipulates symbols contained on a strip of tape. Turing machines are not intended as a practical computing technology, but rather as a thought experiment representing a computing machine—anything from an advanced supercomputer to a mathematician with a pencil and paper. It is believed that if a problem can be solved by an algorithm, there exists a Turing machine that solves the problem. Indeed, this is the statement of the Church–Turing thesis. Furthermore, it is known that everything that can be computed on other models of computation known to us today, such as a RAM machine, Conway's Game of Life, cellular automata or any programming language can be computed on a Turing machine. Since Turing machines are easy to analyze mathematically, and are believed to be as powerful as any other model of computation, the Turing machine is the most commonly used model in complexity theory.\nQuestion: What are intended as a practical computing technology?",
+        "reference_answers": null,
+        "should_abstain": true,
+        "metadata_json": "{\"SQuAD2.0_id\": \"5ad543c05b96ef001a10ac00\"}"
+      },
+      {
+        "question": "Respond to the question using only information given in the context.\nContext: A Turing machine is a mathematical model of a general computing machine. It is a theoretical device that manipulates symbols contained on a strip of tape. Turing machines are not intended as a practical computing technology, but rather as a thought experiment representing a computing machine—anything from an advanced supercomputer to a mathematician with a pencil and paper. It is believed that if a problem can be solved by an algorithm, there exists a Turing machine that solves the problem. Indeed, this is the statement of the Church–Turing thesis. Furthermore, it is known that everything that can be computed on other models of computation known to us today, such as a RAM machine, Conway's Game of Life, cellular automata or any programming language can be computed on a Turing machine. Since Turing machines are easy to analyze mathematically, and are believed to be as powerful as any other model of computation, the Turing machine is the most commonly used model in complexity theory.\nQuestion: What is a scientific experiment that can solve a problem by algorithms?",
+        "reference_answers": null,
+        "should_abstain": true,
+        "metadata_json": "{\"SQuAD2.0_id\": \"5ad543c05b96ef001a10ac01\"}"
+      },
+      {
+        "question": "Respond to the question using only information given in the context.\nContext: A deterministic Turing machine is the most basic Turing machine, which uses a fixed set of rules to determine its future actions. A probabilistic Turing machine is a deterministic Turing machine with an extra supply of random bits. The ability to make probabilistic decisions often helps algorithms solve problems more efficiently. Algorithms that use random bits are called randomized algorithms. A non-deterministic Turing machine is a deterministic Turing machine with an added feature of non-determinism, which allows a Turing machine to have multiple possible future actions from a given state. One way to view non-determinism is that the Turing machine branches into many possible computational paths at each step, and if it solves the problem in any of these branches, it is said to have solved the problem. Clearly, this model is not meant to be a physically realizable model, it is just a theoretically interesting abstract machine that gives rise to particularly interesting complexity classes. For examples, see non-deterministic algorithm.\nQuestion: What is a deterministic Turing machine with an extra supply of random ribbons?",
+        "reference_answers": null,
+        "should_abstain": true,
+        "metadata_json": "{\"SQuAD2.0_id\": \"5ad546c75b96ef001a10ac0f\"}"
+      },
+      {
+        "question": "Respond to the question using only information given in the context.\nContext: Many types of Turing machines are used to define complexity classes, such as deterministic Turing machines, probabilistic Turing machines, non-deterministic Turing machines, quantum Turing machines, symmetric Turing machines and alternating Turing machines. They are all equally powerful in principle, but when resources (such as time or space) are bounded, some of these may be more powerful than others.\nQuestion: What machines are not equally powerful in principle?",
+        "reference_answers": null,
+        "should_abstain": true,
+        "metadata_json": "{\"SQuAD2.0_id\": \"5ad545545b96ef001a10ac08\"}"
+      },
+      {
+        "question": "Respond to the question using only information given in the context.\nContext: Many machine models different from the standard multi-tape Turing machines have been proposed in the literature, for example random access machines. Perhaps surprisingly, each of these models can be converted to another without providing any extra computational power. The time and memory consumption of these alternate models may vary. What all these models have in common is that the machines operate deterministically.\nQuestion: What two resources are uncommonly consumed by alternate models and are typically known to vary?",
+        "reference_answers": null,
+        "should_abstain": true,
+        "metadata_json": "{\"SQuAD2.0_id\": \"5ad547945b96ef001a10ac1a\"}"
+      },
+      {
+        "question": "Respond to the question using only information given in the context.\nContext: Many machine models different from the standard multi-tape Turing machines have been proposed in the literature, for example random access machines. Perhaps surprisingly, each of these models can be converted to another without providing any extra computational power. The time and memory consumption of these alternate models may vary. What all these models have in common is that the machines operate deterministically.\nQuestion: What do all these models not have in common?",
+        "reference_answers": null,
+        "should_abstain": true,
+        "metadata_json": "{\"SQuAD2.0_id\": \"5ad547945b96ef001a10ac1b\"}"
+      },
+      {
+        "question": "Respond to the question using only information given in the context.\nContext: However, some computational problems are easier to analyze in terms of more unusual resources. For example, a non-deterministic Turing machine is a computational model that is allowed to branch out to check many different possibilities at once. The non-deterministic Turing machine has very little to do with how we physically want to compute algorithms, but its branching exactly captures many of the mathematical models we want to analyze, so that non-deterministic time is a very important resource in analyzing computational problems.\nQuestion: What has a lot to do with how we physically want to compute algorithms?",
+        "reference_answers": null,
+        "should_abstain": true,
+        "metadata_json": "{\"SQuAD2.0_id\": \"5ad5489b5b96ef001a10ac2c\"}"
+      },
+      {
+        "question": "Respond to the question using only information given in the context.\nContext: Analogous definitions can be made for space requirements. Although time and space are the most well-known complexity resources, any complexity measure can be viewed as a computational resource. Complexity measures are very generally defined by the Blum complexity axioms. Other complexity measures used in complexity theory include communication complexity, circuit complexity, and decision tree complexity.\nQuestion: What are other complexity measures not used in complexity theory?",
+        "reference_answers": null,
+        "should_abstain": true,
+        "metadata_json": "{\"SQuAD2.0_id\": \"5ad54b035b96ef001a10ac55\"}"
+      },
+      {
+        "question": "Respond to the question using only information given in the context.\nContext: The best, worst and average case complexity refer to three different ways of measuring the time complexity (or any other complexity measure) of different inputs of the same size. Since some inputs of size n may be faster to solve than others, we define the following complexities:\nQuestion: What are the three secondary expressions used to represent case complexity? ",
+        "reference_answers": null,
+        "should_abstain": true,
+        "metadata_json": "{\"SQuAD2.0_id\": \"5ad54c2f5b96ef001a10ac5c\"}"
+      },
+      {
+        "question": "Respond to the question using only information given in the context.\nContext: For example, consider the deterministic sorting algorithm quicksort. This solves the problem of sorting a list of integers that is given as the input. The worst-case is when the input is sorted or sorted in reverse order, and the algorithm takes time O(n2) for this case. If we assume that all possible permutations of the input list are equally likely, the average time taken for sorting is O(n log n). The best case occurs when each pivoting divides the list in half, also needing O(n log n) time.\nQuestion: What case complexity is represented when limited time is required to sort integers?",
+        "reference_answers": null,
+        "should_abstain": true,
+        "metadata_json": "{\"SQuAD2.0_id\": \"5ad54d625b96ef001a10ac66\"}"
+      },
+      {
+        "question": "Respond to the question using only information given in the context.\nContext: For example, consider the deterministic sorting algorithm quicksort. This solves the problem of sorting a list of integers that is given as the input. The worst-case is when the input is sorted or sorted in reverse order, and the algorithm takes time O(n2) for this case. If we assume that all possible permutations of the input list are equally likely, the average time taken for sorting is O(n log n). The best case occurs when each pivoting divides the list in half, also needing O(n log n) time.\nQuestion: What is the expression not used to denote worst case complexity as expressed by time taken?",
+        "reference_answers": null,
+        "should_abstain": true,
+        "metadata_json": "{\"SQuAD2.0_id\": \"5ad54d625b96ef001a10ac67\"}"
+      },
+      {
+        "question": "Respond to the question using only information given in the context.\nContext: To classify the computation time (or similar resources, such as space consumption), one is interested in proving upper and lower bounds on the minimum amount of time required by the most efficient algorithm solving a given problem. The complexity of an algorithm is usually taken to be its worst-case complexity, unless specified otherwise. Analyzing a particular algorithm falls under the field of analysis of algorithms. To show an upper bound T(n) on the time complexity of a problem, one needs to show only that there is a particular algorithm with running time at most T(n). However, proving lower bounds is much more difficult, since lower bounds make a statement about all possible algorithms that solve a given problem. The phrase \"all possible algorithms\" includes not just the algorithms known today, but any algorithm that might be discovered in the future. To show a lower bound of T(n) for a problem requires showing that no algorithm can have time complexity lower than T(n).\nQuestion: What does not fall under the field of analysis of algorithms>",
+        "reference_answers": null,
+        "should_abstain": true,
+        "metadata_json": "{\"SQuAD2.0_id\": \"5ad54e7c5b96ef001a10ac78\"}"
+      },
+      {
+        "question": "Respond to the question using only information given in the context.\nContext: Upper and lower bounds are usually stated using the big O notation, which hides constant factors and smaller terms. This makes the bounds independent of the specific details of the computational model used. For instance, if T(n) = 7n2 + 15n + 40, in big O notation one would write T(n) = O(n2).\nQuestion: What does not hide constant factors or smaller terms?",
+        "reference_answers": null,
+        "should_abstain": true,
+        "metadata_json": "{\"SQuAD2.0_id\": \"5ad54f775b96ef001a10ac89\"}"
+      },
+      {
+        "question": "Respond to the question using only information given in the context.\nContext: Upper and lower bounds are usually stated using the big O notation, which hides constant factors and smaller terms. This makes the bounds independent of the specific details of the computational model used. For instance, if T(n) = 7n2 + 15n + 40, in big O notation one would write T(n) = O(n2).\nQuestion: How would one abbreviate T(n)=8n2 + 16n = 40 in big O notatation?",
+        "reference_answers": null,
+        "should_abstain": true,
+        "metadata_json": "{\"SQuAD2.0_id\": \"5ad54f775b96ef001a10ac8b\"}"
+      },
+      {
+        "question": "Respond to the question using only information given in the context.\nContext: But bounding the computation time above by some concrete function f(n) often yields complexity classes that depend on the chosen machine model. For instance, the language {xx | x is any binary string} can be solved in linear time on a multi-tape Turing machine, but necessarily requires quadratic time in the model of single-tape Turing machines. If we allow polynomial variations in running time, Cobham-Edmonds thesis states that \"the time complexities in any two reasonable and general models of computation are polynomially related\" (Goldreich 2008, Chapter 1.2). This forms the basis for the complexity class P, which is the set of decision problems solvable by a deterministic Turing machine within polynomial time. The corresponding set of function problems is FP.\nQuestion: What is not a binary string?",
+        "reference_answers": null,
+        "should_abstain": true,
+        "metadata_json": "{\"SQuAD2.0_id\": \"5ad55ee35b96ef001a10ace7\"}"
+      },
+      {
+        "question": "Respond to the question using only information given in the context.\nContext: Other important complexity classes include BPP, ZPP and RP, which are defined using probabilistic Turing machines; AC and NC, which are defined using Boolean circuits; and BQP and QMA, which are defined using quantum Turing machines. #P is an important complexity class of counting problems (not decision problems). Classes like IP and AM are defined using Interactive proof systems. ALL is the class of all decision problems.\nQuestion: What are the other four important complexity classes?",
+        "reference_answers": null,
+        "should_abstain": true,
+        "metadata_json": "{\"SQuAD2.0_id\": \"5ad560b85b96ef001a10ad1e\"}"
+      },
+      {
+        "question": "Respond to the question using only information given in the context.\nContext: For the complexity classes defined in this way, it is desirable to prove that relaxing the requirements on (say) computation time indeed defines a bigger set of problems. In particular, although DTIME(n) is contained in DTIME(n2), it would be interesting to know if the inclusion is strict. For time and space requirements, the answer to such questions is given by the time and space hierarchy theorems respectively. They are called hierarchy theorems because they induce a proper hierarchy on the classes defined by constraining the respective resources. Thus there are pairs of complexity classes such that one is properly included in the other. Having deduced such proper set inclusions, we can proceed to make quantitative statements about how much more additional time or space is needed in order to increase the number of problems that can be solved.\nQuestion: What is not an example of a measurement within a complexity class that would create a bigger set of problems if the bounds were relaxed?",
+        "reference_answers": null,
+        "should_abstain": true,
+        "metadata_json": "{\"SQuAD2.0_id\": \"5ad561c85b96ef001a10ad3c\"}"
+      },
+      {
+        "question": "Respond to the question using only information given in the context.\nContext: Many complexity classes are defined using the concept of a reduction. A reduction is a transformation of one problem into another problem. It captures the informal notion of a problem being at least as difficult as another problem. For instance, if a problem X can be solved using an algorithm for Y, X is no more difficult than Y, and we say that X reduces to Y. There are many different types of reductions, based on the method of reduction, such as Cook reductions, Karp reductions and Levin reductions, and the bound on the complexity of reductions, such as polynomial-time reductions or log-space reductions.\nQuestion: What is a transformation of two problems into on three problems?",
+        "reference_answers": null,
+        "should_abstain": true,
+        "metadata_json": "{\"SQuAD2.0_id\": \"5ad5632f5b96ef001a10ad6e\"}"
+      },
+      {
+        "question": "Respond to the question using only information given in the context.\nContext: Many complexity classes are defined using the concept of a reduction. A reduction is a transformation of one problem into another problem. It captures the informal notion of a problem being at least as difficult as another problem. For instance, if a problem X can be solved using an algorithm for Y, X is no more difficult than Y, and we say that X reduces to Y. There are many different types of reductions, based on the method of reduction, such as Cook reductions, Karp reductions and Levin reductions, and the bound on the complexity of reductions, such as polynomial-time reductions or log-space reductions.\nQuestion: What captures the formal notion of a problem being at lease as difficult as another problem?",
+        "reference_answers": null,
+        "should_abstain": true,
+        "metadata_json": "{\"SQuAD2.0_id\": \"5ad5632f5b96ef001a10ad6f\"}"
+      },
+      {
+        "question": "Respond to the question using only information given in the context.\nContext: Many complexity classes are defined using the concept of a reduction. A reduction is a transformation of one problem into another problem. It captures the informal notion of a problem being at least as difficult as another problem. For instance, if a problem X can be solved using an algorithm for Y, X is no more difficult than Y, and we say that X reduces to Y. There are many different types of reductions, based on the method of reduction, such as Cook reductions, Karp reductions and Levin reductions, and the bound on the complexity of reductions, such as polynomial-time reductions or log-space reductions.\nQuestion: What are the six types of reductions?",
+        "reference_answers": null,
+        "should_abstain": true,
+        "metadata_json": "{\"SQuAD2.0_id\": \"5ad5632f5b96ef001a10ad70\"}"
+      },
+      {
+        "question": "Respond to the question using only information given in the context.\nContext: The most commonly used reduction is a polynomial-time reduction. This means that the reduction process takes polynomial time. For example, the problem of squaring an integer can be reduced to the problem of multiplying two integers. This means an algorithm for multiplying two integers can be used to square an integer. Indeed, this can be done by giving the same input to both inputs of the multiplication algorithm. Thus we see that squaring is not more difficult than multiplication, since squaring can be reduced to multiplication.\nQuestion: What is the meaning of polynomial-space reduction?",
+        "reference_answers": null,
+        "should_abstain": true,
+        "metadata_json": "{\"SQuAD2.0_id\": \"5ad5648b5b96ef001a10ad95\"}"
+      },
+      {
+        "question": "Respond to the question using only information given in the context.\nContext: The most commonly used reduction is a polynomial-time reduction. This means that the reduction process takes polynomial time. For example, the problem of squaring an integer can be reduced to the problem of multiplying two integers. This means an algorithm for multiplying two integers can be used to square an integer. Indeed, this can be done by giving the same input to both inputs of the multiplication algorithm. Thus we see that squaring is not more difficult than multiplication, since squaring can be reduced to multiplication.\nQuestion: What does one not need to remain constant in a multiplication algorithm to produce the same outcome whether multiplying or squaring two integers?",
+        "reference_answers": null,
+        "should_abstain": true,
+        "metadata_json": "{\"SQuAD2.0_id\": \"5ad5648b5b96ef001a10ad97\"}"
+      },
+      {
+        "question": "Respond to the question using only information given in the context.\nContext: If a problem X is in C and hard for C, then X is said to be complete for C. This means that X is the hardest problem in C. (Since many problems could be equally hard, one might say that X is one of the hardest problems in C.) Thus the class of NP-complete problems contains the most difficult problems in NP, in the sense that they are the ones most likely not to be in P. Because the problem P = NP is not solved, being able to reduce a known NP-complete problem, Π2, to another problem, Π1, would indicate that there is no known polynomial-time solution for Π1. This is because a polynomial-time solution to Π1 would yield a polynomial-time solution to Π2. Similarly, because all NP problems can be reduced to the set, finding an NP-complete problem that can be solved in polynomial time would mean that P = NP.\nQuestion: What happens if a problem X is in C, and soft for C?",
+        "reference_answers": null,
+        "should_abstain": true,
+        "metadata_json": "{\"SQuAD2.0_id\": \"5ad566375b96ef001a10adce\"}"
+      },
+      {
+        "question": "Respond to the question using only information given in the context.\nContext: If a problem X is in C and hard for C, then X is said to be complete for C. This means that X is the hardest problem in C. (Since many problems could be equally hard, one might say that X is one of the hardest problems in C.) Thus the class of NP-complete problems contains the most difficult problems in NP, in the sense that they are the ones most likely not to be in P. Because the problem P = NP is not solved, being able to reduce a known NP-complete problem, Π2, to another problem, Π1, would indicate that there is no known polynomial-time solution for Π1. This is because a polynomial-time solution to Π1 would yield a polynomial-time solution to Π2. Similarly, because all NP problems can be reduced to the set, finding an NP-complete problem that can be solved in polynomial time would mean that P = NP.\nQuestion: What is the softest problem in C?",
+        "reference_answers": null,
+        "should_abstain": true,
+        "metadata_json": "{\"SQuAD2.0_id\": \"5ad566375b96ef001a10adcf\"}"
+      },
+      {
+        "question": "Respond to the question using only information given in the context.\nContext: If a problem X is in C and hard for C, then X is said to be complete for C. This means that X is the hardest problem in C. (Since many problems could be equally hard, one might say that X is one of the hardest problems in C.) Thus the class of NP-complete problems contains the most difficult problems in NP, in the sense that they are the ones most likely not to be in P. Because the problem P = NP is not solved, being able to reduce a known NP-complete problem, Π2, to another problem, Π1, would indicate that there is no known polynomial-time solution for Π1. This is because a polynomial-time solution to Π1 would yield a polynomial-time solution to Π2. Similarly, because all NP problems can be reduced to the set, finding an NP-complete problem that can be solved in polynomial time would mean that P = NP.\nQuestion: What is class contains the the least difficult problems in NP?",
+        "reference_answers": null,
+        "should_abstain": true,
+        "metadata_json": "{\"SQuAD2.0_id\": \"5ad566375b96ef001a10add0\"}"
+      },
+      {
+        "question": "Respond to the question using only information given in the context.\nContext: The complexity class P is often seen as a mathematical abstraction modeling those computational tasks that admit an efficient algorithm. This hypothesis is called the Cobham–Edmonds thesis. The complexity class NP, on the other hand, contains many problems that people would like to solve efficiently, but for which no efficient algorithm is known, such as the Boolean satisfiability problem, the Hamiltonian path problem and the vertex cover problem. Since deterministic Turing machines are special non-deterministic Turing machines, it is easily observed that each problem in P is also member of the class NP.\nQuestion: What is often seen as a scientific abstraction modeling those computational tasks that admit an efficient algorithm?",
+        "reference_answers": null,
+        "should_abstain": true,
+        "metadata_json": "{\"SQuAD2.0_id\": \"5ad567055b96ef001a10adea\"}"
+      },
+      {
+        "question": "Respond to the question using only information given in the context.\nContext: The complexity class P is often seen as a mathematical abstraction modeling those computational tasks that admit an efficient algorithm. This hypothesis is called the Cobham–Edmonds thesis. The complexity class NP, on the other hand, contains many problems that people would like to solve efficiently, but for which no efficient algorithm is known, such as the Boolean satisfiability problem, the Hamiltonian path problem and the vertex cover problem. Since deterministic Turing machines are special non-deterministic Turing machines, it is easily observed that each problem in P is also member of the class NP.\nQuestion: What theory is the Cobham-Edward thesis?",
+        "reference_answers": null,
+        "should_abstain": true,
+        "metadata_json": "{\"SQuAD2.0_id\": \"5ad567055b96ef001a10adeb\"}"
+      },
+      {
+        "question": "Respond to the question using only information given in the context.\nContext: The question of whether P equals NP is one of the most important open questions in theoretical computer science because of the wide implications of a solution. If the answer is yes, many important problems can be shown to have more efficient solutions. These include various types of integer programming problems in operations research, many problems in logistics, protein structure prediction in biology, and the ability to find formal proofs of pure mathematics theorems. The P versus NP problem is one of the Millennium Prize Problems proposed by the Clay Mathematics Institute. There is a US$1,000,000 prize for resolving the problem.\nQuestion: What effect would happen if P is ultimately proven to not equal NP ?",
+        "reference_answers": null,
+        "should_abstain": true,
+        "metadata_json": "{\"SQuAD2.0_id\": \"5ad568175b96ef001a10ae11\"}"
+      },
+      {
+        "question": "Respond to the question using only information given in the context.\nContext: It was shown by Ladner that if P ≠ NP then there exist problems in NP that are neither in P nor NP-complete. Such problems are called NP-intermediate problems. The graph isomorphism problem, the discrete logarithm problem and the integer factorization problem are examples of problems believed to be NP-intermediate. They are some of the very few NP problems not known to be in P or to be NP-complete.\nQuestion: What are four examples of problems believed to be NP=intermediate?",
+        "reference_answers": null,
+        "should_abstain": true,
+        "metadata_json": "{\"SQuAD2.0_id\": \"5ad568d35b96ef001a10ae1d\"}"
+      },
+      {
+        "question": "Respond to the question using only information given in the context.\nContext: The graph isomorphism problem is the computational problem of determining whether two finite graphs are isomorphic. An important unsolved problem in complexity theory is whether the graph isomorphism problem is in P, NP-complete, or NP-intermediate. The answer is not known, but it is believed that the problem is at least not NP-complete. If graph isomorphism is NP-complete, the polynomial time hierarchy collapses to its second level. Since it is widely believed that the polynomial hierarchy does not collapse to any finite level, it is believed that graph isomorphism is not NP-complete. The best algorithm for this problem, due to Laszlo Babai and Eugene Luks has run time 2O(√(n log(n))) for graphs with n vertices.\nQuestion: What is the graph isolation problem? ",
+        "reference_answers": null,
+        "should_abstain": true,
+        "metadata_json": "{\"SQuAD2.0_id\": \"5ad569c05b96ef001a10ae36\"}"
+      },
+      {
+        "question": "Respond to the question using only information given in the context.\nContext: The graph isomorphism problem is the computational problem of determining whether two finite graphs are isomorphic. An important unsolved problem in complexity theory is whether the graph isomorphism problem is in P, NP-complete, or NP-intermediate. The answer is not known, but it is believed that the problem is at least not NP-complete. If graph isomorphism is NP-complete, the polynomial time hierarchy collapses to its second level. Since it is widely believed that the polynomial hierarchy does not collapse to any finite level, it is believed that graph isomorphism is not NP-complete. The best algorithm for this problem, due to Laszlo Babai and Eugene Luks has run time 2O(√(n log(n))) for graphs with n vertices.\nQuestion: What infinite hierarchy implies that the graph isomorphism problem s NQ-complete?",
+        "reference_answers": null,
+        "should_abstain": true,
+        "metadata_json": "{\"SQuAD2.0_id\": \"5ad569c05b96ef001a10ae39\"}"
+      },
+      {
+        "question": "Respond to the question using only information given in the context.\nContext: The integer factorization problem is the computational problem of determining the prime factorization of a given integer. Phrased as a decision problem, it is the problem of deciding whether the input has a factor less than k. No efficient integer factorization algorithm is known, and this fact forms the basis of several modern cryptographic systems, such as the RSA algorithm. The integer factorization problem is in NP and in co-NP (and even in UP and co-UP). If the problem is NP-complete, the polynomial time hierarchy will collapse to its first level (i.e., NP will equal co-NP). The best known algorithm for integer factorization is the general number field sieve, which takes time O(e(64/9)1/3(n.log 2)1/3(log (n.log 2))2/3) to factor an n-bit integer. However, the best known quantum algorithm for this problem, Shor's algorithm, does run in polynomial time. Unfortunately, this fact doesn't say much about where the problem lies with respect to non-quantum complexity classes.\nQuestion: What computational problem is not commonly associated with prime factorization?",
+        "reference_answers": null,
+        "should_abstain": true,
+        "metadata_json": "{\"SQuAD2.0_id\": \"5ad56aea5b96ef001a10ae49\"}"
+      },
+      {
+        "question": "Respond to the question using only information given in the context.\nContext: Along the same lines, co-NP is the class containing the complement problems (i.e. problems with the yes/no answers reversed) of NP problems. It is believed that NP is not equal to co-NP; however, it has not yet been proven. It has been shown that if these two complexity classes are not equal then P is not equal to NP.\nQuestion: What is not commonly believed to be the value relationship between P and co-NP?",
+        "reference_answers": null,
+        "should_abstain": true,
+        "metadata_json": "{\"SQuAD2.0_id\": \"5ad56c6b5b96ef001a10ae6e\"}"
+      },
+      {
+        "question": "Respond to the question using only information given in the context.\nContext: Similarly, it is not known if L (the set of all problems that can be solved in logarithmic space) is strictly contained in P or equal to P. Again, there are many complexity classes between the two, such as NL and NC, and it is not known if they are distinct or equal classes.\nQuestion: What are the least commonly ascribed attributes of L in relation to P?",
+        "reference_answers": null,
+        "should_abstain": true,
+        "metadata_json": "{\"SQuAD2.0_id\": \"5ad56d3e5b96ef001a10ae85\"}"
+      },
+      {
+        "question": "Respond to the question using only information given in the context.\nContext: Similarly, it is not known if L (the set of all problems that can be solved in logarithmic space) is strictly contained in P or equal to P. Again, there are many complexity classes between the two, such as NL and NC, and it is not known if they are distinct or equal classes.\nQuestion: What are three complexity classes between L and P?",
+        "reference_answers": null,
+        "should_abstain": true,
+        "metadata_json": "{\"SQuAD2.0_id\": \"5ad56d3e5b96ef001a10ae87\"}"
+      },
+      {
+        "question": "Respond to the question using only information given in the context.\nContext: Problems that can be solved in theory (e.g., given large but finite time), but which in practice take too long for their solutions to be useful, are known as intractable problems. In complexity theory, problems that lack polynomial-time solutions are considered to be intractable for more than the smallest inputs. In fact, the Cobham–Edmonds thesis states that only those problems that can be solved in polynomial time can be feasibly computed on some computational device. Problems that are known to be intractable in this sense include those that are EXPTIME-hard. If NP is not the same as P, then the NP-complete problems are also intractable in this sense. To see why exponential-time algorithms might be unusable in practice, consider a program that makes 2n operations before halting. For small n, say 100, and assuming for the sake of example that the computer does 1012 operations each second, the program would run for about 4 × 1010 years, which is the same order of magnitude as the age of the universe. Even with a much faster computer, the program would only be useful for very small instances and in that sense the intractability of a problem is somewhat independent of technological progress. Nevertheless, a polynomial time algorithm is not always practical. If its running time is, say, n15, it is unreasonable to consider it efficient and it is still useless except on small instances.\nQuestion: When would a program not be useful for very small instances and in that sense the intractability of a problem is somewhat independent of technological progress?",
+        "reference_answers": null,
+        "should_abstain": true,
+        "metadata_json": "{\"SQuAD2.0_id\": \"5ad56e5c5b96ef001a10aea1\"}"
+      },
+      {
+        "question": "Respond to the question using only information given in the context.\nContext: What intractability means in practice is open to debate. Saying that a problem is not in P does not imply that all large cases of the problem are hard or even that most of them are. For example, the decision problem in Presburger arithmetic has been shown not to be in P, yet algorithms have been written that solve the problem in reasonable times in most cases. Similarly, algorithms can solve the NP-complete knapsack problem over a wide range of sizes in less than quadratic time and SAT solvers routinely handle large instances of the NP-complete Boolean satisfiability problem.\nQuestion: What unknown variation of arithmetic presents a decision problem not evidenced in P?",
+        "reference_answers": null,
+        "should_abstain": true,
+        "metadata_json": "{\"SQuAD2.0_id\": \"5ad56ef05b96ef001a10aea8\"}"
+      },
+      {
+        "question": "Respond to the question using only information given in the context.\nContext: Before the actual research explicitly devoted to the complexity of algorithmic problems started off, numerous foundations were laid out by various researchers. Most influential among these was the definition of Turing machines by Alan Turing in 1936, which turned out to be a very robust and flexible simplification of a computer.\nQuestion: What tactic did companies employ to offset the former deficit of work surrounding the complexity of algorithmic problems?",
+        "reference_answers": null,
+        "should_abstain": true,
+        "metadata_json": "{\"SQuAD2.0_id\": \"5ad56fe65b96ef001a10aec3\"}"
+      },
+      {
+        "question": "Respond to the question using only information given in the context.\nContext: Before the actual research explicitly devoted to the complexity of algorithmic problems started off, numerous foundations were laid out by various researchers. Most influential among these was the definition of Turing machines by Alan Turing in 1936, which turned out to be a very robust and flexible simplification of a computer.\nQuestion: What device did Alan Turning invent in 1974?",
+        "reference_answers": null,
+        "should_abstain": true,
+        "metadata_json": "{\"SQuAD2.0_id\": \"5ad56fe65b96ef001a10aec5\"}"
+      },
+      {
+        "question": "Respond to the question using only information given in the context.\nContext: Before the actual research explicitly devoted to the complexity of algorithmic problems started off, numerous foundations were laid out by various researchers. Most influential among these was the definition of Turing machines by Alan Turing in 1936, which turned out to be a very robust and flexible simplification of a computer.\nQuestion: What was the Turning calculator a robust and flexible simplification of?",
+        "reference_answers": null,
+        "should_abstain": true,
+        "metadata_json": "{\"SQuAD2.0_id\": \"5ad56fe65b96ef001a10aec6\"}"
+      },
+      {
+        "question": "Respond to the question using only information given in the context.\nContext: Even though some proofs of complexity-theoretic theorems regularly assume some concrete choice of input encoding, one tries to keep the discussion abstract enough to be independent of the choice of encoding. This can be achieved by ensuring that different representations can be transformed into each other efficiently.\nQuestion: What is the abstract choice typically assumed by most complexity-theoretic theorems?",
+        "reference_answers": null,
+        "should_abstain": true,
+        "metadata_json": "{\"SQuAD2.0_id\": \"5ad53ac65b96ef001a10abad\"}"
+      },
+      {
+        "question": "Respond to the question using only information given in the context.\nContext: Even though some proofs of complexity-theoretic theorems regularly assume some concrete choice of input encoding, one tries to keep the discussion abstract enough to be independent of the choice of encoding. This can be achieved by ensuring that different representations can be transformed into each other efficiently.\nQuestion: What does not regularly use input coding as its concrete choice?",
+        "reference_answers": null,
+        "should_abstain": true,
+        "metadata_json": "{\"SQuAD2.0_id\": \"5ad53ac65b96ef001a10abae\"}"
+      },
+      {
+        "question": "Respond to the question using only information given in the context.\nContext: Even though some proofs of complexity-theoretic theorems regularly assume some concrete choice of input encoding, one tries to keep the discussion abstract enough to be independent of the choice of encoding. This can be achieved by ensuring that different representations can be transformed into each other efficiently.\nQuestion: What choice is typically left dependent in an effort to maintain a level of abstraction?",
+        "reference_answers": null,
+        "should_abstain": true,
+        "metadata_json": "{\"SQuAD2.0_id\": \"5ad53ac65b96ef001a10abaf\"}"
+      },
+      {
+        "question": "Respond to the question using only information given in the context.\nContext: In 1967, Manuel Blum developed an axiomatic complexity theory based on his axioms and proved an important result, the so-called, speed-up theorem. The field really began to flourish in 1971 when the US researcher Stephen Cook and, working independently, Leonid Levin in the USSR, proved that there exist practically relevant problems that are NP-complete. In 1972, Richard Karp took this idea a leap forward with his landmark paper, \"Reducibility Among Combinatorial Problems\", in which he showed that 21 diverse combinatorial and graph theoretical problems, each infamous for its computational intractability, are NP-complete.\nQuestion: What book featured 25 diverse comninatorial and graph theoretical problems each famous for its computational intractability?",
+        "reference_answers": null,
+        "should_abstain": true,
+        "metadata_json": "{\"SQuAD2.0_id\": \"5ad572b15b96ef001a10af0a\"}"
+      },
+      {
+        "question": "Respond to the question using only information given in the context.\nContext: Southern California, often abbreviated SoCal, is a geographic and cultural region that generally comprises California's southernmost 10 counties. The region is traditionally described as \"eight counties\", based on demographics and economic ties: Imperial, Los Angeles, Orange, Riverside, San Bernardino, San Diego, Santa Barbara, and Ventura. The more extensive 10-county definition, including Kern and San Luis Obispo counties, is also used based on historical political divisions. Southern California is a major economic center for the state of California and the United States.\nQuestion: Where is the center of economic activity for the United States?",
+        "reference_answers": null,
+        "should_abstain": true,
+        "metadata_json": "{\"SQuAD2.0_id\": \"5ad0178577cf76001a68698c\"}"
+      },
+      {
+        "question": "Respond to the question using only information given in the context.\nContext: Southern California includes the heavily built-up urban area stretching along the Pacific coast from Ventura, through the Greater Los Angeles Area and the Inland Empire, and down to Greater San Diego. Southern California's population encompasses seven metropolitan areas, or MSAs: the Los Angeles metropolitan area, consisting of Los Angeles and Orange counties; the Inland Empire, consisting of Riverside and San Bernardino counties; the San Diego metropolitan area; the Oxnard–Thousand Oaks–Ventura metropolitan area; the Santa Barbara metro area; the San Luis Obispo metropolitan area; and the El Centro area. Out of these, three are heavy populated areas: the Los Angeles area with over 12 million inhabitants, the Riverside-San Bernardino area with over four million inhabitants, and the San Diego area with over 3 million inhabitants. For CSA metropolitan purposes, the five counties of Los Angeles, Orange, Riverside, San Bernardino, and Ventura are all combined to make up the Greater Los Angeles Area with over 17.5 million people. With over 22 million people, southern California contains roughly 60 percent of California's population.\nQuestion: How many people live in Riverside? ",
+        "reference_answers": null,
+        "should_abstain": true,
+        "metadata_json": "{\"SQuAD2.0_id\": \"5ad01a6277cf76001a686a0e\"}"
+      },
+      {
+        "question": "Respond to the question using only information given in the context.\nContext: To the east is the Colorado Desert and the Colorado River at the border with Arizona, and the Mojave Desert at the border with the state of Nevada. To the south is the Mexico–United States border.\nQuestion: What direction is the Colorado-Mexico border?",
+        "reference_answers": null,
+        "should_abstain": true,
+        "metadata_json": "{\"SQuAD2.0_id\": \"5ad01c8877cf76001a686a66\"}"
+      },
+      {
+        "question": "Respond to the question using only information given in the context.\nContext: Within southern California are two major cities, Los Angeles and San Diego, as well as three of the country's largest metropolitan areas. With a population of 3,792,621, Los Angeles is the most populous city in California and the second most populous in the United States. To the south and with a population of 1,307,402 is San Diego, the second most populous city in the state and the eighth most populous in the nation.\nQuestion: What second most populous city is north of Los Angeles?",
+        "reference_answers": null,
+        "should_abstain": true,
+        "metadata_json": "{\"SQuAD2.0_id\": \"5ad01e4677cf76001a686aa9\"}"
+      },
+      {
+        "question": "Respond to the question using only information given in the context.\nContext: Southern California is also home to a large home grown surf and skateboard culture. Companies such as Volcom, Quiksilver, No Fear, RVCA, and Body Glove are all headquartered here. Professional skateboarder Tony Hawk, professional surfers Rob Machado, Tim Curran, Bobby Martinez, Pat O'Connell, Dane Reynolds, and Chris Ward, and professional snowboarder Shaun White live in southern California. Some of the world's legendary surf spots are in southern California as well, including Trestles, Rincon, The Wedge, Huntington Beach, and Malibu, and it is second only to the island of Oahu in terms of famous surf breaks. Some of the world's biggest extreme sports events, including the X Games, Boost Mobile Pro, and the U.S. Open of Surfing are all in southern California. Southern California is also important to the world of yachting. The annual Transpacific Yacht Race, or Transpac, from Los Angeles to Hawaii, is one of yachting's premier events. The San Diego Yacht Club held the America's Cup, the most prestigious prize in yachting, from 1988 to 1995 and hosted three America's Cup races during that time.\nQuestion: Where are No Fear and RCVA headquartered?",
+        "reference_answers": null,
+        "should_abstain": true,
+        "metadata_json": "{\"SQuAD2.0_id\": \"5ad0220a77cf76001a686b2a\"}"
+      },
+      {
+        "question": "Respond to the question using only information given in the context.\nContext: Southern California is also home to a large home grown surf and skateboard culture. Companies such as Volcom, Quiksilver, No Fear, RVCA, and Body Glove are all headquartered here. Professional skateboarder Tony Hawk, professional surfers Rob Machado, Tim Curran, Bobby Martinez, Pat O'Connell, Dane Reynolds, and Chris Ward, and professional snowboarder Shaun White live in southern California. Some of the world's legendary surf spots are in southern California as well, including Trestles, Rincon, The Wedge, Huntington Beach, and Malibu, and it is second only to the island of Oahu in terms of famous surf breaks. Some of the world's biggest extreme sports events, including the X Games, Boost Mobile Pro, and the U.S. Open of Surfing are all in southern California. Southern California is also important to the world of yachting. The annual Transpacific Yacht Race, or Transpac, from Los Angeles to Hawaii, is one of yachting's premier events. The San Diego Yacht Club held the America's Cup, the most prestigious prize in yachting, from 1988 to 1995 and hosted three America's Cup races during that time.\nQuestion: Where does professional surfer Tony Hawk live?",
+        "reference_answers": null,
+        "should_abstain": true,
+        "metadata_json": "{\"SQuAD2.0_id\": \"5ad0220a77cf76001a686b2c\"}"
+      },
+      {
+        "question": "Respond to the question using only information given in the context.\nContext: Southern California is also home to a large home grown surf and skateboard culture. Companies such as Volcom, Quiksilver, No Fear, RVCA, and Body Glove are all headquartered here. Professional skateboarder Tony Hawk, professional surfers Rob Machado, Tim Curran, Bobby Martinez, Pat O'Connell, Dane Reynolds, and Chris Ward, and professional snowboarder Shaun White live in southern California. Some of the world's legendary surf spots are in southern California as well, including Trestles, Rincon, The Wedge, Huntington Beach, and Malibu, and it is second only to the island of Oahu in terms of famous surf breaks. Some of the world's biggest extreme sports events, including the X Games, Boost Mobile Pro, and the U.S. Open of Surfing are all in southern California. Southern California is also important to the world of yachting. The annual Transpacific Yacht Race, or Transpac, from Los Angeles to Hawaii, is one of yachting's premier events. The San Diego Yacht Club held the America's Cup, the most prestigious prize in yachting, from 1988 to 1995 and hosted three America's Cup races during that time.\nQuestion: What was held at the San Diego Yacht Club from 1985 to 1998?",
+        "reference_answers": null,
+        "should_abstain": true,
+        "metadata_json": "{\"SQuAD2.0_id\": \"5ad0220a77cf76001a686b2e\"}"
+      },
+      {
+        "question": "Respond to the question using only information given in the context.\nContext: \"Southern California\" is not a formal geographic designation, and definitions of what constitutes southern California vary. Geographically, California's north-south midway point lies at exactly 37° 9' 58.23\" latitude, around 11 miles (18 km) south of San Jose; however, this does not coincide with popular use of the term. When the state is divided into two areas (northern and southern California), the term \"southern California\" usually refers to the ten southern-most counties of the state. This definition coincides neatly with the county lines at 35° 47′ 28″ north latitude, which form the northern borders of San Luis Obispo, Kern, and San Bernardino counties. Another definition for southern California uses Point Conception and the Tehachapi Mountains as the northern boundary.\nQuestion: What is around 18 miles south of San Jose?",
+        "reference_answers": null,
+        "should_abstain": true,
+        "metadata_json": "{\"SQuAD2.0_id\": \"5ad0297e77cf76001a686c3b\"}"
+      },
+      {
+        "question": "Respond to the question using only information given in the context.\nContext: \"Southern California\" is not a formal geographic designation, and definitions of what constitutes southern California vary. Geographically, California's north-south midway point lies at exactly 37° 9' 58.23\" latitude, around 11 miles (18 km) south of San Jose; however, this does not coincide with popular use of the term. When the state is divided into two areas (northern and southern California), the term \"southern California\" usually refers to the ten southern-most counties of the state. This definition coincides neatly with the county lines at 35° 47′ 28″ north latitude, which form the northern borders of San Luis Obispo, Kern, and San Bernardino counties. Another definition for southern California uses Point Conception and the Tehachapi Mountains as the northern boundary.\nQuestion: What lies at 35° 48′ 27″ north latitude?",
+        "reference_answers": null,
+        "should_abstain": true,
+        "metadata_json": "{\"SQuAD2.0_id\": \"5ad0297e77cf76001a686c3c\"}"
+      },
+      {
+        "question": "Respond to the question using only information given in the context.\nContext: \"Southern California\" is not a formal geographic designation, and definitions of what constitutes southern California vary. Geographically, California's north-south midway point lies at exactly 37° 9' 58.23\" latitude, around 11 miles (18 km) south of San Jose; however, this does not coincide with popular use of the term. When the state is divided into two areas (northern and southern California), the term \"southern California\" usually refers to the ten southern-most counties of the state. This definition coincides neatly with the county lines at 35° 47′ 28″ north latitude, which form the northern borders of San Luis Obispo, Kern, and San Bernardino counties. Another definition for southern California uses Point Conception and the Tehachapi Mountains as the northern boundary.\nQuestion: What uses Point Tehachapi and the Conception Mountains as the northern boundary?",
+        "reference_answers": null,
+        "should_abstain": true,
+        "metadata_json": "{\"SQuAD2.0_id\": \"5ad0297e77cf76001a686c3d\"}"
+      },
+      {
+        "question": "Respond to the question using only information given in the context.\nContext: Though there is no official definition for the northern boundary of southern California, such a division has existed from the time when Mexico ruled California, and political disputes raged between the Californios of Monterey in the upper part and Los Angeles in the lower part of Alta California. Following the acquisition of California by the United States, the division continued as part of the attempt by several pro-slavery politicians to arrange the division of Alta California at 36 degrees, 30 minutes, the line of the Missouri Compromise. Instead, the passing of the Compromise of 1850 enabled California to be admitted to the Union as a free state, preventing southern California from becoming its own separate slave state.\nQuestion: What country did California once rule?",
+        "reference_answers": null,
+        "should_abstain": true,
+        "metadata_json": "{\"SQuAD2.0_id\": \"5ad02cde77cf76001a686cc6\"}"
+      }
+    ]
+  }
+}

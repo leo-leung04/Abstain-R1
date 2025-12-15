@@ -1,0 +1,807 @@
+{
+  "qaqa": {
+    "answerable": [
+      {
+        "question": "what did pete burns die of?",
+        "reference_answers": [
+          "Pete Burns died following a sudden cardiac arrest."
+        ],
+        "should_abstain": false,
+        "metadata_json": "{\"QAQA_questionable_assumption\": null, \"QAQA_type_questionable_assumption\": \"no_failure\", \"QAQA_assumption_status_can_change\": null}"
+      },
+      {
+        "question": "what kind of fish is salmon?",
+        "reference_answers": [
+          "Salmon is a kind of ray-finned fish in the family Salmonidae."
+        ],
+        "should_abstain": false,
+        "metadata_json": "{\"QAQA_questionable_assumption\": null, \"QAQA_type_questionable_assumption\": \"no_failure\", \"QAQA_assumption_status_can_change\": null}"
+      },
+      {
+        "question": "when did charlie brown come out?",
+        "reference_answers": [
+          "Charlie Brown was first mentioned on May 30, 1948 and he officially debuted on October 2, 1950."
+        ],
+        "should_abstain": false,
+        "metadata_json": "{\"QAQA_questionable_assumption\": null, \"QAQA_type_questionable_assumption\": \"no_failure\", \"QAQA_assumption_status_can_change\": null}"
+      },
+      {
+        "question": "who did steph curry pass in 3 pointers?",
+        "reference_answers": [
+          "Stephen Curry passed Ray Allen as NBA's all-time leader in 3-pointers made."
+        ],
+        "should_abstain": false,
+        "metadata_json": "{\"QAQA_questionable_assumption\": null, \"QAQA_type_questionable_assumption\": \"no_failure\", \"QAQA_assumption_status_can_change\": null}"
+      },
+      {
+        "question": "when did messi join psg date?",
+        "reference_answers": [
+          "Messi joined Paris Saint-Germain (PSG) on 10 August, 2021."
+        ],
+        "should_abstain": false,
+        "metadata_json": "{\"QAQA_questionable_assumption\": null, \"QAQA_type_questionable_assumption\": \"no_failure\", \"QAQA_assumption_status_can_change\": null}"
+      },
+      {
+        "question": "when do they catch everett lynch?",
+        "reference_answers": [
+          "Everett Lynch is killed by JJ in Season 15 in the episode \"And in the End...\"."
+        ],
+        "should_abstain": false,
+        "metadata_json": "{\"QAQA_questionable_assumption\": null, \"QAQA_type_questionable_assumption\": \"no_failure\", \"QAQA_assumption_status_can_change\": null}"
+      },
+      {
+        "question": "when is the season 3 of emily in paris?",
+        "reference_answers": [
+          "Season 3 of Emily in Paris premiered on December 21, 2022."
+        ],
+        "should_abstain": false,
+        "metadata_json": "{\"QAQA_questionable_assumption\": null, \"QAQA_type_questionable_assumption\": \"no_failure\", \"QAQA_assumption_status_can_change\": null}"
+      },
+      {
+        "question": "which of earth's layers is made of melted materials?",
+        "reference_answers": [
+          "The outer core is made of molten metal."
+        ],
+        "should_abstain": false,
+        "metadata_json": "{\"QAQA_questionable_assumption\": null, \"QAQA_type_questionable_assumption\": \"no_failure\", \"QAQA_assumption_status_can_change\": null}"
+      },
+      {
+        "question": "why did the united states invade panama?",
+        "reference_answers": [
+          "The primary purpose of the invasion was to depose the de facto Panamanian leader, General Manuel Noriega."
+        ],
+        "should_abstain": false,
+        "metadata_json": "{\"QAQA_questionable_assumption\": null, \"QAQA_type_questionable_assumption\": \"no_failure\", \"QAQA_assumption_status_can_change\": null}"
+      },
+      {
+        "question": "what does the song butter by bts mean?",
+        "reference_answers": [
+          "According to Jimin, a member of BTS, there was no profound meaning behind the track and that the goal was for it to be \"easy to listen to\"."
+        ],
+        "should_abstain": false,
+        "metadata_json": "{\"QAQA_questionable_assumption\": null, \"QAQA_type_questionable_assumption\": \"no_failure\", \"QAQA_assumption_status_can_change\": null}"
+      },
+      {
+        "question": "how many american casualties in the battle of midway?",
+        "reference_answers": [
+          "A total of 317 United States sailors, airmen, and marines were killed in the Battle of Midway."
+        ],
+        "should_abstain": false,
+        "metadata_json": "{\"QAQA_questionable_assumption\": null, \"QAQA_type_questionable_assumption\": \"no_failure\", \"QAQA_assumption_status_can_change\": null}"
+      },
+      {
+        "question": "where is the grand canyon in pennsylvania?",
+        "reference_answers": [
+          "The Grand Canyon of Pennsylvania, also referred to as the Pine Creek Gorge, is a part of Tioga State Forest, beginning just south of Ansonia, Pennsylvania, near Wellsboro."
+        ],
+        "should_abstain": false,
+        "metadata_json": "{\"QAQA_questionable_assumption\": null, \"QAQA_type_questionable_assumption\": \"no_failure\", \"QAQA_assumption_status_can_change\": null}"
+      },
+      {
+        "question": "why do dogs eat their own puppies?",
+        "reference_answers": [
+          "There are several possible reasons although we can't know the exact motivation for the behavior. For example, the puppy might have died or showed signs of weakness or illness."
+        ],
+        "should_abstain": false,
+        "metadata_json": "{\"QAQA_questionable_assumption\": null, \"QAQA_type_questionable_assumption\": \"no_failure\", \"QAQA_assumption_status_can_change\": null}"
+      },
+      {
+        "question": "what is ap classes in middle school?",
+        "reference_answers": [
+          "AP labels can only be applied to courses offered at or above the ninth-grade level AP, so typically middle schools cannot have official AP classes. Exceptions are world language and culture courses, so they are the only classes that can officially be labeled AP in middle school."
+        ],
+        "should_abstain": false,
+        "metadata_json": "{\"QAQA_questionable_assumption\": null, \"QAQA_type_questionable_assumption\": \"no_failure\", \"QAQA_assumption_status_can_change\": null}"
+      },
+      {
+        "question": "when did horses become extinct in north america?",
+        "reference_answers": [
+          "During the Quaternary extinction event during the Pleistocene-Holocene transition. This was approximately 8,000–12,000 years ago."
+        ],
+        "should_abstain": false,
+        "metadata_json": "{\"QAQA_questionable_assumption\": null, \"QAQA_type_questionable_assumption\": \"no_failure\", \"QAQA_assumption_status_can_change\": null}"
+      },
+      {
+        "question": "where do they inject the cervical cancer vaccine?",
+        "reference_answers": [
+          "HPV vaccines are administered intramuscularly in the deltoid region of the upper arm or in the higher anterolateral area of the thigh."
+        ],
+        "should_abstain": false,
+        "metadata_json": "{\"QAQA_questionable_assumption\": null, \"QAQA_type_questionable_assumption\": \"no_failure\", \"QAQA_assumption_status_can_change\": null}"
+      },
+      {
+        "question": "when did russia become the strong successor of ussr?",
+        "reference_answers": [
+          "1991. The Russian Federation (1991-present) was widely accepted as the USSR's successor state in diplomatic affairs and it assumed the USSR's permanent membership and veto in the UN Security Council (see Russia and the United Nations)."
+        ],
+        "should_abstain": false,
+        "metadata_json": "{\"QAQA_questionable_assumption\": null, \"QAQA_type_questionable_assumption\": \"no_failure\", \"QAQA_assumption_status_can_change\": null}"
+      },
+      {
+        "question": "when does north korea get a new president?",
+        "reference_answers": [
+          "The term for the president (official title: President of the State Affairs Commission) in North Korea is usually five years, and the president is selected through an election. However, the elections have a 100% turnout rate and unanimous vote goes towards the candidate of the ruling party. There is no term limit for the president either, so North Korea in practice usually gets a new president when the previous one dies. "
+        ],
+        "should_abstain": false,
+        "metadata_json": "{\"QAQA_questionable_assumption\": null, \"QAQA_type_questionable_assumption\": \"no_failure\", \"QAQA_assumption_status_can_change\": null}"
+      },
+      {
+        "question": "when did rome fall in ww2?",
+        "reference_answers": [
+          "Rome fell to American and Allied troops on June fourth, 1944."
+        ],
+        "should_abstain": false,
+        "metadata_json": "{\"QAQA_questionable_assumption\": null, \"QAQA_type_questionable_assumption\": \"no_failure\", \"QAQA_assumption_status_can_change\": null}"
+      },
+      {
+        "question": "who plays the little girl in jumanji?",
+        "reference_answers": [
+          "Kirsten Dunst plays the little girl (Judy Shepherd) in Jumanji."
+        ],
+        "should_abstain": false,
+        "metadata_json": "{\"QAQA_questionable_assumption\": null, \"QAQA_type_questionable_assumption\": \"no_failure\", \"QAQA_assumption_status_can_change\": null}"
+      },
+      {
+        "question": "where did roald dahl get married?",
+        "reference_answers": [
+          "Roald Dahl got married at Trinity Church in New York City."
+        ],
+        "should_abstain": false,
+        "metadata_json": "{\"QAQA_questionable_assumption\": null, \"QAQA_type_questionable_assumption\": \"no_failure\", \"QAQA_assumption_status_can_change\": null}"
+      },
+      {
+        "question": "how old was george clooney when he became a father?",
+        "reference_answers": [
+          "56. He became a father of twins with his wife, Amal."
+        ],
+        "should_abstain": false,
+        "metadata_json": "{\"QAQA_questionable_assumption\": null, \"QAQA_type_questionable_assumption\": \"no_failure\", \"QAQA_assumption_status_can_change\": null}"
+      },
+      {
+        "question": "who plays rex on hudson and rex?",
+        "reference_answers": [
+          "Diesel vom Burgimwald portrays Rex in Hudson & Rex."
+        ],
+        "should_abstain": false,
+        "metadata_json": "{\"QAQA_questionable_assumption\": null, \"QAQA_type_questionable_assumption\": \"no_failure\", \"QAQA_assumption_status_can_change\": null}"
+      },
+      {
+        "question": "how do they make almond milk?",
+        "reference_answers": [
+          "The general production method involves soaking and grinding almonds in an excess of water. A milky white liquid is obtained after filtering the almond pulp (flesh). Almond milk can also be made by adding water to almond butter."
+        ],
+        "should_abstain": false,
+        "metadata_json": "{\"QAQA_questionable_assumption\": null, \"QAQA_type_questionable_assumption\": \"no_failure\", \"QAQA_assumption_status_can_change\": null}"
+      },
+      {
+        "question": "when did william shakespeare get the covid vaccine?",
+        "reference_answers": [
+          "A man named William Shakespeare, who shares the name with the famous writer, got the COVID vaccine early December, 2020."
+        ],
+        "should_abstain": false,
+        "metadata_json": "{\"QAQA_questionable_assumption\": null, \"QAQA_type_questionable_assumption\": \"no_failure\", \"QAQA_assumption_status_can_change\": null}"
+      },
+      {
+        "question": "when does dean die in the dark?",
+        "reference_answers": [
+          "Dean dies in the season two finale of In the Dark."
+        ],
+        "should_abstain": false,
+        "metadata_json": "{\"QAQA_questionable_assumption\": null, \"QAQA_type_questionable_assumption\": \"no_failure\", \"QAQA_assumption_status_can_change\": null}"
+      },
+      {
+        "question": "what episode of spongebob is doodlebob?",
+        "reference_answers": [
+          "Season 2, episode 34b, \"Frankendoodle\". In this episode, an artist drops his pencil into the sea, and when SpongeBob and Patrick discover that it can bring drawings to life, SpongeBob creates DoodleBob, who goes on a rampage and steals the pencil."
+        ],
+        "should_abstain": false,
+        "metadata_json": "{\"QAQA_questionable_assumption\": null, \"QAQA_type_questionable_assumption\": \"no_failure\", \"QAQA_assumption_status_can_change\": null}"
+      },
+      {
+        "question": "what does the t stand for on a covid test?",
+        "reference_answers": [
+          "\"T\" stands for \"test\" on a COVID test."
+        ],
+        "should_abstain": false,
+        "metadata_json": "{\"QAQA_questionable_assumption\": null, \"QAQA_type_questionable_assumption\": \"no_failure\", \"QAQA_assumption_status_can_change\": null}"
+      },
+      {
+        "question": "what sound does a snake make in japanese?",
+        "reference_answers": [
+          "Shururu"
+        ],
+        "should_abstain": false,
+        "metadata_json": "{\"QAQA_questionable_assumption\": null, \"QAQA_type_questionable_assumption\": \"no_failure\", \"QAQA_assumption_status_can_change\": null}"
+      },
+      {
+        "question": "where did michael scott go in season 8?",
+        "reference_answers": [
+          "Michael Scott is seen moving to Colorado at the end of Season 7 to take care of Holly Flax's aging parents. So in Season 8 he must be in Colorado."
+        ],
+        "should_abstain": false,
+        "metadata_json": "{\"QAQA_questionable_assumption\": null, \"QAQA_type_questionable_assumption\": \"no_failure\", \"QAQA_assumption_status_can_change\": null}"
+      },
+      {
+        "question": "when does a embryo have a heartbeat?",
+        "reference_answers": [
+          "The heart of an embryo starts to beat from around 5–6 weeks of pregnancy."
+        ],
+        "should_abstain": false,
+        "metadata_json": "{\"QAQA_questionable_assumption\": null, \"QAQA_type_questionable_assumption\": \"no_failure\", \"QAQA_assumption_status_can_change\": null}"
+      },
+      {
+        "question": "who did steph curry play for before warriors?",
+        "reference_answers": [
+          "Steph Curry played college basketball for the Davidson Wildcats between 2006 and 2009 before he started playing for the Golden State Warriors in 2009."
+        ],
+        "should_abstain": false,
+        "metadata_json": "{\"QAQA_questionable_assumption\": null, \"QAQA_type_questionable_assumption\": \"no_failure\", \"QAQA_assumption_status_can_change\": null}"
+      },
+      {
+        "question": "when does american horror story come back on?",
+        "reference_answers": [
+          "There is no confirmed release date although the series has been renewed through season 13."
+        ],
+        "should_abstain": false,
+        "metadata_json": "{\"QAQA_questionable_assumption\": null, \"QAQA_type_questionable_assumption\": \"no_failure\", \"QAQA_assumption_status_can_change\": null}"
+      },
+      {
+        "question": "when did the browns move to las vegas?",
+        "reference_answers": [
+          "The Brown family moved to Las Vegas, Nevada in 2011."
+        ],
+        "should_abstain": false,
+        "metadata_json": "{\"QAQA_questionable_assumption\": null, \"QAQA_type_questionable_assumption\": \"no_failure\", \"QAQA_assumption_status_can_change\": null}"
+      },
+      {
+        "question": "when does south korea school year start?",
+        "reference_answers": [
+          "Schools in Korea start the first semester, the beginning of the school year, in March."
+        ],
+        "should_abstain": false,
+        "metadata_json": "{\"QAQA_questionable_assumption\": null, \"QAQA_type_questionable_assumption\": \"no_failure\", \"QAQA_assumption_status_can_change\": null}"
+      },
+      {
+        "question": "where does time change from central to eastern?",
+        "reference_answers": [
+          "The Central-Eastern Time Zone border line includes the western borders of Georgia and Michigan, and cuts through the states of Indiana, Kentucky, Tennessee, and Florida."
+        ],
+        "should_abstain": false,
+        "metadata_json": "{\"QAQA_questionable_assumption\": null, \"QAQA_type_questionable_assumption\": \"no_failure\", \"QAQA_assumption_status_can_change\": null}"
+      },
+      {
+        "question": "what does eco drive mean on a watch?",
+        "reference_answers": [
+          "Eco-Drive is a model range of watches manufactured and marketed worldwide by Citizen Watch Co., Ltd., powered primarily by light. The Eco-Drive concept introduced several technical refinements over previous solar powered watches, including light-capturing cells that could be made virtually invisible behind the dial instead of highly conspicuous, enhancing the appearance of the watch."
+        ],
+        "should_abstain": false,
+        "metadata_json": "{\"QAQA_questionable_assumption\": null, \"QAQA_type_questionable_assumption\": \"no_failure\", \"QAQA_assumption_status_can_change\": null}"
+      },
+      {
+        "question": "what kind of fish can never swim?",
+        "reference_answers": [
+          "Red-lipped batfish. These fish “walk” with their pectoral fins across the ocean floor. And when we say walk, it’s really more like a stagger."
+        ],
+        "should_abstain": false,
+        "metadata_json": "{\"QAQA_questionable_assumption\": null, \"QAQA_type_questionable_assumption\": \"no_failure\", \"QAQA_assumption_status_can_change\": null}"
+      },
+      {
+        "question": "who wrote the book india today and when it was published?",
+        "reference_answers": [
+          "The book India Today was written by R. Palme Dutt, and was published in 1940."
+        ],
+        "should_abstain": false,
+        "metadata_json": "{\"QAQA_questionable_assumption\": null, \"QAQA_type_questionable_assumption\": \"no_failure\", \"QAQA_assumption_status_can_change\": null}"
+      },
+      {
+        "question": "when did star trek voyager come out?",
+        "reference_answers": [
+          "Star Trek: Voyager first aired on January 16, 1995."
+        ],
+        "should_abstain": false,
+        "metadata_json": "{\"QAQA_questionable_assumption\": null, \"QAQA_type_questionable_assumption\": \"no_failure\", \"QAQA_assumption_status_can_change\": null}"
+      },
+      {
+        "question": "when does a car battery go flat?",
+        "reference_answers": [
+          "Most car batteries are made to last between two and six years with the average life being four years. Batteries are filled with acid and start deteriorating internally from day one. Heat, cold, vibration, and electrical loads all go towards reducing the lifespan. Car batteries can also go flat due to other reasons including leaving the lights on, frequent short trips, leaving the vehicle parked for a long time, extreme temperatures, faulty parts, incorrect fitment, and accessories that drain your battery."
+        ],
+        "should_abstain": false,
+        "metadata_json": "{\"QAQA_questionable_assumption\": null, \"QAQA_type_questionable_assumption\": \"no_failure\", \"QAQA_assumption_status_can_change\": null}"
+      },
+      {
+        "question": "who does george marry on murdoch mysteries?",
+        "reference_answers": [
+          "George from Murdoch Mysteries marries Effie Newsome."
+        ],
+        "should_abstain": false,
+        "metadata_json": "{\"QAQA_questionable_assumption\": null, \"QAQA_type_questionable_assumption\": \"no_failure\", \"QAQA_assumption_status_can_change\": null}"
+      },
+      {
+        "question": "how many episodes of series 6 married at first sight uk?",
+        "reference_answers": [
+          "There are 21 episodes of Series 6, Married at First Sight UK."
+        ],
+        "should_abstain": false,
+        "metadata_json": "{\"QAQA_questionable_assumption\": null, \"QAQA_type_questionable_assumption\": \"no_failure\", \"QAQA_assumption_status_can_change\": null}"
+      },
+      {
+        "question": "when did china ban one child policy?",
+        "reference_answers": [
+          "The law that abolished the one-child policy took effect on 1 January 2016 after it was passed in the Standing Committee of the national People's Congress on 27 December 2015."
+        ],
+        "should_abstain": false,
+        "metadata_json": "{\"QAQA_questionable_assumption\": null, \"QAQA_type_questionable_assumption\": \"no_failure\", \"QAQA_assumption_status_can_change\": null}"
+      },
+      {
+        "question": "when did the vietnam war draft start and end?",
+        "reference_answers": [
+          "During the Vietnam War era, the US drafted citizens from the start of the war in 1964 until the end of the draft in 1973."
+        ],
+        "should_abstain": false,
+        "metadata_json": "{\"QAQA_questionable_assumption\": null, \"QAQA_type_questionable_assumption\": \"no_failure\", \"QAQA_assumption_status_can_change\": null}"
+      },
+      {
+        "question": "when does the movie spencer come out on netflix?",
+        "reference_answers": [
+          "Spencer came out on Netflix on 2022-07-22 in South Korea and on 2022-04-19 in Turkey, but it is not available in any other countries."
+        ],
+        "should_abstain": false,
+        "metadata_json": "{\"QAQA_questionable_assumption\": null, \"QAQA_type_questionable_assumption\": \"no_failure\", \"QAQA_assumption_status_can_change\": null}"
+      },
+      {
+        "question": "who recorded the song grazing in the grass?",
+        "reference_answers": [
+          "Hugh Masekela first recorded the song in 1968. Many other musicians have also recorded it since, including The Friends of Distinction who recorded a vocal version in 1969."
+        ],
+        "should_abstain": false,
+        "metadata_json": "{\"QAQA_questionable_assumption\": null, \"QAQA_type_questionable_assumption\": \"no_failure\", \"QAQA_assumption_status_can_change\": null}"
+      },
+      {
+        "question": "how many passengers can travel in ola mini?",
+        "reference_answers": [
+          "Ola Mini can seat up to 4 passengers."
+        ],
+        "should_abstain": false,
+        "metadata_json": "{\"QAQA_questionable_assumption\": null, \"QAQA_type_questionable_assumption\": \"no_failure\", \"QAQA_assumption_status_can_change\": null}"
+      },
+      {
+        "question": "where was season 1 of the witcher filmed?",
+        "reference_answers": [
+          "Season 1 of The Witcher was filmed in various locations in Hungary (mostly in Budapest), the Canary Islands in Spain, and the Ogrodzieniec Castle in Poland."
+        ],
+        "should_abstain": false,
+        "metadata_json": "{\"QAQA_questionable_assumption\": null, \"QAQA_type_questionable_assumption\": \"no_failure\", \"QAQA_assumption_status_can_change\": null}"
+      },
+      {
+        "question": "when did arsenal last get relegated?",
+        "reference_answers": [
+          "Arsenal was last relegated 1913."
+        ],
+        "should_abstain": false,
+        "metadata_json": "{\"QAQA_questionable_assumption\": null, \"QAQA_type_questionable_assumption\": \"no_failure\", \"QAQA_assumption_status_can_change\": null}"
+      },
+      {
+        "question": "who owns blue cross blue shield of massachusetts?",
+        "reference_answers": [
+          "Blue Cross Blue Shield of Massachusetts (BCBSMA) is a state licensed nonprofit private health insurance company under the Blue Cross Blue Shield Association with headquarters in Boston."
+        ],
+        "should_abstain": false,
+        "metadata_json": "{\"QAQA_questionable_assumption\": null, \"QAQA_type_questionable_assumption\": \"no_failure\", \"QAQA_assumption_status_can_change\": null}"
+      },
+      {
+        "question": "what does the second runner up get on the voice?",
+        "reference_answers": [
+          "All contestants (including runners-up) get some stipend to cover their living expenses, but only the winner gets the prize money."
+        ],
+        "should_abstain": false,
+        "metadata_json": "{\"QAQA_questionable_assumption\": null, \"QAQA_type_questionable_assumption\": \"no_failure\", \"QAQA_assumption_status_can_change\": null}"
+      },
+      {
+        "question": "when did mlb ban electronic sign stealing?",
+        "reference_answers": [
+          "In 2001. Sandy Alderson, while serving as executive vice president for baseball operations of MLB, issued a memorandum stating that teams cannot use electronic equipment to communicate with each other during games, especially for the purpose of stealing signs."
+        ],
+        "should_abstain": false,
+        "metadata_json": "{\"QAQA_questionable_assumption\": null, \"QAQA_type_questionable_assumption\": \"no_failure\", \"QAQA_assumption_status_can_change\": null}"
+      },
+      {
+        "question": "who is nancy drew in stranger things?",
+        "reference_answers": [
+          "Nancy Wheeler's nickname is Nancy Drew in Stranger Things. Nancy Wheeler is the sister of Mike Wheeler and the ex-girlfriend of Steve Harrington."
+        ],
+        "should_abstain": false,
+        "metadata_json": "{\"QAQA_questionable_assumption\": null, \"QAQA_type_questionable_assumption\": \"no_failure\", \"QAQA_assumption_status_can_change\": null}"
+      },
+      {
+        "question": "what does the t stand for in burberry?",
+        "reference_answers": [
+          "Thomas, based on the founder's name."
+        ],
+        "should_abstain": false,
+        "metadata_json": "{\"QAQA_questionable_assumption\": null, \"QAQA_type_questionable_assumption\": \"no_failure\", \"QAQA_assumption_status_can_change\": null}"
+      },
+      {
+        "question": "when did we get money from youtube?",
+        "reference_answers": [
+          "Youtube creators started getting ad payments around 2007. InVideo Ads (overlays) launched in August 2007, and YouTube Partner Program launched in December 2007."
+        ],
+        "should_abstain": false,
+        "metadata_json": "{\"QAQA_questionable_assumption\": null, \"QAQA_type_questionable_assumption\": \"no_failure\", \"QAQA_assumption_status_can_change\": null}"
+      },
+      {
+        "question": "who wrote the declaration of independence of india?",
+        "reference_answers": [
+          "The authorship of the text of the Declaration of Independence of India is disputed. Gandhi directly claimed authorship in 1940, but others cite Nehru as a major editor or attribute it to Nehru outright."
+        ],
+        "should_abstain": false,
+        "metadata_json": "{\"QAQA_questionable_assumption\": null, \"QAQA_type_questionable_assumption\": \"no_failure\", \"QAQA_assumption_status_can_change\": null}"
+      },
+      {
+        "question": "when does a embryo become male or female?",
+        "reference_answers": [
+          "The chromosomal sex of the embryo is established at fertilization, but it takes 6 weeks before the first signs of sex differentiation is noticed."
+        ],
+        "should_abstain": false,
+        "metadata_json": "{\"QAQA_questionable_assumption\": null, \"QAQA_type_questionable_assumption\": \"no_failure\", \"QAQA_assumption_status_can_change\": null}"
+      },
+      {
+        "question": "who are the acadians in canada?",
+        "reference_answers": [
+          "They are an ethnic group descended from the French who settled in the New France colony of Acadia during the 17th and 18th centuries. Most Acadians in Canada continue to live in majority French-speaking communities, notably those in New Brunswick where Acadians and Francophones are granted autonomy in areas such as education and health."
+        ],
+        "should_abstain": false,
+        "metadata_json": "{\"QAQA_questionable_assumption\": null, \"QAQA_type_questionable_assumption\": \"no_failure\", \"QAQA_assumption_status_can_change\": null}"
+      },
+      {
+        "question": "why do dogs howl at midnight?",
+        "reference_answers": [
+          "Due to less traffic during the midnight and early morning hours, dogs tend to socialize, and thus, communicate via howls with another dog."
+        ],
+        "should_abstain": false,
+        "metadata_json": "{\"QAQA_questionable_assumption\": null, \"QAQA_type_questionable_assumption\": \"no_failure\", \"QAQA_assumption_status_can_change\": null}"
+      },
+      {
+        "question": "when did the first human species appear?",
+        "reference_answers": [
+          "Homo sapiens is thought to have diverged from it's closest ancestor no earlier than 550,000–750,000 years ago."
+        ],
+        "should_abstain": false,
+        "metadata_json": "{\"QAQA_questionable_assumption\": null, \"QAQA_type_questionable_assumption\": \"no_failure\", \"QAQA_assumption_status_can_change\": null}"
+      },
+      {
+        "question": "how many jehovah witnesses are there in the united states?",
+        "reference_answers": [
+          "There are over 1.2 million Jehovah's Witnesses in the United States."
+        ],
+        "should_abstain": false,
+        "metadata_json": "{\"QAQA_questionable_assumption\": null, \"QAQA_type_questionable_assumption\": \"no_failure\", \"QAQA_assumption_status_can_change\": null}"
+      },
+      {
+        "question": "when did china attack india 2020?",
+        "reference_answers": [
+          "Beginning on 5 May 2020, Chinese and Indian troops engaged in aggressive melee, face-offs, and skirmishes at locations along the Sino-Indian border, including near the disputed Pangong Lake in Ladakh and the Tibet Autonomous Region, and near the border between Sikkim and the Tibet Autonomous Region."
+        ],
+        "should_abstain": false,
+        "metadata_json": "{\"QAQA_questionable_assumption\": null, \"QAQA_type_questionable_assumption\": \"no_failure\", \"QAQA_assumption_status_can_change\": null}"
+      },
+      {
+        "question": "when was flint water crisis discovered?",
+        "reference_answers": [
+          "The Flint Water Crisis was discovered between April 25, 2014 and June 2014."
+        ],
+        "should_abstain": false,
+        "metadata_json": "{\"QAQA_questionable_assumption\": null, \"QAQA_type_questionable_assumption\": \"no_failure\", \"QAQA_assumption_status_can_change\": null}"
+      },
+      {
+        "question": "when did france gain independence from germany?",
+        "reference_answers": [
+          "6 June 1944 – 8 May 1945"
+        ],
+        "should_abstain": false,
+        "metadata_json": "{\"QAQA_questionable_assumption\": null, \"QAQA_type_questionable_assumption\": \"no_failure\", \"QAQA_assumption_status_can_change\": null}"
+      },
+      {
+        "question": "how did the united states get florida?",
+        "reference_answers": [
+          "The United States acquired Florida through a treaty with Spain in 1819 that ceded Florida to the U.S. and defined the boundary between the U.S. and New Spain."
+        ],
+        "should_abstain": false,
+        "metadata_json": "{\"QAQA_questionable_assumption\": null, \"QAQA_type_questionable_assumption\": \"no_failure\", \"QAQA_assumption_status_can_change\": null}"
+      },
+      {
+        "question": "when did they start building the great wall of china?",
+        "reference_answers": [
+          "Several walls were built from as early as the 7th century BC."
+        ],
+        "should_abstain": false,
+        "metadata_json": "{\"QAQA_questionable_assumption\": null, \"QAQA_type_questionable_assumption\": \"no_failure\", \"QAQA_assumption_status_can_change\": null}"
+      },
+      {
+        "question": "when did the first kfc open in london?",
+        "reference_answers": [
+          "The first London shop of KFC opened in 1968."
+        ],
+        "should_abstain": false,
+        "metadata_json": "{\"QAQA_questionable_assumption\": null, \"QAQA_type_questionable_assumption\": \"no_failure\", \"QAQA_assumption_status_can_change\": null}"
+      },
+      {
+        "question": "when was the new deal put into place?",
+        "reference_answers": [
+          "The New Deal was put into place between 1933 and 1939."
+        ],
+        "should_abstain": false,
+        "metadata_json": "{\"QAQA_questionable_assumption\": null, \"QAQA_type_questionable_assumption\": \"no_failure\", \"QAQA_assumption_status_can_change\": null}"
+      },
+      {
+        "question": "who is a in season 2 of pretty little liars?",
+        "reference_answers": [
+          "Mona is \"A\" in Season 2 of Pretty Little Liars."
+        ],
+        "should_abstain": false,
+        "metadata_json": "{\"QAQA_questionable_assumption\": null, \"QAQA_type_questionable_assumption\": \"no_failure\", \"QAQA_assumption_status_can_change\": null}"
+      },
+      {
+        "question": "what is the currency of usa?",
+        "reference_answers": [
+          "The United States dollar is the official currency of the United States."
+        ],
+        "should_abstain": false,
+        "metadata_json": "{\"QAQA_questionable_assumption\": null, \"QAQA_type_questionable_assumption\": \"no_failure\", \"QAQA_assumption_status_can_change\": null}"
+      },
+      {
+        "question": "what episode does aj cook direct?",
+        "reference_answers": [
+          "A. J. Cook directed Episode 13: \"Chameleon\" from Criminal Minds, Season 14 ."
+        ],
+        "should_abstain": false,
+        "metadata_json": "{\"QAQA_questionable_assumption\": null, \"QAQA_type_questionable_assumption\": \"no_failure\", \"QAQA_assumption_status_can_change\": null}"
+      },
+      {
+        "question": "when did chick fil a come to california?",
+        "reference_answers": [
+          "The first Chick-fil-A restaurant in California opened in 1981 at Los Cerritos Center, Cerritos."
+        ],
+        "should_abstain": false,
+        "metadata_json": "{\"QAQA_questionable_assumption\": null, \"QAQA_type_questionable_assumption\": \"no_failure\", \"QAQA_assumption_status_can_change\": null}"
+      },
+      {
+        "question": "when did the catholic church accept the apocrypha?",
+        "reference_answers": [
+          "Many of the texts of biblical apocrypha were affirmed by the Council of Rome (AD 382) and later reaffirmed by the Council of Trent (1545–63)."
+        ],
+        "should_abstain": false,
+        "metadata_json": "{\"QAQA_questionable_assumption\": null, \"QAQA_type_questionable_assumption\": \"no_failure\", \"QAQA_assumption_status_can_change\": null}"
+      },
+      {
+        "question": "when did brazil won the first world cup?",
+        "reference_answers": [
+          "Brazil won their first World Cup in 1958."
+        ],
+        "should_abstain": false,
+        "metadata_json": "{\"QAQA_questionable_assumption\": null, \"QAQA_type_questionable_assumption\": \"no_failure\", \"QAQA_assumption_status_can_change\": null}"
+      },
+      {
+        "question": "when did the cold war end and start?",
+        "reference_answers": [
+          "The Cold War started on Mar 12, 1947 and ended on Dec 26, 1991."
+        ],
+        "should_abstain": false,
+        "metadata_json": "{\"QAQA_questionable_assumption\": null, \"QAQA_type_questionable_assumption\": \"no_failure\", \"QAQA_assumption_status_can_change\": null}"
+      },
+      {
+        "question": "what does the symbol of doctors mean?",
+        "reference_answers": [
+          "The symbol is the Rod of Asclepius, a serpent-entwined rod wielded by the Greek god Asclepius, a deity associated with healing and medicine."
+        ],
+        "should_abstain": false,
+        "metadata_json": "{\"QAQA_questionable_assumption\": null, \"QAQA_type_questionable_assumption\": \"no_failure\", \"QAQA_assumption_status_can_change\": null}"
+      },
+      {
+        "question": "where is pepsin secreted in the body?",
+        "reference_answers": [
+          "Pepsin's proenzyme, pepsinogen, is released by the gastric chief cells in the stomach wall, and upon mixing with the hydrochloric acid of the gastric juice, pepsinogen activates to become pepsin."
+        ],
+        "should_abstain": false,
+        "metadata_json": "{\"QAQA_questionable_assumption\": null, \"QAQA_type_questionable_assumption\": \"no_failure\", \"QAQA_assumption_status_can_change\": null}"
+      },
+      {
+        "question": "why are there 3 blades on a wind turbine?",
+        "reference_answers": [
+          "Turbines are usually three-bladed because they have low torque ripple, which contributes to good reliability. Aerodynamic efficiency is another reason: efficiency increases with number of blades but with diminishing return. Increasing from one to two yields a six percent increase, while going from two to three yields an additional three percent. Further increasing the blade count yields minimal improvements and sacrifices too much in blade stiffness as the blades become thinner."
+        ],
+        "should_abstain": false,
+        "metadata_json": "{\"QAQA_questionable_assumption\": null, \"QAQA_type_questionable_assumption\": \"no_failure\", \"QAQA_assumption_status_can_change\": null}"
+      },
+      {
+        "question": "when did the beatles get married?",
+        "reference_answers": [
+          "John and Cynthia were married on August 23, 1962 (ended in divorce November 8, 1968)\nRingo and Maureen were married on February 11, 1965 (ended in divorce July 17, 1975)\nGeorge and Pattie were married on January 21, 1966 (ended in divorce June 9, 1977)\nPaul and Linda were married on March 12, 1969 (ended with Linda’s death April 17, 1998)\nJohn and Yoko were married on March 20, 1969 (ended with John’s death December 8, 1980)\nGeorge and Olivia were married on September 2, 1978 (ended with George’s death November 29, 2001)\nRingo and Barbara were married on April 27, 1981\nPaul and Heather were married on June 11, 2002 (ended in divorce May 12, 2008)\nPaul and Nancy were married on October 9, 2011"
+        ],
+        "should_abstain": false,
+        "metadata_json": "{\"QAQA_questionable_assumption\": null, \"QAQA_type_questionable_assumption\": \"no_failure\", \"QAQA_assumption_status_can_change\": null}"
+      },
+      {
+        "question": "who did we play as in fnaf 6?",
+        "reference_answers": [
+          "The player character is implied to be Michael Afton."
+        ],
+        "should_abstain": false,
+        "metadata_json": "{\"QAQA_questionable_assumption\": null, \"QAQA_type_questionable_assumption\": \"no_failure\", \"QAQA_assumption_status_can_change\": null}"
+      },
+      {
+        "question": "in what document did the united states support the independence of l.a. in 1823?",
+        "reference_answers": [
+          "Monroe Doctrine"
+        ],
+        "should_abstain": false,
+        "metadata_json": "{\"QAQA_questionable_assumption\": null, \"QAQA_type_questionable_assumption\": \"no_failure\", \"QAQA_assumption_status_can_change\": null}"
+      },
+      {
+        "question": "what does caesar mean in roman?",
+        "reference_answers": [
+          "Caesar was used as a title for any Roman emperor succeeding Augustus Caesar. It also means a powerful ruler."
+        ],
+        "should_abstain": false,
+        "metadata_json": "{\"QAQA_questionable_assumption\": null, \"QAQA_type_questionable_assumption\": \"no_failure\", \"QAQA_assumption_status_can_change\": null}"
+      },
+      {
+        "question": "what episode does pain revive everyone?",
+        "reference_answers": [
+          "In Episode 175 of Naruto: Shippūden anime, \"Hero of the Hidden Leaf\", Pain uses his Outer Path — Samsara of Heavenly Life Technique to resurrect those he had killed during his attack on Konoha."
+        ],
+        "should_abstain": false,
+        "metadata_json": "{\"QAQA_questionable_assumption\": null, \"QAQA_type_questionable_assumption\": \"no_failure\", \"QAQA_assumption_status_can_change\": null}"
+      },
+      {
+        "question": "what episode do monica and rachel switch apartments?",
+        "reference_answers": [
+          "\"The One With The Embryos\", Season 4 Episode 12"
+        ],
+        "should_abstain": false,
+        "metadata_json": "{\"QAQA_questionable_assumption\": null, \"QAQA_type_questionable_assumption\": \"no_failure\", \"QAQA_assumption_status_can_change\": null}"
+      },
+      {
+        "question": "who plays harley in iron man?",
+        "reference_answers": [
+          "Harley Keener is portrayed by Ty Simpkins in Iron Man 3."
+        ],
+        "should_abstain": false,
+        "metadata_json": "{\"QAQA_questionable_assumption\": null, \"QAQA_type_questionable_assumption\": \"no_failure\", \"QAQA_assumption_status_can_change\": null}"
+      },
+      {
+        "question": "who is hosting the world cup in 2030?",
+        "reference_answers": [
+          "The host country for the FIFA World Cup 2030 has not been chosen yet and will be chosen on FIFA Congress 2024."
+        ],
+        "should_abstain": false,
+        "metadata_json": "{\"QAQA_questionable_assumption\": null, \"QAQA_type_questionable_assumption\": \"no_failure\", \"QAQA_assumption_status_can_change\": null}"
+      },
+      {
+        "question": "what does the emu and kangaroo represent on the coat of arms?",
+        "reference_answers": [
+          "The emu and the kangaroo on the Commonwealth Coat of Arms symbolise a nation moving forward, based on the fact that neither animal can move backwards easily."
+        ],
+        "should_abstain": false,
+        "metadata_json": "{\"QAQA_questionable_assumption\": null, \"QAQA_type_questionable_assumption\": \"no_failure\", \"QAQA_assumption_status_can_change\": null}"
+      },
+      {
+        "question": "who won the best dancer in africa 2020?",
+        "reference_answers": [
+          "Popular Nigerian dancer and hypeman, Iweh Pascal Odinaka, known in showbiz as Poco Lee has emerged the Best African Dancer at the ongoing African Muzik Magazine Awards, 2020."
+        ],
+        "should_abstain": false,
+        "metadata_json": "{\"QAQA_questionable_assumption\": null, \"QAQA_type_questionable_assumption\": \"no_failure\", \"QAQA_assumption_status_can_change\": null}"
+      },
+      {
+        "question": "who wrote we don't need no education?",
+        "reference_answers": [
+          "Roger Waters"
+        ],
+        "should_abstain": false,
+        "metadata_json": "{\"QAQA_questionable_assumption\": null, \"QAQA_type_questionable_assumption\": \"no_failure\", \"QAQA_assumption_status_can_change\": null}"
+      },
+      {
+        "question": "who plays jake peralta in brooklyn 99?",
+        "reference_answers": [
+          "Andy Samberg played Jake Peralta in Brooklyn 99."
+        ],
+        "should_abstain": false,
+        "metadata_json": "{\"QAQA_questionable_assumption\": null, \"QAQA_type_questionable_assumption\": \"no_failure\", \"QAQA_assumption_status_can_change\": null}"
+      },
+      {
+        "question": "how did snow leopards become endangered?",
+        "reference_answers": [
+          "Hunting, habitat loss, declines in natural prey species, and retaliatory killings resulting from human-wildlife conflict are the main reasons this big cat is under threat."
+        ],
+        "should_abstain": false,
+        "metadata_json": "{\"QAQA_questionable_assumption\": null, \"QAQA_type_questionable_assumption\": \"no_failure\", \"QAQA_assumption_status_can_change\": null}"
+      },
+      {
+        "question": "what type of glass for gin and tonic?",
+        "reference_answers": [
+          "Highball glass or rocks glass are standard for gin and tonic."
+        ],
+        "should_abstain": false,
+        "metadata_json": "{\"QAQA_questionable_assumption\": null, \"QAQA_type_questionable_assumption\": \"no_failure\", \"QAQA_assumption_status_can_change\": null}"
+      },
+      {
+        "question": "what two particles are involved in a chemical bond?",
+        "reference_answers": [
+          "Electron and proton, although the proton only plays a passive role."
+        ],
+        "should_abstain": false,
+        "metadata_json": "{\"QAQA_questionable_assumption\": null, \"QAQA_type_questionable_assumption\": \"no_failure\", \"QAQA_assumption_status_can_change\": null}"
+      },
+      {
+        "question": "who transferred the capital of bengal from dhaka to murshidabad?",
+        "reference_answers": [
+          "The nawab (ruler) Murshid Qulī Khan (following Aurangzeb’s orders) transferred the capital to Makhsudabad from Dacca (now Dhaka, Bangladesh) and renamed the town Murshidabad."
+        ],
+        "should_abstain": false,
+        "metadata_json": "{\"QAQA_questionable_assumption\": null, \"QAQA_type_questionable_assumption\": \"no_failure\", \"QAQA_assumption_status_can_change\": null}"
+      },
+      {
+        "question": "who was the first american to go to space?",
+        "reference_answers": [
+          "Alan Shepard is the first American to travel into space."
+        ],
+        "should_abstain": false,
+        "metadata_json": "{\"QAQA_questionable_assumption\": null, \"QAQA_type_questionable_assumption\": \"no_failure\", \"QAQA_assumption_status_can_change\": null}"
+      },
+      {
+        "question": "when did coca cola buy sprite?",
+        "reference_answers": [
+          "The rights to the name were acquired by Coca Cola in 1960."
+        ],
+        "should_abstain": false,
+        "metadata_json": "{\"QAQA_questionable_assumption\": null, \"QAQA_type_questionable_assumption\": \"no_failure\", \"QAQA_assumption_status_can_change\": null}"
+      },
+      {
+        "question": "why did they not make an iphone 9?",
+        "reference_answers": [
+          "The name iPhone 9 was skipped and iPhone X was used instead to mark the 10th anniversary of the iPhone."
+        ],
+        "should_abstain": false,
+        "metadata_json": "{\"QAQA_questionable_assumption\": null, \"QAQA_type_questionable_assumption\": \"no_failure\", \"QAQA_assumption_status_can_change\": null}"
+      },
+      {
+        "question": "who is a in season 5 of pretty little liars?",
+        "reference_answers": [
+          "In the Season 5 finale of Pretty Little Liars, the identity of Big “A” was revealed to be someone named Charles. The person is revealed to be Charlotte DiLaurentis in Season 6."
+        ],
+        "should_abstain": false,
+        "metadata_json": "{\"QAQA_questionable_assumption\": null, \"QAQA_type_questionable_assumption\": \"no_failure\", \"QAQA_assumption_status_can_change\": null}"
+      },
+      {
+        "question": "where is the thymus gland and what does it do?",
+        "reference_answers": [
+          "The thymus gland is located in the upper chest and produces white blood cells."
+        ],
+        "should_abstain": false,
+        "metadata_json": "{\"QAQA_questionable_assumption\": null, \"QAQA_type_questionable_assumption\": \"no_failure\", \"QAQA_assumption_status_can_change\": null}"
+      }
+    ],
+    "unanswerable": []
+  }
+}

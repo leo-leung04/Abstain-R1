@@ -1,0 +1,807 @@
+{
+  "musique": {
+    "answerable": [
+      {
+        "question": "Given the following context and question, answer the question.\nContext: Paragraph 1: Arna Selznick is a Canadian director and artist, known for directing Nelvana's 1985 animated film \"The Care Bears Movie\". Arna owns and operates a studio called Dancingmonkeys with her husband/partner John van Bruggen.\n Paragraph 2: Turner is currently a professor for the Classical Animation program at Sheridan College in Oakville. Previously she taught for Max the Mutt Animation School in Toronto. She will teach the fifth year of the Animex (Animation Exploration) workshop at Visual Arts Brampton Creative Studio.\n Paragraph 3: The Toronto Coach Terminal is the central bus station for inter-city services in Toronto, Ontario, Canada. It is located at 610 Bay Street, in the city's Downtown. The terminal is owned by Toronto Coach Terminal Inc., a wholly owned subsidiary of the Toronto Transit Commission (TTC). The TTC managed the station directly until July 8, 2012, when it was leased out in its entirety to bus lines Coach Canada and Greyhound Canada for $1.2 million annually. Opened in 1931 as the Gray Coach Terminal, the Art Deco style terminal was home base for Gray Coach, an interurban bus service then owned by the TTC. It replaced an earlier open air terminal, Gray Line Terminal.\nQuestion: Where do Greyhound buses leave from in the city where Arna Selznick's employer is headquartered?",
+        "reference_answers": [
+          "Toronto Coach Terminal"
+        ],
+        "should_abstain": false,
+        "metadata_json": "{}"
+      },
+      {
+        "question": "Given the following context and question, answer the question.\nContext: Paragraph 1: Lloyd Dane (August 19, 1925 – December 11, 2015) was a NASCAR Grand National Series driver from Eldon, Missouri. He participated part-time in the 1951 and 1954 to 1964 seasons, capturing four wins, all in his own car. Two of Dane's wins came during the 1956 season, when he finished a career best 23rd in points.\n Paragraph 2: Eldon is a city in Miller County, Missouri, United States, located thirty miles southwest of Jefferson City. The population was 4,567 at the 2010 census.\nQuestion: Which county does Lloyd Dane's birthplace belong to?",
+        "reference_answers": [
+          "Miller County"
+        ],
+        "should_abstain": false,
+        "metadata_json": "{}"
+      },
+      {
+        "question": "Given the following context and question, answer the question.\nContext: Paragraph 1: \"Happy Pills\" is a song by the American singer-songwriter Norah Jones. It is the lead single from her fifth studio album \"Little Broken Hearts\" and was released digitally on March 6, 2012. Written by Jones and co-written and produced by Brian Burton, it tells the story of Jones emancipating herself from a relationship and finding that she is better off alone. Musically, it is a gritty, bluesy song with a playful pop sound. It received mostly positive reviews, with many critics complimenting its style and the chemistry between Jones and Burton.\n Paragraph 2: ``Turn Me On ''Single by Norah Jones from the album First Sessions / Come Away with Me Released 2003 Format CD single Recorded 2002 Genre Jazz, pop Length 2: 34 Label Blue Note Songwriter (s) John D. Loudermilk Producer (s) Lee Alexander, Norah Jones Norah Jones singles chronology`` Come Away with Me'' (2003) ``Turn Me On ''(2003)`` Sunrise'' (2004) ``Come Away with Me ''(2003)`` Turn Me On'' (2004) ``Sunrise ''(2004)\nQuestion: Who wrote \"Turn Me On\" by performer of \"Happy Pills\"?",
+        "reference_answers": [
+          "John D. Loudermilk"
+        ],
+        "should_abstain": false,
+        "metadata_json": "{}"
+      },
+      {
+        "question": "Given the following context and question, answer the question.\nContext: Paragraph 1: Damon and Ben Affleck wrote \"Good Will Hunting\" (1997), a screenplay about a young math genius, which received nine Academy Awards nominations, earning Damon and Affleck Oscars and Golden Globes for Best Screenplay. Damon was also nominated for an Academy Award for Best Actor for the same film. Since then he has received dozens of nominations and awards for his work as an actor, screenwriter, and producer including the Golden Globe Award for Best Actor – Motion Picture Musical or Comedy for his role in \"The Martian\".\n Paragraph 2: Freshman Mitch Kramer (Wiley Wiggins) escapes the initial hazing with his best friend Carl Burnett (Esteban Powell), but is later cornered after a baseball game and violently paddled. Fred O'Bannion (Ben Affleck), a senior participating in the hazing tradition for a second year after failing to graduate, delights in punishing Mitch. Pink gives the injured Mitch a ride home and offers to take him cruising with friends that night. Plans for the evening are ruined when Kevin Pickford's (Shawn Andrews) parents discover his intention to host a keg party. Elsewhere, the intellectual trio of Cynthia Dunn (Marissa Ribisi), Tony Olson (Anthony Rapp), and Mike Newhouse (Adam Goldberg) decide to participate in the evening's activities. Pink and his friend David Wooderson (Matthew McConaughey), a man in his early 20s who still socializes with high school students, pick up Mitch and head for the Emporium, a pool hall frequented by teenagers.\nQuestion: Who did the screenwriter for Good Will Hunting play in Dazed and Confused?",
+        "reference_answers": [
+          "Fred O'Bannion"
+        ],
+        "should_abstain": false,
+        "metadata_json": "{}"
+      },
+      {
+        "question": "Given the following context and question, answer the question.\nContext: Paragraph 1: Pulaski High School is a public high school in Pulaski, Wisconsin, in Brown County, Wisconsin (school district also serves parts of Shawano, Outagamie and Oconto counties), that serves students in grades 9 through 12. Its mascot is the Red Raider.\n Paragraph 2: Hayes was born and raised in Appleton, Wisconsin. He attended the University of Texas at El Paso, where he was a member of the golf team. He majored in marketing and graduated in 1988. In 1989, he turned professional.\n Paragraph 3: Born in Green Bay, Wisconsin, Quinn was a realtor and served on the Green Bay Common Council, the Brown County, Wisconsin Board of Supervisors, the local Board of Education, and the Wisconsin State Assembly from 1955 until 1973. He was a Republican.\n Paragraph 4: John C. Petersen (November 2, 1842 – July 10, 1887) was an American butcher and farmer from Appleton, Wisconsin who served as a member of the Wisconsin State Assembly from Outagamie County. He was elected in 1878 as a Greenbacker, and was re-elected the next year as a \"Greenback Democrat\" (even though he was opposed by a Democrat).\nQuestion: What is the seat of the county sharing a border with the county in which J. P. Hayes was born?",
+        "reference_answers": [
+          "Green Bay"
+        ],
+        "should_abstain": false,
+        "metadata_json": "{}"
+      },
+      {
+        "question": "Given the following context and question, answer the question.\nContext: Paragraph 1: Tarot Classics is an EP by Florida-based indie rock band Surfer Blood released on October 25, 2011 on Kanine Records. It is their last release for Kanine.\n Paragraph 2: Pythons is the second studio album by indie rock band Surfer Blood. It was released in June 2013 under Sire Records and produced by Gil Norton. Following the release of their EP, \"Tarot Classics\", Surfer Blood had been writing songs whilst on tour. The first song to be written for the album is technically \"Prom Song\", as they have had the guitar parts for this song for a few years now. The album features all the qualities that define Surfer Blood's sound, but is stripped of its reverb and given a more polished production, as opposed to the production that took place in front-man John Paul Pitts' apartment. \"Pixies\" guitarist Joey Santiago lent the band equipment such as amplifiers and guitars during the album's production, as Norton is a close friend of his because he produced most of the Pixies discography.\nQuestion: What is the record label for the band which performed Pythons?",
+        "reference_answers": [
+          "Kanine Records"
+        ],
+        "should_abstain": false,
+        "metadata_json": "{}"
+      },
+      {
+        "question": "Given the following context and question, answer the question.\nContext: Paragraph 1: Alex P. Keaton is a fictional character on the United States television sitcom Family Ties, which aired on NBC for seven seasons, from 1982 to 1989. Family Ties reflected the move in the United States away from the cultural liberalism of the 1960s and 1970s to the conservatism of the 1980s. This was particularly expressed through the relationship between Young Republican Alex (Michael J. Fox) and his hippie parents, Steven (Michael Gross) and Elyse Keaton (Meredith Baxter). President of the United States Ronald Reagan once stated that Family Ties was his favorite television show.\n Paragraph 2: The character was played by Claudia Wells in Back to the Future. However, Wells was not available to film the sequels for personal reasons, and the role was recast to Elisabeth Shue although Wells reprised her role as Jennifer in Back to the Future: The Game as a punk rock version of her character. Consequently, the opening scene of Back to the Future Part II was re-shot with Shue taking Wells' place, rather than using the ending of Back to the Future. In the spin - off Back to the Future: the Animated Series, Jennifer was voiced by Cathy Cavadini.\nQuestion: Who played the girlfriend of Alex P. Keaton's actor on Family Ties in Back to the Future?",
+        "reference_answers": [
+          "Claudia Wells"
+        ],
+        "should_abstain": false,
+        "metadata_json": "{}"
+      },
+      {
+        "question": "Given the following context and question, answer the question.\nContext: Paragraph 1: ``Home Alone Tonight ''is a song recorded by American country music artist Luke Bryan as a duet with Karen Fairchild of American country music group Little Big Town for his fifth studio album, Kill the Lights (2015). Upon the release of the album, the song entered the Billboard Hot Country Songs chart at number 33 on the strength of digital downloads. It was serviced to American country radio on November 23, 2015 as the album's third official single.\n Paragraph 2: Crash My Party is the fourth studio album by American country music artist Luke Bryan. It was released on August 13, 2013 by Capitol Nashville. Its first single, the title track, reached number one on the Billboard Country Airplay chart. The album was produced by Jeff Stevens. A deluxe edition with four bonus tracks is available exclusively at Target and Walmart.\nQuestion: Who sings home alone tonight with the singer of you can crash my party anytime?",
+        "reference_answers": [
+          "Karen Fairchild"
+        ],
+        "should_abstain": false,
+        "metadata_json": "{}"
+      },
+      {
+        "question": "Given the following context and question, answer the question.\nContext: Paragraph 1: Smallville is an American television series developed by writer-producers Alfred Gough and Miles Millar, based on the DC Comics character Superman created by Jerry Siegel and Joe Shuster. The series, initially broadcast by The WB, premiered on October 16, 2001. After \"Smallville\"s fifth season, The WB and UPN merged to form The CW, the series' later United States broadcaster. \"Smallville\", which ended its tenth and final season on May 13, 2011, follows Clark Kent (Tom Welling) in the fictional town of Smallville, Kansas, before he becomes known as Superman. The first four seasons focus on Clark and his friends in high school. After season five \"Smallville\" ventures into adult settings, eventually focusing on his career at the \"Daily Planet\" and introducing other DC comic-book superheroes and villains.\n Paragraph 2: Aaron Richard Ashmore (born October 7, 1979) is a Canadian film and television actor. He is known for his roles on American television series, such as Jimmy Olsen on \"Smallville\" and Steve Jinks on \"Warehouse 13\". He plays Johnny Jaqobis on the Canadian television series \"Killjoys\". He is the identical twin brother of actor Shawn Ashmore.\nQuestion: Who wrote the show that Jimmy Olsen works for?",
+        "reference_answers": [
+          "Alfred Gough"
+        ],
+        "should_abstain": false,
+        "metadata_json": "{}"
+      },
+      {
+        "question": "Given the following context and question, answer the question.\nContext: Paragraph 1: A Beautiful Mind is the original soundtrack album, on the Decca Records label, of the 2001 film \"A Beautiful Mind\" starring Russell Crowe, Jennifer Connelly (who won the Academy Award for Best Supporting Actress for her role as \"Alicia Nash\"), Christopher Plummer and Paul Bettany. The original score and songs were composed and conducted by James Horner.\n Paragraph 2: Paul Bettany (born 27 May 1971) is an English actor. He is known for his voice role as J.A.R.V.I.S. and the Vision in the Marvel Cinematic Universe, specifically the films Iron Man (2008), Iron Man 2 (2010), The Avengers (2012), Iron Man 3 (2013), Avengers: Age of Ultron (2015), and Captain America: Civil War (2016). He first came to the attention of mainstream audiences when he appeared in the British film Gangster No. 1 (2000), and director Brian Helgeland's film A Knight's Tale (2001). He has gone on to appear in a wide variety of films, including A Beautiful Mind (2001), Master and Commander: The Far Side of the World (2003), Dogville (2003), Wimbledon (2004), and the adaptation of the novel The Da Vinci Code (2006).\nQuestion: Who is the spouse of the person who voices Jarvis in Iron Man?",
+        "reference_answers": [
+          "Jennifer Connelly"
+        ],
+        "should_abstain": false,
+        "metadata_json": "{}"
+      },
+      {
+        "question": "Given the following context and question, answer the question.\nContext: Paragraph 1: Casa Loma (Spanish for ``Hill House '') is a Gothic Revival style mansion and garden in midtown Toronto, Ontario, Canada, that is now a historic house museum and landmark. It was constructed from 1911 to 1914 as a residence for financier Sir Henry Pellatt. The architect was E. J. Lennox, who designed several other city landmarks. Casa Loma sits at an elevation of 140 metres (460 ft) above sea level.\n Paragraph 2: Gavin Bradley is an award-winning Canadian singer-songwriter and producer based in Toronto who has worked with artists like Nelly Furtado, Tori Amos and Jane Siberry. Fusing acoustic and electronic elements, his work is identifiable for its signature \"warm\" piano sound and live strings mixed with filtered synthesizers and other electronic manipulations . Besides production, Bradley is a solo recording artist. His debut album 'Deep Freeze' was released on UMI Records in 2006.\n Paragraph 3: When I Was a Boy is a 1993 album by Jane Siberry. Internationally, it is her most famous album. In Siberry's native Canada, however, the album was commercially successful but not as big a hit as her 1985 album \"The Speckless Sky\".\nQuestion: What is the name of the castle in the place of birth of the performer of When I Was a Boy?",
+        "reference_answers": [
+          "Casa Loma"
+        ],
+        "should_abstain": false,
+        "metadata_json": "{}"
+      },
+      {
+        "question": "Given the following context and question, answer the question.\nContext: Paragraph 1: A Magne is a village in south-eastern Laos near the border with Vietnam. It is located in Sa Mouay District in Saravane Province.\n Paragraph 2: Myanmar (also known as Burma) is the northwestern-most country of mainland Southeast Asia, bordering China, India, Bangladesh, Thailand and Laos. It lies along the Indian and Eurasian Plates, to the southeast of the Himalayas. To its west is the Bay of Bengal and to its south is the Andaman Sea. It is strategically located near major Indian Ocean shipping lanes.\n Paragraph 3: The discovery of new maritime trade routes by Western European states allowed them to avoid the Ottoman trade monopoly. The Portuguese discovery of the Cape of Good Hope in 1488 initiated a series of Ottoman-Portuguese naval wars in the Indian Ocean throughout the 16th century. The Somali Muslim Ajuran Empire, allied with the Ottomans, defied the Portuguese economic monopoly in the Indian Ocean by employing a new coinage which followed the Ottoman pattern, thus proclaiming an attitude of economic independence in regard to the Portuguese.\n Paragraph 4: The dynasty regrouped and defeated the Portuguese in 1613 and Siam in 1614. It restored a smaller, more manageable kingdom, encompassing Lower Myanmar, Upper Myanmar, Shan states, Lan Na and upper Tenasserim. The Restored Toungoo kings created a legal and political framework whose basic features would continue well into the 19th century. The crown completely replaced the hereditary chieftainships with appointed governorships in the entire Irrawaddy valley, and greatly reduced the hereditary rights of Shan chiefs. Its trade and secular administrative reforms built a prosperous economy for more than 80 years. From the 1720s onward, the kingdom was beset with repeated Meithei raids into Upper Myanmar and a nagging rebellion in Lan Na. In 1740, the Mon of Lower Myanmar founded the Restored Hanthawaddy Kingdom. Hanthawaddy forces sacked Ava in 1752, ending the 266-year-old Toungoo Dynasty.\nQuestion: How were people from whom new coins were a proclamation of independence by the Somali Muslim Ajuran Empire expelled from the natural boundary between Thailand and A Magne's country?",
+        "reference_answers": [
+          "The dynasty regrouped and defeated the Portuguese"
+        ],
+        "should_abstain": false,
+        "metadata_json": "{}"
+      },
+      {
+        "question": "Given the following context and question, answer the question.\nContext: Paragraph 1: Bindi Irwin as Nim Rusoe Matthew Lillard as Jack Rusoe Toby Wallace as Edmund John Waters as Booker BJ and Friday as Selkie Pumpkin as Fred Nathan Derrick as Felix Jack Pearson as Ben Sebastian Gregory as Frankie\n Paragraph 2: My Daddy, the Crocodile Hunter is a one-hour television documentary film that is hosted by Bindi Irwin and details her life and growing career and also serves as a memorial for her father, famed naturalist and conservationist Steve Irwin, better known as The Crocodile Hunter who died in 2006. She has inherited his legacy and continues his work.\nQuestion: Who is the father of Nim's actress in Return to Nim's Island?",
+        "reference_answers": [
+          "Steve Irwin"
+        ],
+        "should_abstain": false,
+        "metadata_json": "{}"
+      },
+      {
+        "question": "Given the following context and question, answer the question.\nContext: Paragraph 1: Rumors of the discovery of gold were confirmed in March 1848 by San Francisco newspaper publisher and merchant Samuel Brannan. Brannan hurriedly set up a store to sell gold prospecting supplies, and walked through the streets of San Francisco, holding aloft a vial of gold, shouting ``Gold! Gold! Gold from the American River! ''\n Paragraph 2: Due to its large size and wide range of geographic features, the United States contains examples of nearly every global climate. The climate is temperate in most areas, subtropical in the Southern United States, tropical in Hawaii and southern Florida, polar in Alaska, semiarid in the Great Plains west of the 100th meridian, Mediterranean in coastal California and arid in the Great Basin. Its comparatively favorable agricultural climate contributed (in part) to the country's rise as a world power, with infrequent severe drought in the major agricultural regions, a general lack of widespread flooding, and a mainly temperate climate that receives adequate precipitation.\n Paragraph 3: Rio Linda High School is a high school located in Rio Linda, Sacramento, CA. It has an enrollment of 2,035 students. It is part of the Twin Rivers Unified School District, and was formerly part of the Grant Unified School District.\n Paragraph 4: The history of Sacramento, California, began with its founding by Samuel Brannan and John Augustus Sutter, Jr. in 1848 around an embarcadero that his father, John Sutter, Sr. constructed at the confluence of the American and Sacramento Rivers a few years prior.\nQuestion: What city shares a border with the place where the person who went to the state known for its Mediterranean climate during the gold rush worked?",
+        "reference_answers": [
+          "Rio Linda"
+        ],
+        "should_abstain": false,
+        "metadata_json": "{}"
+      },
+      {
+        "question": "Given the following context and question, answer the question.\nContext: Paragraph 1: On 27 August 2007, Royal Dutch Shell and Reitan Group, the owner of the 7-Eleven brand in Scandinavia, announced an agreement to re-brand some 269 service stations across Norway, Sweden, Finland and Denmark, subject to obtaining regulatory approvals under the different competition laws in each country. On April 2010 Shell announced that the corporation is in process of trying to find a potential buyer for all of its operations in Finland and is doing similar market research concerning Swedish operations. On October 2010 Shell's gas stations and the heavy vehicle fuel supply networks in Finland and Sweden, along with a refinery located in Gothenburg, Sweden were sold to St1, a Finnish energy company, more precisely to its major shareholding parent company Keele Oy. Shell branded gas stations will be rebranded within maximum of five years from the acquisition and the number of gas stations is likely to be reduced. Until then the stations will operate under Shell brand licence.\n Paragraph 2: MV \"Macoma\" was one of nine Anglo Saxon Royal Dutch/Shell oil tankers converted to become a Merchant Aircraft Carrier (MAC ship). The group is sometimes collectively known as the Rapana Class.\nQuestion: In April 2010, what did the company owned by MV Macoma announce it was in the process of doing?",
+        "reference_answers": [
+          "trying to find a potential buyer for all of its operations in Finland"
+        ],
+        "should_abstain": false,
+        "metadata_json": "{}"
+      },
+      {
+        "question": "Given the following context and question, answer the question.\nContext: Paragraph 1: He won several awards including the National Arts Award in 1973, Cemex Award in 2003 and IDSA's Special Award in 1969 for notable results, creative and innovative concepts and long-term benefits to the industrial design profession, its educational functions and society at large. He was minister of public infrastructure and human settlements during president's José López Portillo government. He was founder and rector of the Universidad Autónoma Metropolitana. He was part of the faculty of the UNAM and received various honorary degrees (doctor honoris causa) granted by several universities including the UNAM.\n Paragraph 2: The National Autonomous University of Mexico (UNAM), located in Mexico City, is the largest university on the continent, with more than 300,000 students from all backgrounds. Three Nobel laureates, several Mexican entrepreneurs and most of Mexico's modern-day presidents are among its former students. UNAM conducts 50% of Mexico's scientific research and has presence all across the country with satellite campuses, observatories and research centres. UNAM ranked 74th in the Top 200 World University Ranking published by Times Higher Education (then called Times Higher Education Supplement) in 2006, making it the highest ranked Spanish-speaking university in the world. The sprawling main campus of the university, known as Ciudad Universitaria, was named a World Heritage Site by UNESCO in 2007.\nQuestion: What worldwide ranking does the university that Pedro Ramirez Vasquez attended hold?",
+        "reference_answers": [
+          "74th"
+        ],
+        "should_abstain": false,
+        "metadata_json": "{}"
+      },
+      {
+        "question": "Given the following context and question, answer the question.\nContext: Paragraph 1: Warren Hastings (6 December 1732 – 22 August 1818), an English statesman, was the first Governor of the Presidency of Fort William (Bengal), the head of the Supreme Council of Bengal, and thereby the first \"de facto\" Governor-General of India from 1774 to 1785. In 1787, he was accused of corruption and impeached, but after a long trial, he was acquitted in 1795. He was made a Privy Counsellor in 1814.\n Paragraph 2: Governors - General served at the pleasure of the sovereign, though the practice was to have them serve five - year terms. Governors - General could have their commission rescinded; and if one was removed, or left, a provisional governor - general was sometimes appointed until a new holder of the office could be chosen. The first Governor - General of British India was Warren Hastings, and the first Governor - General of independent India was Louis Mountbatten.\nQuestion: What is the position of the first governor general of India?",
+        "reference_answers": [
+          "Governor-General of India"
+        ],
+        "should_abstain": false,
+        "metadata_json": "{}"
+      },
+      {
+        "question": "Given the following context and question, answer the question.\nContext: Paragraph 1: Stade de ASC HLM is a multi-use stadium in Dakar, Senegal. It is currently used mostly for football matches and serves as a home ground of ASC HLM. The stadium holds 5,000 people.\n Paragraph 2: Pa Amadou Gai (born June 18, 1984 in Bakau) is a Gambian soccer player who currently plays for ASC HLM,\nQuestion: What country does team that Pa Amadou Gai is a member of play for?",
+        "reference_answers": [
+          "Senegal"
+        ],
+        "should_abstain": false,
+        "metadata_json": "{}"
+      },
+      {
+        "question": "Given the following context and question, answer the question.\nContext: Paragraph 1: ATS - 6 (Applications Technology Satellite - 6) was a NASA experimental satellite, built by Fairchild Space and Electronics Division It has been called the world's first educational satellite as well as world's first experimental Direct Broadcast Satellite as part of the Satellite Instructional Television Experiment between NASA and Indian Space Research Organisation (ISRO). It was launched May 30, 1974, and decommissioned July 1979. At the time of launch, it was the most powerful telecommunication satellite in orbit. ATS - 6 carried no fewer than 23 different experiments, and introduced several breakthroughs. It was the first 3 - axis stabilized spacecraft in geostationary orbit. It was also the first to use experimentally with some success electric propulsion in geostationary orbit. It also carried several particle physics experiments, including the first heavy ion detector in geostationary orbit.\n Paragraph 2: GSAT-7 or INSAT-4F is a multi-band military communications satellite developed by ISRO. The Indian Navy is the user of the multi-band communication spacecraft, which has been operational since September 2013. According to defense experts, the satellite will enable the navy to extend its blue water capabilities and stop relying on foreign satellites like Inmarsat, which provide communication services to its ships.\nQuestion: What is the experimental satellite which was the forerunner to the communication satellite of the operator of GSAT-7 called?",
+        "reference_answers": [
+          "ATS - 6 (Applications Technology Satellite - 6)"
+        ],
+        "should_abstain": false,
+        "metadata_json": "{}"
+      },
+      {
+        "question": "Given the following context and question, answer the question.\nContext: Paragraph 1: Crum Creek (from the Dutch, meaning \"crooked creek\") is a creek in Delaware County and Chester County, Pennsylvania, flowing approximately , generally in a southward direction and draining into the Delaware River in Eddystone, Pennsylvania. It begins in a swamp (formerly a lake, dammed out) near Newtown Square, Pennsylvania along which several mills were established in the 19th century. Right afterward it crosses under Pennsylvania Route 29 and winds one and a half miles () downstream until it hits the hamlet of Crum Creek. It later flows into the Delaware River near Philadelphia.\n Paragraph 2: Bartram's Covered Bridge, a historic covered bridge built in 1860, uses a Burr Truss design and carried Goshen Road over Crum Creek on the border between Delaware County and Chester County, Pennsylvania. It is long and wide and is the only covered bridge remaining of the 30 which once stood in Delaware County. The bridge has slanted planks at each entrance and is the only covered bridge in Pennsylvania with this feature. According to an on-site marker from the Newtown Square Historical Preservation Society, the bridge was built to be \"hi and wide as a load of hay\" It was built by Ferdinand Wood and named for Mordecai Bartram.\nQuestion: What is the mouth of watercourse for the body of water where Bartram's Covered Bridge is located?",
+        "reference_answers": [
+          "Delaware River"
+        ],
+        "should_abstain": false,
+        "metadata_json": "{}"
+      },
+      {
+        "question": "Given the following context and question, answer the question.\nContext: Paragraph 1: The Free Software Directory (FSD) is a project of the Free Software Foundation (FSF). It catalogs free software that runs under free operating systems - particularly GNU and Linux. The cataloged projects are often able to run in several other operating systems. The project was formerly co-run by UNESCO.\n Paragraph 2: Free Software Foundation founder Richard Stallman argues that, although the term intellectual property is in wide use, it should be rejected altogether, because it \"systematically distorts and confuses these issues, and its use was and is promoted by those who gain from this confusion\". He claims that the term \"operates as a catch-all to lump together disparate laws [which] originated separately, evolved differently, cover different activities, have different rules, and raise different public policy issues\" and that it creates a \"bias\" by confusing these monopolies with ownership of limited physical things, likening them to \"property rights\". Stallman advocates referring to copyrights, patents and trademarks in the singular and warns against abstracting disparate laws into a collective term.\nQuestion: Who started the foundation that developed the Free Software Directory?",
+        "reference_answers": [
+          "Richard Stallman"
+        ],
+        "should_abstain": false,
+        "metadata_json": "{}"
+      },
+      {
+        "question": "Given the following context and question, answer the question.\nContext: Paragraph 1: Josephus records that \"Abraham contrived to settle them in colonies; and they took possession of Troglodytis and the country of Arabia Felix, as far as it reaches to the Red Sea.\" Abraham in all probability, tried to keep them apart from Isaac to avoid conflict while fulfilling God's commission to spread out and inhabit the globe.\n Paragraph 2: Keturah (Hebrew: קְטוּרָה ‎, Modern Ktura, Tiberian Qəṭûrā; possibly meaning ``incense '') was a concubine and wife of the Biblical patriarch Abraham. According to the Book of Genesis, Abraham married Keturah after the death of his first wife, Sarah. Abraham and Keturah had six sons.\nQuestion: Who did Jokshan's father marry after the death of Sarah?",
+        "reference_answers": [
+          "Keturah"
+        ],
+        "should_abstain": false,
+        "metadata_json": "{}"
+      },
+      {
+        "question": "Given the following context and question, answer the question.\nContext: Paragraph 1: During the Second World War, Chadwick carried out research as part of the Tube Alloys project to build an atomic bomb, while his Manchester lab and environs were harassed by Luftwaffe bombing. When the Quebec Agreement merged his project with the American Manhattan Project, he became part of the British Mission, and worked at the Los Alamos Laboratory and in Washington, D.C. He surprised everyone by earning the almost-complete trust of project director Leslie R. Groves, Jr. For his efforts, Chadwick received a knighthood in the New Year Honours on 1 January 1945. In July 1945, he viewed the Trinity nuclear test. After this, he served as the British scientific advisor to the United Nations Atomic Energy Commission. Uncomfortable with the trend toward Big Science, Chadwick became the Master of Gonville and Caius College in 1948. He retired in 1959.\n Paragraph 2: The essential nature of the atomic nucleus was established with the discovery of the neutron by James Chadwick in 1932 and the determination that it was a new elementary particle, distinct from the proton.\nQuestion: What was the person who provided evidence to suggest the existence of the neutron a participant of?",
+        "reference_answers": [
+          "Manhattan Project"
+        ],
+        "should_abstain": false,
+        "metadata_json": "{}"
+      },
+      {
+        "question": "Given the following context and question, answer the question.\nContext: Paragraph 1: Kosovo vs Haiti was the first international match involving the Kosovar national football team to be recognised by FIFA, and the first to take place within Kosovo. The match was an international friendly between representative teams from Kosovo and Haiti.\n Paragraph 2: Swiss are fans of football and the national team is nicknamed the 'Nati'. The headquarters of the sport's governing body, the International Federation of Association Football (FIFA), is located in Zürich. Switzerland hosted the 1954 FIFA World Cup, and was the joint host, with Austria, of the Euro 2008 tournament. The Swiss Super League is the nation's professional club league. For the Brasil 2014 World Cup finals tournament, the country's German-speaking cantons will be closely monitored by local police forces to prevent celebrations beyond one hour after matches end. Europe's highest football pitch, at 2,000 metres (6,600 ft) above sea level, is located in Switzerland and is named the Ottmar Hitzfeld Stadium.\nQuestion: What does the name of the organization the Haiti national football team belongs to stand for?",
+        "reference_answers": [
+          "International Federation of Association Football"
+        ],
+        "should_abstain": false,
+        "metadata_json": "{}"
+      },
+      {
+        "question": "Given the following context and question, answer the question.\nContext: Paragraph 1: No Ordinary Girl is the debut album by Jordan Pruitt, released in the United States on February 6, 2007 by Hollywood Records. The album debuted and peaked at number sixty-four on the \"Billboard\" 200 with 14,000 copies sold in its first week and to date has sold 187,887 in the United States. This album had moderate success because of the songs included in the Disney Channel movies \"Read It and Weep\" and \"Jump In\". Pruitt supported the album with \"The Cheetah Girls The Party's Just Begun Tour\" and \"\".\n Paragraph 2: Permission to Fly is the second and final studio album by American singer-songwriter Jordan Pruitt. On July 22, 2008, the album was released to all Limited Too stores only and in September the album was released on iTunes. On August 26, 2008 the album was given a physical release. The worldwide premiere of the album was broadcast over Radio Disney on July 19, 2008 at 4:00 p.m. Pacific Time and 7:00 p.m. Eastern Time. The encore also aired on July 21, 2008 at 10:00 a.m. Pacific Time and 1:00 p.m. Eastern Time. For unknown reasons, the album was removed from the iTunes Store on September 19, 2008.\nQuestion: What is the record label of the co-writer and recording artist of Permission to Fly?",
+        "reference_answers": [
+          "Hollywood Records"
+        ],
+        "should_abstain": false,
+        "metadata_json": "{}"
+      },
+      {
+        "question": "Given the following context and question, answer the question.\nContext: Paragraph 1: Sammy Going South (retitled A Boy Ten Feet Tall for its later US release) is a 1963 British adventure film directed by Alexander Mackendrick, photographed by Erwin Hillier and starring Edward G. Robinson, Fergus McClelland and Constance Cummings.\n Paragraph 2: After one of his brothers was attacked by an anti-semitic mob, the family decided to immigrate to the United States. Robinson arrived in New York City on February 21, 1904. \"At Ellis Island I was born again\", he wrote. \"Life for me began when I was 10 years old.\" He grew up on the Lower East Side, had his Bar Mitzvah at First Roumanian-American Congregation, and attended Townsend Harris High School and then the City College of New York, planning to become a criminal attorney. An interest in acting and performing in front of people led to him winning an American Academy of Dramatic Arts scholarship, after which he changed his name to \"Edward G. Robinson\" (the G. standing for his original surname).\nQuestion: Where did the person featured in the film Sammy Going South study or work?",
+        "reference_answers": [
+          "American Academy of Dramatic Arts"
+        ],
+        "should_abstain": false,
+        "metadata_json": "{}"
+      },
+      {
+        "question": "Given the following context and question, answer the question.\nContext: Paragraph 1: The Denmark national futsal team is controlled by the Danish Football Association, the governing body for futsal in Denmark and represents the country in international futsal competitions, such as the FIFA Futsal World Cup and UEFA Futsal Championship.\n Paragraph 2: Swiss are fans of football and the national team is nicknamed the 'Nati'. The headquarters of the sport's governing body, the International Federation of Association Football (FIFA), is located in Zürich. Switzerland hosted the 1954 FIFA World Cup, and was the joint host, with Austria, of the Euro 2008 tournament. The Swiss Super League is the nation's professional club league. For the Brasil 2014 World Cup finals tournament, the country's German-speaking cantons will be closely monitored by local police forces to prevent celebrations beyond one hour after matches end. Europe's highest football pitch, at 2,000 metres (6,600 ft) above sea level, is located in Switzerland and is named the Ottmar Hitzfeld Stadium.\nQuestion: What does the acronym of the organization Danish Football Union is part of stand for?",
+        "reference_answers": [
+          "International Federation of Association Football"
+        ],
+        "should_abstain": false,
+        "metadata_json": "{}"
+      },
+      {
+        "question": "Given the following context and question, answer the question.\nContext: Paragraph 1: The Yankees upset the heavily - favored Cleveland Indians 3 -- 2 in the ALDS to advance. This is the Yankees' 16th appearance in the ALCS, and their second as a Wild Card. Their last ALCS appearance came in the 2012 American League Championship Series where they got swept by the Detroit Tigers. They had won in eleven of their previous fifteen appearances. This is the sixth straight year in which an AL East team has made it to the ALCS.\n Paragraph 2: MVP voting takes place before the postseason, but the results are not announced until after the World Series. The BBWAA began by polling three writers in each league city in 1938, reducing that number to two per league city in 1961. The BBWAA does not offer a clear - cut definition of what ``most valuable ''means, instead leaving the judgment to the individual voters.\n Paragraph 3: During the off - season, the Yankees retooled their roster with several star free agent acquisitions, including CC Sabathia, Mark Teixeira, and A.J. Burnett. At the beginning of the 2009 season, the Yankees opened the new Yankee Stadium, located just a block north on River Avenue from their former home. The Yankees set a major league record by playing error - free ball for 18 consecutive games from May 14 to June 1, 2009. The Yankees finished first in the AL East. In the ALDS they defeated the Twins in a sweep before moving on to the ALCS where the Yankees defeated Angels in six games. They defeated the defending champions, the Philadelphia Phillies, in Game 6 of the World Series 7 -- 3, to take the series 4 -- 2, their 27th World Series title.\nQuestion: When did the team that won the AL East in 2017 last play in the event after which the MLB MVP is awarded?",
+        "reference_answers": [
+          "the 2009 season"
+        ],
+        "should_abstain": false,
+        "metadata_json": "{}"
+      },
+      {
+        "question": "Given the following context and question, answer the question.\nContext: Paragraph 1: The history of Sacramento, California, began with its founding by Samuel Brannan and John Augustus Sutter, Jr. in 1848 around an embarcadero that his father, John Sutter, Sr. constructed at the confluence of the American and Sacramento Rivers a few years prior.\n Paragraph 2: Baskin-Robbins is an American chain of ice cream and cake specialty shop restaurants. Based in Canton, Massachusetts, it was founded in 1945 by Burt Baskin and Irv Robbins in Glendale, California. It claims to be the world's largest chain of ice cream specialty stores, with 7,500 locations, including nearly 2,500 shops in the United States and over 5,000 in other countries as of December 28, 2013. Baskin-Robbins sells ice cream in nearly 50 countries.\n Paragraph 3: Rio Linda High School is a high school located in Rio Linda, Sacramento, CA. It has an enrollment of 2,035 students. It is part of the Twin Rivers Unified School District, and was formerly part of the Grant Unified School District.\n Paragraph 4: Rumors of the discovery of gold were confirmed in March 1848 by San Francisco newspaper publisher and merchant Samuel Brannan. Brannan hurriedly set up a store to sell gold prospecting supplies, and walked through the streets of San Francisco, holding aloft a vial of gold, shouting ``Gold! Gold! Gold from the American River! ''\nQuestion: What shares a border with the city where the person who went to the state where Baskin-Robbins was founded during the gold rush works?",
+        "reference_answers": [
+          "Rio Linda"
+        ],
+        "should_abstain": false,
+        "metadata_json": "{}"
+      },
+      {
+        "question": "Given the following context and question, answer the question.\nContext: Paragraph 1: Beatrice Heuser (born 15 March 1961 in Bangkok), is an historian and political scientist. She holds the chair of International Relations at the University of Glasgow.\n Paragraph 2: The Axis states which assisted Japan included the authoritarian government of Thailand in World War II, which quickly formed a temporary alliance with the Japanese in 1941, as the Japanese forces were already invading the peninsula of southern Thailand. The Phayap Army sent troops to invade and occupy northeastern Burma, which was former Thai territory that had been annexed by Britain much earlier. Also involved were the Japanese puppet states of Manchukuo and Mengjiang (consisting of most of Manchuria and parts of Inner Mongolia respectively), and the collaborationist Wang Jingwei regime (which controlled the coastal regions of China).\n Paragraph 3: Bang Bon (Thai: บางบอน, pronounced [bāːŋ bɔ̄ːn]) is one of the 50 districts (khet) of Bangkok, Thailand. Its neighbours, clockwise from north, are Bang Khae, Phasi Charoen, Chom Thong, and Bang Khun Thian districts of Bangkok, Mueang Samut Sakhon District and Krathum Baen District of Samut Sakhon Province, and Nong Khaem District of Bangkok.\nQuestion: What year did the country where the place of birth of Beatrice Heuser is located form an alliance with Japan?",
+        "reference_answers": [
+          "1941"
+        ],
+        "should_abstain": false,
+        "metadata_json": "{}"
+      },
+      {
+        "question": "Given the following context and question, answer the question.\nContext: Paragraph 1: Orange Gariep, Oranje, Senqu River Sunset over the Orange River near Upington in the Northern Cape Countries Lesotho, South Africa, Namibia Tributaries - right Caledon River, Vaal River, Fish River (Namibia) Landmarks Gariep Dam, Augrabies Falls Source Thaba Putsoa - location Maloti Mountains (Drakensberg), Lesotho - elevation 3,350 m (10,991 ft) Mouth Alexander Bay - location Atlantic Ocean Length 2,200 km (1,367 mi) Basin 973,000 km (375,677 sq mi) Discharge - average 365 m / s (12,890 cu ft / s) The course and watershed of the Orange River, Caledon River and Vaal River. This map shows a conservative border for the watershed. Specifically, the Kalahari basin is excluded, as some sources say it is endorheic. Some other sources using computational methods show a basin which includes parts of Botswana (and hence of the Kalahari).\n Paragraph 2: Upper Orange WMA, or Upper Orange Water Management Area (coded: 13), Includes the following major rivers: the Modder River, Riet River, Caledon River and Orange River, and covers the following Dams:\nQuestion: What is the source of the river that is the mouth of the Caledon River?",
+        "reference_answers": [
+          "Thaba Putsoa"
+        ],
+        "should_abstain": false,
+        "metadata_json": "{}"
+      },
+      {
+        "question": "Given the following context and question, answer the question.\nContext: Paragraph 1: Free Software Foundation founder Richard Stallman argues that, although the term intellectual property is in wide use, it should be rejected altogether, because it \"systematically distorts and confuses these issues, and its use was and is promoted by those who gain from this confusion\". He claims that the term \"operates as a catch-all to lump together disparate laws [which] originated separately, evolved differently, cover different activities, have different rules, and raise different public policy issues\" and that it creates a \"bias\" by confusing these monopolies with ownership of limited physical things, likening them to \"property rights\". Stallman advocates referring to copyrights, patents and trademarks in the singular and warns against abstracting disparate laws into a collective term.\n Paragraph 2: Robert \"Bob\" Chassell was one of the founding directors of Free Software Foundation (FSF) in 1985. While on the Board of Directors, Chassell was also the treasurer for FSF. He left the FSF to become a full-time speaker on free software topics. Bob was born on 22 August 1946, in Bennington, VT. He was diagnosed with progressive supranuclear palsy (PSP) in 2010, and died as a result on 30 June 2017.\nQuestion: Who founded what Robert J Chassell is a member of?",
+        "reference_answers": [
+          "Richard Stallman"
+        ],
+        "should_abstain": false,
+        "metadata_json": "{}"
+      },
+      {
+        "question": "Given the following context and question, answer the question.\nContext: Paragraph 1: Though Brazilians of at least partial African heritage make up a large percentage of the population, few blacks have been elected as politicians. The city of Salvador, Bahia, for instance, is 80% people of color, but voters have not elected a mayor of color. Journalists like to say that US cities with black majorities, such as Detroit and New Orleans, have not elected white mayors since after the civil rights movement, when the Voting Rights Act of 1965 protected the franchise for minorities, and blacks in the South regained the power to vote for the first time since the turn of the 20th century. New Orleans elected its first black mayor in the 1970s. New Orleans elected a white mayor after the widescale disruption and damage of Hurricane Katrina in 2005.\n Paragraph 2: The Sazerac is a local New Orleans variation of a cognac or whiskey cocktail, named for the \"Sazerac de Forge et Fils\" brand of cognac brandy that served as its original main ingredient. The drink is most traditionally a combination of\n Paragraph 3: Barton Premium is a Kentucky Blended whiskey produced in Bardstown, Kentucky by the Sazerac Company at its Barton 1792 Distillery. It is sold in glass in 16 oz pint bottles, glass 750ml bottles, glass 1-liter bottles and plastic 1.75L bottles.\nQuestion: When did the city where the headquarters of Barton Premium Blend's manufacturer is located elect its first black mayor?",
+        "reference_answers": [
+          "1970s"
+        ],
+        "should_abstain": false,
+        "metadata_json": "{}"
+      },
+      {
+        "question": "Given the following context and question, answer the question.\nContext: Paragraph 1: After the revocation of the Edict of Nantes, the Dutch Republic received the largest group of Huguenot refugees, an estimated total of 75,000 to 100,000 people. Amongst them were 200 clergy. Many came from the region of the Cévennes, for instance, the village of Fraissinet-de-Lozère. This was a huge influx as the entire population of the Dutch Republic amounted to ca. 2 million at that time. Around 1700, it is estimated that nearly 25% of the Amsterdam population was Huguenot.[citation needed] In 1705, Amsterdam and the area of West Frisia were the first areas to provide full citizens rights to Huguenot immigrants, followed by the Dutch Republic in 1715. Huguenots intermarried with Dutch from the outset.\n Paragraph 2: Stadtholder William III of Orange, who later became King of England, emerged as the strongest opponent of king Louis XIV after the French attacked the Dutch Republic in 1672. William formed the League of Augsburg as a coalition to oppose Louis and the French state. Consequently, many Huguenots considered the wealthy and Calvinist Dutch Republic, which led the opposition to Louis XIV, as the most attractive country for exile after the revocation of the Edict of Nantes. They also found many French-speaking Calvinist churches there.\nQuestion: What was the population of the European country the Huguenots felt kinship for emigration to before this emigration?",
+        "reference_answers": [
+          "2 million"
+        ],
+        "should_abstain": false,
+        "metadata_json": "{}"
+      },
+      {
+        "question": "Given the following context and question, answer the question.\nContext: Paragraph 1: Doctor De Soto is a picture book for children written and illustrated by William Steig and first published in 1982. It features a mouse-dentist who must help a fox with a toothache without being eaten.\n Paragraph 2: Shrek! is a picture book published in 1990 by American book writer and cartoonist William Steig, about a repugnant and monstrous green creature who leaves home to see the world and ends up saving a princess. The name \"Shrek\" is the romanization of the Yiddish word שרעק, corresponding to German \"\" and meaning \"fear\" or \"fright\", but also used as a common exclamation, often in the form \"Oy Shrek!\".\nQuestion: What other notable work did the person who illustrated Shrek work on?",
+        "reference_answers": [
+          "Doctor De Soto"
+        ],
+        "should_abstain": false,
+        "metadata_json": "{}"
+      },
+      {
+        "question": "Given the following context and question, answer the question.\nContext: Paragraph 1: The Adam Smith Prize are two prizes for best performance in the Part IIB Economics Tripos examinations and dissertation at the University of Cambridge, Cambridge, England. Previously the prize, established in 1891 and named after Adam Smith, was awarded triennially for best submitted essay on a subject of the writer's choice.\n Paragraph 2: The Wealth of Nations Author Adam Smith Country Scotland Language English Genre Economics, Philosophy Publisher W. Strahan and T. Cadell, London Publication date 1776\nQuestion: Who gives out the prize named after the author of The Wealth of Nations?",
+        "reference_answers": [
+          "University of Cambridge"
+        ],
+        "should_abstain": false,
+        "metadata_json": "{}"
+      },
+      {
+        "question": "Given the following context and question, answer the question.\nContext: Paragraph 1: South Central Coast (Vietnamese: Duyên hải Nam Trung Bộ) is one of the regions of Vietnam. It consists of the independent municipality of Đà Nẵng and seven other provinces. The two southern provinces Ninh Thuận and Bình Thuận are sometimes seen as part of the Southeast region.The Paracel Islands (Hoàng Sa District), and Spratly Islands (Trường Sa District), are also part of this region.\n Paragraph 2: The Zone 5 Military Museum (Bao Tang Khu 5) is a military museum located at 3 Duy Tân, Da Nang, Vietnam. It covers all Vietnamese resistance to foreign occupation from the Chinese occupation, the First Indochina War with the French, the Vietnam War and the current standoff with China over the Spratly Islands and the Paracel Islands.\n Paragraph 3: Sa Thầy is a rural district of Kon Tum Province in the Central Highlands region of Vietnam. This is a very mountainous district, with many hydro electric dam projects located along the major rivers. The district has one of the lowest population densities in Vietnam. As of 2003 the district had a population of 29,605. The district covers an area of 2,412 km². The district capital lies at Sa Thầy.\nQuestion: What is the region of the country of Sa Thầy and the territory of the Zone 5 Military Museam located?",
+        "reference_answers": [
+          "South Central Coast"
+        ],
+        "should_abstain": false,
+        "metadata_json": "{}"
+      },
+      {
+        "question": "Given the following context and question, answer the question.\nContext: Paragraph 1: Created by Ben Affleck and Sean Bailey (co-producer of \"Project Greenlight\") and co-produced with Matt Damon and Chris Moore, \"Push, Nevada\" was unique in that it offered viewers a chance to follow along and solve the mystery of Push for a prize of $1,045,000. Each episode contained clues, from web addresses in the opening credits to specific phrases uttered by characters in the show, each having its own significance to the mystery.\n Paragraph 2: Freshman Mitch Kramer (Wiley Wiggins) escapes the initial hazing with his best friend Carl Burnett (Esteban Powell), but is later cornered after a baseball game and violently paddled. Fred O'Bannion (Ben Affleck), a senior participating in the hazing tradition for a second year after failing to graduate, delights in punishing Mitch. Pink gives the injured Mitch a ride home and offers to take him cruising with friends that night. Plans for the evening are ruined when Kevin Pickford's (Shawn Andrews) parents discover his intention to host a keg party. Elsewhere, the intellectual trio of Cynthia Dunn (Marissa Ribisi), Tony Olson (Anthony Rapp), and Mike Newhouse (Adam Goldberg) decide to participate in the evening's activities. Pink and his friend David Wooderson (Matthew McConaughey), a man in his early 20s who still socializes with high school students, pick up Mitch and head for the Emporium, a pool hall frequented by teenagers.\nQuestion: Who did the creator of Push, Nevada play in Dazed and Confused?",
+        "reference_answers": [
+          "Fred O'Bannion"
+        ],
+        "should_abstain": false,
+        "metadata_json": "{}"
+      },
+      {
+        "question": "Given the following context and question, answer the question.\nContext: Paragraph 1: Pierre-Hugues Boisvenu (born February 12, 1949) is a Canadian politician and victim's rights activist, who was appointed to the Senate of Canada on January 29, 2010 on the advice of Prime Minister Stephen Harper, representing the province of Quebec under the banner of the Conservative Party of Canada.\n Paragraph 2: The 2017 Conservative Party of Canada leadership election was held on May 27, 2017. Party members chose Andrew Scheer as leader, replacing Stephen Harper, who led the Conservative Party of Canada as its leader from 2004 following the merger of the Canadian Alliance and Progressive Conservative parties. Harper led the party through five federal elections: the party increased its seat count in the House of Commons in 2004, formed two minority governments in 2006, and 2008, and then a majority government in 2011. Following the defeat of the party in the 2015 federal election on October 19, Harper tendered his resignation as party leader. In a statement, Conservative Party President Harry Walsh said he had spoken to Harper, ``and he has instructed me to reach out to the newly elected parliamentary caucus to appoint an Interim Leader and to implement the leadership selection process. ''\nQuestion: Who is the federal leader of the party that Pierre-Hugues Boisvenu is a member of?",
+        "reference_answers": [
+          "Andrew Scheer"
+        ],
+        "should_abstain": false,
+        "metadata_json": "{}"
+      },
+      {
+        "question": "Given the following context and question, answer the question.\nContext: Paragraph 1: Aaron Spelling (April 22, 1923 – June 23, 2006) was an American film and television producer. Some of his works include the TV programs Charlie's Angels (1976–81), The Love Boat (1977–86), Hart to Hart (1979–84), Dynasty (1981–89), Beverly Hills, 90210 (1990–2000), 7th Heaven (1996–2007), and Charmed (1998–2006). He also served as producer of Mod Squad (1968-1973), The Rookies (1972-1976), and Sunset Beach (1997-1999).\n Paragraph 2: The Wild Women of Chastity Gulch is a 1982 American made-for-television western romantic comedy film directed by Philip Leacock and starring Priscilla Barnes, Lee Horsley, Joan Collins, Donny Osmond, Morgan Brittany and Lisa Whelchel. Executive produced by Aaron Spelling, it premiered on ABC on October 31, 1982 and was later syndicated to cable television for rebroadcast.\n Paragraph 3: Another common measurement of personal income is the mean household income. Unlike the median household income, which divides all households in two halves, the mean income is the average income earned by American households. In the case of mean income, the income of all households is divided by the number of all households. The mean income is usually more affected by the relatively unequal distribution of income which tilts towards the top. As a result, the mean tends to be higher than the median income, with the top earning households boosting it. Overall, the mean household income in the United States, according to the US Census Bureau 2014 Annual Social and Economic Supplement, was $72,641.\nQuestion: What is the average yearly income for someone with the same nationality as the producer of The Wild Women of Chastity Gulch?",
+        "reference_answers": [
+          "$72,641"
+        ],
+        "should_abstain": false,
+        "metadata_json": "{}"
+      },
+      {
+        "question": "Given the following context and question, answer the question.\nContext: Paragraph 1: In 1989, Miranda joined the Tucson Amigos for the 1989–90 Southwest Independent Soccer League. He earned Rookie of the Year honors with the Amigos. Miranda graduated from Sunnyside High School. In 1990, Miranda entered Yavapai College where he was a member of the 1990 National Junior College Champions and 1991 National Junior College Runner-Up men’s soccer teams. He then transferred to Sangamon State for the 1992 and 1993 seasons. In 1993, Sangamon State won the NAIA national men's soccer championship. In 1996, Miranda played for the New Mexico Chiles in the USISL Select League. In 1997, he moved to the Arizona Sahuaros of the USISL D-3 Pro League. He broke his leg during the season. This led to his taking the boy’s head coaching position at Sunnyside High School. He returned to playing in 2000 with the Tucson Fireballs. In 2009, Miranda became an assistant coach of the women’s team at Pima Community College.\n Paragraph 2: The Tucson Amigos were a soccer club based in Tucson, Arizona that competed in the SISL, USISL and United Soccer Leagues. Founder of the Tucson Amigos was Dennis Archer a local business owner of the Tucson Amigos Indoor Soccer Center.\nQuestion: In what league did Jose Miranda's team compete?",
+        "reference_answers": [
+          "United Soccer League"
+        ],
+        "should_abstain": false,
+        "metadata_json": "{}"
+      },
+      {
+        "question": "Given the following context and question, answer the question.\nContext: Paragraph 1: I Love Life, Thank You is the sixth mixtape by American recording artist Mac Miller. In 2011, Miller started the \"Road 2 a Million Fans\" series, during which he released a new song for every 100,000 Twitter followers he accumulated. On October 14, 2011, he released \"I Love Life, Thank You\" upon reaching one million followers. Seven of the thirteen tracks on the mixtape had previously been released throughout the course of the series.\n Paragraph 2: Best Day Ever is the fifth mixtape by American rapper Mac Miller. This mixtape was released online March 11, 2011. Over 20,000 viewers joined Miller for a live video stream just prior to releasing the tape. The mixtape consists of 16 songs produced by nine producers (predominantly ID Labs).\nQuestion: When did the performer of I Love Life, Thank You release Best Day Ever?",
+        "reference_answers": [
+          "March 11, 2011"
+        ],
+        "should_abstain": false,
+        "metadata_json": "{}"
+      },
+      {
+        "question": "Given the following context and question, answer the question.\nContext: Paragraph 1: The largest municipality by population in Georgia is Atlanta with 420,003 residents, and the smallest municipality by population is Edge Hill with 24 residents. The largest municipality by land area is Augusta, a consolidated city - county, which spans 302.47 sq mi (783.4 km), while Edge Hill and Santa Claus are tied for the smallest at 0.18 sq mi (0.47 km) each.\n Paragraph 2: WEKL, known on-air as \"102.3 K-Love\", is a Contemporary Christian radio station in the United States, licensed by the Federal Communications Commission (FCC) to Augusta, Georgia, broadcasting on 102.3 MHz with an ERP of 1.5 kW. Its studios are located at the Augusta Corporate Center with the market’s other iHeartMedia owned sister stations in Augusta, and the transmitter is located in Augusta near Fort Gordon.\n Paragraph 3: Alpena Power Company is a public utility company that provides electricity to most of Alpena County, Michigan, as well as southeastern Presque Isle County and the village of Hillman, in Montmorency County. The headquarters are located in Alpena, Michigan. The company was founded in 1881 by George N. Fletcher.\n Paragraph 4: Sno*Drift is a rally racing event held in Montmorency County, Michigan, annually, with headquarters in Atlanta, Michigan. The event is currently the first Rally America National Rally Championship event of the season. Currently the event is organized into three distinct rallies: the national championship event covering both days of rallying, and two regional rally events each covering one of the two days. Competitors may be entered in any or all of these events simultaneously.\nQuestion: Which county shares a border with the county where the most populous city in the state where WEKL operates is located?",
+        "reference_answers": [
+          "Presque Isle County"
+        ],
+        "should_abstain": false,
+        "metadata_json": "{}"
+      },
+      {
+        "question": "Given the following context and question, answer the question.\nContext: Paragraph 1: Sir Chandrashekhara Venkata Raman (; 7 November 1888 – 21 November 1970) was an Indian physicist born in the former Madras Province in India (presently the state of Tamil Nadu), who carried out ground-breaking work in the field of light scattering, which earned him the 1930 Nobel Prize for Physics. He discovered that when light traverses a transparent material, some of the deflected light changes  wavelength and amplitude. This phenomenon, subsequently known as Raman scattering, results from the Raman effect. In 1954, the Indian government honoured him with India's highest civilian award, the Bharat Ratna.\n Paragraph 2: A.P.J. Abdul Kalam 11th President of India In office 25 July 2002 -- 25 July 2007 Prime Minister Atal Bihari Vajpayee Manmohan Singh Vice President Krishan Kant Bhairon Singh Shekhawat Preceded by K.R. Narayanan Succeeded by Pratibha Patil Personal details Avul Pakir Jainulabdeen Abdul Kalam (1931 - 10 - 15) 15 October 1931 Rameswaram, Madras Presidency, British India (now in Ramanathapuram, Tamil Nadu, India 27 July 2015 (2015 - 07 - 27) (aged 83) Shillong, Meghalaya, India Nationality Indian Alma mater St. Joseph's College, Tiruchirappalli Madras Institute of Technology Profession Aerospace scientist Professor Author Awards Bharat Ratna (1997) Hoover Medal (2009) NSS Von Braun Award (2013) Notable work (s) Wings of Fire Signature Website abdulkalam.com\nQuestion: Who was honoured with the highest award a citizen without military experience in India before becoming a president?",
+        "reference_answers": [
+          "A.P.J. Abdul Kalam"
+        ],
+        "should_abstain": false,
+        "metadata_json": "{}"
+      },
+      {
+        "question": "Given the following context and question, answer the question.\nContext: Paragraph 1: According to the Sixth China Census, the total population of the City of Nanjing reached 8.005 million in 2010. The statistics in 2011 estimated the total population to be 8.11 million. The birth rate was 8.86 percent and the death rate was 6.88 percent. The urban area had a population of 6.47 million people. The sex ratio of the city population was 107.31 males to 100 females.\n Paragraph 2: During his travels beginning in 1403, Deshin Shekpa was induced by further exhortations by the Ming court to visit Nanjing by April 10, 1407. Norbu writes that the Yongle Emperor, following the tradition of Mongol emperors and their reverence for the Sakya lamas, showed an enormous amount of deference towards Deshin Shekpa. The Yongle Emperor came out of the palace in Nanjing to greet the Karmapa and did not require him to kowtow like a tributary vassal. According to Karma Thinley, the emperor gave the Karmapa the place of honor at his left, and on a higher throne than his own. Rossabi and others describe a similar arrangement made by Kublai Khan and the Sakya Phagpa lama, writing that Kublai would \"sit on a lower platform than the Tibetan cleric\" when receiving religious instructions from him.\n Paragraph 3: The Information Office of the State Council of the PRC preserves an edict of the Zhengtong Emperor (r. 1435–1449) addressed to the Karmapa in 1445, written after the latter's agent had brought holy relics to the Ming court. Zhengtong had the following message delivered to the Great Treasure Prince of Dharma, the Karmapa:\nQuestion: In 2010, what was the population of the city where the Yongle emperor greeted the person to whom the edict was addressed?",
+        "reference_answers": [
+          "8.005 million"
+        ],
+        "should_abstain": false,
+        "metadata_json": "{}"
+      },
+      {
+        "question": "Given the following context and question, answer the question.\nContext: Paragraph 1: Vito Andolini Corleone is a fictional character in Mario Puzo's novel \"The Godfather\" and in the first two of Francis Ford Coppola's film trilogy. He is portrayed by Marlon Brando in \"The Godfather\" and then, as a young man, by Robert De Niro in \"The Godfather Part II\". He is an orphaned Sicilian immigrant who builds a Mafia empire. Upon his death, Michael, his youngest son, succeeds him as the don of the Corleone crime family.\n Paragraph 2: In 1945, at his daughter Connie's wedding, Vito Corleone hears requests in his role as the Godfather, the Don of a New York crime family. Vito's youngest son, Michael, who was a Marine during World War II, introduces his girlfriend, Kay Adams, to his family at the reception. Johnny Fontane, a famous singer and Vito's godson, seeks Vito's help in securing a movie role; Vito dispatches his consigliere, Tom Hagen, to Los Angeles to persuade studio head Jack Woltz to give Johnny the part. Woltz refuses until he wakes up in bed with the severed head of his prized stallion.\nQuestion: Who created the main character of The Godfather?",
+        "reference_answers": [
+          "Mario Puzo"
+        ],
+        "should_abstain": false,
+        "metadata_json": "{}"
+      },
+      {
+        "question": "Given the following context and question, answer the question.\nContext: Paragraph 1: Pizza Man is a 1991 comedy film starring Bill Maher and Annabelle Gurwitch; written and directed by J.F. Lawton who was credited in the film as J.D. Athens. The film received a PG-13 rating by the MPAA.\n Paragraph 2: Season Episodes Originally aired First aired Last aired 20 February 21, 2003 (2003 - 02 - 21) September 26, 2003 (2003 - 09 - 26) 23 January 16, 2004 (2004 - 01 - 16) November 5, 2004 (2004 - 11 - 05) 23 February 18, 2005 (2005 - 02 - 18) November 4, 2005 (2005 - 11 - 04) 24 February 17, 2006 (2006 - 02 - 17) November 17, 2006 (2006 - 11 - 17) 5 24 February 16, 2007 (2007 - 02 - 16) November 2, 2007 (2007 - 11 - 02) 6 27 January 11, 2008 (2008 - 01 - 11) November 14, 2008 (2008 - 11 - 14) 7 31 February 20, 2009 (2009 - 02 - 20) October 16, 2009 (2009 - 10 - 16) 8 25 February 19, 2010 (2010 - 02 - 19) November 12, 2010 (2010 - 11 - 12) 9 35 January 14, 2011 (2011 - 01 - 14) November 11, 2011 (2011 - 11 - 11) 10 35 January 13, 2012 (2012 - 01 - 13) November 16, 2012 (2012 - 11 - 16) 11 35 January 18, 2013 (2013 - 01 - 18) November 22, 2013 (2013 - 11 - 22) 12 35 January 17, 2014 (2014 - 01 - 17) November 21, 2014 (2014 - 11 - 21) 13 35 January 9, 2015 (2015 - 01 - 09) November 20, 2015 (2015 - 11 - 20) 14 38 January 15, 2016 (2016 - 01 - 15) November 11, 2016 (2016 - 11 - 11) 15 TBA January 20, 2017 (2017 - 01 - 20) TBA\nQuestion: When does the new season of the show starring the cast member of Pizza Man start?",
+        "reference_answers": [
+          "January 20, 2017"
+        ],
+        "should_abstain": false,
+        "metadata_json": "{}"
+      },
+      {
+        "question": "Given the following context and question, answer the question.\nContext: Paragraph 1: Warren Hastings (6 December 1732 – 22 August 1818), an English statesman, was the first Governor of the Presidency of Fort William (Bengal), the head of the Supreme Council of Bengal, and thereby the first \"de facto\" Governor-General of India from 1774 to 1785. In 1787, he was accused of corruption and impeached, but after a long trial, he was acquitted in 1795. He was made a Privy Counsellor in 1814.\n Paragraph 2: The impeachment of Warren Hastings was a failed attempt between 1788 and 1795 to impeach the first Governor - General of India in the Parliament of Great Britain. Hastings was accused of misconduct during his time in Calcutta particularly relating to mismanagement and personal corruption. The prosecution was led by Edmund Burke and became a wider debate about the role of the East India Company and the expanding empire in India.\nQuestion: What is the position of the person impeached in England for acts committed as governor general of India?",
+        "reference_answers": [
+          "Governor-General of India"
+        ],
+        "should_abstain": false,
+        "metadata_json": "{}"
+      },
+      {
+        "question": "Given the following context and question, answer the question.\nContext: Paragraph 1: I Can Only Imagine is a 2018 American Christian drama film directed by the Erwin Brothers and written by Alex Cramer, Jon Erwin and Brent McCorkle, based on the story behind the MercyMe song of the same name, the best - selling Christian single of all time. The film stars J. Michael Finley as Bart Millard, the lead singer who wrote the song about his relationship with his father (Dennis Quaid). Madeline Carroll, Priscilla Shirer, Cloris Leachman, and Trace Adkins also star.\n Paragraph 2: Flesh and Bone is a 1993 neo noir film drama written and directed by Steve Kloves that stars Meg Ryan, Dennis Quaid and James Caan. Gwyneth Paltrow is featured in an early role. Janet Maslin of \"The New York Times\" described Paltrow as a scene-stealer \"who is Blythe Danner's daughter and has her mother's way of making a camera fall in love with her.\"\nQuestion: The actor who plays the father in I Can Only Imagine has a wife played by who in another film?",
+        "reference_answers": [
+          "Meg Ryan"
+        ],
+        "should_abstain": false,
+        "metadata_json": "{}"
+      },
+      {
+        "question": "Given the following context and question, answer the question.\nContext: Paragraph 1: The titular character Jason Bourne does not appear in The Bourne Legacy, because actor Matt Damon chose not to return for the fourth film, due to Paul Greengrass not directing. Bourne is shown in pictures and mentioned by name several times throughout the film. Tony Gilroy, co-screenwriter of the first three films, sought to continue the story of the film series without changing its key events, and parts of The Bourne Legacy take place at the same time as the previous film, The Bourne Ultimatum (2007).\n Paragraph 2: The Bourne Betrayal is the title for the novel by Eric Van Lustbader and the fifth novel in the Jason Bourne series created by Robert Ludlum. It was published in June 2007. It is Lustbader's second Bourne novel, following \"The Bourne Legacy\" that was published in 2004. Lustbader has written a sequel to \"The Bourne Betrayal\" titled \"The Bourne Sanction\".\nQuestion: Who is the actor who plays the title character in The Bourne Betrayal?",
+        "reference_answers": [
+          "Matt Damon"
+        ],
+        "should_abstain": false,
+        "metadata_json": "{}"
+      },
+      {
+        "question": "Given the following context and question, answer the question.\nContext: Paragraph 1: Freshman Greg Oden from Ohio State University was drafted first overall by the Portland Trail Blazers, who won the draft lottery. However, he missed the 2007 -- 08 season due to microfracture surgery on his right knee during the pre-season. Another freshman, Kevin Durant, was drafted second overall from the University of Texas by the Seattle SuperSonics, and went on to win the Rookie of the Year Award for the 2007 -- 08 season. Oden and Durant became the first freshmen to be selected with the top two picks in the draft. Al Horford, the son of former NBA player Tito Horford, was drafted third by the Atlanta Hawks. Of the three top picks, Durant and Horford were able to enjoy solid All - Star careers, while Oden was beset by numerous microfracture surgeries on both knees that limited him to only 82 games from 2008 to 2010.\n Paragraph 2: Wilt Chamberlain holds the all - time records for total points scored (4,029) and points per game (50.4) in a season; both records were achieved in the 1961 -- 62 season. He also holds the rookie records for points per game when he averaged 37.6 points in the 1959 -- 60 season. Among active players, Kevin Durant has the highest point total (2,593) and the highest scoring average (32.0) in a season; both were achieved in the 2013 -- 14 season.\nQuestion: Who was picked over the player with the highest point average in NBA history in the draft?",
+        "reference_answers": [
+          "Greg Oden"
+        ],
+        "should_abstain": false,
+        "metadata_json": "{}"
+      },
+      {
+        "question": "Given the following context and question, answer the question.\nContext: Paragraph 1: The Godfather Part II is a 1974 American crime film produced and directed by Francis Ford Coppola from a screenplay co-written with Mario Puzo, starring Al Pacino and Robert De Niro. Partially based on Puzo's 1969 novel The Godfather, the film is both sequel and prequel to The Godfather, presenting parallel dramas: one picks up the 1958 story of Michael Corleone (Pacino), the new Don of the Corleone crime family, protecting the family business in the aftermath of an attempt on his life; the prequel covers the journey of his father, Vito Corleone (De Niro), from his Sicilian childhood to the founding of his family enterprise in New York City.\n Paragraph 2: Mistress is a 1992 comedy-drama film starring Robert De Niro, Danny Aiello, Eli Wallach, Robert Wuhl and Martin Landau. The picture was written by Barry Primus and J.F. Lawton and directed by Primus.\nQuestion: In The Godfather, who does the producer of Mistress play?",
+        "reference_answers": [
+          "Vito Corleone"
+        ],
+        "should_abstain": false,
+        "metadata_json": "{}"
+      },
+      {
+        "question": "Given the following context and question, answer the question.\nContext: Paragraph 1: Francis Bacon was born on 22 January 1561 at York House near the Strand in London, the son of Sir Nicholas Bacon (Lord Keeper of the Great Seal) by his second wife, Anne (Cooke) Bacon, the daughter of the noted humanist Anthony Cooke. His mother's sister was married to William Cecil, 1st Baron Burghley, making Burghley Bacon's uncle.\n Paragraph 2: Head I is a relatively small oil and tempera on hardboard painting by the Irish-born British figurative artist Francis Bacon. Completed in 1948, it is the first in a series of six heads, the remainder of which were painted the following year in preparation for a November 1949 exhibition at the Hanover Gallery in London. Like the others in the series, it shows a screaming figure alone in a room, and focuses on the open mouth. The work shows a skull which has disintegrated on itself and is largely a formless blob of flesh. The entire upper half has disappeared, leaving only the jaw, mouth and teeth and one ear still intact. It is the first of Bacon's paintings to feature gold background railings or bars; later to become a prominent feature of his 1950s work, especially in the papal portraits where they would often appear as enclosing or cages around the figures. It is not known what influences were behind the image; most likely they were multiple – press or war photography, and critic Denis Farr detects the influence of Matthias Grünewald.\nQuestion: Who is the father of the artist who painted Head I?",
+        "reference_answers": [
+          "Nicholas Bacon"
+        ],
+        "should_abstain": false,
+        "metadata_json": "{}"
+      },
+      {
+        "question": "Given the following context and question, answer the question.\nContext: Paragraph 1: The story takes place during three years (1933–35) of the Great Depression in the fictional \"tired old town\" of Maycomb, Alabama, the seat of Maycomb County. It focuses on six-year-old Jean Louise Finch (Scout), who lives with her older brother, Jem, and their widowed father, Atticus, a middle-aged lawyer. Jem and Scout befriend a boy named Dill, who visits Maycomb to stay with his aunt each summer. The three children are terrified of, and fascinated by, their neighbor, the reclusive Arthur \"Boo\" Radley. The adults of Maycomb are hesitant to talk about Boo, and, for many years few have seen him. The children feed one another's imagination with rumors about his appearance and reasons for remaining hidden, and they fantasize about how to get him out of his house. After two summers of friendship with Dill, Scout and Jem find that someone leaves them small gifts in a tree outside the Radley place. Several times the mysterious Boo makes gestures of affection to the children, but, to their disappointment, he never appears in person.\n Paragraph 2: Market strategist Phil Dow believes distinctions exist \"between the current market malaise\" and the Great Depression. He says the Dow Jones average's fall of more than 50% over a period of 17 months is similar to a 54.7% fall in the Great Depression, followed by a total drop of 89% over the following 16 months. \"It's very troubling if you have a mirror image,\" said Dow. Floyd Norris, the chief financial correspondent of The New York Times, wrote in a blog entry in March 2009 that the decline has not been a mirror image of the Great Depression, explaining that although the decline amounts were nearly the same at the time, the rates of decline had started much faster in 2007, and that the past year had only ranked eighth among the worst recorded years of percentage drops in the Dow. The past two years ranked third, however.\nQuestion: What percentage did the Dow Jones fall in the historical era where the book takes place?",
+        "reference_answers": [
+          "54.7%"
+        ],
+        "should_abstain": false,
+        "metadata_json": "{}"
+      },
+      {
+        "question": "Given the following context and question, answer the question.\nContext: Paragraph 1: The Rialto Bridge (Italian: Ponte di Rialto; Venetian: Ponte de Rialto) is the oldest of the four bridges spanning the Grand Canal in Venice, Italy. Connecting the sestieri (districts) of San Marco and San Polo, it has been rebuilt several times since its first construction as a pontoon bridge in the 12th century, and is now a significant tourist attraction in the city.\n Paragraph 2: Orlando furioso RV 819 (, Teatro San Angelo, Venice 1714) is a three-act opera surviving in manuscript in Antonio Vivaldi's personal library, only partly related to his better known Orlando furioso (RV 728) of 1727. It is a recomposition of an \"Orlando furioso\" written by Giovanni Alberto Ristori which had been very successfully staged by Vivaldi and his father's \"impresa\" in 1713, and whose music survives in a few fragments retained in the score of RV 819. Therefore, Vivaldi's first cataloguer Peter Ryom did not assign the opera a RV number, but catalogued it as RV Anh. 84. The libretto was by Grazio Braccioli.\n Paragraph 3: Nulla in mundo pax sincera, RV 630, is a sacred motet composed by Antonio Vivaldi in 1735 to an anonymous Latin text, the title of which may be translated as \"In this world there is no honest peace\" or \"There is no true peace in this world without bitterness\". Written in the key of E major and in the typical lyrical Italian Baroque style, it is scored for solo soprano, two violins, viola and basso continuo, this would normally be a cello and keyboard instrument, in Vivaldi's case often the organ. The text dwells on the imperfections of a world full of evil and sin, and praises Jesus for the salvation he offers from it. It is considered to be one of Vivaldi's most beautiful solo motets.\nQuestion: What is the name of the famous bridge located in the birthplace of the composer of Nulla in mundo pax sincera?",
+        "reference_answers": [
+          "Rialto Bridge"
+        ],
+        "should_abstain": false,
+        "metadata_json": "{}"
+      },
+      {
+        "question": "Given the following context and question, answer the question.\nContext: Paragraph 1: Niassa Reserve is a nature reserve in Cabo Delgado Province and Niassa Province, Mozambique. Covering over , it is the largest protected area in the country. The reserve is part of the Trans-Frontier Conservation Area and links to the Tanzanian Lukwika-Lumesule Game Reserve. It will connect to the Lake Niassa Reserve when it is completed.\n Paragraph 2: Lago District is a district of Niassa Province in north-western Mozambique. The principal town is Metangula. Lago District is bordered to the west by Lake Nyasa, on the south by Lichinga, on the east by Sanga District. Lago shares its northern boundary with Tanzania.\nQuestion: What province shares a border with the province where Lago District is located?",
+        "reference_answers": [
+          "Cabo Delgado Province"
+        ],
+        "should_abstain": false,
+        "metadata_json": "{}"
+      },
+      {
+        "question": "Given the following context and question, answer the question.\nContext: Paragraph 1: Forest were founder members of the Football Alliance in 1889 before joining the Football League in 1892. They have since mostly competed in the top two League tiers except five seasons in the third tier. Forest won the FA Cup in 1898 and 1959. Their most successful period was in the management reign of Brian Clough and Peter Taylor between 1976 and 1982. With Forest they won the 1977 -- 78 Football League title followed by the 1979 and 1980 European Cups. They also won two Football League Cups at Forest together. After Taylor left Clough won two more League Cups and two Full Members Cups.\n Paragraph 2: Jamie John Ward (born 12 May 1986) is an English-born Northern Irish professional footballer who plays as a striker or a winger. Born in Birmingham he began his career with his home-town club Aston Villa but failed to break into the first team and following a spell on loan at Stockport County he joined Torquay United. From there Ward had signed first for Chesterfield and then Sheffield United before joining Derby County in 2011 and later Nottingham Forest in 2015. Qualifying through his grandfather, he plays for the Northern Ireland national team.\nQuestion: When did the team that Jamie Ward is a member of win the FA Cup?",
+        "reference_answers": [
+          "1898 and 1959"
+        ],
+        "should_abstain": false,
+        "metadata_json": "{}"
+      },
+      {
+        "question": "Given the following context and question, answer the question.\nContext: Paragraph 1: Dr. Petar Trifunović (31 August 1910, Dubrovnik – 8 December 1980, Belgrade) was an International Grandmaster and five-times Yugoslav Champion of chess.\n Paragraph 2: Federal Republic of Yugoslavia, formed as a joint state by only Montenegro and Serbia after the breakup of Yugoslavia, from 1992–2002 (due to UN ban allowed to compete as Independent Olympic Participants at the 1992 Summer Olympics and was not allowed to compete at 1994 Winter Olympics)Two of the successor nations (Croatia and Slovenia) began to compete as independent teams at the Olympics starting at the 1992 Winter Games and Bosnia and Herzegovina at the 1992 Summer Games and as of the 2008 Summer Olympics, all six successor nations, former socialist republics, have participated independently. Kosovo, a former autonomous province, made its Olympic debut as an independent national team at the 2016 Summer Olympics.\n Paragraph 3: Serbian (српски / srpski, pronounced [sr̩̂pskiː]) is the standardized variety of the Serbo-Croatian language mainly used by Serbs. It is the official language of Serbia, co-official in the territory of Kosovo, and one of the three official languages of Bosnia and Herzegovina. In addition, it is a recognized minority language in Montenegro, where it is spoken by the relative majority of the population, as well as in Croatia, North Macedonia, Romania, Hungary, Slovakia, and the Czech Republic.\n Paragraph 4: Belgrade (also known as Belgrade with Boris Malagurski) is a 2013 Serbian documentary film directed by Boris Malagurski about Belgrade, the capital of Serbia. The documentary film had its world premiere on 19 October 2013 at Sava Centar in Belgrade and was aired on Radio Television Serbia on 20 October 2014.\nQuestion: When did the country that has the same co-official language as that of the movie about the city where Petar Trifunović died send an independent team to the Olympics?",
+        "reference_answers": [
+          "2016"
+        ],
+        "should_abstain": false,
+        "metadata_json": "{}"
+      },
+      {
+        "question": "Given the following context and question, answer the question.\nContext: Paragraph 1: He was born in Pasadena, California, to the actor Tyler MacDuff and the former Beverlie May Anderson (born 1930), who divorced in 1961. He is named for his father's close friend, the actor Dana Andrews. He graduated in 1974 from Blair International Baccalaureate School in Pasadena. Like his father, Dana MacDuff served in the United States Navy, having been on active duty from 1974–1977. He then worked as a page at the American Broadcasting Company. After working in features for a time, he accepted a position as a floor and stage manager with the BBC in Belfast, Northern Ireland. He returned to Hollywood in 1995 to produce films.\n Paragraph 2: He and his older brother, Brandon R. MacDuff (born 1954), a 1972 graduate of Blair High School, have formed Oakdale Pictures, a production company in Reno.\nQuestion: Where was Tyler MacDuff's child educated?",
+        "reference_answers": [
+          "Blair High School"
+        ],
+        "should_abstain": false,
+        "metadata_json": "{}"
+      },
+      {
+        "question": "Given the following context and question, answer the question.\nContext: Paragraph 1: The capital is Nashville, though Knoxville, Kingston, and Murfreesboro have all served as state capitals in the past. Memphis has the largest population of any city in the state. Nashville's 13-county metropolitan area has been the state's largest since c. 1990. Chattanooga and Knoxville, both in the eastern part of the state near the Great Smoky Mountains, each has approximately one-third of the population of Memphis or Nashville. The city of Clarksville is a fifth significant population center, some 45 miles (72 km) northwest of Nashville. Murfreesboro is the sixth-largest city in Tennessee, consisting of some 108,755 residents.\n Paragraph 2: Mark Day (born September 21, 1961 in Clarksville, Tennessee) is a former NASCAR driver, racing for a number of years in NASCAR's higher division. In addition, his family currently owns the #05 31-W Racing Chevy in the Busch Series. That team races in that series on a part-time basis and full-time in the ARCA RE/MAX Series.\nQuestion: How many miles are there between Nashville and the place in Tennessee where Mark Day was born?",
+        "reference_answers": [
+          "45"
+        ],
+        "should_abstain": false,
+        "metadata_json": "{}"
+      },
+      {
+        "question": "Given the following context and question, answer the question.\nContext: Paragraph 1: Casa Loma (Spanish for ``Hill House '') is a Gothic Revival style mansion and garden in midtown Toronto, Ontario, Canada, that is now a historic house museum and landmark. It was constructed from 1911 to 1914 as a residence for financier Sir Henry Pellatt. The architect was E. J. Lennox, who designed several other city landmarks. Casa Loma sits at an elevation of 140 metres (460 ft) above sea level.\n Paragraph 2: Sleep Is The Enemy is the third studio album by Canadian rock band Danko Jones. The album was released on February 17, 2006 in Europe and February 21 in Canada. The album was released in the US on May 23. \"She's Drugs\" was featured in the Swedish vampire film \"Frostbiten\". \"Baby Hates Me\" served as the theme song for WWE Backlash.\n Paragraph 3: Danko Jones is a Canadian rock trio from Toronto, Ontario. The band consists of Danko Jones (vocals/guitar), John 'JC' Calabrese (bass guitar) and Rich Knox (drums). The band's rock music includes elements of punk and they are known for their humorous lyrics and energetic live shows.\nQuestion: What is the name of the castle in the city where the performer of Sleep is the Enemy was formed?",
+        "reference_answers": [
+          "Casa Loma"
+        ],
+        "should_abstain": false,
+        "metadata_json": "{}"
+      },
+      {
+        "question": "Given the following context and question, answer the question.\nContext: Paragraph 1: Southwest City is a city in McDonald County, Missouri, United States. The population was 937 at the 2010 census, at which time it was a town. It is part of the Fayetteville–Springdale–Rogers, AR-MO Metropolitan Statistical Area and is located in the southwestern corner of the state of Missouri.\n Paragraph 2: Tim DuBois (born May 4, 1948 in Southwest City, Missouri) is a Nashville, Tennessee-based music executive. He attended Oklahoma State University and received a B.A. and M.A. in Accounting and in 2016 he was awarded an honorary PHD in Accounting. He then entered into the music business and has taken part in multiple aspects of the industry including songwriting, record labels, management, and production. DuBois has been recognized for numerous honors and awards for his contributions to the music industry.\nQuestion: What county was Tim Dubois born in?",
+        "reference_answers": [
+          "McDonald County"
+        ],
+        "should_abstain": false,
+        "metadata_json": "{}"
+      },
+      {
+        "question": "Given the following context and question, answer the question.\nContext: Paragraph 1: Mila Kunis voices Meg Griffin. Kunis won the role after auditions and a slight rewrite of the character, in part due to her performance on That '70s Show. MacFarlane called Kunis back after her first audition, instructing her to speak slower, and then told her to come back another time and enunciate more. Once she claimed that she had it under control, MacFarlane hired her. Kunis described her character as ``the scapegoat ''. She further explained,`` Meg gets picked on a lot. But it's funny. It's like the middle child. She is constantly in the state of being an awkward 14 - year - old, when you're kind of going through puberty and what - not. She's just in a perpetual mode of humiliation. And it's fun.''\n Paragraph 2: Meg Griffin Family Guy character First appearance 1998 Pilot Pitch of Family Guy (Early version) ``Death Has a Shadow ''(Official version) Created by Seth MacFarlane Voiced by Lacey Chabert (1999 -- 2000, 2011, 2012) Mila Kunis (1999 -- present) Tara Strong (singing voice) Information Occupation High school student Family Peter Griffin (father) Lois Griffin (mother) Chris Griffin (brother) Stewie Griffin (brother) Brian Griffin (dog) Spouse (s) Dr. Michael Milano (ex-fiancé) Nationality American\nQuestion: Who did the original voice of the character Mila Kunis plays on Family Guy?",
+        "reference_answers": [
+          "Lacey Chabert"
+        ],
+        "should_abstain": false,
+        "metadata_json": "{}"
+      },
+      {
+        "question": "Given the following context and question, answer the question.\nContext: Paragraph 1: \"Steven the Sword Fighter\" is the sixteenth episode of the first season of the American animated television series \"Steven Universe\". It is written by Joe Johnston and Jeff Liu.\n Paragraph 2: Save the Light features seven playable characters from the series, Steven, Garnet, Amethyst, Pearl, Connie, Greg and Peridot, with an eighth character to be added in a future content update; four characters can be equipped to a party at a time. The game has a ``blend of real - time and turn - based combat '', and more of a focus on exploration and puzzle - solving more than its predecessor. Players are able to explore Beach City and surrounding areas, and engage in battles with enemies. During battle, the players' actions, which include attacking and defending, will build up the star meter which allows the characters to pull off more powerful moves. A new feature allows characters to build up a relationship - based meter during battles and dialogue interactions; when filled, characters are able to fuse, such as Steven and Connie into Stevonnie.\nQuestion: Who many players can play in the game based on the show that Steven the Sword Fighter is part of?",
+        "reference_answers": [
+          "seven"
+        ],
+        "should_abstain": false,
+        "metadata_json": "{}"
+      },
+      {
+        "question": "Given the following context and question, answer the question.\nContext: Paragraph 1: Popular Spanish singer Sergio Dalma followed 2011's four-times platinum \"Via Dalma II\" with \"Cadore 33.\" Unlike Dalma's previous two albums, which consisted of Spanish-language covers of Italian songs, this marked his return to performing original material.\n Paragraph 2: Spain was represented by Sergio Dalma at the Eurovision Song Contest 1991, held in Rome, Italy. Dalma was selected internally by Radiotelevisión Española (RTVE), the Spanish broadcaster, to represent the country at the contest in Italy with the song \"Bailar pegados\".\nQuestion: Which competition did the performer of Cadore 33 participated?",
+        "reference_answers": [
+          "Eurovision Song Contest 1991"
+        ],
+        "should_abstain": false,
+        "metadata_json": "{}"
+      },
+      {
+        "question": "Given the following context and question, answer the question.\nContext: Paragraph 1: John C. Petersen (November 2, 1842 – July 10, 1887) was an American butcher and farmer from Appleton, Wisconsin who served as a member of the Wisconsin State Assembly from Outagamie County. He was elected in 1878 as a Greenbacker, and was re-elected the next year as a \"Greenback Democrat\" (even though he was opposed by a Democrat).\n Paragraph 2: Pulaski High School is a public high school in Pulaski, Wisconsin, in Brown County, Wisconsin (school district also serves parts of Shawano, Outagamie and Oconto counties), that serves students in grades 9 through 12. Its mascot is the Red Raider.\n Paragraph 3: Born in Green Bay, Wisconsin, Quinn was a realtor and served on the Green Bay Common Council, the Brown County, Wisconsin Board of Supervisors, the local Board of Education, and the Wisconsin State Assembly from 1955 until 1973. He was a Republican.\n Paragraph 4: WAPL (105.7 FM) is a classic rock formatted radio station licensed to Appleton, Wisconsin, that serves the Green Bay and Appleton-Oshkosh areas. The station is owned by Woodward Communications, and has studios on College Avenue in Appleton, with transmitting facilities located near the WGBA Tower west of unincorporated Shirley in the Town of Glenmore in southeastern Brown County.\nQuestion: What is the capital of the county that shares a border with the county where WAPL is licensed to broadcast?",
+        "reference_answers": [
+          "Green Bay"
+        ],
+        "should_abstain": false,
+        "metadata_json": "{}"
+      },
+      {
+        "question": "Given the following context and question, answer the question.\nContext: Paragraph 1: The North Pole is the northernmost point on the Earth, lying diametrically opposite the South Pole. It defines geodetic latitude 90 ° North, as well as the direction of true north. At the North Pole all directions point south; all lines of longitude converge there, so its longitude can be defined as any degree value. Along tight latitude circles, counterclockwise is east and clockwise is west. The North Pole is at the center of the Northern Hemisphere.\n Paragraph 2: On Earth, starting at the North Pole and heading south to the South Pole, the IERS Reference Meridian (as of 2016) passes through:\nQuestion: Where is the starting meridian for the longitude system on the world map?",
+        "reference_answers": [
+          "latitude 90 ° North"
+        ],
+        "should_abstain": false,
+        "metadata_json": "{}"
+      },
+      {
+        "question": "Given the following context and question, answer the question.\nContext: Paragraph 1: Bang Bon (Thai: บางบอน, pronounced [bāːŋ bɔ̄ːn]) is one of the 50 districts (khet) of Bangkok, Thailand. Its neighbours, clockwise from north, are Bang Khae, Phasi Charoen, Chom Thong, and Bang Khun Thian districts of Bangkok, Mueang Samut Sakhon District and Krathum Baen District of Samut Sakhon Province, and Nong Khaem District of Bangkok.\n Paragraph 2: The official policy of the U.S. Government is that Thailand was not an ally of the Axis, and that the United States was not at war with Thailand. The policy of the U.S. Government ever since 1945 has been to treat Thailand not as a former enemy, but rather as a country which had been forced into certain actions by Japanese blackmail, before being occupied by Japanese troops. Thailand has been treated by the United States in the same way as such other Axis-occupied countries as Belgium, Czechoslovakia, Denmark, Greece, Norway, Poland, and the Netherlands.\n Paragraph 3: He made significant career progress through the court of King Vajiravudh, but left government office to work privately as the country was going through political change which abolished absolute monarchy and decreased government employment of foreigners. However, by adopting a Thai identity and way of life, marrying a Thai woman and settling down permanently, Manfredi remained a relevant and respected figure in Thai architecture, and later became a lecturer at Chulalongkorn University. His works include various royal residences and public institutions, ranging in style from Venetian Gothic to modernist, and incorporated Thai traditional styles as well. He contributed to much of Bangkok's architectural heritage, but no complete records of his works were kept.\nQuestion: What does the US believe caused the country where Ercole Manfredi died to help Japan?",
+        "reference_answers": [
+          "blackmail"
+        ],
+        "should_abstain": false,
+        "metadata_json": "{}"
+      },
+      {
+        "question": "Given the following context and question, answer the question.\nContext: Paragraph 1: The New York Yankees are an American professional baseball team based in the New York City borough of the Bronx. The Yankees compete in Major League Baseball (MLB) as a member club of the American League (AL) East division. They are one of two major league clubs based in New York City; the other club is the National League (NL)'s New York Mets. In the season, the club began play in the AL as the Baltimore Orioles (no relation to the modern Baltimore Orioles). Frank Farrell and Bill Devery purchased the franchise that had ceased operations and moved it to New York City, renaming the club the New York Highlanders. The Highlanders were officially renamed the Yankees in .\n Paragraph 2: The 2018 Major League Baseball season began on March 29, 2018, and is scheduled to end on September 30. The Postseason will begin on October 2. The 2018 World Series is set to begin on October 23, and a potential Game 7 is scheduled on October 31.\n Paragraph 3: MVP voting takes place before the postseason, but the results are not announced until after the World Series. The BBWAA began by polling three writers in each league city in 1938, reducing that number to two per league city in 1961. The BBWAA does not offer a clear - cut definition of what ``most valuable ''means, instead leaving the judgment to the individual voters.\n Paragraph 4: In the American League, the New York Yankees have played in 40 World Series and won 27, the Philadelphia / Kansas City / Oakland Athletics have played in 14 and won 9, and the Boston Red Sox have played in 12 and won 8, including the first World Series. In the National League, the St. Louis Cardinals have appeared in 19 and won 11, the New York / San Francisco Giants have played in 20 and won 8, the Brooklyn / Los Angeles Dodgers have appeared in 19 and won 6, and the Cincinnati Reds have appeared in 9 and won 5.\nQuestion: When does regular season start in the league where a team has played the most games in the competition where they give out the MLB MVP award after?",
+        "reference_answers": [
+          "March 29, 2018"
+        ],
+        "should_abstain": false,
+        "metadata_json": "{}"
+      },
+      {
+        "question": "Given the following context and question, answer the question.\nContext: Paragraph 1: During the Second World War, Chadwick carried out research as part of the Tube Alloys project to build an atomic bomb, while his Manchester lab and environs were harassed by Luftwaffe bombing. When the Quebec Agreement merged his project with the American Manhattan Project, he became part of the British Mission, and worked at the Los Alamos Laboratory and in Washington, D.C. He surprised everyone by earning the almost-complete trust of project director Leslie R. Groves, Jr. For his efforts, Chadwick received a knighthood in the New Year Honours on 1 January 1945. In July 1945, he viewed the Trinity nuclear test. After this, he served as the British scientific advisor to the United Nations Atomic Energy Commission. Uncomfortable with the trend toward Big Science, Chadwick became the Master of Gonville and Caius College in 1948. He retired in 1959.\n Paragraph 2: All consideration of nuclear electrons ended with James Chadwick's discovery of the neutron in 1932. An atom of gold now was seen as containing 118 neutrons rather than 118 nuclear electrons, and its positive charge now was realized to come entirely from a content of 79 protons. After 1932, therefore, an element's atomic number Z was also realized to be identical to the proton number of its nuclei.\nQuestion: What did the person who discovered that all atoms of an element have the same number of protons participate in?",
+        "reference_answers": [
+          "Manhattan Project"
+        ],
+        "should_abstain": false,
+        "metadata_json": "{}"
+      },
+      {
+        "question": "Given the following context and question, answer the question.\nContext: Paragraph 1: The papal bull defining the dogma, Ineffabilis Deus, mentioned in particular the patrististic interpretation of Genesis 3:15 as referring to a woman, Mary, who would be eternally at enmity with the evil serpent and completely triumphing over him. It said the Fathers saw foreshadowings of Mary's \"wondrous abundance of divine gifts and original innocence\" \"in that ark of Noah, which was built by divine command and escaped entirely safe and sound from the common shipwreck of the whole world; in the ladder which Jacob saw reaching from the earth to heaven, by whose rungs the angels of God ascended and descended, and on whose top the Lord himself leaned; in that bush which Moses saw in the holy place burning on all sides, which was not consumed or injured in any way but grew green and blossomed beautifully; in that impregnable tower before the enemy, from which hung a thousand bucklers and all the armor of the strong; in that garden enclosed on all sides, which cannot be violated or corrupted by any deceitful plots; in that resplendent city of God, which has its foundations on the holy mountains; in that most august temple of God, which, radiant with divine splendours, is full of the glory of God; and in very many other biblical types of this kind.\"\n Paragraph 2: Law offers more ambiguity. Some writings of Plato and Aristotle, the law tables of Hammurabi of Babylon, or even the early parts of the Bible could be seen as legal literature. Roman civil law as codified in the Corpus Juris Civilis during the reign of Justinian I of the Byzantine Empire has a reputation as significant literature. The founding documents of many countries, including Constitutions and Law Codes, can count as literature; however, most legal writings rarely exhibit much literary merit, as they tend to be rather Written by Samuel Dean.\nQuestion: What specific part of the religious scripture that can be fit into a large, loose definition of legal literature does this document reference for Mary?",
+        "reference_answers": [
+          "Genesis 3:15"
+        ],
+        "should_abstain": false,
+        "metadata_json": "{}"
+      },
+      {
+        "question": "Given the following context and question, answer the question.\nContext: Paragraph 1: Private CBC affiliates are not as common as they were in the past, as many such stations have been purchased either by the CBC itself or by Canwest Global or CHUM Limited, respectively becoming E! or A-Channel (later A, now CTV Two) stations. One private CBC affiliate, CHBC-TV in Kelowna, joined E! (then known as CH) on February 27, 2006. When a private CBC affiliate reaffiliates with another network, the CBC has normally added a retransmitter of its nearest O&O station to ensure that CBC service is continued. However, due to an agreement between CHBC and CFJC-TV in Kamloops, CFJC also disaffiliated from the CBC on February 27, 2006, but no retransmitters were installed in the licence area. Former private CBC affiliates CKPG-TV Prince George and CHAT-TV Medicine Hat disaffiliated on August 31, 2008 and joined E!, but the CBC announced it will not add new retransmitters to these areas. Incidentally, CFJC, CKPG and CHAT are all owned by an independent media company, Jim Pattison Group. With the closure of E! and other changes in the media landscape, several former CBC affiliates have since joined City or Global, or closed altogether.\n Paragraph 2: During major political events in the United States, he anchored coverage of it from the Canadian Embassy in Washington. The only events he did not anchor from Washington were the State of the Union addresses and the state funeral of Reagan. He anchored coverage of both those events from the CBC Ottawa bureau, where his daily politics program is based.\nQuestion: Which affiliate left the employer of Don Newman due to an agreement with CHBC?",
+        "reference_answers": [
+          "CFJC-TV in Kamloops"
+        ],
+        "should_abstain": false,
+        "metadata_json": "{}"
+      },
+      {
+        "question": "Given the following context and question, answer the question.\nContext: Paragraph 1: Flesh and Bone is a 1993 neo noir film drama written and directed by Steve Kloves that stars Meg Ryan, Dennis Quaid and James Caan. Gwyneth Paltrow is featured in an early role. Janet Maslin of \"The New York Times\" described Paltrow as a scene-stealer \"who is Blythe Danner's daughter and has her mother's way of making a camera fall in love with her.\"\n Paragraph 2: Dennis Quaid as Ethan Montgomery (adult) KJ Apa as teenage Ethan Montgomery Bryce Gheisar as eight - year old Ethan Montgomery\nQuestion: Who is the spouse of the actor of Ethan in A Dog's Purpose?",
+        "reference_answers": [
+          "Meg Ryan"
+        ],
+        "should_abstain": false,
+        "metadata_json": "{}"
+      },
+      {
+        "question": "Given the following context and question, answer the question.\nContext: Paragraph 1: This was one of the few failures from Aaron Spelling's production company in its history, since it was picked by ABC to debut right after the Super Bowl in 1985 and was heavily promoted during the game. The promotion resulted in high ratings at first, but the series was cancelled three months into its run, after ranking 40th out of 104 programs that aired that season with an average 15.76 household rating, according to TVTango.com. The ratings decline was blamed on ABC's repeated changing of the show's timeslot before settling on Monday nights at 10:00 p.m., known as \"the graveyard slot.\"\n Paragraph 2: Aaron Spelling (April 22, 1923 – June 23, 2006) was an American film and television producer. Some of his works include the TV programs Charlie's Angels (1976–81), The Love Boat (1977–86), Hart to Hart (1979–84), Dynasty (1981–89), Beverly Hills, 90210 (1990–2000), 7th Heaven (1996–2007), and Charmed (1998–2006). He also served as producer of Mod Squad (1968-1973), The Rookies (1972-1976), and Sunset Beach (1997-1999).\n Paragraph 3: The original U.S. version aired on ABC from August 16, 1999 to June 27, 2002, and was hosted by Regis Philbin. The daily syndicated version of the show began airing on September 16, 2002, and was hosted for eleven seasons by Meredith Vieira until May 31, 2013. Later hosts included Cedric the Entertainer in the 2013 -- 14 season, Terry Crews in the following season (2014 -- 15), and Chris Harrison, who began hosting on September 14, 2015.\nQuestion: Who is the host of Who Wants to be a Millionaire in the country that MacGruder and Loud's creator is from?",
+        "reference_answers": [
+          "Chris Harrison"
+        ],
+        "should_abstain": false,
+        "metadata_json": "{}"
+      },
+      {
+        "question": "Given the following context and question, answer the question.\nContext: Paragraph 1: There are many Hokkien speakers among overseas Chinese in Southeast Asia as well as in the United States. Many ethnic Han Chinese emigrants to the region were Hoklo from southern Fujian, and brought the language to what is now Burma (Myanmar), Indonesia (the former Dutch East Indies) and present day Malaysia and Singapore (formerly Malaya and the British Straits Settlements). Many of the Hokkien dialects of this region are highly similar to Taiwanese and Amoy. Hokkien is reportedly the native language of up to 98.5% of the Chinese Filipino in the Philippines, among which is known locally as Lan-nang or Lán-lâng-oē (\"Our people’s language\"). Hokkien speakers form the largest group of Chinese in Singapore, Malaysia and Indonesia.[citation needed]\n Paragraph 2: Cathay Pacific Flight 780 was a flight from Surabaya Juanda International Airport in Indonesia to Hong Kong International Airport on 13 April 2010. There were 309 passengers and a crew of 13 on board. As Flight 780 neared Hong Kong the crew were unable to change the thrust output of the engines. The aircraft, an Airbus A330-342, landed at almost twice the speed of a normal landing, suffering minor damage. The 57 passengers who sustained injuries were hurt in the ensuing slide evacuation; one of them received serious injuries.\n Paragraph 3: BULLET::::- On 4 March 2006, Lion Air Flight 8987, a McDonnell Douglas MD-82, crashed after landing at Juanda International Airport. Reverse thrust was used during landing, although the left thrust reverser was stated to be out of service. This caused the aircraft to veer to the right and skid off the runway, coming to rest about from the approach end of the runway. There were no fatalities, but the aircraft was badly damaged and later written off.\nQuestion: what is the former name of the country where the airport that Lion Air is part is located?",
+        "reference_answers": [
+          "Dutch East Indies"
+        ],
+        "should_abstain": false,
+        "metadata_json": "{}"
+      },
+      {
+        "question": "Given the following context and question, answer the question.\nContext: Paragraph 1: Till dom ensamma is a song written by Mauro Scocco, and recorded by himself on the 1991 album Dr. Space dagbok, and released as a single the same year.\n Paragraph 2: Mauro Scocco (born 11 September 1962) is a Swedish pop artist of Italian descent. He has been described as \"one of the sharpest songwriters in Sweden\". Scocco was the singer for the pop group Ratata (1980–83) transformed into a duo with Johan Ekelund (1983–89). After Ratata, Scocco has continued as a solo artist since. In 2014, he cooperated with Plura Jonsson releasing a joint album as \"Mauro & Plura\".\nQuestion: What is the Till dom ensamma performer's birth date?",
+        "reference_answers": [
+          "11 September 1962"
+        ],
+        "should_abstain": false,
+        "metadata_json": "{}"
+      },
+      {
+        "question": "Given the following context and question, answer the question.\nContext: Paragraph 1: Woodrow Wilson Woodrow Wilson in 1919 28th President of the United States In office March 4, 1913 -- March 4, 1921 Vice President Thomas R. Marshall Preceded by William Howard Taft Succeeded by Warren G. Harding 34th Governor of New Jersey In office January 17, 1911 -- March 1, 1913 Preceded by John Franklin Fort Succeeded by James Fielder (acting) 13th President of Princeton University In office 1902 -- 1910 Preceded by Francis Patton Succeeded by John Aikman Stewart (acting) Personal details Thomas Woodrow Wilson (1856 - 12 - 28) December 28, 1856 Staunton, Virginia, U.S. February 3, 1924 (1924 - 02 - 03) (aged 67) Washington, D.C., U.S. Cause of death Stroke Resting place Washington National Cathedral Political party Democratic Spouse (s) Ellen Axson (m. 1885; d. 1914) Edith Bolling (m. 1915) Children Margaret, Jessie, and Eleanor Parents Joseph Ruggles Wilson Jessie Janet Woodrow Education Davidson College Princeton University Johns Hopkins University Profession Academic Historian Political scientist Awards Nobel Peace Prize Signature\n Paragraph 2: Jessie Woodrow Wilson Sayre (August 28, 1887 – January 15, 1933) was a daughter of US President Woodrow Wilson and Ellen Louise Axson. She was a political activist, and \"She worked vigorously for women's suffrage, social issues, and to promote her father's call for a League of Nations, and emerged as a force in the Massachusetts Democratic Party.\"\nQuestion: Who was the child of the 28th U.S. president?",
+        "reference_answers": [
+          "Jessie Woodrow Wilson"
+        ],
+        "should_abstain": false,
+        "metadata_json": "{}"
+      },
+      {
+        "question": "Given the following context and question, answer the question.\nContext: Paragraph 1: Arizona ( (listen); Navajo: Hoozdo Hahoodzo Navajo pronunciation: [xòːztò xɑ̀xòːtsò]; O'odham: Alĭ ṣonak Uto-Aztecan pronunciation: [ˡaɺi ˡʂonak]) is a state in the southwestern region of the United States. It is also part of the Western and the Mountain states. It is the sixth largest and the 14th most populous of the 50 states. Its capital and largest city is Phoenix. Arizona shares the Four Corners region with Utah, Colorado, and New Mexico; its other neighboring states are Nevada and California to the west and the Mexican states of Sonora and Baja California to the south and southwest.\n Paragraph 2: After a hiatus of eleven years, the race was revived by the Verizon IndyCar Series in 2016. It was held on Saturday night under the lights. Long considered a popular Indy car track, Phoenix has a rich history of open wheel races, including a spectacular crash involving Johnny Rutherford (1980), and the final career victory for Indy legend Mario Andretti (1993).\n Paragraph 3: The City of Yuma is a Home Rule Municipality that is the most populous city in Yuma County, Colorado, United States. The population was 3,524 at the 2010 census.\n Paragraph 4: The Yuma County Library District serves the population of Yuma County, Arizona. Today the library district consists of the nearly 80,000 square foot Main Library located in Yuma as well as branches in downtown Yuma, the Foothills, Somerton, San Luis, Wellton, Dateland, and Roll. The first Yuma Library, a Carnegie library, opened February 24, 1921 with 1,053 volumes and seating for 20 persons. Located in Sunset Park, the Yuma Carnegie Library underwent several expansions and renovations over the years, including a $4.2 million renovation completed in 2009. The Yuma Carnegie library still operates today as the Heritage Branch Library in downtown Yuma.\nQuestion: Who won the 1993 Indy Car Race in the largest city of the state where the library district and the city of Yuma share the same county?",
+        "reference_answers": [
+          "Mario Andretti"
+        ],
+        "should_abstain": false,
+        "metadata_json": "{}"
+      },
+      {
+        "question": "Given the following context and question, answer the question.\nContext: Paragraph 1: Brent Spar, or Brent E, was a North Sea oil storage and tanker loading buoy in the Brent oilfield, operated by Shell UK. With the completion of a pipeline connection to the oil terminal at Sullom Voe in Shetland, the storage facility had continued in use, but by 1991, was considered to be of no further value. Brent Spar became an issue of public concern in 1995, when the British government announced its support for Shell's application for its disposal in deep Atlantic waters at North Feni Ridge (approximately from the west coast of Scotland, at a depth of around ).\n Paragraph 2: On 27 August 2007, Royal Dutch Shell and Reitan Group, the owner of the 7-Eleven brand in Scandinavia, announced an agreement to re-brand some 269 service stations across Norway, Sweden, Finland and Denmark, subject to obtaining regulatory approvals under the different competition laws in each country. On April 2010 Shell announced that the corporation is in process of trying to find a potential buyer for all of its operations in Finland and is doing similar market research concerning Swedish operations. On October 2010 Shell's gas stations and the heavy vehicle fuel supply networks in Finland and Sweden, along with a refinery located in Gothenburg, Sweden were sold to St1, a Finnish energy company, more precisely to its major shareholding parent company Keele Oy. Shell branded gas stations will be rebranded within maximum of five years from the acquisition and the number of gas stations is likely to be reduced. Until then the stations will operate under Shell brand licence.\nQuestion: The operator of Brent field announced it was in the process of doing what in April 2010?",
+        "reference_answers": [
+          "trying to find a potential buyer for all of its operations in Finland"
+        ],
+        "should_abstain": false,
+        "metadata_json": "{}"
+      },
+      {
+        "question": "Given the following context and question, answer the question.\nContext: Paragraph 1: The Republicans regained the majority of the Senate in the 114th Congress, which started in January 2015; the Republicans had not controlled the Senate since January 2007. They had needed a net gain of at least six seats to obtain a majority. They held all of their seats, and gained nine Democratic - held seats. Republicans defeated five Democratic incumbents:\n Paragraph 2: Following the 2000 census, the Oklahoma delegation to the U.S. House of Representatives was reduced from six to five representatives, each serving one congressional district. For the 112th Congress (2011–2013), there were no changes in party strength, and the delegation included four Republicans and one Democrat. In the 112th Congress, Oklahoma's U.S. senators were Republicans Jim Inhofe and Tom Coburn, and its U.S. Representatives were John Sullivan (R-OK-1), Dan Boren (D-OK-2), Frank D. Lucas (R-OK-3), Tom Cole (R-OK-4), and James Lankford (R-OK-5).\n Paragraph 3: The Standing Rules of the Senate are the parliamentary procedures adopted by the United States Senate that govern its procedure. The Senate's power to establish rules derives from Article One, Section 5 of the United States Constitution: ``Each House may determine the rules of its proceedings... ''\nQuestion: When did the party Oklahoma's US Senators come from take control of the body determining the rules of the US House and US Senate?",
+        "reference_answers": [
+          "January 2015"
+        ],
+        "should_abstain": false,
+        "metadata_json": "{}"
+      },
+      {
+        "question": "Given the following context and question, answer the question.\nContext: Paragraph 1: South Central Coast (Vietnamese: Duyên hải Nam Trung Bộ) is one of the regions of Vietnam. It consists of the independent municipality of Đà Nẵng and seven other provinces. The two southern provinces Ninh Thuận and Bình Thuận are sometimes seen as part of the Southeast region.The Paracel Islands (Hoàng Sa District), and Spratly Islands (Trường Sa District), are also part of this region.\n Paragraph 2: An Phú is a district of An Giang Province in the Mekong Delta region of Vietnam on the border with Cambodia. An Phú juts out at the western edge of Vietnam into Cambodia. As of 2003 the district had a population of 178,613. The district covers an area of 226 km². The district capital lies at An Phú town.\n Paragraph 3: Bon \"John\" Phan (born October 10, 1974 in Da Nang, Vietnam) is a Vietnamese-American professional poker player based in Stockton, California who is a two time World Series of Poker bracelet winner and is a winner and four time final tablist of World Poker Tour Championships.\nQuestion: In what region of the country where An Phu is located is John Phan's birthplace?",
+        "reference_answers": [
+          "South Central Coast"
+        ],
+        "should_abstain": false,
+        "metadata_json": "{}"
+      },
+      {
+        "question": "Given the following context and question, answer the question.\nContext: Paragraph 1: True Grit is a 1969 American western film. It is the first film adaptation of Charles Portis' 1968 novel of the same name. The screenplay was written by Marguerite Roberts. The film was directed by Henry Hathaway and starred Kim Darby as Mattie Ross and John Wayne as U.S. Marshal Rooster Cogburn. Wayne won his only Academy Award for his performance in this film and reprised his role for the 1975 sequel Rooster Cogburn.\n Paragraph 2: Big Jim McLain is a 1952 political thriller film starring John Wayne and James Arness as HUAC investigators hunting down communists in the post-war Hawaii organized labor scene. Edward Ludwig directed.\nQuestion: Who did the producer of Big Jim McLain play in True Grit?",
+        "reference_answers": [
+          "U.S. Marshal Rooster Cogburn"
+        ],
+        "should_abstain": false,
+        "metadata_json": "{}"
+      },
+      {
+        "question": "Given the following context and question, answer the question.\nContext: Paragraph 1: The Washington Post is an American daily newspaper founded on December 6, 1877. It is the largest newspaper published in Washington, D.C., the capital city of the United States, and has a particular emphasis on national politics. Its slogan is ``Democracy Dies in Darkness. ''Daily broadsheet editions are printed for the District of Columbia, Maryland, and Virginia.\n Paragraph 2: The adage has been attributed to a number of sources. It appeared in print on page six of The Washington Post dated October 25, 1911, in the form: ``Nor would a wise man, seeing that he was in a hole, go to work and blindly dig it deeper... ''In The Bankers Magazine, it was published in 1964 as:`` Let me tell you about the law of holes: If you find yourself in a hole, stop digging.''\nQuestion: Where is the base of the newspaper saying if you find yourself in a hole stop digging?",
+        "reference_answers": [
+          "Washington, D.C."
+        ],
+        "should_abstain": false,
+        "metadata_json": "{}"
+      },
+      {
+        "question": "Given the following context and question, answer the question.\nContext: Paragraph 1: Audrey Hepburn received numerous awards and honors during her career. Hepburn won, or was nominated for, awards for her work in motion pictures, television, spoken - word recording, on stage, and humanitarian work. She was five - times nominated for an Academy Award, and was awarded the 1954 Academy Award for Best Actress for her performance in Roman Holiday and the Jean Hersholt Humanitarian Award in 1993, post-humously, for her humanitarian work. She won a record three BAFTA Awards for Best British Actress in a Leading Role, from five nominations, and received a Lifetime Achievement Award in 1992. Hepburn received 10 Golden Globe Award nominations, winning two, and was the recipient of the Cecil B. DeMille Award in 1990. She also won the 1954 Tony Award for Best Performance by a Leading Actress in a Play in Ondine, and received a Special Tony Award in 1968.\n Paragraph 2: ``Moon River ''is a song composed by Henry Mancini with lyrics by Johnny Mercer. It was originally performed by Audrey Hepburn in the 1961 movie Breakfast at Tiffany's, winning an Academy Award for Best Original Song. The song also won the 1962 Grammy Awards for Record of the Year and Song of the Year.\nQuestion: For what did the singer of Moon River in Breakfast at Tiffany's win a Tony?",
+        "reference_answers": [
+          "for Best Performance by a Leading Actress in a Play in Ondine"
+        ],
+        "should_abstain": false,
+        "metadata_json": "{}"
+      },
+      {
+        "question": "Given the following context and question, answer the question.\nContext: Paragraph 1: Freshman Greg Oden from Ohio State University was drafted first overall by the Portland Trail Blazers, who won the draft lottery. However, he missed the 2007 -- 08 season due to microfracture surgery on his right knee during the pre-season. Another freshman, Kevin Durant, was drafted second overall from the University of Texas by the Seattle SuperSonics, and went on to win the Rookie of the Year Award for the 2007 -- 08 season. Oden and Durant became the first freshmen to be selected with the top two picks in the draft. Al Horford, the son of former NBA player Tito Horford, was drafted third by the Atlanta Hawks. Of the three top picks, Durant and Horford were able to enjoy solid All - Star careers, while Oden was beset by numerous microfracture surgeries on both knees that limited him to only 82 games from 2008 to 2010.\n Paragraph 2: Wilt Chamberlain holds the all - time records for total points scored (4,029) and points per game (50.4) in a season; both records were achieved in the 1961 -- 62 season. He also holds the rookie records for points per game when he averaged 37.6 points in the 1959 -- 60 season. Among active players, Kevin Durant has the highest point total (2,593) and the highest scoring average (32.0) in a season; both were achieved in the 2013 -- 14 season.\nQuestion: Who was picked in the NBA draft before the player with the highest point average in NBA history?",
+        "reference_answers": [
+          "Greg Oden"
+        ],
+        "should_abstain": false,
+        "metadata_json": "{}"
+      },
+      {
+        "question": "Given the following context and question, answer the question.\nContext: Paragraph 1: During Jason's absence, Pelias intended to kill Aeson. However, Aeson committed suicide by drinking bull's blood. His wife killed herself as well, and Pelias murdered their infant son Promachus.\n Paragraph 2: Following Mark's eviction, the HouseGuests were splattered in the Everyone's A Wiener Head of Household competition. In this competition, HouseGuests must brace themselves with handholds and footholds inside their hot dog bun. The last HouseGuest standing will be the new Head of Household. Jason was the winner. For being the first two people to drop in the Head of Household competition, Kevin and Matt became Have - Nots for the week. On Day 66, the Tree of Temptation turned red. However, nobody accepted the temptation. On Day 66, Jason nominated Matt and Raven, with Matt as the target. On Day 67, Jason, Matt, Raven, Josh, Paul, and Kevin went on the lookout in the Hide and Go Veto Power of Veto competition. In this competition, HouseGuests had three minutes to individually hide their locked veto card in the House. Then, one at a time, HouseGuests entered the House and had one minute to attempt to find a veto card. If a HouseGuest's veto card is found, they will be eliminated, though the owner of the veto cards will not be revealed until the end of the competition. The HouseGuest who hides their veto card the best will win the Power of Veto. Jason was the winner. On Day 69, Jason decided not to use the Power of Veto. On Day 71, Matt broke the Have - Not rules and earned a penalty vote on eviction night. On Day 72, Matt was evicted by a 6 - 0 vote. He became the fourth member of the jury.\nQuestion: Who is the father of the man with the same name as the Big Brother hot dog challenge winner?",
+        "reference_answers": [
+          "Aeson"
+        ],
+        "should_abstain": false,
+        "metadata_json": "{}"
+      },
+      {
+        "question": "Given the following context and question, answer the question.\nContext: Paragraph 1: Some buyers lamented the small size of the first Japanese compacts, and both Toyota and Nissan (then known as Datsun) introduced larger cars such as the Toyota Corona Mark II, the Toyota Cressida, the Mazda 616 and Datsun 810, which added passenger space and amenities such as air conditioning, power steering, AM-FM radios, and even power windows and central locking without increasing the price of the vehicle. A decade after the 1973 oil crisis, Honda, Toyota and Nissan, affected by the 1981 voluntary export restraints, opened US assembly plants and established their luxury divisions (Acura, Lexus and Infiniti, respectively) to distinguish themselves from their mass-market brands.\n Paragraph 2: Rank Group Country Vehicles Toyota Japan 10,213,486 Volkswagen Group Germany 10,126,281 Hyundai South Korea 7,889,538 General Motors United States 7,793,066 5 Ford United States 6,429,485 6 Nissan Japan 5,556,241 7 Honda Japan 4,999,266 8 Fiat Chrysler Automobiles Italy / United States 4,681,457 9 Renault France 3,373,278 10 PSA France 3,152,787 11 Suzuki Japan 2,945,295 12 SAIC China 2,566,793 13 Daimler Germany 2,526,450 14 BMW Germany 2,359,756 15 Changan China 1,715,871\n Paragraph 3: The Acura Legend is a mid-size luxury/executive car manufactured by Honda. It was sold in the U.S., Canada, and parts of China under Honda's luxury brand, Acura, from 1985 to 1995, as both a sedan, which was classified as a full-size car, and a coupe, which was classified as a mid-size car (similar to how the Honda Accord is set up today). It was the first flagship sedan sold under the Acura nameplate, until being renamed in 1996 as the Acura 3.5RL. The 3.5RL was the North American version of the KA9 series Honda Legend.\nQuestion: When did the maker of Acura Legend, the biggest automobile company in the world, and Nissan open US assembly plants?",
+        "reference_answers": [
+          "1981"
+        ],
+        "should_abstain": false,
+        "metadata_json": "{}"
+      },
+      {
+        "question": "Given the following context and question, answer the question.\nContext: Paragraph 1: The Toronto Coach Terminal is the central bus station for inter-city services in Toronto, Ontario, Canada. It is located at 610 Bay Street, in the city's Downtown. The terminal is owned by Toronto Coach Terminal Inc., a wholly owned subsidiary of the Toronto Transit Commission (TTC). The TTC managed the station directly until July 8, 2012, when it was leased out in its entirety to bus lines Coach Canada and Greyhound Canada for $1.2 million annually. Opened in 1931 as the Gray Coach Terminal, the Art Deco style terminal was home base for Gray Coach, an interurban bus service then owned by the TTC. It replaced an earlier open air terminal, Gray Line Terminal.\n Paragraph 2: Darlings is the second solo album by Broken Social Scene co-founder Kevin Drew. It was released on March 18, 2014.\n Paragraph 3: Kevin Drew (born September 9, 1976) is a Canadian musician and songwriter who, together with Brendan Canning, founded the expansive Toronto baroque-pop collective Broken Social Scene. He was also part of the lesser-known KC Accidental, which consisted of Drew and Charles Spearin, another current member of Broken Social Scene.\nQuestion: Where do greyhound buses leave from in the city where the performer of Darlings formed?",
+        "reference_answers": [
+          "Toronto Coach Terminal"
+        ],
+        "should_abstain": false,
+        "metadata_json": "{}"
+      },
+      {
+        "question": "Given the following context and question, answer the question.\nContext: Paragraph 1: Following the disbandment of Destiny's Child in June 2005, she released her second solo album, B'Day (2006), which contained hits \"Déjà Vu\", \"Irreplaceable\", and \"Beautiful Liar\". Beyoncé also ventured into acting, with a Golden Globe-nominated performance in Dreamgirls (2006), and starring roles in The Pink Panther (2006) and Obsessed (2009). Her marriage to rapper Jay Z and portrayal of Etta James in Cadillac Records (2008) influenced her third album, I Am... Sasha Fierce (2008), which saw the birth of her alter-ego Sasha Fierce and earned a record-setting six Grammy Awards in 2010, including Song of the Year for \"Single Ladies (Put a Ring on It)\". Beyoncé took a hiatus from music in 2010 and took over management of her career; her fourth album 4 (2011) was subsequently mellower in tone, exploring 1970s funk, 1980s pop, and 1990s soul. Her critically acclaimed fifth studio album, Beyoncé (2013), was distinguished from previous releases by its experimental production and exploration of darker themes.\n Paragraph 2: In an interview with Bill Maher, Jay - Z stated that this song was actually inspired by three different relationships he had in the past, and he wrote about his different experiences all together in different verses.\nQuestion: Who was Beyonce's husband talking about in the the song Cry?",
+        "reference_answers": [
+          "three different relationships he had in the past"
+        ],
+        "should_abstain": false,
+        "metadata_json": "{}"
+      },
+      {
+        "question": "Given the following context and question, answer the question.\nContext: Paragraph 1: For most of its independent years, the country has been engrossed in rampant ethnic strife and Burma's myriad ethnic groups have been involved in one of the world's longest-running ongoing civil wars. During this time, the United Nations and several other organisations have reported consistent and systematic human rights violations in the country. In 2011, the military junta was officially dissolved following a 2010 general election, and a nominally civilian government was installed. While former military leaders still wield enormous power in the country, Burmese Military have taken steps toward relinquishing control of the government. This, along with the release of Aung San Suu Kyi and political prisoners, has improved the country's human rights record and foreign relations, and has led to the easing of trade and other economic sanctions. There is, however, continuing criticism of the government's treatment of the Muslim Rohingya minority and its poor response to the religious clashes. In the landmark 2015 election, Aung San Suu Kyi's party won a majority in both houses, ending military rule.\n Paragraph 2: Myanmar (also known as Burma) is the northwestern-most country of mainland Southeast Asia, bordering China, India, Bangladesh, Thailand and Laos. It lies along the Indian and Eurasian Plates, to the southeast of the Himalayas. To its west is the Bay of Bengal and to its south is the Andaman Sea. It is strategically located near major Indian Ocean shipping lanes.\n Paragraph 3: Of the 47 AFC member associations, a total of 44 teams entered the competition. The final tournament hosts Thailand decided to participate in qualification despite having automatically qualified for the final tournament.\n Paragraph 4: That Dam (Lao ທາດດຳ, meaning Black Stupa) is a large stupa located in Vientiane, Laos. Many Laotians believe it is inhabited by a seven-headed nāga who tried to protect them from an invasion by the Siamese army in 1827.\nQuestion: What major conflict is the country between the country that hosted the tournament and the country where That Dam is from known for?",
+        "reference_answers": [
+          "one of the world's longest-running ongoing civil wars."
+        ],
+        "should_abstain": false,
+        "metadata_json": "{}"
+      },
+      {
+        "question": "Given the following context and question, answer the question.\nContext: Paragraph 1: George Peppard as Paul Varjak (nicknamed ``Fred ''by Holly, for his resemblance to her brother) - Writer - New neighbor and kept man of`` 2E''\n Paragraph 2: Five Days from Home is a 1979 American drama film directed by and starring George Peppard, with Sherry Boucher, Savannah Smith, Neville Brand, Victor Campos, and Robert Donner.\nQuestion: Who is the spouse of the actor who plays Paul in Breakfast at Tiffany's?",
+        "reference_answers": [
+          "Sherry Boucher"
+        ],
+        "should_abstain": false,
+        "metadata_json": "{}"
+      },
+      {
+        "question": "Given the following context and question, answer the question.\nContext: Paragraph 1: Born in Kuala Lumpur, Malaysia, Chan is of Chinese descent and moved to Perth, Australia with his family when he was only 5 years old. He entered medical school at the University of Western Australia, but Chan continued to pursue the creative arts, studying ballet, contemporary dance, and jazz dance at the Western Australian Academy of Performing Arts. After graduating, he obtained his Fellowship in General Practice and worked as a General Practitioner for a few years before gaining a place in the renowned National Institute of Dramatic Art (NIDA) in Sydney (other graduates include: Mel Gibson, Cate Blanchett, Judy Davis, Baz Luhrmann and Hugo Weaving) where he obtained a Bachelor of Dramatic Arts in Acting. He is the co-founder of the Production Company \"BananaMana Films\" along with Christian Lee. Chan currently resides in Singapore.\n Paragraph 2: Pocahontas is a 1995 American animated musical romantic drama film produced by Walt Disney Feature Animation for Walt Disney Pictures, the 33rd Disney animated feature film. Directed by Mike Gabriel and Eric Goldberg, the film is inspired by the Native American woman Pocahontas, and portrays a fictionalized account of her historical encounter with Englishman John Smith and the Jamestown settlers that arrived from the Virginia Company. The voice cast stars Irene Bedard and Mel Gibson as Pocahontas and Smith, respectively, with David Ogden Stiers, Russell Means, Christian Bale, Billy Connolly, and Linda Hunt. The musical score was written by Alan Menken, with songs written by Menken and lyricist Stephen Schwartz.\nQuestion: What institute did the actor playing the voice of John Smith in Pocahontas attend?",
+        "reference_answers": [
+          "National Institute of Dramatic Art"
+        ],
+        "should_abstain": false,
+        "metadata_json": "{}"
+      },
+      {
+        "question": "Given the following context and question, answer the question.\nContext: Paragraph 1: One key measure is the real median level, meaning half of households have income above that level and half below, adjusted for inflation. According to the Census, this measure was $59,039 in 2016, a record high. This was the largest two year percentage increase on record.\n Paragraph 2: Aaron Spelling (April 22, 1923 – June 23, 2006) was an American film and television producer. Some of his works include the TV programs Charlie's Angels (1976–81), The Love Boat (1977–86), Hart to Hart (1979–84), Dynasty (1981–89), Beverly Hills, 90210 (1990–2000), 7th Heaven (1996–2007), and Charmed (1998–2006). He also served as producer of Mod Squad (1968-1973), The Rookies (1972-1976), and Sunset Beach (1997-1999).\n Paragraph 3: This was one of the few failures from Aaron Spelling's production company in its history, since it was picked by ABC to debut right after the Super Bowl in 1985 and was heavily promoted during the game. The promotion resulted in high ratings at first, but the series was cancelled three months into its run, after ranking 40th out of 104 programs that aired that season with an average 15.76 household rating, according to TVTango.com. The ratings decline was blamed on ABC's repeated changing of the show's timeslot before settling on Monday nights at 10:00 p.m., known as \"the graveyard slot.\"\nQuestion: What is the average salary of a working person of the same nationality as MacGruder and Loud's creator?",
+        "reference_answers": [
+          "$59,039"
+        ],
+        "should_abstain": false,
+        "metadata_json": "{}"
+      },
+      {
+        "question": "Given the following context and question, answer the question.\nContext: Paragraph 1: In Raleigh many tourists visit the Capital, African American Cultural Complex, Contemporary Art Museum of Raleigh, Gregg Museum of Art & Design at NCSU, Haywood Hall House & Gardens, Marbles Kids Museum, North Carolina Museum of Art, North Carolina Museum of History, North Carolina Museum of Natural Sciences, North Carolina Sports Hall of Fame, Raleigh City Museum, J. C. Raulston Arboretum, Joel Lane House, Mordecai House, Montfort Hall, and the Pope House Museum. The Carolina Hurricanes NHL hockey team is also located in the city.\n Paragraph 2: The 2017 -- 18 NHL season is the 101st season of operation (100th season of play) of the National Hockey League. With the addition of a new expansion team, the Vegas Golden Knights, 31 teams compete in an 82 - game regular season. The regular season began on October 4, 2017, and will end on April 7, 2018. The 2018 Stanley Cup playoffs will then begin a few days afterwards, with the Stanley Cup Finals held in early June.\nQuestion: When does the regular season begin for the league the Carolina Hurricanes belong to?",
+        "reference_answers": [
+          "October 4, 2017"
+        ],
+        "should_abstain": false,
+        "metadata_json": "{}"
+      },
+      {
+        "question": "Given the following context and question, answer the question.\nContext: Paragraph 1: The European Central Bank (ECB; German: Europäische Zentralbank (EZB), French: Banque centrale européenne (BCE)) is the central bank for the euro and administers monetary policy of the eurozone, which consists of 19 EU member states and is one of the largest currency areas in the world. It is one of the world's most important central banks and is one of the seven institutions of the European Union (EU) listed in the Treaty on European Union (TEU). The capital stock of the bank is owned by the central banks of all 28 EU member states. The Treaty of Amsterdam established the bank in 1998, and it is headquartered in Frankfurt, Germany. As of 2015 the President of the ECB is Mario Draghi, former governor of the Bank of Italy, former member of the World Bank, and former managing director of the Goldman Sachs international division (2002 -- 2005). The bank primarily occupied the Eurotower prior to, and during, the construction of the new headquarters.\n Paragraph 2: The primary objective of the European Central Bank, as mandated in Article 2 of the Statute of the ECB, is to maintain price stability within the Eurozone. The basic tasks, as defined in Article 3 of the Statute, are to define and implement the monetary policy for the Eurozone, to conduct foreign exchange operations, to take care of the foreign reserves of the European System of Central Banks and operation of the financial market infrastructure under the TARGET2 payments system and the technical platform (currently being developed) for settlement of securities in Europe (TARGET2 Securities). The ECB has, under Article 16 of its Statute, the exclusive right to authorise the issuance of euro banknotes. Member states can issue euro coins, but the amount must be authorised by the ECB beforehand.\nQuestion: Where is the mission for the agency that controls the monetary policy of the EU found?",
+        "reference_answers": [
+          "Article 2 of the Statute of the ECB"
+        ],
+        "should_abstain": false,
+        "metadata_json": "{}"
+      },
+      {
+        "question": "Given the following context and question, answer the question.\nContext: Paragraph 1: Marshall Islands International Airport , also known as Amata Kabua International Airport, is located in the western part of Rairok on the south side of Majuro Atoll, the capital of the Republic of the Marshall Islands. The airport was built during World War II (1943) on Anenelibw and Lokojbar islets. It replaced Majuro Airfield, a coral-surfaced airstrip at Delap Island near the eastern end of Majuro Atoll that had been originally constructed by Japanese occupation forces in 1942.\n Paragraph 2: Major religious groups in the Republic of the Marshall Islands include the United Church of Christ (formerly Congregational), with 51.5% of the population; the Assemblies of God, 24.2%; the Roman Catholic Church, 8.4%; and The Church of Jesus Christ of Latter-day Saints (Mormons), 8.3%; Also represented are Bukot Nan Jesus (also known as Assembly of God Part Two), 2.2%; Baptist, 1.0%; Seventh-day Adventists, 0.9%; Full Gospel, 0.7%; and the Baha'i Faith, 0.6%; Persons without any religious affiliation account for a very small percentage of the population. There is also a small community of Ahmadiyya Muslims based in Majuro, with the first mosque opening in the capital in September 2012.\nQuestion: When did the first mosque in the place where the Marshall Islands International Airport is located open?",
+        "reference_answers": [
+          "September 2012"
+        ],
+        "should_abstain": false,
+        "metadata_json": "{}"
+      },
+      {
+        "question": "Given the following context and question, answer the question.\nContext: Paragraph 1: Flamenco A Go-Go is the second album released by guitarist and songwriter Steve Stevens, best known for playing for Billy Idol for several years. It was recorded in his home studio, and is mostly an instrumental album with a few vocal sections.\n Paragraph 2: Warner Bros. Records Parent company Warner Music Group Founded March 19, 1958; 60 years ago (1958 - 03 - 19) Founder James Conkling Distributor (s) Self - distributed (In the US) WEA International (Outside the US) Rhino Entertainment Company (Re-issues) Genre Various Country of origin United States Location Burbank, California, U.S. Official website warnerbrosrecords.com\n Paragraph 3: Atomic Playboys is the first studio album by guitarist Steve Stevens, released in 1989 through Warner Bros. Records; a remastered edition containing two bonus tracks was reissued on August 5, 2013 through Rock Candy Records. The album reached No. 119 on the U.S. \"Billboard\" 200 chart. The cover art was done by surrealist artist H.R. Giger, who designed the Xenomorph creature in the \"Alien\" film series.\nQuestion: Who is the owner of the record label of the performer of Flamenco a Go-Go?",
+        "reference_answers": [
+          "Warner Music Group"
+        ],
+        "should_abstain": false,
+        "metadata_json": "{}"
+      },
+      {
+        "question": "Given the following context and question, answer the question.\nContext: Paragraph 1: The Trophy was stolen from a display in the shop window of W. Shillcock (a football fitter) in Newton Row, Birmingham, after the Final and never recovered despite a £10 reward. According to the Police, it was taken sometime between 21:30 on Wednesday 11 September and 7:30 the following morning, along with cash from a drawer. The cup was replaced by a copy of the original, made by Howard Vaughton, the former Aston Villa player and England international, who had opened a silversmith's business after his retirement from the game.\n Paragraph 2: Date Venue Home team Score Competition Round Attendance 5 November 1887 Wellington Road Aston Villa 4 -- 0 FA Cup 2nd Round 23 March 1901 Muntz Street Small Heath 0 -- 0 FA Cup Quarter Final 27 March 1901 Villa Park Aston Villa 1 -- 0 FA Cup Quarter Final replay 23 May 1963 St Andrew's Birmingham City 3 -- 1 League Cup Final 1st leg 31,850 27 May 1963 Villa Park Aston Villa 0 -- 0 League Cup Final 2nd leg 37,921 27 September 1988 St Andrew's Birmingham City 0 -- 2 League Cup 2nd Round 1st leg 12 October 1988 Villa Park Aston Villa 5 -- 0 League Cup 2nd Round 2nd leg 9 November 1988 Villa Park Aston Villa 6 -- 0 Full Members Cup 1st Round 8,324 21 September 1993 St Andrew's Birmingham City 0 -- 1 League Cup 2nd Round 1st leg 27,815 6 October 1993 Villa Park Aston Villa 1 -- 0 League Cup 2nd Round 2nd leg 35,856 1 December 2010 St Andrew's Birmingham City 2 -- 1 League Cup Quarter Final 27,679 22 September 2015 Villa Park Aston Villa 1 -- 0 League Cup 3rd Round 34,442\n Paragraph 3: Arthur James (January 1855 – June 1911) was an English footballer who played as an outside right for Small Heath Alliance, later to become Birmingham City, from the foundation of the club in 1875 until his career was ended by injury in 1887.\nQuestion: When was the last time the team that Arthur James was a member of beat the 1894-95 FA cup winner?",
+        "reference_answers": [
+          "1 December 2010"
+        ],
+        "should_abstain": false,
+        "metadata_json": "{}"
+      },
+      {
+        "question": "Given the following context and question, answer the question.\nContext: Paragraph 1: There are 12 universities in Switzerland, ten of which are maintained at cantonal level and usually offer a range of non-technical subjects. The first university in Switzerland was founded in 1460 in Basel (with a faculty of medicine) and has a tradition of chemical and medical research in Switzerland. The biggest university in Switzerland is the University of Zurich with nearly 25,000 students. The two institutes sponsored by the federal government are the ETHZ in Zürich (founded 1855) and the EPFL in Lausanne (founded 1969 as such, formerly an institute associated with the University of Lausanne) which both have an excellent international reputation.[note 10]\n Paragraph 2: Edith Ellen Humphrey (11 September 1875 – 25 February 1978) was a British inorganic chemist who carried out pioneering work in co-ordination chemistry at the University of Zurich under Alfred Werner. She is thought to be the first British woman to obtain a doctorate in chemistry.\nQuestion: How many students attend the university that Edith Humphrey was educated?",
+        "reference_answers": [
+          "nearly 25,000"
+        ],
+        "should_abstain": false,
+        "metadata_json": "{}"
+      },
+      {
+        "question": "Given the following context and question, answer the question.\nContext: Paragraph 1: Whiston is a large village and civil parish within the Metropolitan Borough of Knowsley in Merseyside, England. At the 2001 Census the population was recorded as 13,629, (6,560 males and 7,069 females), increasing to 14,263 at the 2011 Census.\n Paragraph 2: Born in Whiston, Merseyside, lived and brought up in Rainhill, Merseyside, McManaman began his youth career at Everton before being released in 2007 and joining Wigan Athletic. He made his first team debut in 2009, and was the man of the match as they won the FA Cup in 2013. In January 2015, he joined West Bromwich Albion for £4.75 million.\nQuestion: In which borough was Callum McManaman born?",
+        "reference_answers": [
+          "Knowsley"
+        ],
+        "should_abstain": false,
+        "metadata_json": "{}"
+      }
+    ],
+    "unanswerable": []
+  }
+}

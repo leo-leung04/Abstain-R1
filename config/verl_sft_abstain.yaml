@@ -1,0 +1,95 @@
+data:
+  # 训练 / 验证数据
+  train_batch_size: 128            # 全量微调显存占用更大，减小批次大小：4卡 × 2 per GPU × 16 gradient_accumulation = 128
+  micro_batch_size: null           # 将被废弃，使用 micro_batch_size_per_gpu
+  micro_batch_size_per_gpu: 2      # 全量微调显存占用更大，减小到 2（如果显存不足可调小到 1）
+  train_files: data/Abstain/train_verl.parquet
+  val_files: data/Abstain/val_verl.parquet
+  train_max_samples: -1            # -1 表示用全量数据
+  val_max_samples: -1
+
+  # 单轮对话设置：使用我们自己构造的列名
+  prompt_key: prompt
+  response_key: response
+  prompt_dict_keys: null
+  response_dict_keys: null
+
+  # 多轮对话相关（这里不用，多保持官方默认）
+  multiturn:
+    enable: false
+    messages_key: messages
+    tools_key: tools
+    enable_thinking_key: enable_thinking
+
+  max_length: 4096                 # 设置为 4096
+  truncation: error
+  balance_dp_token: false
+  chat_template: null
+  custom_cls:
+    path: null
+    name: null
+  use_shm: false
+  apply_chat_template_kwargs: {}
+
+model:
+  # 基座模型路径（请根据实际情况修改）
+  partial_pretrain: /scratch.global/haoti002/models/qwen25_3b_instruct
+  use_shm: false
+  # 不安装 flash_attn 时，使用普通 attention 实现，避免 ImportError
+  attn_implementation: eager
+  fsdp_config:
+    model_dtype: bf16
+    wrap_policy:
+      min_num_params: 0
+    cpu_offload: false
+    offload_params: false
+  external_lib: null
+  enable_gradient_checkpointing: true
+  trust_remote_code: false
+  # LoRA 配置（全量微调：禁用 LoRA）
+  lora_rank: 0                    # 0 表示禁用 LoRA，进行全量微调
+  lora_alpha: null
+  target_modules: null
+  use_liger: false
+  strategy: fsdp2
+
+optim:
+  # Optimizer configuration (mirrors Verl's FSDPOptimizerConfig defaults)
+  optimizer: AdamW
+  optimizer_impl: torch.optim
+  lr: 5e-5                        # 全量微调通常使用更小的学习率
+  betas: [0.9, 0.95]
+  weight_decay: 0.01
+  lr_warmup_steps_ratio: 0.1
+  clip_grad: 1.0
+  lr_scheduler: cosine
+  override_optimizer_config: null
+
+ulysses_sequence_parallel_size: 1
+use_remove_padding: false
+
+trainer:
+  default_local_dir: /scratch.global/haoti002/models/abstain_sft_qwen3b_full  # 全量微调保存路径
+  default_hdfs_dir: null
+  project_name: abstain-sft-full
+  experiment_name: abstain-sft-qwen-3b-full
+  total_epochs: 4
+  total_training_steps: null
+  logger: ["console", "wandb"]     # 启用 wandb 监控
+  seed: 1
+  save_freq: 27                     # 每 27 步保存一次
+  test_freq: 5                    # 每 5 步验证一次
+  nnodes: 1
+  n_gpus_per_node: 4               # 根据实际 GPU 数量调整
+  max_ckpt_to_keep: null
+  resume_mode: auto
+  resume_from_path: null
+  checkpoint:
+    save_contents: ["model", "optimizer", "extra"]
+    load_contents: ${trainer.checkpoint.save_contents}
+  device: cuda
+
+
+
+
+

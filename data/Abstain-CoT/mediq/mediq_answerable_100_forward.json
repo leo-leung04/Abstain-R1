@@ -1,0 +1,807 @@
+{
+  "mediq": {
+    "answerable": [
+      {
+        "question": "Context: A 22-year-old man presented with complaints of painful lesions on his penis and swelling in the left groin that started 10 days ago. He denied fever, chills, night sweats, rashes, dysuria, discharge, testicular pain, or proctitis. His female partner had been diagnosed with chlamydia one year earlier but he has not undergone evaluation. Multiple small, nontender scabbed lesions are identified in the bilateral scrotal area and on the shaft of penis. The right inguinal lymph node was tender and swollen.\nQuestion: Which of the following is the most likely diagnosis for the patient?\nChoices:\nLymphogranuloma venereum\nHerpes\nChancroid\nSyphilis\nAnswer: ",
+        "reference_answers": [
+          "Lymphogranuloma venereum"
+        ],
+        "should_abstain": false,
+        "metadata_json": "{\"MediQ_source\": \"iCRAFT-MD\", \"MediQ_iCRAFT-MD_id\": 0}"
+      },
+      {
+        "question": "Context: A 51-year-old white man presents to the clinic with a 2-year history of a painful, recurrent rash on his fingers. He initially noticed redness, irritation, and pustules around his nails that he thought were caused by an infection. However, the rash progressed to affect the nail bed, eventually destroying his nails. On examination, well-demarcated, scaly plaques with associated pustules and nail atrophy are present on the right second and third distal digits. He is otherwise healthy.\nQuestion: Which of the following is the most likely diagnosis for the patient?\nChoices:\nAcrodermatitis continua of Hallopeau\nHerpetic whitlow\nParonychia\nAcute contact dermatitis\nAnswer: ",
+        "reference_answers": [
+          "Acute contact dermatitis"
+        ],
+        "should_abstain": false,
+        "metadata_json": "{\"MediQ_source\": \"iCRAFT-MD\", \"MediQ_iCRAFT-MD_id\": 1}"
+      },
+      {
+        "question": "Context: An 8-year-old male child is brought to the clinic for the third time in 4 months presenting with red-brown papules with an overlying mica-like scale on the ventral side of his arms and legs. His medical and family histories are otherwise unremarkable. His mother states that when the macules and papules go away, the skin where the lesions were previously located is typically lighter than before.\nQuestion: Which of the following is the most likely diagnosis for the patient?\nChoices:\nVaricella\nGianotti-Crosti syndrome\nLangerhans cell histiocytosis\nPityriasis lichenoides et varioliformis acuta\nAnswer: ",
+        "reference_answers": [
+          "Pityriasis lichenoides et varioliformis acuta"
+        ],
+        "should_abstain": false,
+        "metadata_json": "{\"MediQ_source\": \"iCRAFT-MD\", \"MediQ_iCRAFT-MD_id\": 2}"
+      },
+      {
+        "question": "Context: A 24-year-old white female graduate student presents with erythematous, papulopustular patches of skin in a muzzle-like distribution surrounding the mouth, chin, and glabellar region. The lesions are tender to palpation, associated with a stinging and burning sensation, and are aggravated by exfoliating facial washes. Two-year treatment history includes a variety of topical antibiotics, azelaic acid cream, retinoid agents, benzoyl peroxide preparations, topical corticosteroids, and oral tetracycline for cyclic recurrences of outbreaks. These treatment methods were previously successful with complete resolution of each outbreak; however, at present the lesions are persisting despite treatment.\nQuestion: Which of the following is the most likely diagnosis for the patient?\nChoices:\nPerioral dermatitis\nAcne vulgaris\nAllergic contact dermatitis\nFacial demodicosis\nAnswer: ",
+        "reference_answers": [
+          "Perioral dermatitis"
+        ],
+        "should_abstain": false,
+        "metadata_json": "{\"MediQ_source\": \"iCRAFT-MD\", \"MediQ_iCRAFT-MD_id\": 3}"
+      },
+      {
+        "question": "Context: A 20-year-old woman presents to the clinic with a circular hypopigmented lesion on her right cheek. The patient stated that she used to have a mole in the same location. Over time she noticed a white area around the mole that enlarged to the current size of the lesion. After a few months she noticed the mole in the center of the lesion had disappeared. On further questioning, she denies any personal or family history of skin cancer.\nQuestion: Which of the following is the most likely diagnosis for the patient?\nChoices:\nHalo nevus\nMelanoma\nVitiligo\nDysplastic nevus\nAnswer: ",
+        "reference_answers": [
+          "Halo nevus"
+        ],
+        "should_abstain": false,
+        "metadata_json": "{\"MediQ_source\": \"iCRAFT-MD\", \"MediQ_iCRAFT-MD_id\": 4}"
+      },
+      {
+        "question": "Context: A 29-year-old woman with a history of acne presents to the clinic with 3 discrete, atrophic, blue-tinged plaques on her face. The plaques were located on her forehead and cheeks bilaterally. The patient states the lesions had been present for several months and had slowly worsened until they stabilized at their current appearance. The patient reported that the lesions occurred after she went to a physician for “acne treatment.” The patient has no other medical conditions or relevant social history.\nQuestion: Which of the following is the most likely diagnosis for the patient?\nChoices:\nLichen sclerosis\nCorticosteroid-induced atrophy\nMorphea\nPityriasis rosea\nAnswer: ",
+        "reference_answers": [
+          "Corticosteroid-induced atrophy"
+        ],
+        "should_abstain": false,
+        "metadata_json": "{\"MediQ_source\": \"iCRAFT-MD\", \"MediQ_iCRAFT-MD_id\": 5}"
+      },
+      {
+        "question": "Context: A 22-year-old woman complains of an itchy rash on her leg for 4 weeks. She is a collegiate swimmer and had a prior ringworm infection during her freshman year. She has been using over-the-counter antifungal cream for the past 3 weeks with no relief. Multiple round, erythematous, scaling lesions are present on her right leg, some of which are vesicular and weeping. Potassium hydroxide (KOH) test is negative for a dermatophytic infection.\nQuestion: Which of the following is the most likely diagnosis for the patient?\nChoices:\nTinea corporis\nMycosis fungoides\nNummular Eczema\nPsoriasis\nAnswer: ",
+        "reference_answers": [
+          "Nummular Eczema"
+        ],
+        "should_abstain": false,
+        "metadata_json": "{\"MediQ_source\": \"iCRAFT-MD\", \"MediQ_iCRAFT-MD_id\": 6}"
+      },
+      {
+        "question": "Context: A 62-year-old African American man presents to establish care and to undergo skin examination, which he reports receiving regularly since his sister was diagnosed with melanoma. Examination reveals 3-mm hyperpigmented horizontal bands across the nailbeds of all fingernails, which he reports have been present since his 20s. He denies experiencing any other nail changes or pain. He takes no medications, and he has no history of skin cancer or suspicious moles. He has no relevant medical history.\nQuestion: Which of the following is the most likely diagnosis for the patient?\nChoices:\nSubungual hematoma\nMelanonychia\nSubungual melanoma\nNummular eczema\nAnswer: ",
+        "reference_answers": [
+          "Melanonychia"
+        ],
+        "should_abstain": false,
+        "metadata_json": "{\"MediQ_source\": \"iCRAFT-MD\", \"MediQ_iCRAFT-MD_id\": 7}"
+      },
+      {
+        "question": "Context: A 60-year-old man presents to the clinic with a 1-cm long horn-like projection coming from the skin on the superior aspect of the skull just lateral to midline. The structure is yellowish-white in color and feels very firm to the touch. He states that he noticed a small, hard lesion a few months ago and that it has grown progressively larger from the time of initial presentation to now. The patient denies any pain at rest but states that he experiences pain when the lesion is struck accidentally.\nQuestion: Which of the following is the most likely diagnosis for the patient?\nChoices:\nPemphigus vegetans\nAcrodermatitis continua supperativa\nProderma gangraneosum\nCutaneous horn\nAnswer: ",
+        "reference_answers": [
+          "Cutaneous horn"
+        ],
+        "should_abstain": false,
+        "metadata_json": "{\"MediQ_source\": \"iCRAFT-MD\", \"MediQ_iCRAFT-MD_id\": 8}"
+      },
+      {
+        "question": "Context: A 43-year-old African American woman presents to the clinic with irritative lesions in the folds of her abdomen and in her genital region as well as painful ulcers in her oral mucosa. The patient reports noticing some flaccid blisters in addition to the lesions she presents with. On examination, erythematous, vegetative lesions are found. She states that the affected areas are painful but not pruritic. She has a previous history of herpes simplex virus (HSV).\nQuestion: Which of the following is the most likely diagnosis for the patient?\nChoices:\nProderma gangraneosum\nPemphigus vegetans\nBowen’s disease\nSquamous cell carcinoma\nAnswer: ",
+        "reference_answers": [
+          "Pemphigus vegetans"
+        ],
+        "should_abstain": false,
+        "metadata_json": "{\"MediQ_source\": \"iCRAFT-MD\", \"MediQ_iCRAFT-MD_id\": 9}"
+      },
+      {
+        "question": "Context: A 20-year-old male with a medical history of diabetes mellitus type 1 presents with ecchymosis and bullous lesions on his back, posterior legs, and buttocks. He was playing football when he ran into another player and became unconscious. He was immobile in the hospital for 3 days before he regained consciousness. He has about 7 tense blisters with areas of surrounding erythema on the back, buttocks, and posterior thighs.\nQuestion: Which of the following is the most likely diagnosis for the patient?\nChoices:\nBullosis diabeticorum\nSubepidermal bullae\nBullous leukocytoclastic vasculitis\nPressure bullae (coma bullae)\nAnswer: ",
+        "reference_answers": [
+          "Pressure bullae (coma bullae)"
+        ],
+        "should_abstain": false,
+        "metadata_json": "{\"MediQ_source\": \"iCRAFT-MD\", \"MediQ_iCRAFT-MD_id\": 10}"
+      },
+      {
+        "question": "Context: A 6-year-old Caucasian boy is brought to the clinic by his parents for dry, scaly skin that has persisted for the past 2 years despite the use of commercial moisturizers. His scaly skin is especially notable over his lower extremities, back, and elbows. The patient denies any pain over the affected areas and reports only a mild itch that is soothed with cold water or lotions. The parents report that he had a similar condition as an infant throughout his entire body and that he has siblings who also have persistently dry skin. His parents have tried exfoliating the scales with moderate success, but the scales recur shortly thereafter.\nQuestion: Which of the following is the most likely diagnosis for the patient?\nChoices:\nX-linked ichthyosis\nIchthyosis vulgaris\nLamellar ichthyosis\nEpidermolytic hyperkeratosis\nAnswer: ",
+        "reference_answers": [
+          "Ichthyosis vulgaris"
+        ],
+        "should_abstain": false,
+        "metadata_json": "{\"MediQ_source\": \"iCRAFT-MD\", \"MediQ_iCRAFT-MD_id\": 11}"
+      },
+      {
+        "question": "Context: A 7-year-old healthy boy is brought to the dermatology clinic by his parents after having had a 3-week history of a rash. The patient’s rash was slightly pruritic, and it involved predominantly the trunk, starting as one larger pink patch with fine scale and subsequently spreading with smaller similar macules and patches. The boy’s palms and soles were spared of the rash.\nQuestion: Which of the following is the most likely diagnosis for the patient?\nChoices:\nPityriasis rosea\nSecondary syphilis\nGuttate psoriasis\nSmall plaque parapsoriasis\nAnswer: ",
+        "reference_answers": [
+          "Pityriasis rosea"
+        ],
+        "should_abstain": false,
+        "metadata_json": "{\"MediQ_source\": \"iCRAFT-MD\", \"MediQ_iCRAFT-MD_id\": 12}"
+      },
+      {
+        "question": "Context: A 24-year-old Caucasian woman presented with intermittent, inflammatory papulopustules and nodules on the face, neck, chest, and back. The lesions would appear 1 week premenstrually and resolve 1 week postmenstrually with normal menstrual cycles. She has a history of adolescent acne that is only responsive to isotretinoin 6 years ago. Examination revealed scarring and postinflammatory hyperpigmentation diffusely on her face.\nQuestion: Which of the following is the most likely diagnosis for the patient?\nChoices:\nRosacea\nAcne vulgaris\nAcanthosis nigricans\nAlopecia\nAnswer: ",
+        "reference_answers": [
+          "Acne vulgaris"
+        ],
+        "should_abstain": false,
+        "metadata_json": "{\"MediQ_source\": \"iCRAFT-MD\", \"MediQ_iCRAFT-MD_id\": 13}"
+      },
+      {
+        "question": "Context: A 15-month-old boy presents with a history of skin blistering since birth, primarily on his hands, feet, and the perioral face. Blisters and erosions also involve the trunk, some in an annular configuration. There is no family history of neonatal blistering or skin fragility. Over time, the patient has had a decreased number of new vesicles and bullae associated with trauma and friction but has developed thicker skin on the soles of the feet and dystrophic nails.\nQuestion: Which of the following is the most likely diagnosis for the patient?\nChoices:\nSevere recessive dystrophic EB\nJunctional EB\nSweet syndrome\nEBS-Dowling Meara\nAnswer: ",
+        "reference_answers": [
+          "EBS-Dowling Meara"
+        ],
+        "should_abstain": false,
+        "metadata_json": "{\"MediQ_source\": \"iCRAFT-MD\", \"MediQ_iCRAFT-MD_id\": 14}"
+      },
+      {
+        "question": "Context: A 71-year-old Caucasian man with myelodysplastic syndrome and on chemotherapy with azacitidine presented to the hospital with 2 days of high fever and 4 days of worsening skin lesions. The lesions appeared on the elbows as “blood blisters,” which grew larger and more painful. He denied any other new medications. He was placed on broad spectrum antibiotics by infectious disease physicians out of concern for ecthyma gangrenosum, and dermatology was consulted. On examination, violaceous, edematous plaques with a central pseudovesicle were seen on the bilateral elbows. Punch biopsies were performed for tissue culture and histology.\nQuestion: Which of the following is the most likely diagnosis for the patient?\nChoices:\nBacterial sepsis\nSweet syndrome\nCellulitis\nErysipelas\nAnswer: ",
+        "reference_answers": [
+          "Sweet syndrome"
+        ],
+        "should_abstain": false,
+        "metadata_json": "{\"MediQ_source\": \"iCRAFT-MD\", \"MediQ_iCRAFT-MD_id\": 15}"
+      },
+      {
+        "question": "Context: A 37-year-old man without a significant past medical history presents to the dermatology clinic with an itchy rash on his right hand that he has had for about 4 months. He had tried numerous over-the-counter hand creams and hydrocortisone cream with no improvement. Additional questioning revealed a 1-year-history of dry, itchy feet. As a construction worker, he wears occlusive, steel-toed work boots and often wears gloves. He is also right-handed. Examination of his hands reveals a normal left hand and a scaly right palm. Diffuse, fine, dry white scale was present on the plantar aspect of both feet.\nQuestion: Which of the following is the most likely diagnosis for the patient?\nChoices:\nKeratolysis exfoliativa\nDyshidrotic eczema\nPalmar plantar pustulosis\nTinea\nAnswer: ",
+        "reference_answers": [
+          "Tinea"
+        ],
+        "should_abstain": false,
+        "metadata_json": "{\"MediQ_source\": \"iCRAFT-MD\", \"MediQ_iCRAFT-MD_id\": 16}"
+      },
+      {
+        "question": "Context: The patient is a 46-year-old woman who presents at your primary care office for an examination with a single lesion that appears on her left arm. During the examination, it is revealed that the patient has a large sclerotic, indurated, hyperpigmented, anhidrotic, and hairless plaque on the right dorsal forearm. The patient states that these lesions had previously been slightly pink for several months before they had turned brown in color and had become “hard.” The patient has type 2 diabetes, but she has no other medical problems. In addition, she has no relevant social or family history.\nQuestion: Which of the following is the most likely diagnosis for the patient?\nChoices:\nScleroderma (systemic sclerosis)\nMorphea\nLichen sclerosus\nLipodermatosclerosis\nAnswer: ",
+        "reference_answers": [
+          "Morphea"
+        ],
+        "should_abstain": false,
+        "metadata_json": "{\"MediQ_source\": \"iCRAFT-MD\", \"MediQ_iCRAFT-MD_id\": 17}"
+      },
+      {
+        "question": "Context: A 38-year-old African American woman was referred to dermatology because of spots on her torso and arms. The lesions were asymptomatic, but their development, cause, and cosmesis were of concern. No benefit was seen with the use of OTC remedies such as hydroxycortisone 1% cream or vitamin E oil. Her medical history was significant for systemic lupus erythematosus, well controlled on hydroxychloroquine. Physical examination revealed numerous, well-circumscribed, 0.5- to 2-cm, hypopigmented, round-to-oval macules of wrinkled skin on her anterior chest wall, back, abdomen, and bilateral upper arms. Invagination of the lesions was noted with palpation. A punch biopsy was performed.\nQuestion: Which of the following is the most likely diagnosis for the patient?\nChoices:\nCutis laxa\nMid-dermal elastolysis\nPost-inflammatory elastolysis\nAnetoderma associated with SLE\nAnswer: ",
+        "reference_answers": [
+          "Anetoderma associated with SLE"
+        ],
+        "should_abstain": false,
+        "metadata_json": "{\"MediQ_source\": \"iCRAFT-MD\", \"MediQ_iCRAFT-MD_id\": 18}"
+      },
+      {
+        "question": "Context: The patient is a 21-year-old male who presents for continued acne therapy. He has had severe acne on his face, chest, and back for years. He is happy with his current acne regimen of topical tretinoin, topical clindamycin, and oral minocycline. He has been on the regimen for years. On examination, you notice significant blue-black discoloration confined to sites of previous acne scars. The patient has no other medical problems and no relevant social or family history.\nQuestion: Which of the following is the most likely diagnosis for the patient?\nChoices:\nType I minocycline hyperpigmentation\nType II minocycline hyperpigmentation\nImmunobullous disease\nType III minocycline hyperpigmentation\nAnswer: ",
+        "reference_answers": [
+          "Type I minocycline hyperpigmentation"
+        ],
+        "should_abstain": false,
+        "metadata_json": "{\"MediQ_source\": \"iCRAFT-MD\", \"MediQ_iCRAFT-MD_id\": 19}"
+      },
+      {
+        "question": "Context: A 53-year-old woman presents with a rash on her left lower extremity that has been present for several weeks. The patient is a native of Brazil and immigrated to the United States in the past month. She states that the rash is painless and does not itch. On examination, the patient has multiple, raised, hyperpigmented papules on the left lower extremity. There is a large, atrophic, hypopigmented patch on her lower shin, at the site of a previous large ulcer. The superior lesion is the newest, and is beginning to ulcerate. She has no other medical problems.\nQuestion: Which of the following is the most likely diagnosis for the patient?\nChoices:\nMyiasis\nPyoderma\nForeign body granuloma\nCutaneous leishmaniasis\nAnswer: ",
+        "reference_answers": [
+          "Cutaneous leishmaniasis"
+        ],
+        "should_abstain": false,
+        "metadata_json": "{\"MediQ_source\": \"iCRAFT-MD\", \"MediQ_iCRAFT-MD_id\": 20}"
+      },
+      {
+        "question": "Context: A 6-month-old infant presents with 2 weeks duration of erythematous papules on the soles of both feet and in the toe web spaces. On examination, a single burrow is visible on the left sole. Multiple family members also complain of a pruritic rash that has been bothering them for several months. The family members have tried multiple over-the-counter creams and remedies without success. The patient has no other medical problems or relevant family history.\nQuestion: Which of the following is the most likely diagnosis for the patient?\nChoices:\nEczema\nScabies\nAllergic contact dermatitis\nLocalized pruritus\nAnswer: ",
+        "reference_answers": [
+          "Scabies"
+        ],
+        "should_abstain": false,
+        "metadata_json": "{\"MediQ_source\": \"iCRAFT-MD\", \"MediQ_iCRAFT-MD_id\": 21}"
+      },
+      {
+        "question": "Context: A 42-year-old man presents with a four-day history of experiencing headache, malaise, and stabbing right-sided headache. Two days after his initial symptoms appeared, he developed a rash over the area of pain. He reports that he went hiking through the Texas hill country prior to becoming ill. The patient is otherwise in good health and has an unremarkable medical history. Physical examination reveals unilateral erythematous, thin, raised plaques over the right forehead. In addition, he has no relevant social or family history.\nQuestion: Which of the following is the most likely diagnosis for the patient?\nChoices:\nZosteriform herpes simplex\nContact dermatitis\nHerpes zoster\nScabies\nAnswer: ",
+        "reference_answers": [
+          "Herpes zoster"
+        ],
+        "should_abstain": false,
+        "metadata_json": "{\"MediQ_source\": \"iCRAFT-MD\", \"MediQ_iCRAFT-MD_id\": 22}"
+      },
+      {
+        "question": "Context: The patient is a 12-year-old Hispanic girl who presents with a 6-month history of nail dystrophy involving all of her fingernails. On examination, all 10 of her fingernails exhibit longitudinal ridging, pitting, fragility, thinning, and distal notching. The patient’s mother is very concerned about the cosmesis of her daughter’s nails. The patient has no systemic symptoms. On review of systems, the patient’s mother noted that her daughter has started to develop circular patches of hair loss that appear to resolve on their own. The patient has no relevant social or family history and does not take any medications.\nQuestion: Which of the following is the most likely diagnosis for the patient?\nChoices:\nLichen planus\nTrachyonychia\nPsoriasis\nBrittle nails\nAnswer: ",
+        "reference_answers": [
+          "Trachyonychia"
+        ],
+        "should_abstain": false,
+        "metadata_json": "{\"MediQ_source\": \"iCRAFT-MD\", \"MediQ_iCRAFT-MD_id\": 23}"
+      },
+      {
+        "question": "Context: A 1-year-old boy presents with a single, L-shaped, yellow-orange hairless patch over the left preauricular skin. The patient’s mother notes that he has never grown hair in that location. The mother is concerned because the area used to be smooth, but seems to be changing. The patient has a history of prematurity and low birthweight but is otherwise healthy. The patient has no relevant social or family history.\nQuestion: Which of the following is the most likely diagnosis for the patient?\nChoices:\nJuvenile xanthogranuloma\nEpidermal nevus\nSyringocystadenoma papilliferum.\nNevus sebaceous\nAnswer: ",
+        "reference_answers": [
+          "Nevus sebaceous"
+        ],
+        "should_abstain": false,
+        "metadata_json": "{\"MediQ_source\": \"iCRAFT-MD\", \"MediQ_iCRAFT-MD_id\": 24}"
+      },
+      {
+        "question": "Context: An 8-year-old African-American boy presents with a 3-day history of fever, pain, and a rash on his trunk. On examination, the patient has several fragile, bullous lesions on his trunk, many of which have eroded, exposing erythematous, annular lesions. The patient is febrile and shaking in the office, and he appears to be in pain. He has no other relevant social or family history and does not take any medications. His mother is very concerned about her son.\nQuestion: Which of the following is the most likely diagnosis for the patient?\nChoices:\nBullous erythema multiforme\nStevens-Johnson syndrome\nBullous impetigo\nAutoimmune bullous dermatoses\nAnswer: ",
+        "reference_answers": [
+          "Bullous impetigo"
+        ],
+        "should_abstain": false,
+        "metadata_json": "{\"MediQ_source\": \"iCRAFT-MD\", \"MediQ_iCRAFT-MD_id\": 25}"
+      },
+      {
+        "question": "Context: A 13-year-old boy presents to the dermatology clinic concerned about the development of red, itchy, and sometimes painful bumps on his fingers. He first noted seeing the lesions 2 months prior, in early December. Although the initial lesions have since resolved, new lesions appeared after a skiing trip the previous weekend. The patient is otherwise healthy, with no significant past medical history, and he does not take any medications. Physical examination reveals erythematous, tender papules on the lateral and dorsal aspects of the distal fingers.\nQuestion: Which of the following is the most likely diagnosis for the patient?\nChoices:\nRaynaud disease\nCryoglobulinemia,\nPerniosis\nChronic myelomonocytic leukemia\nAnswer: ",
+        "reference_answers": [
+          "Perniosis"
+        ],
+        "should_abstain": false,
+        "metadata_json": "{\"MediQ_source\": \"iCRAFT-MD\", \"MediQ_iCRAFT-MD_id\": 26}"
+      },
+      {
+        "question": "Context: A 52-year-old Hispanic woman presents with a 3-year history of a very pruritic rash over her shins bilaterally. On examination, both shins are covered in hyperpigmented papules that have coalesced to form thin, rippled plaques. The patient is very concerned about the appearance of her legs and the intense pruritus in the areas of the rash. The patient has no other medical problems and has no systemic symptoms. She has no relevant social or family history and does not take any medications.\nQuestion: Which of the following is the most likely diagnosis for the patient?\nChoices:\nPrurigo nodularis\nLichen amyloidosis\nPretibial myxedema\nHypertrophic lichen planus\nAnswer: ",
+        "reference_answers": [
+          "Lichen amyloidosis"
+        ],
+        "should_abstain": false,
+        "metadata_json": "{\"MediQ_source\": \"iCRAFT-MD\", \"MediQ_iCRAFT-MD_id\": 27}"
+      },
+      {
+        "question": "Context: The patient is a 13-year-old adolescent girl who presents with a 1-month history of a dark lesion on her finger. She states that the lesion does not bother her, but she came to the clinician because her mother was very concerned about the enlarging area of hyperpigmentation. The patient has no past medical history, no relevant family or social history, and is otherwise in good health. On examination, the rash appears to be a 1 x 1 cm circular patch of hyperpigmentation with overlying scale on the middle finger. During the past month, the rash has grown in size but remains asymptomatic.\nQuestion: Which of the following is the most likely diagnosis for the patient?\nChoices:\nAcral nevi\nLentigines\nAcral melanoma\nTinea nigra\nAnswer: ",
+        "reference_answers": [
+          "Tinea nigra"
+        ],
+        "should_abstain": false,
+        "metadata_json": "{\"MediQ_source\": \"iCRAFT-MD\", \"MediQ_iCRAFT-MD_id\": 28}"
+      },
+      {
+        "question": "Context: A 72-year-old man presents to the clinic with an intensely itchy rash on his abdomen and chest that appeared 2 months prior. He denies starting any new medications prior to the onset of the eruption and any systemic symptoms. Although he traveled and stayed in hotels recently, he reports that his wife does not exhibit any similar symptoms. Physical examination reveals numerous discrete papules, crusted papules, and papulovesicles on the chest, abdomen, and mid-back. His upper and lower extremities, face, and groin are unaffected.\nQuestion: Which of the following is the most likely diagnosis for the patient?\nChoices:\nGrover disease\nScabies\nBullous pemphigoid\nPemphigus vulgaris\nAnswer: ",
+        "reference_answers": [
+          "Grover disease"
+        ],
+        "should_abstain": false,
+        "metadata_json": "{\"MediQ_source\": \"iCRAFT-MD\", \"MediQ_iCRAFT-MD_id\": 29}"
+      },
+      {
+        "question": "Context: The patient is a 38-year-old Hispanic woman who presents with a 1-year history of a very pruritic rash over her interscapular area. On examination, she has a circular area of slightly hyperpigmented macules in the interscapular region. The patient complains of pruritus but no pain in the area of the rash. The patient has no other medical problems and has no systemic symptoms. She has no relevant social or family history and does not take any medications.\nQuestion: Which of the following is the most likely diagnosis for the patient?\nChoices:\nMacular amyloidosis\nLichen amyloidosis\nPrurigo nodularis\nParesthetica\nAnswer: ",
+        "reference_answers": [
+          "Macular amyloidosis"
+        ],
+        "should_abstain": false,
+        "metadata_json": "{\"MediQ_source\": \"iCRAFT-MD\", \"MediQ_iCRAFT-MD_id\": 30}"
+      },
+      {
+        "question": "Context: The patient is a 19-year-old woman who presents with several years of a worsening rash. The rash appears as erythematous, hyperkeratotic thin plaques in a seborrheic distribution. The patient states that the rash is very irritating and sometimes pruritic. The patient’s main complaint is that the rash exudes a malodor. The patient states that her father has a similar rash that he chooses not to treat.\nQuestion: Which of the following is the most likely diagnosis for the patient?\nChoices:\nHailey-Hailey disease\nGrover disease\nDarier disease\nEpidermodysplasia verruciformis\nAnswer: ",
+        "reference_answers": [
+          "Darier disease"
+        ],
+        "should_abstain": false,
+        "metadata_json": "{\"MediQ_source\": \"iCRAFT-MD\", \"MediQ_iCRAFT-MD_id\": 31}"
+      },
+      {
+        "question": "Context: A 35-year-old woman is referred for evaluation and management of a rash involving both axillae. She reports recurring episodes of the same rash beginning in her early 20s. Lesions develop and involute spontaneously. Areas affected included the axillae, neck, and groin. Historically, outbreaks are more common and worse during the summer, and after vigorous exercise. Both her father and brother have the same problem; her brother saw a specialist, but forgot what he was told. Otherwise, she is healthy and taking no medications. Examination reveals moist, red, crusted, and malodorous plaques with fissures in both axillae.\nQuestion: Which of the following is the most likely diagnosis for the patient?\nChoices:\nIntertrigo\nDarier disease\nPemphigus vegetans\nHailey-Hailey disease\nAnswer: ",
+        "reference_answers": [
+          "Hailey-Hailey disease"
+        ],
+        "should_abstain": false,
+        "metadata_json": "{\"MediQ_source\": \"iCRAFT-MD\", \"MediQ_iCRAFT-MD_id\": 32}"
+      },
+      {
+        "question": "Context: On day-of-life 2, a 3-day-old boy who was born with no visible skin problems begins to develop erosions and bullae over both the palmar and plantar surfaces. These bullae are localized to areas of friction or trauma (eg, where electrocardiogram leads were placed). The mother’s pregnancy was normal, and the infant had been born without complications. Aside from the development of bullae, the infant has no evidence of any other medical problems. The infant’s parents are healthy and have no medical problems. No one in the infant’s family has had similar dermatologic findings.\nQuestion: Which of the following is the most likely diagnosis for the patient?\nChoices:\nStaphylococcal infection\nHerpes\nEpidermolysis bullosa\nBullous impetigo\nAnswer: ",
+        "reference_answers": [
+          "Epidermolysis bullosa"
+        ],
+        "should_abstain": false,
+        "metadata_json": "{\"MediQ_source\": \"iCRAFT-MD\", \"MediQ_iCRAFT-MD_id\": 33}"
+      },
+      {
+        "question": "Context: A 44-year-old woman presents for her annual full skin examination. She has a specific concern regarding a lesion on her left lower leg. She recalls having a mosquito bite in that area a few years earlier, but it never went away. The lesion is bothersome only when she shaves her legs and nicks it; otherwise, there is no associated pain or tenderness. Physical examination reveals a firm, flat, pink and brown nodule located on the left anterior proximal shin. The lesion dimples inward when pressure is applied.\nQuestion: Which of the following is the most likely diagnosis for the patient?\nChoices:\nDysplastic nevi\nBasal cell carcinoma\nDermatofibroma\nKeloids\nAnswer: ",
+        "reference_answers": [
+          "Dermatofibroma"
+        ],
+        "should_abstain": false,
+        "metadata_json": "{\"MediQ_source\": \"iCRAFT-MD\", \"MediQ_iCRAFT-MD_id\": 34}"
+      },
+      {
+        "question": "Context: A 79-year-old white man with an extensive history of nonmelanoma skin cancer presents for a routine skin examination. During his visit, he asks to have a groin rash checked. For 1 to 2 years, he has been using over-the-counter and prescription antifungal and antibiotic creams for a presumed “jock itch.” Recently, he has developed more discomfort and reports episodic, profuse bleeding from the area. Examination reveals a large erythematous, eroded plaque on the posterior right scrotum extending anteriorly to the right upper thigh. A nodule is present within the plaque. The left scrotum is minimally involved, and there is no adenopathy.\nQuestion: Which of the following is the most likely diagnosis for the patient?\nChoices:\nSquamous cell carcinoma in situ\nExtramammary Paget disease\nLangerhans cell histiocytosis\nAmelanotic melanoma\nAnswer: ",
+        "reference_answers": [
+          "Extramammary Paget disease"
+        ],
+        "should_abstain": false,
+        "metadata_json": "{\"MediQ_source\": \"iCRAFT-MD\", \"MediQ_iCRAFT-MD_id\": 35}"
+      },
+      {
+        "question": "Context: A 61-year-old woman presents concerned about a white discoloration on her left breast that she first noticed 6 months earlier. It itches at times, and she is worried it might be cancerous. She showed it to her gynecologist at her annual visit, and he referred her to the dermatology clinic. Physical examination of the left breast reveals a 10-cm white, smooth, porcelain-like plaque. There is no associated erythema and no noticeable scale.\nQuestion: Which of the following is the most likely diagnosis for the patient?\nChoices:\nLichen sclerosus et atrophicus\nLichen nitidus\nTinea versicolor\nVitiligo\nAnswer: ",
+        "reference_answers": [
+          "Lichen sclerosus et atrophicus"
+        ],
+        "should_abstain": false,
+        "metadata_json": "{\"MediQ_source\": \"iCRAFT-MD\", \"MediQ_iCRAFT-MD_id\": 36}"
+      },
+      {
+        "question": "Context: A 56-year-old man presents with diffuse pruritic papules involving the upper body, with nose and forehead thickening. Over the past 2 years, he has been evaluated by multiple specialists for dysphagia, reflux, chronic kidney disease, hypertension, and dyspnea on exertion. Examination results are significant for generalized firm, fleshy, dome-shaped papules of several millimeters in diameter, on his forehead, ears, neck, trunk, back, proximal upper extremities, and dorsal hands, with forehead, glabella, and nose induration. Relevant laboratory findings include monoclonal gammopathy on serum immunofixation, consisting of immunoglobulin (Ig) G_ and IgA_, and unremarkable thyroid panel findings.\nQuestion: Which of the following is the most likely diagnosis for the patient?\nChoices:\nScleredema\nScleroderma\nScleromyxedema\nNephrogenic systemic fibrosis\nAnswer: ",
+        "reference_answers": [
+          "Scleromyxedema"
+        ],
+        "should_abstain": false,
+        "metadata_json": "{\"MediQ_source\": \"iCRAFT-MD\", \"MediQ_iCRAFT-MD_id\": 37}"
+      },
+      {
+        "question": "Context: A 34-year-old man presents with an itchy rash, primarily on his arms, but also, to a lesser extent, on his face. He denies any fever or malaise, and his medical history is unremarkable. He does not take any medications and notes that he spent the previous weekend doing yardwork on his property, and the rash appeared 4 days later. Physical examination reveals several linear arrangements of papulovesicles on the dorsal and ventral aspects of his forearms with surrounding erythema.\nQuestion: Which of the following is the most likely diagnosis for the patient?\nChoices:\nBullous impetigo\nToxicodendron dermatitis\nShingles\nPhytophotodermatitis\nAnswer: ",
+        "reference_answers": [
+          "Toxicodendron dermatitis"
+        ],
+        "should_abstain": false,
+        "metadata_json": "{\"MediQ_source\": \"iCRAFT-MD\", \"MediQ_iCRAFT-MD_id\": 38}"
+      },
+      {
+        "question": "Context: A 62-year-old white man with a past medical history of latent tuberculosis, vitiligo, and psoriasis presents for follow-up for treatment of psoriasis. The patient’s psoriasis has proven refractory to numerous treatments over the years, so he began treatment with secukinumab, a monoclonal antibody against interleukin-17A. After 2 months of therapy, the patient reports new-onset tongue pain. Physical examination demonstrates an erythematous, edematous, diamond-shaped plaque on the posterior dorsum of the patient’s tongue.\nQuestion: Which of the following is the most likely diagnosis for the patient?\nChoices:\nMedian rhomboid glossitis\nLichen planus\nSecondary syphilis\nGeographic tongue\nAnswer: ",
+        "reference_answers": [
+          "Median rhomboid glossitis"
+        ],
+        "should_abstain": false,
+        "metadata_json": "{\"MediQ_source\": \"iCRAFT-MD\", \"MediQ_iCRAFT-MD_id\": 39}"
+      },
+      {
+        "question": "Context: A 13-month-old toddler with spreading eczema on his trunk and arms is brought in by his mother. She is applying moisturizer and a cortisone cream. However, 2 days earlier, a wound appeared on his left hand that appears to be infected. Since then, more areas of raw, oozing skin have developed. Examination reveals lichenified scaling plaques scattered on the trunk and posterior knees and arms, and his left arm has monomorphic crusted vesicles and ulcerations on an erythematous base.\nQuestion: Which of the following is the most likely diagnosis for the patient?\nChoices:\nImpetigo\nEczema herpeticum\nVaricella zoster virus infection\nAnimal pox infection\nAnswer: ",
+        "reference_answers": [
+          "Eczema herpeticum"
+        ],
+        "should_abstain": false,
+        "metadata_json": "{\"MediQ_source\": \"iCRAFT-MD\", \"MediQ_iCRAFT-MD_id\": 40}"
+      },
+      {
+        "question": "Context: A 30-year-old healthy Hispanic woman presents with a slowly progressive facial deformity present since early childhood. She denies any new lesions during this time, any history of trauma to the area, and any family history of similar skin lesions. Examination reveals a bulging, deformed dermal mass with a “bag-of-worms” appearance involving the upper right quadrant of her face, with hypertrophy of the overlying skin and soft tissues. Neurofibromas and café-au-lait macules are not observed.\nQuestion: Which of the following is the most likely diagnosis for the patient?\nChoices:\nSchwannomas\nSynovial sarcoma\nPlexiform neurofibroma\nEczema herpeticum\nAnswer: ",
+        "reference_answers": [
+          "Plexiform neurofibroma"
+        ],
+        "should_abstain": false,
+        "metadata_json": "{\"MediQ_source\": \"iCRAFT-MD\", \"MediQ_iCRAFT-MD_id\": 41}"
+      },
+      {
+        "question": "Context: A healthy 45-year-old woman presents with a several-month history of a small papule at the corner of her right eye. The lesion is asymptomatic and is not enlarging, but she has cosmetic concerns. She denies diplopia, vision loss, or any other lesions on her face and body. Examination reveals a dome-shaped, smooth, translucent papule filled with watery fluid located below the lateral canthus of her right eye.\nQuestion: Which of the following is the most likely diagnosis for the patient?\nChoices:\nCystic pleomorphic adenomas\nWarthin tumors\nMucous retention cysts\nHidrocystomas\nAnswer: ",
+        "reference_answers": [
+          "Hidrocystomas"
+        ],
+        "should_abstain": false,
+        "metadata_json": "{\"MediQ_source\": \"iCRAFT-MD\", \"MediQ_iCRAFT-MD_id\": 42}"
+      },
+      {
+        "question": "Context: A 32-year-old white woman who has never smoked presents with pruritic, tender, erythematous, violaceous patches with eczema-like blisters on her upper, lateral thighs. In 2012, she began traveling annually from Pennsylvania to South Carolina, from January through April, where she works with and rides horses daily from morning to evening. Her symptoms began in her first year in South Carolina and appear consistently from January through March. Her lesions appear initially in mid-January as a red dot and progress by mid-February. They resolve spontaneously in March.\nQuestion: Which of the following is the most likely diagnosis for the patient?\nChoices:\nChilblains\nCutaneous lupus erythematosus\nEquestrian perniosis\nCutaneous sarcoidosis\nAnswer: ",
+        "reference_answers": [
+          "Equestrian perniosis"
+        ],
+        "should_abstain": false,
+        "metadata_json": "{\"MediQ_source\": \"iCRAFT-MD\", \"MediQ_iCRAFT-MD_id\": 43}"
+      },
+      {
+        "question": "Context: A healthy 30-year-old man presents with a 3-year history of an asymptomatic, fleshy papule at the base of his great toe. He denies any new lesions during this time, a history of trauma to the area, or a family history of similar skin lesions. He was treated previously by another dermatologist with cryotherapy; however, he returns to the clinic with recurrence of the lesion. Examination reveals a pedunculated, flesh-colored, well-demarcated tumor on the plantar surface of the base of his great toe.\nQuestion: Which of the following is the most likely diagnosis for the patient?\nChoices:\nAcquired digital fibrokeratoma (ADFK)\nPyogenic granuloma\nNecrobiosis lipoidica\nCutaneous horn\nAnswer: ",
+        "reference_answers": [
+          "Acquired digital fibrokeratoma (ADFK)"
+        ],
+        "should_abstain": false,
+        "metadata_json": "{\"MediQ_source\": \"iCRAFT-MD\", \"MediQ_iCRAFT-MD_id\": 44}"
+      },
+      {
+        "question": "Context: A 45-year-old woman with insulin-dependent diabetes mellitus presents with a sore on her right leg. She describes a long-standing history of asymptomatic lesions on her shins but had only recently injured her leg, causing the sore, which is slow to heal. Despite a 15-year history of diabetes, she has no systemic complications. She has large, well-circumscribed plaques on her anterior shins bilaterally, which are yellow-brown with telangiectasias and minimally violaceous borders.\nQuestion: Which of the following is the most likely diagnosis for the patient?\nChoices:\nNecrobiotic xanthogranuloma (NXG)\nAcquired digital fibrokeratoma (ADFK)\nDiabetic dermopathy\nNecrobiosis lipoidica\nAnswer: ",
+        "reference_answers": [
+          "Necrobiosis lipoidica"
+        ],
+        "should_abstain": false,
+        "metadata_json": "{\"MediQ_source\": \"iCRAFT-MD\", \"MediQ_iCRAFT-MD_id\": 45}"
+      },
+      {
+        "question": "Context: A 60-year-old man presents with rapidly growing lesions on his face, trunk, axillae, flexural areas, and groin. The lesions appeared 3 months earlier in his perianal area and extended rapidly to other areas. Previously, he was treated with topical agents for atopic dermatitis and seborrheic dermatitis without improvement. Examination reveals disseminated violaceous papules and plaques on the face, trunk, axillae, and perianal area; some lesions were confluent and ulcerated. Yellowish-red to skin-colored papules are present on the scalp. He has no palpable lymphadenopathy or organomegaly.\nQuestion: Which of the following is the most likely diagnosis for the patient?\nChoices:\nSeborrheic dermatitis\nCutaneous Langerhans cell histiocytosis\nPrurigo nodularis\nAtopic dermatitis\nAnswer: ",
+        "reference_answers": [
+          "Cutaneous Langerhans cell histiocytosis"
+        ],
+        "should_abstain": false,
+        "metadata_json": "{\"MediQ_source\": \"iCRAFT-MD\", \"MediQ_iCRAFT-MD_id\": 46}"
+      },
+      {
+        "question": "Context: A 13-year-old girl presents with a cystic lesion that has been on her forearm for several years. Concerned about the lesion, she reports that it may have grown slightly larger in the past year and it is intermittently painful. More recently, a second similar lesion has appeared in close proximity. She denies any other suspicious lesions elsewhere on her skin. Her family history is negative for skin cancer, and she reports no other medical conditions. Physical examination reveals two well-defined 6-mm nodules that are rubbery, slightly tender, and pink on the right proximal ventral forearm. The overlying skin is intact, and there is no associated adenopathy.\nQuestion: Which of the following is the most likely diagnosis for the patient?\nChoices:\nneuroma\nAngiolipoma\nGlomus tumor\nSpiradenoma\nAnswer: ",
+        "reference_answers": [
+          "Spiradenoma"
+        ],
+        "should_abstain": false,
+        "metadata_json": "{\"MediQ_source\": \"iCRAFT-MD\", \"MediQ_iCRAFT-MD_id\": 47}"
+      },
+      {
+        "question": "Context: A 62-year-old man with well-controlled rosacea, a monoclonal gammopathy of undetermined significance, and chronic lymphocytic leukemia (CLL; stable on no current therapy) was seen in the clinic for a full-body skin check. Results of his examination were unremarkable except for the presence of periorbital, yellow-brown plaques with violaceous borders involving the upper and lower eyelids, bilaterally. There was induration, but no warmth or tenderness, of the periorbital plaques. He first noticed these lesions around the time he was diagnosed with CLL; initially they were more discrete yellow papules that developed into plaques over time. They are completely asymptomatic.\nQuestion: Which of the following is the most likely diagnosis for the patient?\nChoices:\nAdult-onset xanthogranuloma\nNecrobiotic xanthogranuloma\nErdheim-Chester disease\nAdult-onset asthma with periocular xanthogranuloma\nAnswer: ",
+        "reference_answers": [
+          "Necrobiotic xanthogranuloma"
+        ],
+        "should_abstain": false,
+        "metadata_json": "{\"MediQ_source\": \"iCRAFT-MD\", \"MediQ_iCRAFT-MD_id\": 48}"
+      },
+      {
+        "question": "Context: A healthy 16-year-old girl presents with six tan patches on her trunk and upper arms, freckles in her axillae, and a reddish discoloration under the tip of her thumbnail. The tan patches have been present since birth but have enlarged over the past 4 years. She reports paroxysmal pain and cold sensitivity involving the discolored portion of her thumb. Examination reveals six tan-brown macules with smooth borders ranging from 16 to 20 mm, axillary freckling, and a tender red-blue nodule under the thumbnail.\nQuestion: Which of the following is the most likely diagnosis for the patient?\nChoices:\nNoonan Syndrome\nMcCune-Albright Syndrome\nDNA Repair Syndromes\nNeurofibromatosis type 1\nAnswer: ",
+        "reference_answers": [
+          "Neurofibromatosis type 1"
+        ],
+        "should_abstain": false,
+        "metadata_json": "{\"MediQ_source\": \"iCRAFT-MD\", \"MediQ_iCRAFT-MD_id\": 49}"
+      },
+      {
+        "question": "Context: A healthy 15-year-old girl presents with a solitary, asymptomatic lesion on her back. The lesion has been present since birth but has enlarged over the past 2 years. She denies association with previous trauma and irritation. Examination reveals multiple, comedo-like openings filled with dark lamellate keratinocyte plugs grouped in a linear distribution over a slightly hypotrophic area of 3 cm by 7 cm. Dermoscopy revealed numerous circular and barrel-shaped homogenous areas in dark-brown shades with remarkable keratin plugs.\nQuestion: Which of the following is the most likely diagnosis for the patient?\nChoices:\nNevus comedonicus\nTrichofolliculoma\nFamilial dyskeratotic comedones\nSegmental acne\nAnswer: ",
+        "reference_answers": [
+          "Nevus comedonicus"
+        ],
+        "should_abstain": false,
+        "metadata_json": "{\"MediQ_source\": \"iCRAFT-MD\", \"MediQ_iCRAFT-MD_id\": 50}"
+      },
+      {
+        "question": "Context: A 28-year-old healthy white woman with no significant past medical history presents with an enlarging papule on her right lateral neck. She describes a 1- to 2-mm pink papule that grew to approximately 10 mm within the past week. With minimal rubbing or trauma, the papule intermittently bleeds. It is otherwise nontender and nonpruritic. She has no history of skin cancer and is taking oral contraceptives. Physical examination shows a pink, friable papule on a stalk on the right lateral neck. There are no other similar lesions seen on examination.\nQuestion: Which of the following is the most likely diagnosis for the patient?\nChoices:\nAmelanotic melanoma\nKaposi sarcoma\nPyogenic granuloma\nBacillary angiomatosis\nAnswer: ",
+        "reference_answers": [
+          "Pyogenic granuloma"
+        ],
+        "should_abstain": false,
+        "metadata_json": "{\"MediQ_source\": \"iCRAFT-MD\", \"MediQ_iCRAFT-MD_id\": 51}"
+      },
+      {
+        "question": "Context: A healthy 12-month-old infant girl presents with a yellowish-orange papule on the right upper extremity. Her mother first noticed this lesion approximately 6 months earlier. It has never bled, ulcerated, or formed blisters. The infant does not scratch the lesion nor appears otherwise bothered by it. However, when the lesion is rubbed, it appears to swell and turn bright red. On physical examination, there is a soft, oval-shaped, yellowish papule with a peripheral rim of erythema on the right extensor forearm.\nQuestion: Which of the following is the most likely diagnosis for the patient?\nChoices:\nSolitary mastocytoma\nPseudomonas nail infection\nEpidermolysis bullosa\nBullous arthropod bites\nAnswer: ",
+        "reference_answers": [
+          "Solitary mastocytoma"
+        ],
+        "should_abstain": false,
+        "metadata_json": "{\"MediQ_source\": \"iCRAFT-MD\", \"MediQ_iCRAFT-MD_id\": 52}"
+      },
+      {
+        "question": "Context: An otherwise healthy 60-year-old dishwasher presents with asymptomatic green discoloration of his right middle fingernail over a period of 2 months. The discoloration began from the distal margin. He denies wearing gloves while working and reports a tendency to pick at his nails when nervous. On examination, distal onycholysis and green discoloration are present exclusively on the right middle nail plate starting from the distal edge without signs of paronychia. Dermoscopy reveals pigment localization under the nail plate.\nQuestion: Which of the following is the most likely diagnosis for the patient?\nChoices:\nSubungual hematomas\nGlomus tumors\nPseudomonas nail infection\nSolitary mastocytoma\nAnswer: ",
+        "reference_answers": [
+          "Pseudomonas nail infection"
+        ],
+        "should_abstain": false,
+        "metadata_json": "{\"MediQ_source\": \"iCRAFT-MD\", \"MediQ_iCRAFT-MD_id\": 53}"
+      },
+      {
+        "question": "Context: A 43-year-old elementary school teacher presents with a rash that began on his left thigh approximately 4 months earlier; the rash has since spread. It is mildly itchy but has no associated pain or bleeding. His past medical history is significant for allergic rhinitis and atopic dermatitis. Suspecting eczema, he has been applying an over-the-counter hydrocortisone 1% cream as well as a moisturizer, which transiently alleviates the itch. He has not changed laundry or hygiene products. On physical examination, there are slightly erythematous, minimally scaly patches scattered over his left hip and buttock.\nQuestion: Which of the following is the most likely diagnosis for the patient?\nChoices:\nTinea incognito\nEczema\nCutaneous lupus\nLevamisole-induced antineutrophil cytoplasmic antibody vasculitis\nAnswer: ",
+        "reference_answers": [
+          "Tinea incognito"
+        ],
+        "should_abstain": false,
+        "metadata_json": "{\"MediQ_source\": \"iCRAFT-MD\", \"MediQ_iCRAFT-MD_id\": 54}"
+      },
+      {
+        "question": "Context: A 50-year-old woman presents with a 5-day history of progressive, painful rash involving her face, trunk, extremities, nasal tip, and ears, in addition to fever and arthralgia. She admits to a history of polysubstance use and states that her last use was a week prior to symptom onset. She denies a history of autoimmune disease or recent travel. Examination reveals retiform purpura with areas of necrosis and bullae formation. Urine toxicology screening is positive for cocaine, and laboratory findings include leukopenia and an elevated erythrocyte sedimentation rate (70 mm/h).\nQuestion: Which of the following is the most likely diagnosis for the patient?\nChoices:\nDisseminated intravascular coagulation\nWarfarin-induced skin necrosis\nTinea incognito\nLevamisole-induced antineutrophil cytoplasmic antibody vasculitis\nAnswer: ",
+        "reference_answers": [
+          "Levamisole-induced antineutrophil cytoplasmic antibody vasculitis"
+        ],
+        "should_abstain": false,
+        "metadata_json": "{\"MediQ_source\": \"iCRAFT-MD\", \"MediQ_iCRAFT-MD_id\": 55}"
+      },
+      {
+        "question": "Context: A 7-month-old male who had been born prematurely presents with a 2-month history of diarrhea, failure to thrive, alopecia, and rash involving the perioral, perianal, and acral areas. He had been treated unsuccessfully for presumed atopic dermatitis with topical corticosteroids. He was exclusively breastfed until 2 months ago, when he was transitioned to formula. Examination reveals an irritable, thin infant with sharply demarcated red, inflamed, scaly plaques and erosions around his mouth, anus, eyes, hands, and feet. Diffuse hair loss is noted on the scalp, eyebrows, and eyelashes. Paronychia and nail dystrophy are noted on his upper and lower extremities.\nQuestion: Which of the following is the most likely diagnosis for the patient?\nChoices:\nAcrodermatitis enteropathica-like eruption (AELE)\nAcrodermatitis enteropathica\nAtopic dermatitis\nAELE unrelated to zinc deficiency\nAnswer: ",
+        "reference_answers": [
+          "Acrodermatitis enteropathica"
+        ],
+        "should_abstain": false,
+        "metadata_json": "{\"MediQ_source\": \"iCRAFT-MD\", \"MediQ_iCRAFT-MD_id\": 56}"
+      },
+      {
+        "question": "Context: A 64-year-old woman presents with a 6-month history of a slowly enlarging bump near her left eyebrow. The patient says it appeared suddenly and became a nuisance, as well as cosmetically unacceptable as it enlarged. She denies any pain, tenderness, or oozing, and denies any other similar lesions elsewhere. Her pertinent dermatologic medical and family history are unremarkable. Physical examination reveals a 6-mm nontender subcutaneous mobile nodule on the left lateral eyebrow. There is no overlying ulceration or central punctum, and no discharge is noted. No other suspicious lesions are observed on examination of the scalp and face, aside from mild actinic damage.\nQuestion: Which of the following is the most likely diagnosis for the patient?\nChoices:\nPilomatricoma\nNodulocystic basal cell carcinoma\nSquamous cell carcinoma\nPilar cyst\nAnswer: ",
+        "reference_answers": [
+          "Pilar cyst"
+        ],
+        "should_abstain": false,
+        "metadata_json": "{\"MediQ_source\": \"iCRAFT-MD\", \"MediQ_iCRAFT-MD_id\": 57}"
+      },
+      {
+        "question": "Context: A 30-year-old Hispanic woman presents with her 1-year-old son, concerned that he has only small amounts of thin, wispy hair on his head and has none anywhere else on his body. She notes that he does not yet have any teeth, but has a large forehead and ears. He has been irritable and crying for the past day. She reveals a personal history of very high body temperature at times during the summer and says she customarily stays indoors with the air conditioning on, especially in the summer. On physical examination, she has sparse hair on her scalp and eyebrows, as well as eczematous patches on her bilateral lower extremities.\nQuestion: Which of the following is the most likely diagnosis for the patient?\nChoices:\nSchöpf-Schulz-Passarge syndrome\nWitkop tooth and nail syndrome\nTrichodento-osseous syndrome\nHypohidrotic ectodermal dysplasia\nAnswer: ",
+        "reference_answers": [
+          "Hypohidrotic ectodermal dysplasia"
+        ],
+        "should_abstain": false,
+        "metadata_json": "{\"MediQ_source\": \"iCRAFT-MD\", \"MediQ_iCRAFT-MD_id\": 58}"
+      },
+      {
+        "question": "Context: A 48-year-old premenopausal woman, who has had one pregnancy and has delivered once, presents with a 15-month history of left breast deformity. The patient began having pain in the region 2 months ago. A review of systems is negative for weight loss, fever, or nipple discharge. Her medical history is otherwise unremarkable, and her family history is noncontributory. Physical examination is notable for extensive left nipple inversion and retraction, a large underlying mass in the central breast, edema and ulceration of the overlying skin of the breast, and matted ipsilateral axillary nodes. There is no erythema of the skin. The right breast is unremarkable.\nQuestion: Which of the following is the most likely diagnosis for the patient?\nChoices:\nNipple inversion secondary to neglected malignancy\nPeriductal mastitis\nDuct ectasia\nCongenital nipple inversion\nAnswer: ",
+        "reference_answers": [
+          "Nipple inversion secondary to neglected malignancy"
+        ],
+        "should_abstain": false,
+        "metadata_json": "{\"MediQ_source\": \"iCRAFT-MD\", \"MediQ_iCRAFT-MD_id\": 59}"
+      },
+      {
+        "question": "Context: A 25-year-old man with no remarkable past medical history presents with an itchy rash on the feet. Symptoms began 2 months ago, starting over the dorsal toes with redness, scaling, and itching. The eruption spread over the dorsum of the feet and progressed to weeping and crusting. He reports recently buying new shoes for work as a chef, which requires 15 hours daily of standing. Due to profuse sweating, his socks become soaked daily. Examination reveals symmetric erythematous plaques over the bilateral dorsum of both feet with fissures, scaling, and lichenification. No blisters or vesicles are present, but there are scattered crusted erosions.\nQuestion: Which of the following is the most likely diagnosis for the patient?\nChoices:\nMycosis fungoides\nDyshidrosis\nSézary syndrome\nShoe dermatitis\nAnswer: ",
+        "reference_answers": [
+          "Shoe dermatitis"
+        ],
+        "should_abstain": false,
+        "metadata_json": "{\"MediQ_source\": \"iCRAFT-MD\", \"MediQ_iCRAFT-MD_id\": 60}"
+      },
+      {
+        "question": "Context: A 55-year-old black man presents for evaluation of fine wrinkles that had developed over the past year. Physical examination reveals diffuse areas offine wrinkling that run parallel to lines of cleavage on his neck, chest, axilla, trunk, back, and upper arms bilaterally. The affected skin has normal pigmentation and lacks erythema, induration, and atrophy. Lateral tension obliterates the wrinkling. The patient never notes any inflammation, itching, or pain. There are no signs or symptoms of systemic involvement. He denies sunbathing and denies any history of skin disorders or other significant health problems.\nQuestion: Which of the following is the most likely diagnosis for the patient?\nChoices:\nMarshall syndrome\nPerifollicular elastolysis\nMid-dermal elastolysis\nAnetoderma\nAnswer: ",
+        "reference_answers": [
+          "Mid-dermal elastolysis"
+        ],
+        "should_abstain": false,
+        "metadata_json": "{\"MediQ_source\": \"iCRAFT-MD\", \"MediQ_iCRAFT-MD_id\": 61}"
+      },
+      {
+        "question": "Context: A 26-year-old African American man with no significant past medical history presents with a growth on his left foot that had been increasing in size for 1 year. He initially thought it was a wart but had concerns when it continued to grow and became painful. Examination reveals an exophytic, brown, and mildly tender nodule, 3cm in diameter, on his left medial heel and instep. The overlying skin is crusted and friable. His nails and hair show no abnormalities. There is no associated lymphadenopathy. The remainder of the examination is unremarkable.\nQuestion: Which of the following is the most likely diagnosis for the patient?\nChoices:\nUlcers\nHematomas\nAcral lentiginous melanoma\nDysplastic nevus\nAnswer: ",
+        "reference_answers": [
+          "Acral lentiginous melanoma"
+        ],
+        "should_abstain": false,
+        "metadata_json": "{\"MediQ_source\": \"iCRAFT-MD\", \"MediQ_iCRAFT-MD_id\": 62}"
+      },
+      {
+        "question": "Context: An African American woman, aged 50 years, presents with painless “bruises” on her leg. She first noticed bruises on both legs a year ago and reports that they have since become larger. Physical examination reveals blue-black macules and patches on both shins. The macules are asymptomatic, and the remainder of the physical examination is within normal limits. A venous stasis ulcer is seen on her right leg. She says she has a 10-year history of discoid and systemic lupus erythematosus treated with hydroxychloroquine and does not recall any history of trauma to her legs.\nQuestion: Which of the following is the most likely diagnosis for the patient?\nChoices:\nHydroxychloroquine-induced hyperpigmentation\nDrug-induced pigmentation\nPostinflammatory hyperpigmentation\nFixed drug eruption\nAnswer: ",
+        "reference_answers": [
+          "Hydroxychloroquine-induced hyperpigmentation"
+        ],
+        "should_abstain": false,
+        "metadata_json": "{\"MediQ_source\": \"iCRAFT-MD\", \"MediQ_iCRAFT-MD_id\": 63}"
+      },
+      {
+        "question": "Context: A man, aged 68 years, with no known history of atopy presents with a 4-month history of an itchy and burning rash on the legs that has been recurring every winter for the past 3 years. He notes that he had dry skin at baseline and did not use emollients, but he did try hydrocortisone 1% cream without improvement. Examination revealed ovoid, erythematous, well-marginated plaques on the lower legs and dorsal feet with variable scaling and focal weeping and crusting. There were no nail changes, and the rest of his skin examination was notable only for xerosis.\nQuestion: Which of the following is the most likely diagnosis for the patient?\nChoices:\nBullous impetigo\nPsoriasis\nTinea corporis\nNummular dermatitis\nAnswer: ",
+        "reference_answers": [
+          "Nummular dermatitis"
+        ],
+        "should_abstain": false,
+        "metadata_json": "{\"MediQ_source\": \"iCRAFT-MD\", \"MediQ_iCRAFT-MD_id\": 64}"
+      },
+      {
+        "question": "Context: An elderly man presents with asymptomatic hyperpigmented, confluent, brown macules on his upper and lower lips, along with hyperpigmented macules on his hands. He also has diffuse blue-black bilateral melanonychia with nail dystrophy on his toenails, and his fingernails contain longitudinal melanonychia with hyperpigmentation of the proximal nail beds. He denies any family history of mucocutaneous pigmentation or gastrointestinal or systemic symptoms. In the last 5 years, results of a colonoscopy, upper gastrointestinal endoscopy, and blood work have all been within normal limits.\nQuestion: Which of the following is the most likely diagnosis for the patient?\nChoices:\nLaugier-Hunziker syndrome\nPeutz-Jeghers syndrome\nBandler syndrome\nMcCune-Albright syndrome\nAnswer: ",
+        "reference_answers": [
+          "Laugier-Hunziker syndrome"
+        ],
+        "should_abstain": false,
+        "metadata_json": "{\"MediQ_source\": \"iCRAFT-MD\", \"MediQ_iCRAFT-MD_id\": 65}"
+      },
+      {
+        "question": "Context: A man, aged 42 years, presents with a 6-month history of a painful, scaly skin rash. The eruption is symmetrically distributed over photosensitive areas, affecting his face, neck, upper back, forearms, and hands. The dorsal surfaces of his hands and forearms exhibit a dusky brown coloration over rough and cracked skin. He complains of itching and burning and reports intermittent vomiting and diarrhea. He admits to heavy alcohol intake for the last 2 decades and denies taking any medications. Neuropsychiatric evaluation reveals short-term memory loss, speech problems, and poor concentration.\nQuestion: Which of the following is the most likely diagnosis for the patient?\nChoices:\nPellagra\nPolymorphous light eruption\nPhotoallergic skin reaction\nPhototoxic skin reaction\nAnswer: ",
+        "reference_answers": [
+          "Pellagra"
+        ],
+        "should_abstain": false,
+        "metadata_json": "{\"MediQ_source\": \"iCRAFT-MD\", \"MediQ_iCRAFT-MD_id\": 66}"
+      },
+      {
+        "question": "Context: A 68-year-old white man presents with 4 weeks of progressively worsening thickening of the skin and plaques on the bilateral nipple and areola. He has no personal or family history of warts or epidermal nevi and has not had hormonal therapy. On examination, he has hyperpigmented, verrucous plaques bilaterally, with no associated erythema or lymphadenopathy. Skin biopsy shows hyperkeratosis with papillomatosis. Corticosteroid treatment failed, but there was some minor improvement with calcipotriol after several weeks of use.\nQuestion: Which of the following is the most likely diagnosis for the patient?\nChoices:\nAcanthosis nigricans\nDarier disease\nChronic eczema\nNipple hyperkeratosis\nAnswer: ",
+        "reference_answers": [
+          "Nipple hyperkeratosis"
+        ],
+        "should_abstain": false,
+        "metadata_json": "{\"MediQ_source\": \"iCRAFT-MD\", \"MediQ_iCRAFT-MD_id\": 67}"
+      },
+      {
+        "question": "Context: A 4-year-old white male presents with a 3-month history of an asymptomatic papular rash on his back, abdomen, chest, upper arms, and ankles. His medical and family histories are otherwise unremarkable. On examination, the grouped papules are shiny, monomorphic, skin-colored, and pinhead-sized. The papules exhibit koebnerization but no erythema or tenderness. His nails, hair, oral mucosa, and genitals are normal.\nQuestion: Which of the following is the most likely diagnosis for the patient?\nChoices:\nLichen striatus\nLichen planus\nLichen nitidus\nGuttate lichen sclerosus\nAnswer: ",
+        "reference_answers": [
+          "Lichen nitidus"
+        ],
+        "should_abstain": false,
+        "metadata_json": "{\"MediQ_source\": \"iCRAFT-MD\", \"MediQ_iCRAFT-MD_id\": 68}"
+      },
+      {
+        "question": "Context: An African-American man, aged 35 years, presents with a 3-month history of pruritic penile lesions. Examination reveals an arcuate pattern of raised violaceous-to-flesh-colored papules with central clearing on the glans penis and a few scattered, raised violaceous-to-flesh-colored polygonal papules of the glans penis and distal penile shaft. Results of the remainder of the skin examination are normal, and there is no inguinal lymphadenopathy. His sexual history includes no previous sexually transmitted diseases and no new sexual partners within the past year.\nQuestion: Which of the following is the most likely diagnosis for the patient?\nChoices:\nLichen planus\nHerpes simplex viral lesions\nGuttate psoriasis\nScabies infestation\nAnswer: ",
+        "reference_answers": [
+          "Lichen planus"
+        ],
+        "should_abstain": false,
+        "metadata_json": "{\"MediQ_source\": \"iCRAFT-MD\", \"MediQ_iCRAFT-MD_id\": 69}"
+      },
+      {
+        "question": "Context: A 50-year-old woman presents with darkening skin that started several weeks ago. She recently went to the beach and developed severe redness in sun-exposed areas within a few hours of being out in the sun. She did not wear sunscreen and says she usually does not burn in the sun. The affected areas have since darkened. She started hydrochlorothiazide for hypertension 4 months ago. On physical examination, hyperpigmentation is noted on the dorsal hands, proximal forearms, dorsal feet with sparing of skin covered by her sandal straps, “V” of her neck, cheeks, and forehead.\nQuestion: Which of the following is the most likely diagnosis for the patient?\nChoices:\nSystemic lupus erythematosus\nDermatomyositis\nChemical burn\nDrug-induced photosensitivity\nAnswer: ",
+        "reference_answers": [
+          "Drug-induced photosensitivity"
+        ],
+        "should_abstain": false,
+        "metadata_json": "{\"MediQ_source\": \"iCRAFT-MD\", \"MediQ_iCRAFT-MD_id\": 70}"
+      },
+      {
+        "question": "Context: A 61-year-old woman presents with a 7-month history of a bump on the front of her left knee. The lesion is slightly tender but otherwise is asymptomatic. She is concerned that the lesion may be cancerous. She has no other medical problems and takes vitamin D daily. On physical examination, a firm subcutaneous tumor is noted on the left knee measuring 8 cm without overlying skin changes. She has no other similar lesions elsewhere on her body.\nQuestion: Which of the following is the most likely diagnosis for the patient?\nChoices:\nSynovial cyst\nGanglion cyst\nPigmented villonodular synovitis\nLipoma\nAnswer: ",
+        "reference_answers": [
+          "Ganglion cyst"
+        ],
+        "should_abstain": false,
+        "metadata_json": "{\"MediQ_source\": \"iCRAFT-MD\", \"MediQ_iCRAFT-MD_id\": 71}"
+      },
+      {
+        "question": "Context: A 65-year-old man presents with a recurring rash on his back. He has had the rash several times before, most often during the summer, and it was treated successfully with an antifungal shampoo prescribed by a prior dermatologist. The rash is not itchy or painful. He has a history of depression and hypertension. On physical examination, hyperpigmented macules coalescing into patches with very fine white scale are found. The lesions are scattered primarily on his upper chest and upper back.\nQuestion: Which of the following is the most likely diagnosis for the patient?\nChoices:\nPityriasis rosea\nTinea corporis\nVitiligo\nTinea versicolor\nAnswer: ",
+        "reference_answers": [
+          "Tinea versicolor"
+        ],
+        "should_abstain": false,
+        "metadata_json": "{\"MediQ_source\": \"iCRAFT-MD\", \"MediQ_iCRAFT-MD_id\": 72}"
+      },
+      {
+        "question": "Context: A 22-year-old woman presents for evaluation of progressive skin changes on her neck and arms beginning sometime around puberty. She tried various over-the-counter anti-itch, antiaging, and eczema creams that were ineffective. She has no personal or family history of skin conditions and is otherwise healthy. Review of systems is negative for skin laxity, joint hypermobility, or vision changes. Physical examination reveals numerous nontender, noninflammatory, yellow, 2- to 5-mm papules that coalesce into reticulated plaques on the nape of her neck and bilateral antecubital fossa. A punch biopsy demonstrates fragmentation and calcification of elastic fibers.\nQuestion: Which of the following is the most likely diagnosis for the patient?\nChoices:\nGGXC-mediated coagulation factor deficiency\nENPP1-mediated premature arterial calcification\nPseudoxanthoma elasticum\nEhlers-Danlos syndrome\nAnswer: ",
+        "reference_answers": [
+          "Pseudoxanthoma elasticum"
+        ],
+        "should_abstain": false,
+        "metadata_json": "{\"MediQ_source\": \"iCRAFT-MD\", \"MediQ_iCRAFT-MD_id\": 73}"
+      },
+      {
+        "question": "Context: A 47-year-old otherwise healthy woman presents to the clinic with several concerns. Over the past several months, she has experienced thickening of her skin around her hands, forearms, and face. Her fingers turn blue and then pale when she is exposed to cold. Additional recent symptoms include fatigue and gastroesophageal reflux. She takes no medications and has no family history of autoimmune disease. On physical examination, the patient has skin thickening on the hands, forearms, and face. She also has hypopigmented macules on the hands and lower legs.\nQuestion: Which of the following is the most likely diagnosis for the patient?\nChoices:\nMorphea\nStiff-skin syndrome\nSystemic sclerosis\nScleredema\nAnswer: ",
+        "reference_answers": [
+          "Systemic sclerosis"
+        ],
+        "should_abstain": false,
+        "metadata_json": "{\"MediQ_source\": \"iCRAFT-MD\", \"MediQ_iCRAFT-MD_id\": 74}"
+      },
+      {
+        "question": "Context: A 15-year-old Black man presents with a 1-year history of light spots on his back. The rash has grown slowly, with several new lesions appearing near the first one. It is not itchy or painful. He has not tried any treatments for this condition. He has no relevant medical history and none of his family members have similar skin findings. On examination, there are several well-demarcated depigmented macules and patches on his lateral back.\nQuestion: Which of the following is the most likely diagnosis for the patient?\nChoices:\nTinea versicolor\nVitiligo\nNevus depigmentosus\nPostinflammatory hypomelanosis\nAnswer: ",
+        "reference_answers": [
+          "Vitiligo"
+        ],
+        "should_abstain": false,
+        "metadata_json": "{\"MediQ_source\": \"iCRAFT-MD\", \"MediQ_iCRAFT-MD_id\": 75}"
+      },
+      {
+        "question": "Context: A 60-year-old Black woman presents with a 30-day history of a nonitchy rash. The rash is located on her face, trunk, and extremities. She reports that she has tried topical steroids on the rash, which did not help. The patient has no other medical conditions and takes no medications. She notes that she had unprotected sex with a new partner about 4 months prior to presentation. On physical examination, the patient has many scattered erythematous scaly papules on her face, abdomen, back, and upper and lower extremities including the palms and soles.\nQuestion: Which of the following is the most likely diagnosis for the patient?\nChoices:\nBullous pemphigoid\nPemphigus vulgaris\nSecondary syphilis\nPityriasis lichenoides et varioliformis acuta (PLEVA)\nAnswer: ",
+        "reference_answers": [
+          "Secondary syphilis"
+        ],
+        "should_abstain": false,
+        "metadata_json": "{\"MediQ_source\": \"iCRAFT-MD\", \"MediQ_iCRAFT-MD_id\": 76}"
+      },
+      {
+        "question": "Context: A 64-year-old man with a history of numerous nonmelanoma skin cancers presents with a lesion on the left side of his nose that was first noticed about 6 months ago and is slowly growing. The lesion is not painful or itchy. The patient has not tried any medications on the lesion. The patient wears eyeglasses and the nose pad of his eyeglasses rubs on the lesion. On physical examination, an erythematous papule is found on the left superior nasal sidewall with a central depression.\nQuestion: Which of the following is the most likely diagnosis for the patient?\nChoices:\nBasal cell carcinoma\nAcanthoma fissuratum\nChondrodermatitis nodularis helicis\nLichen simplex chronicus\nAnswer: ",
+        "reference_answers": [
+          "Acanthoma fissuratum"
+        ],
+        "should_abstain": false,
+        "metadata_json": "{\"MediQ_source\": \"iCRAFT-MD\", \"MediQ_iCRAFT-MD_id\": 77}"
+      },
+      {
+        "question": "Context: A 54-year-old woman with a history of depression presents to the clinic with a 1-year history of an intermittent rash. She was hospitalized for COVID-19 approximately 1 year ago and soon after developed a rash all over her body. The lesions persist for several days and have a burning sensation. The patient has no associated joint pain or other systemic symptoms. She tried antihistamines for the rash with no symptomatic relief. On examination, erythematous wheals are evident on her arms and legs as well as her back and abdomen.\nQuestion: Which of the following is the most likely diagnosis for the patient?\nChoices:\nSchnitzler syndrome\nUrticarial vasculitis\nSystemic lupus erythematosus\nPhotodermatitis\nAnswer: ",
+        "reference_answers": [
+          "Urticarial vasculitis"
+        ],
+        "should_abstain": false,
+        "metadata_json": "{\"MediQ_source\": \"iCRAFT-MD\", \"MediQ_iCRAFT-MD_id\": 78}"
+      },
+      {
+        "question": "Context: A 42-year-old Hispanic man with no prior medical history presents with a 2-month history of a rash on his face, chest, and arms. He reports that the rash gets worse after sun exposure and he has associated joint pain. He has taken over-the-counter nonsteroidal anti-inflammatory drugs (NSAIDs) for the joint pain and topical steroids for the rash with no symptomatic relief. Physical examination reveals erythematous patches over the malar cheeks and dorsal nose sparing the nasolabial fold and erythematous macules on the forearms and chest.\nQuestion: Which of the following is the most likely diagnosis for the patient?\nChoices:\nDermatitis\nAcne rosacea\nSeborrheic dermatitis\nSystemic lupus erythematosus\nAnswer: ",
+        "reference_answers": [
+          "Systemic lupus erythematosus"
+        ],
+        "should_abstain": false,
+        "metadata_json": "{\"MediQ_source\": \"iCRAFT-MD\", \"MediQ_iCRAFT-MD_id\": 79}"
+      },
+      {
+        "question": "Context: A 6-year-old girl presents with a 1-year history of a waxing and waning rash on her limbs and face. The rash starts as red scaly bumps that fade over several weeks leaving smooth white spots. Every few months, the patient gets several new red bumps. The rash is not itchy or painful. Her parents have tried topical steroid creams that did not help clear the rash. Examination reveals scattered erythematous scaly papules on both legs and several hypopigmented macules on her legs, arms, and face.\nQuestion: Which of the following is the most likely diagnosis for the patient?\nChoices:\nLymphomatoid papulosis\nPityriasis lichenoides chronica\nLichen planus\nGuttate psoriasis\nAnswer: ",
+        "reference_answers": [
+          "Pityriasis lichenoides chronica"
+        ],
+        "should_abstain": false,
+        "metadata_json": "{\"MediQ_source\": \"iCRAFT-MD\", \"MediQ_iCRAFT-MD_id\": 80}"
+      },
+      {
+        "question": "Context: A 15-year-old girl presents with patches of hair loss on her scalp that have been present for the last 6 months. She reports that her scalp is not itchy or painful and denies any recent illnesses, diet changes, or stressful life events. She does not have any other medical conditions and takes no medications. Her uncle had a similar condition that started when he was in his 20s, but no one else in the family has experienced hair loss. The patient says she has not tried any treatments for the condition. On examination, she has several well-demarcated patches of hair loss on her frontal and parietal scalp, with no perifollicular erythema or scale.\nQuestion: Which of the following is the most likely diagnosis for the patient?\nChoices:\nTinea capitis\nAndrogenetic alopecia\nAlopecia areata\nTrichotillomania\nAnswer: ",
+        "reference_answers": [
+          "Alopecia areata"
+        ],
+        "should_abstain": false,
+        "metadata_json": "{\"MediQ_source\": \"iCRAFT-MD\", \"MediQ_iCRAFT-MD_id\": 81}"
+      },
+      {
+        "question": "Context: A 65-year-old man of Middle Eastern descent presents with a tender, weeping mass on his right palm. Since appearing 8 months ago, the lesion has enlarged into a 0.9-cm, pink pedunculated nodule with abundant serous crust. The patient has no significant history of trauma. His medical history is significant for atrial fibrillation, hypertension, coronary artery disease, congestive heart failure, and lung cancer, which was treated with right lobectomy. It is unclear what medications were used to treat his lung cancer. His current medications include metoprolol, lisinopril, allopurinol, aspirin, and digoxin. The patient also presents with additional pink, scaly plaques on his right ankle, consistent with nummular eczema.\nQuestion: Which of the following is the most likely diagnosis for the patient?\nChoices:\nAmelanotic melanoma\nSquamous cell carcinoma\nBacillary angiomatosis\nLobular capillary hemangioma\nAnswer: ",
+        "reference_answers": [
+          "Lobular capillary hemangioma"
+        ],
+        "should_abstain": false,
+        "metadata_json": "{\"MediQ_source\": \"iCRAFT-MD\", \"MediQ_iCRAFT-MD_id\": 82}"
+      },
+      {
+        "question": "Context: A 33-year-old Black man presents to a dermatology clinic with a 5-month history of asymptomatic lesions on his arms and trunk. He is otherwise healthy with no personal or family history of skin disease. He has no history of fever, cough, shortness of breath, or joint pain. The patient has not tried any treatments for these lesions. On examination, there are several smooth, well-demarcated hypopigmented plaques on his upper arms and left flank. He has no similar lesions elsewhere on his body.\nQuestion: Which of the following is the most likely diagnosis for the patient?\nChoices:\nFungal infection\nCutaneous lupus\nCutaneous sarcoidosis\nRosacea\nAnswer: ",
+        "reference_answers": [
+          "Cutaneous sarcoidosis"
+        ],
+        "should_abstain": false,
+        "metadata_json": "{\"MediQ_source\": \"iCRAFT-MD\", \"MediQ_iCRAFT-MD_id\": 83}"
+      },
+      {
+        "question": "Context: A 61-year-old man presents with a 7-month history of lesions on his hands and arms. His medical history includes depression, hypertension, and hyperlipidemia. He has no personal or family history of skin problems. His skin lesions are not painful or itchy, and he is not bothered by their appearance. He has not tried any treatments for the lesions. Physical examination reveals a number of pink, annular plaques with smooth raised borders on the patient’s dorsal forearms and hands. On close inspection, small discrete papules are seen within the plaques.\nQuestion: Which of the following is the most likely diagnosis for the patient?\nChoices:\nSarcoidosis\nLocalized granuloma annulare\nTinea corporis\nLupus\nAnswer: ",
+        "reference_answers": [
+          "Localized granuloma annulare"
+        ],
+        "should_abstain": false,
+        "metadata_json": "{\"MediQ_source\": \"iCRAFT-MD\", \"MediQ_iCRAFT-MD_id\": 84}"
+      },
+      {
+        "question": "Context: A 32-year-old woman presents with an itchy rash that began 3 months ago. She has a history of anxiety but otherwise no known medical conditions. She has tried over-the-counter hydrocortisone cream to treat the rash, finding some relief from the itchiness, but the rash continues to spread. She has no known allergies and has not changed her skin care products or medications. On examination, the patient has dark purple and gray flat-topped papules with fine gray-white streaks on her flexural wrists, dorsal hands, elbows, ankles, and dorsal feet.\nQuestion: Which of the following is the most likely diagnosis for the patient?\nChoices:\nLichen planus\nPsoriasis\nDiscoid lupus\nPityriasis rosea\nAnswer: ",
+        "reference_answers": [
+          "Lichen planus"
+        ],
+        "should_abstain": false,
+        "metadata_json": "{\"MediQ_source\": \"iCRAFT-MD\", \"MediQ_iCRAFT-MD_id\": 85}"
+      },
+      {
+        "question": "Context: A 35-year-old woman presents to the dermatology clinic with inflammation of her fingernails that first appeared 5 months ago and recently worsened. She reports wearing acrylic nails for the last year, removing them just before the clinic visit. On examination, the patient has erythema and swelling of the lateral nail folds and hyperpigmentation of the proximal nail folds of all fingers on her right hand. Examination also reveals nail dystrophy, onycholysis, and an absence of cuticles. She has not tried any treatments for this condition.\nQuestion: Which of the following is the most likely diagnosis for the patient?\nChoices:\nPsoriasis\nChronic paronychia\nHerpetic whitlow\nGranuloma annulare\nAnswer: ",
+        "reference_answers": [
+          "Chronic paronychia"
+        ],
+        "should_abstain": false,
+        "metadata_json": "{\"MediQ_source\": \"iCRAFT-MD\", \"MediQ_iCRAFT-MD_id\": 86}"
+      },
+      {
+        "question": "Context: A 42-year-old woman was admitted to the hospital for complications related to type 2 diabetes. Her inpatient team noticed that her right fifth finger was swollen, red, and appeared to have a fissure. The patient stated that although the fissure was not present since birth, her finger has looked this way for “a while” and typically did not bother her. On examination, she had hyperkeratotic plaques on some of her fingers. She denied trauma to the site of injury and her family and travel history were unremarkable.\nQuestion: Which of the following is the most likely diagnosis for the patient?\nChoices:\nGangrene\nFrostbite\nPseudoainhum\nHair-thread tourniquet syndrome\nAnswer: ",
+        "reference_answers": [
+          "Pseudoainhum"
+        ],
+        "should_abstain": false,
+        "metadata_json": "{\"MediQ_source\": \"iCRAFT-MD\", \"MediQ_iCRAFT-MD_id\": 87}"
+      },
+      {
+        "question": "Context: A 50-year-old woman presents with a crop of lesions that recently appeared on her buttocks and legs. On examination, the red macules and papules range in size from a few millimeters to a few centimeters; when pressed, the lesions do not blanch or partially blanch. The patient reports joint pain over her ankles and knees, along with malaise. When questioned, she acknowledges having had a “cold” a few weeks earlier, for which her primary care provider prescribed an antibiotic. Direct immunofluorescence of the lesions reveals immunoglobulin A (IgA) deposits around the small vessels in the papillary dermis.\nQuestion: Which of the following is the most likely diagnosis for the patient?\nChoices:\nMaculopapular drug eruption\nIgA-mediated small vessel vasculitis\nScurvy\nPigmented purpuric dermatoses\nAnswer: ",
+        "reference_answers": [
+          "IgA-mediated small vessel vasculitis"
+        ],
+        "should_abstain": false,
+        "metadata_json": "{\"MediQ_source\": \"iCRAFT-MD\", \"MediQ_iCRAFT-MD_id\": 88}"
+      },
+      {
+        "question": "Context: A 70-year-old White man presents for evaluation of a recent foot injury. The patient states that he hit his foot at home and noticed blood on the floor; because of a previous injury, he was unable to view his sole. A large (several cm), irregularly shaped plaque is seen on the mid-anterior volar foot. The lesion is brown and black, with central red discoloration and overlying yellow-white scale.\nQuestion: Which of the following is the most likely diagnosis for the patient?\nChoices:\nTraumatic lesions\nAcral lentiginous melanoma\nTinea nigra\nCalluses\nAnswer: ",
+        "reference_answers": [
+          "Acral lentiginous melanoma"
+        ],
+        "should_abstain": false,
+        "metadata_json": "{\"MediQ_source\": \"iCRAFT-MD\", \"MediQ_iCRAFT-MD_id\": 89}"
+      },
+      {
+        "question": "Context: A 35-year-old construction worker presents with a well-circumscribed, verrucous plaque on his left upper arm. The lesion has been present for a few months, but recently has increased in size and become painful. He reports that a cough preceded his skin lesion, but otherwise has no relevant medical history. A large verrucous and ulcerating lesion with pustules is seen. On palpation, a purulent discharge is expressed.\nQuestion: Which of the following is the most likely diagnosis for the patient?\nChoices:\nNocardiosis\nChromomycosis\nHistoplasmosis\nBlastomycosis\nAnswer: ",
+        "reference_answers": [
+          "Blastomycosis"
+        ],
+        "should_abstain": false,
+        "metadata_json": "{\"MediQ_source\": \"iCRAFT-MD\", \"MediQ_iCRAFT-MD_id\": 90}"
+      },
+      {
+        "question": "Context: A 45-year-old woman presents with enlarging blood vessels on her tongue that recently have increased in size and number. Numerous 1- to 2-mm discrete red macules and papules are seen on her tongue, oral mucosa, nose, lower lip, and fingertips. She has had frequent nosebleeds since childhood as well as iron-deficiency anemia that has not responded to iron supplementation. Her father, who died at the age of 50, had similar symptoms.\nQuestion: Which of the following is the most likely diagnosis for the patient?\nChoices:\nVascular hemorrhage\nAtaxia-telangiectasia\nHereditary hemorrhagic telangiectasia\nBloom syndrome\nAnswer: ",
+        "reference_answers": [
+          "Hereditary hemorrhagic telangiectasia"
+        ],
+        "should_abstain": false,
+        "metadata_json": "{\"MediQ_source\": \"iCRAFT-MD\", \"MediQ_iCRAFT-MD_id\": 91}"
+      },
+      {
+        "question": "Context: A 12-year-old boy presents to the dermatology clinic with a 2-year history of a brown patch on his chest. The 8-cm patch had been asymptomatic, but over the past 6 months, it has become darker, with hair and acne vulgaris developing within the lesion. The patient is self-conscious about the lesion’s appearance and wishes to learn if it can be treated to lessen the hyperpigmentation.\nQuestion: Which of the following is the most likely diagnosis for the patient?\nChoices:\nBecker nevus\nCafé au lait macules\nCongenital smooth muscle hamartomas\nCongenital melanocytic nevi\nAnswer: ",
+        "reference_answers": [
+          "Becker nevus"
+        ],
+        "should_abstain": false,
+        "metadata_json": "{\"MediQ_source\": \"iCRAFT-MD\", \"MediQ_iCRAFT-MD_id\": 92}"
+      },
+      {
+        "question": "Context: A 28-year-old Black man presents with a 2-year history of dyspigmentation of his back and chest. The patient notes that the lesions initially had red borders but these have faded over the past several months. Physical examination reveals circular, ashy-gray macules distributed diffusely over his back and chest. The patient denies pain or pruritus and takes nomedication. He notes that he recently traveled to Mexico. He has been relatively unconcerned about the lesions and only sought medical care to rule out cancer.\nQuestion: Which of the following is the most likely diagnosis for the patient?\nChoices:\nAddison disease\nFixed-drug eruption\nMacular amyloidosis\nErythema dyschromicum perstans\nAnswer: ",
+        "reference_answers": [
+          "Erythema dyschromicum perstans"
+        ],
+        "should_abstain": false,
+        "metadata_json": "{\"MediQ_source\": \"iCRAFT-MD\", \"MediQ_iCRAFT-MD_id\": 93}"
+      },
+      {
+        "question": "Context: A 45-year-old woman presents with oval-shaped lesions on her arms that she first noted a few months ago. The lesions began as an area of discrete erythema, progressed to induration, and then became dark, smooth, and shiny. She has a family history of rheumatoid arthritis. On examination, the patient has multiple hyperpigmented and hypopigmented indurated plaques with a shiny surface; her nails and fingertips are normal, and autoantibody tests were negative.\nQuestion: Which of the following is the most likely diagnosis for the patient?\nChoices:\nMorphea\nSystemic sclerosis\nErythema migrans\nPost-inflammatory hyperpigmentation\nAnswer: ",
+        "reference_answers": [
+          "Morphea"
+        ],
+        "should_abstain": false,
+        "metadata_json": "{\"MediQ_source\": \"iCRAFT-MD\", \"MediQ_iCRAFT-MD_id\": 94}"
+      },
+      {
+        "question": "Context: An 8-year-old boy presents with a 2-month history of an asymptomatic rash on the dorsum of his right hand. He and his family have recently moved from a coastal region in Mexico. Medical and family history are otherwise unremarkable. On examination, he has a 2-cm pigmented macular lesion with an irregular outline centrally located on the dorsal aspect of his right hand. The remainder of the physical examination is normal. Dermoscopy rules out a nevoid lesion, and septated filaments are observed on potassium hydroxide (KOH) test.\nQuestion: Which of the following is the most likely diagnosis for the patient?\nChoices:\nPalmar lichen planus\nMelanocytic nevi\nLentigines\nTinea nigra\nAnswer: ",
+        "reference_answers": [
+          "Tinea nigra"
+        ],
+        "should_abstain": false,
+        "metadata_json": "{\"MediQ_source\": \"iCRAFT-MD\", \"MediQ_iCRAFT-MD_id\": 95}"
+      },
+      {
+        "question": "Context: A 53-year-old man presents to the clinic with ulcerated, scarred, and hypertrophic plaques on both lower extremities. He is a refugee from Sudan who arrived in the United States a month earlier. He reports that the lesions started as red bumps that slowly expanded and developed a raised border. Several of his family members in Sudan have had similar lesions in the past, and he is concerned that he may have developed the same condition.\nQuestion: Which of the following is the most likely diagnosis for the patient?\nChoices:\nLeishmaniasis\nUlceroglandular tularemia\nCutaneous anthrax\nLeprosy\nAnswer: ",
+        "reference_answers": [
+          "Leishmaniasis"
+        ],
+        "should_abstain": false,
+        "metadata_json": "{\"MediQ_source\": \"iCRAFT-MD\", \"MediQ_iCRAFT-MD_id\": 96}"
+      },
+      {
+        "question": "Context: A 48-year-old white man presents to the dermatology clinic with papulosquamous cutaneous lesions that recently appeared on his chest, arms, and the dorsal aspects of his hands. The patient has a family history of autoimmune disorders, including systemic lupus erythematosus (SLE). Physical examination reveals that the lesions lack induration and do not appear to be leaving scars. Biopsy of the lesion is performed, revealing mild inflammatory infiltrate. Direct immunofluorescence shows a granular deposition at the dermal-epidermal junction. Serology indicates that the patient is positive for anti-Ro/SSA (Sjögren-syndrome-related antigen A).\nQuestion: Which of the following is the most likely diagnosis for the patient?\nChoices:\nPemphigus foliaceus\nPhotolichenoid drug eruption\nDiscoid lupus erythematosus\nSubacute cutaneous lupus erythematosus\nAnswer: ",
+        "reference_answers": [
+          "Subacute cutaneous lupus erythematosus"
+        ],
+        "should_abstain": false,
+        "metadata_json": "{\"MediQ_source\": \"iCRAFT-MD\", \"MediQ_iCRAFT-MD_id\": 97}"
+      },
+      {
+        "question": "Context: A 15-year-old white adolescent presents to the dermatology clinic with an asymptomatic rash on his upper back that has persisted for 4 months. Physical examination reveals hyperpigmented scaly papules coalescing into confluent plaques with peripheral reticulated papillomatosis. The boy is overweight but has no history of any other medical conditions.\nQuestion: Which of the following is the most likely diagnosis for the patient?\nChoices:\nAmyloidosis cutis dyschromica\nDowling-Degos disease\nConfluent and reticulated papillomatosis\nPrurigo pigmentosa\nAnswer: ",
+        "reference_answers": [
+          "Confluent and reticulated papillomatosis"
+        ],
+        "should_abstain": false,
+        "metadata_json": "{\"MediQ_source\": \"iCRAFT-MD\", \"MediQ_iCRAFT-MD_id\": 98}"
+      },
+      {
+        "question": "Context: An 8-year-old boy presents to the clinic for evaluation of a progressively worsening nail dystrophy that began a few months ago. The patient’s mother denies a family history of skin diseases and reports that her son has no history of medical problems. On physical examination, all of the boy’s fingernails and toenails show hyperkeratosis, longitudinal ridging, loss of luster, and roughness. His hair, skin, and oral mucosa are unremarkable. Nail biopsy reveals spongiotic changes and exocytosis of inflammatory cells into the nail epithelia. The results of a fungal culture are negative.\nQuestion: Which of the following is the most likely diagnosis for the patient?\nChoices:\nBrittle nails\nOnychomycosis\nSenile nails\nTrachyonychia\nAnswer: ",
+        "reference_answers": [
+          "Trachyonychia"
+        ],
+        "should_abstain": false,
+        "metadata_json": "{\"MediQ_source\": \"iCRAFT-MD\", \"MediQ_iCRAFT-MD_id\": 99}"
+      }
+    ],
+    "unanswerable": []
+  }
+}

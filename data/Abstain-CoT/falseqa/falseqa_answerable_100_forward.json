@@ -1,0 +1,807 @@
+{
+  "falseqa": {
+    "answerable": [
+      {
+        "question": "Why carbon dioxide is composed of carbon dioxide molecules?",
+        "reference_answers": [
+          "In carbon dioxide, carbon atoms and oxygen atoms are covalently bonded to each other, so molecules are formed."
+        ],
+        "should_abstain": false,
+        "metadata_json": "{}"
+      },
+      {
+        "question": "If my sister's amniotic fluid breaks before term, what will happen?",
+        "reference_answers": [
+          "Your sister's baby is more prone to infection and other risks, like cord prolapse. So better send her to hospital immediately."
+        ],
+        "should_abstain": false,
+        "metadata_json": "{}"
+      },
+      {
+        "question": "Does China rank the second in the world since America has become the world's hegemon?",
+        "reference_answers": [
+          "China is currently ranked as the second strongest country in terms of overall power."
+        ],
+        "should_abstain": false,
+        "metadata_json": "{}"
+      },
+      {
+        "question": "What does the black vulture eat?",
+        "reference_answers": [
+          "The dead body."
+        ],
+        "should_abstain": false,
+        "metadata_json": "{}"
+      },
+      {
+        "question": "Are young bugs eating leaves drinking milk after their birth of fetus?",
+        "reference_answers": [
+          "Yes, they are."
+        ],
+        "should_abstain": false,
+        "metadata_json": "{}"
+      },
+      {
+        "question": "Would the black widow living in the trees inject a neuro toxin to catch their food?",
+        "reference_answers": [
+          "Yes, it would inject a neuro toxin to catch their food."
+        ],
+        "should_abstain": false,
+        "metadata_json": "{}"
+      },
+      {
+        "question": "What would the equines become when they eat the black walnut harmful to them?",
+        "reference_answers": [
+          "They would die."
+        ],
+        "should_abstain": false,
+        "metadata_json": "{}"
+      },
+      {
+        "question": "What's the shape of blackbuck's horns?",
+        "reference_answers": [
+          "Spiral."
+        ],
+        "should_abstain": false,
+        "metadata_json": "{}"
+      },
+      {
+        "question": "If I want to visit Beijing in spring, should I go in March or October?",
+        "reference_answers": [
+          "You should go in March."
+        ],
+        "should_abstain": false,
+        "metadata_json": "{}"
+      },
+      {
+        "question": "Which season the roses are in blossom?",
+        "reference_answers": [
+          "Spring."
+        ],
+        "should_abstain": false,
+        "metadata_json": "{}"
+      },
+      {
+        "question": "If i want to get milk from cow, how long will it takes?",
+        "reference_answers": [
+          "Cows produce milk for about 10 months."
+        ],
+        "should_abstain": false,
+        "metadata_json": "{}"
+      },
+      {
+        "question": "Who invented the light? Libai or Thomas Alva Edison?",
+        "reference_answers": [
+          "Lights was invented by Thomas Alva Edison."
+        ],
+        "should_abstain": false,
+        "metadata_json": "{}"
+      },
+      {
+        "question": "Is massage very common since we could even see it everywhere on the street?",
+        "reference_answers": [
+          "Yes, it helps you to relax your body."
+        ],
+        "should_abstain": false,
+        "metadata_json": "{}"
+      },
+      {
+        "question": "Why larval fish living in the shallow water can not swim well with their own power?",
+        "reference_answers": [
+          "Because it is planktonic."
+        ],
+        "should_abstain": false,
+        "metadata_json": "{}"
+      },
+      {
+        "question": "List two fields the laser used by scientists.",
+        "reference_answers": [
+          "In the chemical industry and medical field."
+        ],
+        "should_abstain": false,
+        "metadata_json": "{}"
+      },
+      {
+        "question": "If I want to count the number of my hair on my bald head, where should I start?",
+        "reference_answers": [
+          "If you have a bald head, I guess no hair."
+        ],
+        "should_abstain": false,
+        "metadata_json": "{}"
+      },
+      {
+        "question": "How to open the door in the house?",
+        "reference_answers": [
+          "Use the key to the door to open."
+        ],
+        "should_abstain": false,
+        "metadata_json": "{}"
+      },
+      {
+        "question": "What can humans produce with lathes?",
+        "reference_answers": [
+          "People use lathes to shape wood or metal and people can use them to produce some accessories."
+        ],
+        "should_abstain": false,
+        "metadata_json": "{}"
+      },
+      {
+        "question": "Why people get fat today?",
+        "reference_answers": [
+          "Junk food and not enough exercise."
+        ],
+        "should_abstain": false,
+        "metadata_json": "{}"
+      },
+      {
+        "question": "When should I go if I want to see the fog on Earth?",
+        "reference_answers": [
+          "Watch the weather forecast, pick a foggy day and go up to the mountain to see."
+        ],
+        "should_abstain": false,
+        "metadata_json": "{}"
+      },
+      {
+        "question": "What would people nowadays become if they violate the law?",
+        "reference_answers": [
+          "They would be fined or imprisoned."
+        ],
+        "should_abstain": false,
+        "metadata_json": "{}"
+      },
+      {
+        "question": "Are rainbow trout the same as shark which lives in salt water ?",
+        "reference_answers": [
+          "No, rainbow trout lives mainly in cold freshwater."
+        ],
+        "should_abstain": false,
+        "metadata_json": "{}"
+      },
+      {
+        "question": "If I want to travel to the Great Wall from Beijing, which bus should I take?",
+        "reference_answers": [
+          "You can take bus 877."
+        ],
+        "should_abstain": false,
+        "metadata_json": "{}"
+      },
+      {
+        "question": "How a lawyer defend the perpetrators in the court?",
+        "reference_answers": [
+          "Through defence with evidence."
+        ],
+        "should_abstain": false,
+        "metadata_json": "{}"
+      },
+      {
+        "question": "How does a tenant rent the house from the owner?",
+        "reference_answers": [
+          "Contact the owner and sign a lease agreement."
+        ],
+        "should_abstain": false,
+        "metadata_json": "{}"
+      },
+      {
+        "question": "Is the leather shoes made from the calf durable?",
+        "reference_answers": [
+          "Yes, leather shoes made from the calf are durable ."
+        ],
+        "should_abstain": false,
+        "metadata_json": "{}"
+      },
+      {
+        "question": "Which country is Donald Trump a president of, the US or the UK?",
+        "reference_answers": [
+          "America."
+        ],
+        "should_abstain": false,
+        "metadata_json": "{}"
+      },
+      {
+        "question": "Why does mini bar bigger than a book",
+        "reference_answers": [
+          "A mini bar can be placed in a house, so it must bigger than a book"
+        ],
+        "should_abstain": false,
+        "metadata_json": "{}"
+      },
+      {
+        "question": "List two parts of the lemmings in the Arctic.",
+        "reference_answers": [
+          "Brains and breasts."
+        ],
+        "should_abstain": false,
+        "metadata_json": "{}"
+      },
+      {
+        "question": "What's the length of arms?",
+        "reference_answers": [
+          "From 65-75 cm."
+        ],
+        "should_abstain": false,
+        "metadata_json": "{}"
+      },
+      {
+        "question": "How many lens do a pair of glasses humans produce have?",
+        "reference_answers": [
+          "Two."
+        ],
+        "should_abstain": false,
+        "metadata_json": "{}"
+      },
+      {
+        "question": "Do the leopards run faster than dogs?",
+        "reference_answers": [
+          "Yes, leopards run faster than dogs."
+        ],
+        "should_abstain": false,
+        "metadata_json": "{}"
+      },
+      {
+        "question": "if I have some carbon, how can I get crystal from them?",
+        "reference_answers": [
+          "with high temperature and high pressure and catalyst"
+        ],
+        "should_abstain": false,
+        "metadata_json": "{}"
+      },
+      {
+        "question": "How many kinds of memory chips do we have in the computer?",
+        "reference_answers": [
+          "Dozens, it depends on the part of the computer."
+        ],
+        "should_abstain": false,
+        "metadata_json": "{}"
+      },
+      {
+        "question": "Are people more likely to believe the honest people who always tell truths?",
+        "reference_answers": [
+          "Yes, the honest people are more reliable to others."
+        ],
+        "should_abstain": false,
+        "metadata_json": "{}"
+      },
+      {
+        "question": "Why do these migrant workers always leave their home?",
+        "reference_answers": [
+          "To seek a job."
+        ],
+        "should_abstain": false,
+        "metadata_json": "{}"
+      },
+      {
+        "question": "Is a leg of a person longer than his/her finger?",
+        "reference_answers": [
+          "Yes."
+        ],
+        "should_abstain": false,
+        "metadata_json": "{}"
+      },
+      {
+        "question": "Is water usually more healthy than juice to drink?",
+        "reference_answers": [
+          "Yes, because juice has some additives for the most part."
+        ],
+        "should_abstain": false,
+        "metadata_json": "{}"
+      },
+      {
+        "question": "How can people keep healthy?",
+        "reference_answers": [
+          "We can keep a diet, exercise a lot, and stay in a good mood."
+        ],
+        "should_abstain": false,
+        "metadata_json": "{}"
+      },
+      {
+        "question": "How can we tell the gender of cats?",
+        "reference_answers": [
+          "Cats of different genders have different genitals."
+        ],
+        "should_abstain": false,
+        "metadata_json": "{}"
+      },
+      {
+        "question": "Why do human eat food?",
+        "reference_answers": [
+          "We need to eat for nutrients, for energy, in order to survive."
+        ],
+        "should_abstain": false,
+        "metadata_json": "{}"
+      },
+      {
+        "question": "If I want to send a message to my sister, what should I do?",
+        "reference_answers": [
+          "You can send a email."
+        ],
+        "should_abstain": false,
+        "metadata_json": "{}"
+      },
+      {
+        "question": "Name a few metal, in addition to gold.",
+        "reference_answers": [
+          "Iron, steel."
+        ],
+        "should_abstain": false,
+        "metadata_json": "{}"
+      },
+      {
+        "question": "Why cats like to chase mice?",
+        "reference_answers": [
+          "It’s natural for cats to catch mice. And cats need taurine in mice which they cannot produce by themselves."
+        ],
+        "should_abstain": false,
+        "metadata_json": "{}"
+      },
+      {
+        "question": "How pepole brush their teeth?",
+        "reference_answers": [
+          "Use the toothbrush with toothpaste."
+        ],
+        "should_abstain": false,
+        "metadata_json": "{}"
+      },
+      {
+        "question": "How can we seek for help from the police when we're in danger?",
+        "reference_answers": [
+          "Call 110 or go to the police station directly."
+        ],
+        "should_abstain": false,
+        "metadata_json": "{}"
+      },
+      {
+        "question": "How we fish in the lake?",
+        "reference_answers": [
+          "With a fishing rod or net."
+        ],
+        "should_abstain": false,
+        "metadata_json": "{}"
+      },
+      {
+        "question": "How many grams does this apple weigh?",
+        "reference_answers": [
+          "About 200 grams."
+        ],
+        "should_abstain": false,
+        "metadata_json": "{}"
+      },
+      {
+        "question": "Why do grasslands have higher soil moisture than deserts?",
+        "reference_answers": [
+          "Because deserts receive less rainfall."
+        ],
+        "should_abstain": false,
+        "metadata_json": "{}"
+      },
+      {
+        "question": "Will the bones hurt when human gets into the crevice of the rock",
+        "reference_answers": [
+          "it depends on how big the crevice is"
+        ],
+        "should_abstain": false,
+        "metadata_json": "{}"
+      },
+      {
+        "question": "In which year did Qin Emperor  die?",
+        "reference_answers": [
+          "210 BC"
+        ],
+        "should_abstain": false,
+        "metadata_json": "{}"
+      },
+      {
+        "question": "Since which year did China encourage people to follow the plan of birth",
+        "reference_answers": [
+          "since 1971"
+        ],
+        "should_abstain": false,
+        "metadata_json": "{}"
+      },
+      {
+        "question": "What color is the blood of human?",
+        "reference_answers": [
+          "Red. Because the largest number of blood cells are red blood cells, which contain hemoglobin."
+        ],
+        "should_abstain": false,
+        "metadata_json": "{}"
+      },
+      {
+        "question": "Which milk product do you prefer, ice cream or butter?",
+        "reference_answers": [
+          "Ice cream."
+        ],
+        "should_abstain": false,
+        "metadata_json": "{}"
+      },
+      {
+        "question": "Do you often use the water can to water flowers?",
+        "reference_answers": [
+          "Yes, we do."
+        ],
+        "should_abstain": false,
+        "metadata_json": "{}"
+      },
+      {
+        "question": "If I were a citizen of the United States, how long would I have to live in the United States to have a chance to be president of the United States?",
+        "reference_answers": [
+          "Over fourteen years."
+        ],
+        "should_abstain": false,
+        "metadata_json": "{}"
+      },
+      {
+        "question": "Which Chinese classic do you like best, A Dream of Red Mansions or Water Margin?",
+        "reference_answers": [
+          "A Dream of Red Mansions."
+        ],
+        "should_abstain": false,
+        "metadata_json": "{}"
+      },
+      {
+        "question": "How many clashes of the metal tube do you need to make you wake up quickly?",
+        "reference_answers": [
+          "One is enough."
+        ],
+        "should_abstain": false,
+        "metadata_json": "{}"
+      },
+      {
+        "question": "How can boats float on water?",
+        "reference_answers": [
+          "because of buoyancy."
+        ],
+        "should_abstain": false,
+        "metadata_json": "{}"
+      },
+      {
+        "question": "How many heads does your classmate have?",
+        "reference_answers": [
+          "One."
+        ],
+        "should_abstain": false,
+        "metadata_json": "{}"
+      },
+      {
+        "question": "What to do to stop bleeding when the someone get injured?",
+        "reference_answers": [
+          "We can compress with a clean towel or gauze to stop the bleeding."
+        ],
+        "should_abstain": false,
+        "metadata_json": "{}"
+      },
+      {
+        "question": "Why do you invite the cleaner to the office?",
+        "reference_answers": [
+          "I want him to help with the cleaning."
+        ],
+        "should_abstain": false,
+        "metadata_json": "{}"
+      },
+      {
+        "question": "Why eating avocados benefits for people?",
+        "reference_answers": [
+          "Eating avocados can prevent cardiovascular disease"
+        ],
+        "should_abstain": false,
+        "metadata_json": "{}"
+      },
+      {
+        "question": "Why we need a pillow when sleeping?",
+        "reference_answers": [
+          "The pillow is used to protect our cervical spine"
+        ],
+        "should_abstain": false,
+        "metadata_json": "{}"
+      },
+      {
+        "question": "why we wake on time by setting a alarm clock with a right time",
+        "reference_answers": [
+          "because the alarm clock is use for helping people wake up on time"
+        ],
+        "should_abstain": false,
+        "metadata_json": "{}"
+      },
+      {
+        "question": "What kind of things do plants need to grow from seeds?",
+        "reference_answers": [
+          "Plants need water sunlight and soil to grow from seeds."
+        ],
+        "should_abstain": false,
+        "metadata_json": "{}"
+      },
+      {
+        "question": "How many jobs were created by software company in the 21th century?",
+        "reference_answers": [
+          "An enormous amount of jobs."
+        ],
+        "should_abstain": false,
+        "metadata_json": "{}"
+      },
+      {
+        "question": "Which plant do you prefer, cloves or watermelon?",
+        "reference_answers": [
+          "I prefer cloves."
+        ],
+        "should_abstain": false,
+        "metadata_json": "{}"
+      },
+      {
+        "question": "If we want to collect soil from the earth now, what should we prepare?",
+        "reference_answers": [
+          "A container and a shovel."
+        ],
+        "should_abstain": false,
+        "metadata_json": "{}"
+      },
+      {
+        "question": "How many eyes does a people have?",
+        "reference_answers": [
+          "People have two eyes."
+        ],
+        "should_abstain": false,
+        "metadata_json": "{}"
+      },
+      {
+        "question": "Why soft cheeses are higher in fat than hard ones?",
+        "reference_answers": [
+          "Because they are softer."
+        ],
+        "should_abstain": false,
+        "metadata_json": "{}"
+      },
+      {
+        "question": "Why soft coral can grow in the ocean?",
+        "reference_answers": [
+          "Because there are necessary nutrients in the ocean."
+        ],
+        "should_abstain": false,
+        "metadata_json": "{}"
+      },
+      {
+        "question": "Why do football coaches have better feet than others?",
+        "reference_answers": [
+          "Because they learn longer and practice more."
+        ],
+        "should_abstain": false,
+        "metadata_json": "{}"
+      },
+      {
+        "question": "what will happen if a man walk in a gay club?",
+        "reference_answers": [
+          "they will believe you are a gay"
+        ],
+        "should_abstain": false,
+        "metadata_json": "{}"
+      },
+      {
+        "question": "In what season can seagulls be seen on the Atlantic coast?",
+        "reference_answers": [
+          "In winter."
+        ],
+        "should_abstain": false,
+        "metadata_json": "{}"
+      },
+      {
+        "question": "How many clouts can fix the legs to the chair?",
+        "reference_answers": [
+          "About five clouts."
+        ],
+        "should_abstain": false,
+        "metadata_json": "{}"
+      },
+      {
+        "question": "Why is there soil erosion in the earth?",
+        "reference_answers": [
+          "Because of vegetation removals and many other factors."
+        ],
+        "should_abstain": false,
+        "metadata_json": "{}"
+      },
+      {
+        "question": "What does a cobra use to move forward?",
+        "reference_answers": [
+          "The cobra moves on its belly."
+        ],
+        "should_abstain": false,
+        "metadata_json": "{}"
+      },
+      {
+        "question": "Does the solar actiivty in the Sun affect the Earth's magnetic field.",
+        "reference_answers": [
+          "Yes, the solar activity in the Sun does affect the Earth's magnetic field."
+        ],
+        "should_abstain": false,
+        "metadata_json": "{}"
+      },
+      {
+        "question": "If we want to make a solenoid with coils, what should we prepare?",
+        "reference_answers": [
+          "We should prepare one or more coils and an iron core."
+        ],
+        "should_abstain": false,
+        "metadata_json": "{}"
+      },
+      {
+        "question": "In which yearDiana Spencer die for car accdient",
+        "reference_answers": [
+          "in 1997"
+        ],
+        "should_abstain": false,
+        "metadata_json": "{}"
+      },
+      {
+        "question": "List one kind of spider that is vegetarian.",
+        "reference_answers": [
+          "Bagheera kiplingi."
+        ],
+        "should_abstain": false,
+        "metadata_json": "{}"
+      },
+      {
+        "question": "If people want to cure the black knot of domesticated cherries, what should they do?",
+        "reference_answers": [
+          "People can do disinfection and spray some chemicals to wipe out pernicious fungus."
+        ],
+        "should_abstain": false,
+        "metadata_json": "{}"
+      },
+      {
+        "question": "If we want to create our own blog in the 21th century, what should we do?",
+        "reference_answers": [
+          "We can apply for our own blog in a blog website."
+        ],
+        "should_abstain": false,
+        "metadata_json": "{}"
+      },
+      {
+        "question": "which kind of fruits can we use to make a bottle of wine?",
+        "reference_answers": [
+          "grapes."
+        ],
+        "should_abstain": false,
+        "metadata_json": "{}"
+      },
+      {
+        "question": "List a kind of spathiphyllum that grows in Japan.",
+        "reference_answers": [
+          "Lycoris radiata."
+        ],
+        "should_abstain": false,
+        "metadata_json": "{}"
+      },
+      {
+        "question": "Does the species of aquatic organisms now are less than that centuries ago?",
+        "reference_answers": [
+          "Yes, the species of aquatic organisms are keeping increasing because of climate change and human activities."
+        ],
+        "should_abstain": false,
+        "metadata_json": "{}"
+      },
+      {
+        "question": "Why eating vegetables is beneficial to our health?",
+        "reference_answers": [
+          "They contain vitamins."
+        ],
+        "should_abstain": false,
+        "metadata_json": "{}"
+      },
+      {
+        "question": "Why does the dragonfly larva love to eat insects?",
+        "reference_answers": [
+          "They are carnivorous."
+        ],
+        "should_abstain": false,
+        "metadata_json": "{}"
+      },
+      {
+        "question": "If we want to prevent the tennis toe, what should we do?",
+        "reference_answers": [
+          "We should wear suitable shoes and do daily exercise to build muscles and endurance."
+        ],
+        "should_abstain": false,
+        "metadata_json": "{}"
+      },
+      {
+        "question": "How often does a man eat a day?",
+        "reference_answers": [
+          "It 's depends, usually three times a day."
+        ],
+        "should_abstain": false,
+        "metadata_json": "{}"
+      },
+      {
+        "question": "If a zoologist want to study tetrapod, what kind of cat can he choose?",
+        "reference_answers": [
+          "He can choose all kinds of cat."
+        ],
+        "should_abstain": false,
+        "metadata_json": "{}"
+      },
+      {
+        "question": "If I want to take a photograph in 1900, how long will it takes?",
+        "reference_answers": [
+          "The first permanent photograph took about 8 hours to expose in sunlight."
+        ],
+        "should_abstain": false,
+        "metadata_json": "{}"
+      },
+      {
+        "question": "Is Canada's coastline longer than China's?",
+        "reference_answers": [
+          "Yes, Canada owns 356000 kilometers of coastline while China only owns 14500 kilometers of it."
+        ],
+        "should_abstain": false,
+        "metadata_json": "{}"
+      },
+      {
+        "question": "How much vitamins does a person need every day?",
+        "reference_answers": [
+          "It depends on the person's self body condition."
+        ],
+        "should_abstain": false,
+        "metadata_json": "{}"
+      },
+      {
+        "question": "Are ostriches' eggs bigger than chicken's eggs?",
+        "reference_answers": [
+          "Yes, ostriches have the biggest eggs in the world."
+        ],
+        "should_abstain": false,
+        "metadata_json": "{}"
+      },
+      {
+        "question": "What kind of animal the dugong is?",
+        "reference_answers": [
+          "The dugong is a mammal."
+        ],
+        "should_abstain": false,
+        "metadata_json": "{}"
+      },
+      {
+        "question": "How many sands could make a dune?",
+        "reference_answers": [
+          "It depends on the size of the dune."
+        ],
+        "should_abstain": false,
+        "metadata_json": "{}"
+      },
+      {
+        "question": "Is Somalia's area bigger than Africa's?",
+        "reference_answers": [
+          "Africa is bigger than Somalia."
+        ],
+        "should_abstain": false,
+        "metadata_json": "{}"
+      },
+      {
+        "question": "How can wood become table?",
+        "reference_answers": [
+          "Workers could make tables with wood."
+        ],
+        "should_abstain": false,
+        "metadata_json": "{}"
+      }
+    ],
+    "unanswerable": []
+  }
+}
