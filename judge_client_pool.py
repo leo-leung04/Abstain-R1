@@ -2,7 +2,7 @@
 import itertools
 import requests
 
-# 你的 4 个 FastAPI + vLLM 实例
+# 4 FastAPI + vLLM Instance
 ENDPOINTS = [
     "http://localhost:8001/judge",
     "http://localhost:8002/judge",
